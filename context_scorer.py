@@ -319,10 +319,14 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--bert", action="store_true")
     parser.add_argument('--mnli', action="store_true")
+    parser.add_argument('--all', action="store_true")
     args = parser.parse_args()
     # get_context_probs(articles_dir, relations_dir, output_dir)
     articles, article_relations, stemmed_articles, article_stemmed_relations = load_data(articles_dir, relations_dir)
-    if args.bert:
+    if args.all:
+        os.makedirs(output_dir)
+        get_context_probs(articles_dir, relations_dir, output_dir)
+    elif args.bert:
         bert_probs, premise_hypos_per_article = get_bert_probs("FacebookAI/roberta-large", articles, article_relations, stemmed_articles, article_stemmed_relations)
         with open(output_dir+"bert_scores.pkl", "wb") as f:
             pickle.dump(bert_probs, f)
