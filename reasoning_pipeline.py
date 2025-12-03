@@ -124,8 +124,18 @@ class ReasoningPipeline:
                     if use_website_rel_scores:
                         act_article_name = article_name.split("_")[0]
                         if act_article_name in website_reliability_map:
-                            web_rel_score = website_reliability_map[act_article_name]
-                            triples['score'] = 0.8*article_scores[triple_as_tuple]+0.2*web_rel_score
+                            web_rel_score, bias_score = website_reliability_map[act_article_name]
+                            if web_rel_score < 30:
+                                web_rel_score = 0.25
+                            elif web_rel_score < 32:
+                                web_rel_score = 0.3
+                            elif web_rel_score < 36:
+                                web_rel_score = 0.6
+                            elif web_rel_score < 40:
+                                web_rel_score = 0.85
+                            else:
+                                web_rel_score = 0.95
+                            triples['score'] = 0.7*article_scores[triple_as_tuple]+0.2*web_rel_score+0.1*(1-abs(bias_score/21))
                     else:
                         triple['score'] = article_scores[triple_as_tuple]
                     all_triples.append(triple)
