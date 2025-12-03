@@ -18,23 +18,24 @@ def main():
     pipeline = ReasoningPipeline(
         similarity_threshold=0.85,  # Entity clustering threshold
         tau=0.5,                    # Starting node similarity threshold
-        model_name='all-MiniLM-L6-v2'
+        model_name='all-MiniLM-L6-v2',
+        use_scores=True
     )
     
     # Load triples from JSON file
     pipeline.load_triples_from_json('all_relations.json')
     
     # Build the knowledge graph
-    pipeline.build_knowledge_graph()
+    pipeline.build_knowledge_graph(True)
     
     # Example queries demonstrating different reasoning directions
     
     # Query 1: Forward reasoning (cause to effect)
     print("\n\n" + "="*80)
-    print("EXAMPLE 1: Forward Reasoning (Cause to Effect)")
+    print("EXAMPLE 1")
     print("="*80)
     
-    query1 = "What are the effects of GCase mutations?"
+    query1 = "How did Andrew Yang’s advocacy for blockchain technology influence Bitcoin’s adoption?"
     results1 = pipeline.query(
         query1,
         max_depth=5,
@@ -45,10 +46,10 @@ def main():
     
     # Query 2: Backward reasoning (effect to cause)
     print("\n\n" + "="*80)
-    print("EXAMPLE 2: Backward Reasoning (Effect to Cause)")
+    print("EXAMPLE 2")
     print("="*80)
     
-    query2 = "What causes neurodegeneration?"
+    query2 = "How did global economic uncertainty contribute to Bitcoin’s price rise?"
     results2 = pipeline.query(
         query2,
         max_depth=5,
