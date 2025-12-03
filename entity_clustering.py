@@ -122,4 +122,31 @@ class EntityClusterer:
                 normalized_triple['effect'] = self.get_canonical_entity(triple['effect'])
             normalized.append(normalized_triple)
         return normalized
-
+    def normalize_triples_with_context_scores(self, triples: List[Dict]) -> List[Dict]:
+        """
+        Normalize triples by replacing entities with their canonical representatives and 
+        setting context score as average of all the context scores.
+        
+        Args:
+            triples: List of triples with 'cause', 'relation', 'effect'
+            
+        Returns:
+            List of normalized triples
+        """
+        normalized = []
+        normalized_to_score_and_count = {}
+        for triple in triples:
+            normalized_triple = triple.copy()
+            if 'cause' in triple:
+                normalized_triple['cause'] = self.get_canonical_entity(triple['cause'])
+            if 'effect' in triple:
+                normalized_triple['effect'] = self.get_canonical_entity(triple['effect'])
+            normalized_triple_as_tuple = (normalized_triple['cause'], normalized_triple['relation'], normalized_triple['effect'])
+            cur_score, cur_count = normalized_to_score_and_count.get(normalized_triple_as_tuple, (0,0))
+            normalized_to_score_and_count[normalized_triple_as_tuple] = (cur_score+normalized_triple['score'], cur_count+1)
+        for triple_as_tuple, score_and_count in normalized_to_score_and_count.items():
+            normalized_triple = {'cause':triple_as_tuple[0], 'relation': triple_as_tuple[1], 'effect': triple_as_tuple[2]}
+            tot_score, tot_count = score_and_count
+            normalized_triple['score'] = tot_score/tot_count
+            normalized.append(normalized_triple)
+        return normalized

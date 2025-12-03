@@ -29,7 +29,8 @@ class KnowledgeGraph:
             cause = triple.get('cause')
             effect = triple.get('effect')
             relation = triple.get('relation', 'related_to')
-            
+            score = triple.get('score')
+
             if cause and effect:
                 # Add nodes if they don't exist
                 if not self.graph.has_node(cause):
@@ -38,7 +39,10 @@ class KnowledgeGraph:
                     self.graph.add_node(effect)
                 
                 # Add edge with relation as attribute
-                self.graph.add_edge(cause, effect, relation=relation)
+                if score:
+                    self.graph.add_edge(cause,effect, relation=relation, score=score)
+                else:
+                    self.graph.add_edge(cause, effect, relation=relation)
         
         print(f"Graph constructed: {self.graph.number_of_nodes()} nodes, {self.graph.number_of_edges()} edges")
     
@@ -77,6 +81,12 @@ class KnowledgeGraph:
         """Get the relation label of an edge."""
         if self.graph.has_edge(source, target):
             return self.graph[source][target].get('relation')
+        return None
+    
+    def get_edge_relation_with_score(self, source: str, target:str) -> Optional[Tuple[str, float]]:
+        if self.graph.has_edge(source,target):
+            edge = self.graph[source][target]
+            return (edge.get('relation'), edge.get('score'))
         return None
     
     def dfs_traversal(self, start_node: str, direction: str = 'forward', 

@@ -1,0 +1,194 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "$100,000 for the first time on Wednesday"
+        },
+        {
+            "cause": "The cryptocurrency",
+            "relation": "has risen",
+            "effect": "over $30,000 since Donald Trump's reelection"
+        },
+        {
+            "cause": "Trump",
+            "relation": "picked",
+            "effect": "Paul Atkins to run the SEC"
+        },
+        {
+            "cause": "Investors",
+            "relation": "fueled",
+            "effect": "a red-hot rally"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "reached",
+            "effect": "six-figure milestone"
+        },
+        {
+            "cause": "The coin",
+            "relation": "traded",
+            "effect": "at $100,400 around 9:30 p.m. ET"
+        },
+        {
+            "cause": "The coin",
+            "relation": "continued climbing",
+            "effect": "after the $100,000 mark"
+        },
+        {
+            "cause": "The token",
+            "relation": "approached",
+            "effect": "milestone last month"
+        },
+        {
+            "cause": "Investors",
+            "relation": "took",
+            "effect": "profits"
+        },
+        {
+            "cause": "Investors",
+            "relation": "struggled",
+            "effect": "to clear the important psychological resistance level"
+        },
+        {
+            "cause": "The world's largest cryptocurrency",
+            "relation": "has climbed",
+            "effect": "steadily since Trump won the election"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "rose",
+            "effect": "from just under $70,000 on Election Day to $100,000 in just over two weeks"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "predicted",
+            "effect": "bitcoin could keep going higher"
+        },
+        {
+            "cause": "Standard Chartered",
+            "relation": "said",
+            "effect": "crypto could rally to $125,000 by the end of the year"
+        },
+        {
+            "cause": "Craig Johnson",
+            "relation": "said",
+            "effect": "he saw bitcoin headed toward $130,000"
+        },
+        {
+            "cause": "Michael Saylor",
+            "relation": "said",
+            "effect": "his long-term forecast is for bitcoin to hit $13 million by 2045"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is up",
+            "effect": "133% year-to-date"
+        },
+        {
+            "cause": "Trump's nomination of Paul Atkins",
+            "relation": "pushed",
+            "effect": "bitcoin higher"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "is viewed",
+            "effect": "as pro-crypto"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "cochairs",
+            "effect": "Chamber of Digital Commerce's Token Alliance"
+        },
+        {
+            "cause": "If confirmed, Atkins",
+            "relation": "would replace",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "has taken",
+            "effect": "a more aggressive approach to regulating crypto"
+        },
+        {
+            "cause": "Reports",
+            "relation": "cheered",
+            "effect": "the market"
+        },
+        {
+            "cause": "Trump",
+            "relation": "could appoint",
+            "effect": "a \"crypto czar\" in the White House"
+        },
+        {
+            "cause": "Trump",
+            "relation": "could create",
+            "effect": "a new position to guide the market"
+        },
+        {
+            "cause": "Senator Cynthia Lummis",
+            "relation": "reignited",
+            "effect": "market excitement"
+        },
+        {
+            "cause": "Senator Cynthia Lummis",
+            "relation": "said",
+            "effect": "Federal Reserve should sell some gold to buy bitcoin"
+        },
+        {
+            "cause": "Selling gold and buying bitcoin",
+            "relation": "avoids",
+            "effect": "having to print new money"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "said",
+            "effect": "Trump represented a \"paradigm shift\" for industry regulation"
+        },
+        {
+            "cause": "Novogratz",
+            "relation": "predicted",
+            "effect": "bitcoin would undergo a correction after hitting $100,000"
+        },
+        {
+            "cause": "Novogratz",
+            "relation": "said",
+            "effect": "bitcoin would eventually continue to rally"
+        },
+        {
+            "cause": "The entire cabinet",
+            "relation": "owns",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "The cabinet",
+            "relation": "are proponents of",
+            "effect": "digital assets"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "said",
+            "effect": "Republicans taking control would be a tailwind for the crypto industry"
+        },
+        {
+            "cause": "Red wave",
+            "relation": "converted",
+            "effect": "headwinds into tailwinds"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "praised",
+            "effect": "Atkins"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "said",
+            "effect": "bitcoin still is in early innings"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "said",
+            "effect": "her firm believes bitcoin is a much bigger idea than gold"
+        }
+    ]
+}

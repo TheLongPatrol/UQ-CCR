@@ -1,0 +1,249 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "rose above",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "traded closer to",
+            "effect": "$98,000"
+        },
+        {
+            "cause": "Profit taking",
+            "relation": "caused",
+            "effect": "Bitcoin to trade closer to $98,000"
+        },
+        {
+            "cause": "Surge past $100K",
+            "relation": "followed",
+            "effect": "comments from Putin, Powell, and Trump’s nomination of Atkins"
+        },
+        {
+            "cause": "Trump’s nomination of Paul Atkins",
+            "relation": "contributed to",
+            "effect": "surge past $100K"
+        },
+        {
+            "cause": "Comments from Putin and Powell",
+            "relation": "contributed to",
+            "effect": "surge past $100K"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "set",
+            "effect": "bitcoin price targets above $100,000"
+        },
+        {
+            "cause": "Increasing demand",
+            "relation": "drives",
+            "effect": "higher bitcoin price targets"
+        },
+        {
+            "cause": "Limited supply",
+            "relation": "drives",
+            "effect": "higher bitcoin price targets"
+        },
+        {
+            "cause": "Volatility in bitcoin prices",
+            "relation": "may occur",
+            "effect": "(effect: future price fluctuations)"
+        },
+        {
+            "cause": "Volatility",
+            "relation": "may not be as severe as",
+            "effect": "past cycles"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "soared past",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "think",
+            "effect": "bitcoin could stay above $100,000"
+        },
+        {
+            "cause": "Encouraging words from Putin, Powell, and Trump’s SEC pick",
+            "relation": "boosted",
+            "effect": "bitcoin above $103,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "traded lower",
+            "effect": "Thursday afternoon"
+        },
+        {
+            "cause": "Profit taking",
+            "relation": "caused",
+            "effect": "bitcoin to trade lower"
+        },
+        {
+            "cause": "Bitcoin bulls",
+            "relation": "remain confident",
+            "effect": "bitcoin will trade above $100,000"
+        },
+        {
+            "cause": "Trump’s pick of Paul Atkins",
+            "relation": "boosted",
+            "effect": "bitcoin price"
+        },
+        {
+            "cause": "Investors",
+            "relation": "cheered",
+            "effect": "Trump’s pick of Atkins"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "announced",
+            "effect": "he would step down"
+        },
+        {
+            "cause": "Trump",
+            "relation": "congratulated",
+            "effect": "bitcoin holders"
+        },
+        {
+            "cause": "Trump",
+            "relation": "took credit for",
+            "effect": "bitcoin’s price milestone"
+        },
+        {
+            "cause": "Trump’s election victory",
+            "relation": "expected to boost",
+            "effect": "crypto industry"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "traded below",
+            "effect": "$70,000 on Election Day"
+        },
+        {
+            "cause": "Putin",
+            "relation": "encouraged",
+            "effect": "bitcoin investors"
+        },
+        {
+            "cause": "U.S.",
+            "relation": "undermined",
+            "effect": "dollar's role as global reserve currency"
+        },
+        {
+            "cause": "U.S. using dollar for political purposes",
+            "relation": "forces",
+            "effect": "countries to seek alternatives"
+        },
+        {
+            "cause": "Countries",
+            "relation": "look for",
+            "effect": "alternatives (including bitcoin)"
+        },
+        {
+            "cause": "Putin",
+            "relation": "claimed",
+            "effect": "no one can prohibit bitcoin"
+        },
+        {
+            "cause": "Powell",
+            "relation": "said",
+            "effect": "bitcoin is a competitor for gold"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "competitor for gold"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "expect",
+            "effect": "bitcoin to become a premier store of value"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "will replace",
+            "effect": "gold (predicted)"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has",
+            "effect": "finite supply (21 million)"
+        },
+        {
+            "cause": "Finite supply + increasing demand",
+            "relation": "dictate",
+            "effect": "long-term price increase"
+        },
+        {
+            "cause": "Demand",
+            "relation": "is exploding for",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "Bitcoin supply",
+            "relation": "is fixed and does not respond to",
+            "effect": "price signals"
+        },
+        {
+            "cause": "In traditional commodities",
+            "relation": "companies increase production to",
+            "effect": "satisfy demand"
+        },
+        {
+            "cause": "Breaching $100,000",
+            "relation": "makes",
+            "effect": "earlier price predictions seem reachable"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "expect",
+            "effect": "bitcoin to reach $200,000 in 2025"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "anticipate",
+            "effect": "bitcoin to reach $500,000 in 2029"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "anticipate",
+            "effect": "bitcoin to reach $1 million in 2033"
+        },
+        {
+            "cause": "Technical analysis",
+            "relation": "suggests",
+            "effect": "bitcoin could rise to $129,930"
+        },
+        {
+            "cause": "Technical analysis",
+            "relation": "provides",
+            "effect": "support levels of $90,500 and $80,500"
+        },
+        {
+            "cause": "Profit taking",
+            "relation": "may trigger",
+            "effect": "downtrend"
+        },
+        {
+            "cause": "Pullbacks",
+            "relation": "will occur",
+            "effect": "in any bull market"
+        },
+        {
+            "cause": "Bitcoin price drops",
+            "relation": "may be less severe",
+            "effect": "going forward (per Hougan)"
+        },
+        {
+            "cause": "Bitcoin’s finite supply, outperformance, and volatility",
+            "relation": "make",
+            "effect": "bitcoin a better investment than gold (per Saylor)"
+        },
+        {
+            "cause": "Volatility",
+            "relation": "is",
+            "effect": "a feature of a 24/7 global market"
+        }
+    ]
+}

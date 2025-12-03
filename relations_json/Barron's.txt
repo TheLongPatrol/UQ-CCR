@@ -1,0 +1,254 @@
+{
+    "triples": [
+        {
+            "cause": "Gold",
+            "relation": "surged",
+            "effect": "nearly 30% this year"
+        },
+        {
+            "cause": "Election",
+            "relation": "caused",
+            "effect": "gold to lose some of its shine"
+        },
+        {
+            "cause": "Donald Trump’s embracing of Bitcoin",
+            "relation": "could be",
+            "effect": "a problem for gold"
+        },
+        {
+            "cause": "Crypto enthusiasts",
+            "relation": "felt",
+            "effect": "heartened by Powell’s comments"
+        },
+        {
+            "cause": "Jerome Powell",
+            "relation": "said",
+            "effect": "Bitcoin was like gold but digital"
+        },
+        {
+            "cause": "Powell’s comments",
+            "relation": "encouraged",
+            "effect": "crypto enthusiasts"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "think",
+            "effect": "gold could lose appeal as investors move to Bitcoin"
+        },
+        {
+            "cause": "Investors and government",
+            "relation": "cozying up to",
+            "effect": "Bitcoin could reduce gold’s appeal"
+        },
+        {
+            "cause": "Cynthia Lummis",
+            "relation": "introduced",
+            "effect": "a bill for Treasury to buy one million Bitcoin"
+        },
+        {
+            "cause": "Lummis’s bill",
+            "relation": "calls for",
+            "effect": "Treasury Department to buy Bitcoin over five years"
+        },
+        {
+            "cause": "Lummis’s bill",
+            "relation": "proposes",
+            "effect": "creation of Strategic Bitcoin Reserve"
+        },
+        {
+            "cause": "Lummis’s bill",
+            "relation": "suggests",
+            "effect": "Federal Reserve regional banks sell gold"
+        },
+        {
+            "cause": "Federal Reserve banks",
+            "relation": "sell gold holdings",
+            "effect": "to purchase Bitcoin"
+        },
+        {
+            "cause": "Combined pro-Bitcoin actions",
+            "relation": "explain",
+            "effect": "gold price decline since Election Day"
+        },
+        {
+            "cause": "Gold prices",
+            "relation": "fell",
+            "effect": "about 3% since Election Day"
+        },
+        {
+            "cause": "Bitcoin price",
+            "relation": "soared",
+            "effect": "more than 30% to above $100,000"
+        },
+        {
+            "cause": "Investors",
+            "relation": "shunned",
+            "effect": "gold in favor of crypto"
+        },
+        {
+            "cause": "Global gold ETFs",
+            "relation": "posted",
+            "effect": "monthly outflows in November"
+        },
+        {
+            "cause": "Gold ETFs",
+            "relation": "experienced",
+            "effect": "first outflows since April"
+        },
+        {
+            "cause": "BlackRock’s iShares Bitcoin Trust ETF",
+            "relation": "accumulated",
+            "effect": "more than $50 billion in assets"
+        },
+        {
+            "cause": "iShares Bitcoin Trust ETF",
+            "relation": "surpassed",
+            "effect": "BlackRock’s gold ETF in size"
+        },
+        {
+            "cause": "iShares Gold Trust",
+            "relation": "holds",
+            "effect": "$33 billion in assets"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "outperformed",
+            "effect": "gold"
+        },
+        {
+            "cause": "Bitcoin’s outperformance trend",
+            "relation": "could",
+            "effect": "continue"
+        },
+        {
+            "cause": "Crypto enthusiasts",
+            "relation": "gained",
+            "effect": "supporters in Washington"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "received",
+            "effect": "support from governments and investors"
+        },
+        {
+            "cause": "Government and investor support",
+            "relation": "could lead to",
+            "effect": "Bitcoin adoption as national reserve currency"
+        },
+        {
+            "cause": "Bitcoin reserve",
+            "relation": "could diversify",
+            "effect": "assets"
+        },
+        {
+            "cause": "Bitcoin reserve",
+            "relation": "could hedge",
+            "effect": "against dollar’s declining value"
+        },
+        {
+            "cause": "Powell’s comments on Bitcoin",
+            "relation": "encouraged",
+            "effect": "market sentiment"
+        },
+        {
+            "cause": "Powell’s remarks",
+            "relation": "quelled",
+            "effect": "concerns about central bank hostility toward Bitcoin"
+        },
+        {
+            "cause": "Powell’s remarks",
+            "relation": "propelled",
+            "effect": "hopes that policy leaders will embrace crypto"
+        },
+        {
+            "cause": "Gold",
+            "relation": "retains",
+            "effect": "place in portfolios despite Bitcoin’s rise"
+        },
+        {
+            "cause": "Gold",
+            "relation": "is less",
+            "effect": "volatile than Bitcoin"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has experienced",
+            "effect": "70–80% pullbacks roughly every four years"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "tends to drop",
+            "effect": "alongside falling stock market"
+        },
+        {
+            "cause": "High volatility",
+            "relation": "reduces",
+            "effect": "Bitcoin’s stability as a store of value"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "lacks",
+            "effect": "clear investing or economic purpose"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "remains",
+            "effect": "speculative and ill-suited for diversified portfolios"
+        },
+        {
+            "cause": "David Dziekanski",
+            "relation": "argued",
+            "effect": "Bitcoin and gold could complement each other"
+        },
+        {
+            "cause": "Bitcoin and gold",
+            "relation": "are",
+            "effect": "long-term stores of value"
+        },
+        {
+            "cause": "Low correlation between Bitcoin and gold",
+            "relation": "makes",
+            "effect": "them interesting pair for diversification"
+        },
+        {
+            "cause": "Quantify Funds",
+            "relation": "launched",
+            "effect": "STKD Bitcoin & Gold ETF"
+        },
+        {
+            "cause": "STKD Bitcoin & Gold ETF",
+            "relation": "owns",
+            "effect": "both crypto and precious metals"
+        },
+        {
+            "cause": "Dziekanski",
+            "relation": "suggested",
+            "effect": "Bitcoin and gold together can diversify portfolios"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "would benefit from",
+            "effect": "greater market acceptance"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "would benefit from",
+            "effect": "meaningful government support"
+        },
+        {
+            "cause": "Bitcoin ETFs and Trump administration",
+            "relation": "provide",
+            "effect": "strong backing for Bitcoin"
+        },
+        {
+            "cause": "Trump administration’s support",
+            "relation": "strengthens",
+            "effect": "crypto market confidence"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "now has",
+            "effect": "ample support from Wall Street and Washington"
+        }
+    ]
+}

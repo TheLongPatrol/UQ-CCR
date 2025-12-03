@@ -1,0 +1,819 @@
+{
+    "triples": [
+        {
+            "cause": "Stock market rally",
+            "relation": "hit",
+            "effect": "fresh highs"
+        },
+        {
+            "cause": "Salesforce (CRM), Credo Technology Group (CRDO), Marvell Technology (MRVL), and positive earnings",
+            "relation": "buoyed",
+            "effect": "stock market rally"
+        },
+        {
+            "cause": "Tame economic data and Fed comments",
+            "relation": "bolstered",
+            "effect": "expectations for December rate cut"
+        },
+        {
+            "cause": "Tesla (TSLA)",
+            "relation": "kept surging",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Nvidia (NVDA), Meta Platforms (META)",
+            "relation": "cleared",
+            "effect": "buy points"
+        },
+        {
+            "cause": "Microsoft (MSFT)",
+            "relation": "flashed",
+            "effect": "aggressive entries"
+        },
+        {
+            "cause": "Extended plays",
+            "relation": "grew",
+            "effect": "more"
+        },
+        {
+            "cause": "President-elect Trump’s pro-crypto SEC pick and Fed chief Jerome Powell’s comments",
+            "relation": "buoyed",
+            "effect": "Bitcoin rise above $100,000"
+        },
+        {
+            "cause": "Nasdaq",
+            "relation": "led",
+            "effect": "major indexes"
+        },
+        {
+            "cause": "Dow Jones",
+            "relation": "fell",
+            "effect": "slightly"
+        },
+        {
+            "cause": "Small-cap Russell 2000",
+            "relation": "retreated",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Salesforce (CRM) and upbeat tech earnings",
+            "relation": "led",
+            "effect": "market rally"
+        },
+        {
+            "cause": "Tame economic data",
+            "relation": "caused",
+            "effect": "Treasury yields to fall"
+        },
+        {
+            "cause": "Jobs report",
+            "relation": "bolstered",
+            "effect": "Fed rate cut hopes"
+        },
+        {
+            "cause": "Jobs report",
+            "relation": "cleared way for",
+            "effect": "December 18 rate cut"
+        },
+        {
+            "cause": "Stronger-than-expected payroll rebound",
+            "relation": "contrasted with",
+            "effect": "rate cut likelihood"
+        },
+        {
+            "cause": "Job growth",
+            "relation": "stabilized",
+            "effect": "at low level"
+        },
+        {
+            "cause": "Storms and Boeing (BA) strike",
+            "relation": "influenced",
+            "effect": "October job revisions"
+        },
+        {
+            "cause": "Unemployment rate",
+            "relation": "rose",
+            "effect": "to 4.2%"
+        },
+        {
+            "cause": "Ranks of employed",
+            "relation": "fell",
+            "effect": "by 355,000"
+        },
+        {
+            "cause": "Labor force participation",
+            "relation": "fell",
+            "effect": "by 193,000"
+        },
+        {
+            "cause": "Average hourly wages",
+            "relation": "rose",
+            "effect": "0.4% month and 4% year"
+        },
+        {
+            "cause": "Wage growth",
+            "relation": "exceeded",
+            "effect": "estimates"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "cleared",
+            "effect": "$100,000 threshold"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "all-time high of $103,900"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "fell back",
+            "effect": "below $100,000"
+        },
+        {
+            "cause": "U.S. elections",
+            "relation": "spurred",
+            "effect": "Bitcoin new highs"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "promised",
+            "effect": "friendlier crypto administration"
+        },
+        {
+            "cause": "Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins to lead SEC"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "expected to take",
+            "effect": "looser stance on crypto regulation"
+        },
+        {
+            "cause": "Jerome Powell",
+            "relation": "called",
+            "effect": "Bitcoin “digital gold”"
+        },
+        {
+            "cause": "Jerome Powell’s comments",
+            "relation": "spurred",
+            "effect": "Bitcoin higher"
+        },
+        {
+            "cause": "Trump",
+            "relation": "named",
+            "effect": "David Sacks as “AI & Crypto Czar”"
+        },
+        {
+            "cause": "Assassination of UNH CEO Brian Thompson",
+            "relation": "robbed",
+            "effect": "two boys of father"
+        },
+        {
+            "cause": "Assassination of Thompson",
+            "relation": "shook",
+            "effect": "entire industry"
+        },
+        {
+            "cause": "UNH",
+            "relation": "released",
+            "effect": "positive earnings outlook for 2025"
+        },
+        {
+            "cause": "UNH stock",
+            "relation": "rose",
+            "effect": "on Wednesday"
+        },
+        {
+            "cause": "Health care stocks",
+            "relation": "sold off",
+            "effect": "Thursday and Friday"
+        },
+        {
+            "cause": "Thompson’s wife",
+            "relation": "said",
+            "effect": "he faced threats"
+        },
+        {
+            "cause": "Threats",
+            "relation": "possibly linked to",
+            "effect": "lack-of-coverage issues"
+        },
+        {
+            "cause": "UNH",
+            "relation": "removed",
+            "effect": "executive pictures from website"
+        },
+        {
+            "cause": "Anthem Blue Cross Blue Shield",
+            "relation": "reversed",
+            "effect": "anesthesiology coverage limits"
+        },
+        {
+            "cause": "Public backlash",
+            "relation": "caused",
+            "effect": "Anthem reversal"
+        },
+        {
+            "cause": "Salesforce (CRM)",
+            "relation": "reported",
+            "effect": "Q3 earnings rose 14%"
+        },
+        {
+            "cause": "Salesforce",
+            "relation": "missed",
+            "effect": "EPS expectations slightly"
+        },
+        {
+            "cause": "Revenue",
+            "relation": "climbed",
+            "effect": "8% to $9.44 billion"
+        },
+        {
+            "cause": "Operating margin",
+            "relation": "topped",
+            "effect": "estimates"
+        },
+        {
+            "cause": "Salesforce",
+            "relation": "signed",
+            "effect": "200 Agentforce deals"
+        },
+        {
+            "cause": "Salesforce",
+            "relation": "pivoted to",
+            "effect": "autonomous AI agents"
+        },
+        {
+            "cause": "Pivot to AI agents",
+            "relation": "increased",
+            "effect": "expectations for AI monetization"
+        },
+        {
+            "cause": "Salesforce",
+            "relation": "forecast",
+            "effect": "Q4 revenue in line with consensus"
+        },
+        {
+            "cause": "Salesforce shares",
+            "relation": "gapped higher",
+            "effect": "after report"
+        },
+        {
+            "cause": "Business software stocks",
+            "relation": "rallied",
+            "effect": "with Salesforce"
+        },
+        {
+            "cause": "Zscaler (ZS)",
+            "relation": "reported",
+            "effect": "36% earnings rise"
+        },
+        {
+            "cause": "Zscaler",
+            "relation": "revenue climbed",
+            "effect": "26% to $628 million"
+        },
+        {
+            "cause": "Zscaler",
+            "relation": "guided",
+            "effect": "fractionally higher for Q2"
+        },
+        {
+            "cause": "SentinelOne (S)",
+            "relation": "broke even",
+            "effect": "vs prior loss"
+        },
+        {
+            "cause": "SentinelOne",
+            "relation": "revenue rose",
+            "effect": "28%"
+        },
+        {
+            "cause": "SentinelOne",
+            "relation": "guided",
+            "effect": "slightly above consensus"
+        },
+        {
+            "cause": "Investors",
+            "relation": "hoped",
+            "effect": "for upside from CrowdStrike IT outage"
+        },
+        {
+            "cause": "Shares of SentinelOne",
+            "relation": "tumbled",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Okta (OKTA)",
+            "relation": "EPS gained",
+            "effect": "52%"
+        },
+        {
+            "cause": "Okta",
+            "relation": "revenue climbed",
+            "effect": "14%"
+        },
+        {
+            "cause": "Okta",
+            "relation": "guided up",
+            "effect": "Q4 revenue"
+        },
+        {
+            "cause": "Okta shares",
+            "relation": "hit",
+            "effect": "resistance"
+        },
+        {
+            "cause": "Rubrik (RBRK)",
+            "relation": "reduced",
+            "effect": "loss to 21 cents per share"
+        },
+        {
+            "cause": "Rubrik",
+            "relation": "revenue jumped",
+            "effect": "43%"
+        },
+        {
+            "cause": "Microsoft",
+            "relation": "backed",
+            "effect": "Rubrik IPO"
+        },
+        {
+            "cause": "Rubrik",
+            "relation": "achieved",
+            "effect": "$1B ARR"
+        },
+        {
+            "cause": "Rubrik",
+            "relation": "beat",
+            "effect": "net new ARR expectations"
+        },
+        {
+            "cause": "Rubrik shares",
+            "relation": "skyrocketed",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Credo Technology (CRDO)",
+            "relation": "reported",
+            "effect": "earnings leaped 600%"
+        },
+        {
+            "cause": "Credo",
+            "relation": "revenue rose",
+            "effect": "64% to $72 million"
+        },
+        {
+            "cause": "Credo",
+            "relation": "forecast",
+            "effect": "$120M January-quarter revenue"
+        },
+        {
+            "cause": "Forecast",
+            "relation": "exceeded",
+            "effect": "estimates"
+        },
+        {
+            "cause": "AEC products",
+            "relation": "connect",
+            "effect": "servers to networking equipment"
+        },
+        {
+            "cause": "Microsoft and Amazon",
+            "relation": "are",
+            "effect": "Credo’s largest customers"
+        },
+        {
+            "cause": "Credo shares",
+            "relation": "spiked",
+            "effect": "48%"
+        },
+        {
+            "cause": "Marvell Technology (MRVL)",
+            "relation": "reported",
+            "effect": "5% EPS gain"
+        },
+        {
+            "cause": "Marvell",
+            "relation": "sales rose",
+            "effect": "7% to $1.516B"
+        },
+        {
+            "cause": "Marvell",
+            "relation": "guided up",
+            "effect": "Q4"
+        },
+        {
+            "cause": "Strong AI chip demand",
+            "relation": "drove",
+            "effect": "Marvell growth"
+        },
+        {
+            "cause": "Marvell",
+            "relation": "makes",
+            "effect": "custom AI chips for Google, Amazon, Microsoft"
+        },
+        {
+            "cause": "Marvell shares",
+            "relation": "soared",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Amazon shares",
+            "relation": "climbed",
+            "effect": "to record highs"
+        },
+        {
+            "cause": "Amazon Web Services",
+            "relation": "stepped up",
+            "effect": "AI chip competition with Nvidia"
+        },
+        {
+            "cause": "AWS",
+            "relation": "announced",
+            "effect": "Apple uses Trainium2 chip"
+        },
+        {
+            "cause": "AWS",
+            "relation": "plans",
+            "effect": "Trainium3 launch"
+        },
+        {
+            "cause": "Amazon",
+            "relation": "building",
+            "effect": "UltraCluster of AI chips"
+        },
+        {
+            "cause": "UltraCluster",
+            "relation": "will train",
+            "effect": "Anthropic models"
+        },
+        {
+            "cause": "Amazon",
+            "relation": "invested",
+            "effect": "$8B into Anthropic"
+        },
+        {
+            "cause": "Andy Jassy",
+            "relation": "announced",
+            "effect": "Amazon Nova AI models"
+        },
+        {
+            "cause": "AWS",
+            "relation": "will offer",
+            "effect": "Nova models to enterprises"
+        },
+        {
+            "cause": "Judge Kathaleen McCormick",
+            "relation": "rejected",
+            "effect": "Elon Musk’s $56B pay deal"
+        },
+        {
+            "cause": "Tesla China sales",
+            "relation": "tracked",
+            "effect": "strong quarter"
+        },
+        {
+            "cause": "Tesla Europe & U.S. sales",
+            "relation": "remained",
+            "effect": "weak"
+        },
+        {
+            "cause": "Tesla",
+            "relation": "uncertain to achieve",
+            "effect": "2024 delivery growth"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "raised",
+            "effect": "Tesla price targets"
+        },
+        {
+            "cause": "Analyst optimism",
+            "relation": "boosted",
+            "effect": "Tesla stock"
+        },
+        {
+            "cause": "Elon Musk",
+            "relation": "expressed",
+            "effect": "optimism about Full Self-Driving"
+        },
+        {
+            "cause": "Musk optimism",
+            "relation": "drove",
+            "effect": "share price higher"
+        },
+        {
+            "cause": "Ulta Beauty (ULTA)",
+            "relation": "surged",
+            "effect": "on earnings"
+        },
+        {
+            "cause": "Lululemon (LULU)",
+            "relation": "surged",
+            "effect": "on earnings"
+        },
+        {
+            "cause": "Victoria’s Secret (VSCO)",
+            "relation": "traded",
+            "effect": "at 52-week highs"
+        },
+        {
+            "cause": "American Eagle (AEO)",
+            "relation": "plunged",
+            "effect": "on weak sales guidance"
+        },
+        {
+            "cause": "American Airlines (AAL)",
+            "relation": "guided up",
+            "effect": "Q4 EPS"
+        },
+        {
+            "cause": "Southwest Airlines (LUV)",
+            "relation": "hiked",
+            "effect": "revenue growth forecast"
+        },
+        {
+            "cause": "Airline stocks",
+            "relation": "climbed",
+            "effect": "together"
+        },
+        {
+            "cause": "Intel (INTC)",
+            "relation": "announced",
+            "effect": "CEO Pat Gelsinger retirement"
+        },
+        {
+            "cause": "Board dissatisfaction",
+            "relation": "caused",
+            "effect": "ouster"
+        },
+        {
+            "cause": "Gelsinger ouster",
+            "relation": "raised",
+            "effect": "strategic questions"
+        },
+        {
+            "cause": "Eli Lilly (LLY)",
+            "relation": "reported",
+            "effect": "Zepbound stoked greater weight loss than Wegovy"
+        },
+        {
+            "cause": "Zepbound",
+            "relation": "caused",
+            "effect": "20.2% weight loss"
+        },
+        {
+            "cause": "Wegovy",
+            "relation": "caused",
+            "effect": "13.7% weight loss"
+        },
+        {
+            "cause": "Participants",
+            "relation": "lost",
+            "effect": "up to 20.2% weight"
+        },
+        {
+            "cause": "NCino (NCNO)",
+            "relation": "reported",
+            "effect": "50% EPS gain"
+        },
+        {
+            "cause": "NCino",
+            "relation": "revenue rose",
+            "effect": "14%"
+        },
+        {
+            "cause": "Weak guidance",
+            "relation": "caused",
+            "effect": "share plunge"
+        },
+        {
+            "cause": "Chewy (CHWY)",
+            "relation": "reported",
+            "effect": "33% EPS gain"
+        },
+        {
+            "cause": "Chewy",
+            "relation": "revenue rose",
+            "effect": "4.8%"
+        },
+        {
+            "cause": "Chewy",
+            "relation": "missed",
+            "effect": "estimates"
+        },
+        {
+            "cause": "Active customers",
+            "relation": "declined",
+            "effect": "year-over-year"
+        },
+        {
+            "cause": "CHWY stock",
+            "relation": "fell",
+            "effect": "solidly"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "tapped",
+            "effect": "Jared Isaacman to lead NASA"
+        },
+        {
+            "cause": "Isaacman",
+            "relation": "is",
+            "effect": "private astronaut"
+        },
+        {
+            "cause": "Shift4",
+            "relation": "competes",
+            "effect": "with Clover, Square, and Toast"
+        },
+        {
+            "cause": "Weak payment guidance",
+            "relation": "caused",
+            "effect": "Toast shares to plunge"
+        },
+        {
+            "cause": "Palantir (PLTR)",
+            "relation": "received",
+            "effect": "higher FedRAMP authorization"
+        },
+        {
+            "cause": "Higher rating",
+            "relation": "enabled",
+            "effect": "U.S. government to process sensitive workloads"
+        },
+        {
+            "cause": "Palantir",
+            "relation": "partnered with",
+            "effect": "Booz Allen Hamilton"
+        },
+        {
+            "cause": "Partnership",
+            "relation": "strengthened",
+            "effect": "government collaboration"
+        },
+        {
+            "cause": "PLTR shares",
+            "relation": "soared",
+            "effect": "for the week"
+        },
+        {
+            "cause": "Foot Locker (FL)",
+            "relation": "reported",
+            "effect": "10% EPS gain"
+        },
+        {
+            "cause": "Foot Locker",
+            "relation": "sales fell",
+            "effect": "1%"
+        },
+        {
+            "cause": "Foot Locker",
+            "relation": "cut",
+            "effect": "guidance"
+        },
+        {
+            "cause": "Kroger (KR)",
+            "relation": "earnings rose",
+            "effect": "3%"
+        },
+        {
+            "cause": "Kroger",
+            "relation": "sales fell",
+            "effect": "1%"
+        },
+        {
+            "cause": "Uncertain macroeconomic environment",
+            "relation": "concerned",
+            "effect": "CEO McMullen"
+        },
+        {
+            "cause": "FTC lawsuit",
+            "relation": "cast doubt on",
+            "effect": "Albertsons merger"
+        },
+        {
+            "cause": "Kroger stock",
+            "relation": "reversed higher",
+            "effect": "on earnings"
+        },
+        {
+            "cause": "Pure Storage (PSTG)",
+            "relation": "beat",
+            "effect": "earnings and sales views"
+        },
+        {
+            "cause": "Pure Storage",
+            "relation": "achieved",
+            "effect": "first-ever design win"
+        },
+        {
+            "cause": "Top-four cloud hyperscaler",
+            "relation": "adopted",
+            "effect": "flash memory technology"
+        },
+        {
+            "cause": "Pure Storage shares",
+            "relation": "soared",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Veeva Systems (VEEV)",
+            "relation": "reported",
+            "effect": "31% EPS growth"
+        },
+        {
+            "cause": "Veeva",
+            "relation": "sales advanced",
+            "effect": "13%"
+        },
+        {
+            "cause": "Veeva",
+            "relation": "raised",
+            "effect": "full-year outlook"
+        },
+        {
+            "cause": "Subscription services",
+            "relation": "drove",
+            "effect": "majority of revenue"
+        },
+        {
+            "cause": "Veeva shares",
+            "relation": "jumped",
+            "effect": "NONE"
+        },
+        {
+            "cause": "HPE",
+            "relation": "reported",
+            "effect": "12% earnings rise"
+        },
+        {
+            "cause": "HPE",
+            "relation": "revenue climbed",
+            "effect": "15%"
+        },
+        {
+            "cause": "AI server revenue",
+            "relation": "rose",
+            "effect": "from $400M to $1.5B"
+        },
+        {
+            "cause": "HPE shares",
+            "relation": "rose",
+            "effect": "slightly"
+        },
+        {
+            "cause": "Box (BOX)",
+            "relation": "reported",
+            "effect": "45% EPS gain"
+        },
+        {
+            "cause": "Box",
+            "relation": "sales advanced",
+            "effect": "5%"
+        },
+        {
+            "cause": "Box",
+            "relation": "missed",
+            "effect": "billings expectations"
+        },
+        {
+            "cause": "Box shares",
+            "relation": "tumbled",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Samsara (IOT)",
+            "relation": "doubled",
+            "effect": "Q3 EPS"
+        },
+        {
+            "cause": "Samsara",
+            "relation": "revenue rose",
+            "effect": "36%"
+        },
+        {
+            "cause": "Samsara",
+            "relation": "beat",
+            "effect": "analyst estimates"
+        },
+        {
+            "cause": "ARR from subscriptions",
+            "relation": "rose",
+            "effect": "35%"
+        },
+        {
+            "cause": "IOT",
+            "relation": "guided",
+            "effect": "fractionally lower revenue"
+        },
+        {
+            "cause": "IOT stock",
+            "relation": "plunged",
+            "effect": "NONE"
+        }
+    ]
+}

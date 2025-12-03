@@ -1,0 +1,109 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "surged to",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "a virtual object"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "nothing more than computer code"
+        },
+        {
+            "cause": "Crypto currencies",
+            "relation": "have been on",
+            "effect": "a wild ride"
+        },
+        {
+            "cause": "Crypto currencies",
+            "relation": "surge and tumble sharply",
+            "effect": "based on little more than a post by Elon Musk"
+        },
+        {
+            "cause": "Massive swings",
+            "relation": "have occurred in",
+            "effect": "crypto currencies’ value in recent years"
+        },
+        {
+            "cause": "Total value of the cryptocurrency market",
+            "relation": "is now",
+            "effect": "over $3 trillion"
+        },
+        {
+            "cause": "Nearly $1 trillion",
+            "relation": "was wiped off",
+            "effect": "crypto market valuation three years ago"
+        },
+        {
+            "cause": "Crypto currency as an asset class",
+            "relation": "is",
+            "effect": "unstable"
+        },
+        {
+            "cause": "£10 note",
+            "relation": "could buy",
+            "effect": "a beer on one day"
+        },
+        {
+            "cause": "£10 note",
+            "relation": "could buy",
+            "effect": "a bottle of fine wine on another day"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has",
+            "effect": "no intrinsic value"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is not backed by",
+            "effect": "anything"
+        },
+        {
+            "cause": "Bitcoin devotees",
+            "relation": "claim",
+            "effect": "Bitcoin’s value comes from scarcity"
+        },
+        {
+            "cause": "Scarcity",
+            "relation": "can hardly be",
+            "effect": "a source of value"
+        },
+        {
+            "cause": "Bitcoin investors",
+            "relation": "rely on",
+            "effect": "the “greater fool” theory"
+        },
+        {
+            "cause": "Profit from an investment",
+            "relation": "requires",
+            "effect": "finding someone willing to buy the asset at an even higher price"
+        },
+        {
+            "cause": "Naive investors who come late",
+            "relation": "are at",
+            "effect": "greatest risk of losses"
+        },
+        {
+            "cause": "The Government",
+            "relation": "should caution",
+            "effect": "retail investors that they act at their own peril"
+        },
+        {
+            "cause": "Sophisticated investors",
+            "relation": "may tap into",
+            "effect": "the benefits"
+        },
+        {
+            "cause": "Less well-off dazzled by new technologies",
+            "relation": "will take on",
+            "effect": "risks they do not fully comprehend"
+        }
+    ]
+}

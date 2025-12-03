@@ -1,0 +1,84 @@
+{
+    "triples": [
+        {
+            "cause": "Donald Trump’s return",
+            "relation": "fuelled",
+            "effect": "Bitcoin price smashing through $100,000"
+        },
+        {
+            "cause": "The world’s first, largest and most valuable cryptocurrency",
+            "relation": "has doubled",
+            "effect": "in value since the start of the year"
+        },
+        {
+            "cause": "Trump’s election win",
+            "relation": "caused",
+            "effect": "Bitcoin to surge by more than 50 per cent since November"
+        },
+        {
+            "cause": "Republican Trump",
+            "relation": "pledged",
+            "effect": "to make the US the “crypto capital of the planet”"
+        },
+        {
+            "cause": "Republican Trump",
+            "relation": "pledged",
+            "effect": "to build a strategic reserve of Bitcoin"
+        },
+        {
+            "cause": "Republican Trump",
+            "relation": "pledged",
+            "effect": "to set up his own cryptocurrency venture"
+        },
+        {
+            "cause": "Trump",
+            "relation": "appointed",
+            "effect": "Elon Musk as head of the new Department of Government Efficiency (DOGE)"
+        },
+        {
+            "cause": "Appointment of Elon Musk",
+            "relation": "served as",
+            "effect": "explicit nod to Dogecoin"
+        },
+        {
+            "cause": "Trump nominating Paul Atkins",
+            "relation": "boosted",
+            "effect": "frenzy around digital currency"
+        },
+        {
+            "cause": "Paul Atkins’ appointment",
+            "relation": "will mark",
+            "effect": "a dramatic shift from outgoing SEC boss Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "led",
+            "effect": "a crypto crackdown"
+        },
+        {
+            "cause": "Biggest investment managers (e.g., Blackrock)",
+            "relation": "backed",
+            "effect": "exchange-traded funds investing in cryptocurrency"
+        },
+        {
+            "cause": "Blackrock",
+            "relation": "invested",
+            "effect": "£35 billion into Bitcoin"
+        },
+        {
+            "cause": "UK financial watchdog",
+            "relation": "warned",
+            "effect": "Brits to be prepared “to lose all their money”"
+        },
+        {
+            "cause": "Around 7 million adults in the UK",
+            "relation": "hold",
+            "effect": "some form of digital currency"
+        },
+        {
+            "cause": "Carol Alexander",
+            "relation": "predicted",
+            "effect": "$100,000 Bitcoin record last month"
+        }
+    ]
+}

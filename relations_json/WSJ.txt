@@ -1,0 +1,219 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin traded above $100,000",
+            "relation": "CAUSED BY",
+            "effect": "a wave of investors betting that Trump will turn U.S. government policy into an engine of growth for crypto"
+        },
+        {
+            "cause": "President-elect Donald Trump",
+            "relation": "WILL TURN",
+            "effect": "U.S. government policy into an engine of growth for crypto"
+        },
+        {
+            "cause": "The world’s largest digital currency",
+            "relation": "HAS STAGED",
+            "effect": "an extraordinary rally since Election Day"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "SURGED",
+            "effect": "more than 40% in four weeks"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "SET",
+            "effect": "one record after another"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "SURGED",
+            "effect": "as high as $103,853"
+        },
+        {
+            "cause": "Trump",
+            "relation": "PICKED",
+            "effect": "Paul Atkins to lead the SEC"
+        },
+        {
+            "cause": "Trump",
+            "relation": "DROPPED",
+            "effect": "his earlier skepticism of bitcoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "PROMISED",
+            "effect": "to end Joe Biden’s war on crypto"
+        },
+        {
+            "cause": "Crypto",
+            "relation": "HAS EMBRACED",
+            "effect": "the new U.S. administration"
+        },
+        {
+            "cause": "Crypto",
+            "relation": "IS",
+            "effect": "newly ascendant in Washington"
+        },
+        {
+            "cause": "Crypto’s march toward the mainstream",
+            "relation": "HAS ENRICHED",
+            "effect": "a youthful cohort of digital-currency tycoons"
+        },
+        {
+            "cause": "Crypto’s march toward the mainstream",
+            "relation": "HAS SWELLED",
+            "effect": "the value of the asset class to more than $3 trillion"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "WAS CREATED BY",
+            "effect": "Satoshi Nakamoto"
+        },
+        {
+            "cause": "Satoshi Nakamoto",
+            "relation": "PROPOSED",
+            "effect": "bitcoin as a way to make payments without relying on traditional banking"
+        },
+        {
+            "cause": "Many of bitcoin’s early fans",
+            "relation": "SAW",
+            "effect": "it as a way to let individuals control financial destinies"
+        },
+        {
+            "cause": "Crypto investors",
+            "relation": "ARE CHEERING",
+            "effect": "Trump’s pledge to create a strategic national reserve for bitcoin"
+        },
+        {
+            "cause": "Trump’s policy",
+            "relation": "COULD BOOST",
+            "effect": "the price of bitcoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "HAS PROMISED",
+            "effect": "to ease the regulatory burden on the crypto industry"
+        },
+        {
+            "cause": "SEC Chair Gary Gensler",
+            "relation": "PLANS TO RESIGN",
+            "effect": "on Inauguration Day"
+        },
+        {
+            "cause": "Trump",
+            "relation": "HAD VOWED",
+            "effect": "to fire Gensler"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "HAS WARNED",
+            "effect": "that digital currencies are rife with fraud and manipulation"
+        },
+        {
+            "cause": "Governments in Bhutan and El Salvador",
+            "relation": "HAVE AMASSED",
+            "effect": "stashes of bitcoin"
+        },
+        {
+            "cause": "Some publicly traded companies (MicroStrategy and Tesla)",
+            "relation": "HAVE AMASSED",
+            "effect": "stashes of bitcoin"
+        },
+        {
+            "cause": "Large hoards of bitcoin",
+            "relation": "ARE BULLISH FOR",
+            "effect": "bitcoin’s price"
+        },
+        {
+            "cause": "Crypto firms’ campaign spending",
+            "relation": "HELPED TOPPLE",
+            "effect": "lawmakers hostile to the industry"
+        },
+        {
+            "cause": "Voters",
+            "relation": "ELECTED",
+            "effect": "298 pro-crypto representatives and senators"
+        },
+        {
+            "cause": "Voters",
+            "relation": "ELECTED",
+            "effect": "134 anti-crypto representatives and senators"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "IS USED",
+            "effect": "as a form of digital gold"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "IS USED",
+            "effect": "to store monetary value and hedge against inflation"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HAS HIT RECORDS",
+            "effect": "on signs of mainstream adoption"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "SPIKED",
+            "effect": "to nearly $20,000 after Chicago exchanges listed futures contracts"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HIT",
+            "effect": "almost $69,000 following launch of ETFs holding bitcoin futures"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "PLUNGED",
+            "effect": "78% to less than $16,000 after FTX collapse"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "BROKE THROUGH INTO RECORD TERRITORY",
+            "effect": "after launch of spot ETFs"
+        },
+        {
+            "cause": "Investors",
+            "relation": "HAVE POURED",
+            "effect": "more than $7 billion into U.S. spot bitcoin ETFs"
+        },
+        {
+            "cause": "Inflows into ETFs",
+            "relation": "HAVE HELPED",
+            "effect": "drive bitcoin higher"
+        },
+        {
+            "cause": "Holding bitcoin through ETFs",
+            "relation": "IS",
+            "effect": "a departure from crypto origins"
+        },
+        {
+            "cause": "Early bitcoin holders",
+            "relation": "COULD ONLY ACCESS",
+            "effect": "coins by typing cryptographic keys"
+        },
+        {
+            "cause": "Coinbase",
+            "relation": "HELD",
+            "effect": "people’s bitcoin and provided easy-to-use interface"
+        },
+        {
+            "cause": "Investors",
+            "relation": "ARE LETTING",
+            "effect": "Wall Street hold coins on their behalf through spot ETFs"
+        },
+        {
+            "cause": "People",
+            "relation": "WILL TEND TO FOLLOW",
+            "effect": "the path of least resistance and greatest familiarity to investing in bitcoin"
+        },
+        {
+            "cause": "Using traditional vehicles",
+            "relation": "DOES NOT NEGATIVELY AFFECT",
+            "effect": "the underlying investment thesis of bitcoin"
+        }
+    ]
+}
