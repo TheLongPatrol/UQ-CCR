@@ -9,6 +9,7 @@ from knowledge_graph import KnowledgeGraph
 from query_processor import QueryProcessor
 from direction_classifier import DirectionClassifier
 from chain_ranker import ChainRanker
+from frequency_reliability import website_reliability_map
 import json
 from context_scorer import get_context_probs
 import pickle
@@ -90,7 +91,7 @@ class ReasoningPipeline:
             article_relations.append((article_name, relations))
         return article_relations
 
-    def build_knowledge_graph(self, compute_scores_online = False):
+    def build_knowledge_graph(self, compute_scores_online = False, use_website_rel_scores = False):
         """Build the knowledge graph from loaded triples."""
         if not self.triples:
             raise ValueError("No triples loaded. Use load_triples_from_json() or load_triples_from_list() first.")
@@ -108,9 +109,9 @@ class ReasoningPipeline:
         
         if self.use_scores:
             all_triples = []
-            articles_triples = self.load_triples_by_articles("bitcoin_docs/", "causal_relations/")
+            articles_triples = self.load_triples_by_articles("bitcoin_docs/", "relations_json/")
             if compute_scores_online:
-                context_scores = get_context_probs("bitcoin_docs/", "causal_relations/", "out/")
+                context_scores = get_context_probs("bitcoin_docs/", "relations/", "out/")
             else:
                 with open('context_scores.pkl', "rb") as f:
                     context_scores = pickle.load(f)
@@ -120,7 +121,13 @@ class ReasoningPipeline:
                 article_scores = context_scores[article_name]
                 for triple in triples:
                     triple_as_tuple = (triple['cause'], triple['relation'], triple['effect'])
-                    triple['score'] = article_scores[triple_as_tuple]
+                    if use_website_rel_scores:
+                        act_article_name = article_name.split("_")[0]
+                        if act_article_name in website_reliability_map:
+                            web_rel_score = website_reliability_map[act_article_name]
+                            triples['score'] = 0.8*article_scores[triple_as_tuple]+0.2*web_rel_score
+                    else:
+                        triple['score'] = article_scores[triple_as_tuple]
                     all_triples.append(triple)
             self.triples = all_triples
 
