@@ -301,6 +301,10 @@ def get_mnli_probs(model_name, article_dir, premise_hypos_per_article, output_di
 def get_context_probs(articles_dir, relations_dir, output_dir):
     articles, article_relations, stemmed_articles, article_stemmed_relations = load_data(articles_dir, relations_dir)
     bert_probs, premise_hypos_per_article = get_bert_probs("FacebookAI/roberta-large", articles, article_relations, stemmed_articles, article_stemmed_relations)
+    with open(output_dir+"bert_scores.pkl", "wb") as f:
+        pickle.dump(bert_probs, f)
+    with open(output_dir+"missing_triples.pkl", "wb") as f:
+        pickle.dump(premise_hypos_per_article, f)
     mnli_probs = get_mnli_probs("microsoft/deberta-large-mnli", articles_dir, premise_hypos_per_article, output_dir)
     relation_probs_per_article = []
     for i in range(len(bert_probs)):
@@ -308,7 +312,7 @@ def get_context_probs(articles_dir, relations_dir, output_dir):
             print("article name and index mismatch!")
         relation_probs_per_article.append((bert_probs[0], bert_probs[i][1] | mnli_probs[i][1]))
     with open("context_scores.pkl", "wb") as f:
-        pickle.dump(relation_probs_per_article)
+        pickle.dump(relation_probs_per_article,f)
     return relation_probs_per_article
 
 if __name__ == "__main__":
