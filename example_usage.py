@@ -26,7 +26,7 @@ def main():
     pipeline.load_triples_from_json('all_relations.json')
     
     # Build the knowledge graph
-    pipeline.build_knowledge_graph(True)
+    pipeline.build_knowledge_graph()
     
     # Example queries demonstrating different reasoning directions
     
