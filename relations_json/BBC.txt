@@ -1,0 +1,84 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin's price",
+            "relation": "has blasted through",
+            "effect": "the $100,000 threshold"
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "is influenced by",
+            "effect": "Donald Trump's election victory"
+        },
+        {
+            "cause": "Trump's election victory",
+            "relation": "helped",
+            "effect": "push Bitcoin's price higher"
+        },
+        {
+            "cause": "Trump celebrating milestone on social media",
+            "relation": "influenced",
+            "effect": "public perception/confidence in Bitcoin"
+        },
+        {
+            "cause": "Trump's pledge to make US a crypto capital",
+            "relation": "influenced",
+            "effect": "Bitcoin's price increase"
+        },
+        {
+            "cause": "Trump nominating Paul Atkins to SEC",
+            "relation": "caused",
+            "effect": "Bitcoin to break through $100k barrier"
+        },
+        {
+            "cause": "Paul Atkins being pro-crypto",
+            "relation": "influences",
+            "effect": "expectations of favorable crypto regulation"
+        },
+        {
+            "cause": "Anticipation of new administration being favorable to crypto",
+            "relation": "has driven",
+            "effect": "Bitcoin's price trend"
+        },
+        {
+            "cause": "SEC enforcement under Gensler",
+            "relation": "caused",
+            "effect": "previous regulatory pressure on crypto"
+        },
+        {
+            "cause": "FTX collapse",
+            "relation": "caused",
+            "effect": "Bitcoin price to fall sharply below $16,000 in 2022"
+        },
+        {
+            "cause": "SEC approval of spot Bitcoin ETFs",
+            "relation": "caused",
+            "effect": "investor confidence to increase"
+        },
+        {
+            "cause": "ETF approval",
+            "relation": "allowed",
+            "effect": "Blackrock, Fidelity, Grayscale to sell Bitcoin-based products"
+        },
+        {
+            "cause": "ETF product inflows",
+            "relation": "caused",
+            "effect": "increased capital investment in Bitcoin"
+        },
+        {
+            "cause": "Fear of missing out (FOMO) among younger people",
+            "relation": "drives",
+            "effect": "Bitcoin’s price to continue rising"
+        },
+        {
+            "cause": "Momentum in crypto markets",
+            "relation": "causes",
+            "effect": "increased caution among investors"
+        },
+        {
+            "cause": "Speculation",
+            "relation": "drives",
+            "effect": "Bitcoin's volatility"
+        }
+    ]
+}

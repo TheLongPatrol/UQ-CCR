@@ -1,0 +1,134 @@
+{
+    "triples": [
+        {
+            "cause": "people",
+            "relation": "want",
+            "effect": "agency in their lives"
+        },
+        {
+            "cause": "people wanting agency",
+            "relation": "causes",
+            "effect": "crypto exploding"
+        },
+        {
+            "cause": "Ken Griffin",
+            "relation": "says",
+            "effect": "it was a mistake not to buy crypto sooner"
+        },
+        {
+            "cause": "not buying crypto sooner",
+            "relation": "was",
+            "effect": "a mistake"
+        },
+        {
+            "cause": "being wrong earlier",
+            "relation": "does not make",
+            "effect": "Griffin a fan of Bitcoin"
+        },
+        {
+            "cause": "something",
+            "relation": "trades at",
+            "effect": "100 times previous price"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "wishes he bought",
+            "effect": "something that increased 100×"
+        },
+        {
+            "cause": "people",
+            "relation": "have",
+            "effect": "FOMO"
+        },
+        {
+            "cause": "FOMO",
+            "relation": "is",
+            "effect": "universal"
+        },
+        {
+            "cause": "FOMO",
+            "relation": "is",
+            "effect": "part of human psychology"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surpassed",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Trump’s election win",
+            "relation": "led to",
+            "effect": "cryptocurrency surge"
+        },
+        {
+            "cause": "Trump’s deregulation announcements",
+            "relation": "contributed to",
+            "effect": "cryptocurrency surge"
+        },
+        {
+            "cause": "Trump’s win environment",
+            "relation": "is part of",
+            "effect": "attitude of seeking agency"
+        },
+        {
+            "cause": "Republicans taking House and Senate",
+            "relation": "is part of",
+            "effect": "attitude of seeking agency"
+        },
+        {
+            "cause": "Americans",
+            "relation": "seek",
+            "effect": "agency in their lives"
+        },
+        {
+            "cause": "American people",
+            "relation": "say",
+            "effect": "they want agency"
+        },
+        {
+            "cause": "wanting agency",
+            "relation": "includes",
+            "effect": "crypto"
+        },
+        {
+            "cause": "crypto",
+            "relation": "was called",
+            "effect": "a jihadist call against the dollar"
+        },
+        {
+            "cause": "crypto",
+            "relation": "is positioned as opposing",
+            "effect": "the dollar"
+        },
+        {
+            "cause": "crypto market valuation",
+            "relation": "tells",
+            "effect": "Griffin was wrong"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "admitted",
+            "effect": "he was wrong"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "questions",
+            "effect": "long-term stability of cryptocurrencies"
+        },
+        {
+            "cause": "cryptocurrency structure",
+            "relation": "may not capture",
+            "effect": "zeitgeist of the world"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "doesn’t understand",
+            "effect": "real need for crypto"
+        },
+        {
+            "cause": "crypto",
+            "relation": "fails to solve",
+            "effect": "clear economic problem"
+        }
+    ]
+}

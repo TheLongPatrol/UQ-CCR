@@ -1,0 +1,344 @@
+{
+    "triples": [
+        {
+            "cause": "investors’ hope",
+            "relation": "motivates",
+            "effect": "bitcoin price rising"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "rises above",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "investors",
+            "relation": "hope for",
+            "effect": "Trump administration bringing crypto into mainstream markets"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "brings (anticipated)",
+            "effect": "cryptocurrencies into mainstream markets"
+        },
+        {
+            "cause": "cryptocurrency",
+            "relation": "rose to",
+            "effect": "$103,335"
+        },
+        {
+            "cause": "US president-elect (Trump)",
+            "relation": "takes credit for",
+            "effect": "bitcoin rise"
+        },
+        {
+            "cause": "Trump",
+            "relation": "told",
+            "effect": "social media followers"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "doubled in",
+            "effect": "value"
+        },
+        {
+            "cause": "Trump’s election victory",
+            "relation": "associates with",
+            "effect": "bitcoin rising 50%"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged",
+            "effect": "to make US the crypto capital"
+        },
+        {
+            "cause": "Trump",
+            "relation": "aims to transform",
+            "effect": "United States into crypto capital"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to create",
+            "effect": "strategic reserve of bitcoin"
+        },
+        {
+            "cause": "campaign",
+            "relation": "accepted",
+            "effect": "crypto donations"
+        },
+        {
+            "cause": "Trump",
+            "relation": "courted",
+            "effect": "crypto fans"
+        },
+        {
+            "cause": "World Liberty Financial",
+            "relation": "trades",
+            "effect": "cryptocurrencies"
+        },
+        {
+            "cause": "Trump",
+            "relation": "started",
+            "effect": "World Liberty Financial"
+        },
+        {
+            "cause": "Trump",
+            "relation": "plans to form",
+            "effect": "crypto advisory council"
+        },
+        {
+            "cause": "executives",
+            "relation": "expect",
+            "effect": "Trump pushing legislative/regulatory changes"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pushes through (anticipated)",
+            "effect": "legislative/regulatory changes"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "to remove Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "leads",
+            "effect": "government clampdown on crypto industry"
+        },
+        {
+            "cause": "Trump taking oath",
+            "relation": "triggers",
+            "effect": "Gensler stepping down"
+        },
+        {
+            "cause": "Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "replaces",
+            "effect": "Gensler"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "involved in",
+            "effect": "crypto policy"
+        },
+        {
+            "cause": "Token Alliance",
+            "relation": "develops",
+            "effect": "best practices for digital asset issuance and trading"
+        },
+        {
+            "cause": "Chamber of Digital Commerce",
+            "relation": "works on",
+            "effect": "digital asset practice development"
+        },
+        {
+            "cause": "Novogratz",
+            "relation": "witnesses",
+            "effect": "paradigm shift"
+        },
+        {
+            "cause": "digital asset ecosystem",
+            "relation": "approaches",
+            "effect": "financial mainstream"
+        },
+        {
+            "cause": "institutional adoption",
+            "relation": "fuels",
+            "effect": "momentum"
+        },
+        {
+            "cause": "advancements in tokenisation and payments",
+            "relation": "fuel",
+            "effect": "momentum"
+        },
+        {
+            "cause": "clearer regulatory path",
+            "relation": "fuels",
+            "effect": "momentum"
+        },
+        {
+            "cause": "Satoshi Nakamoto",
+            "relation": "created",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "lacks",
+            "effect": "physical form"
+        },
+        {
+            "cause": "Nakamoto",
+            "relation": "developed",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "Nakamoto’s identity",
+            "relation": "remains",
+            "effect": "undiscovered"
+        },
+        {
+            "cause": "industry institutionalisation",
+            "relation": "enables",
+            "effect": "bitcoin reaching current level"
+        },
+        {
+            "cause": "institutional money",
+            "relation": "purchases",
+            "effect": "3% of bitcoin supply"
+        },
+        {
+            "cause": "BlackRock",
+            "relation": "launched",
+            "effect": "bitcoin ETF"
+        },
+        {
+            "cause": "Fidelity",
+            "relation": "launched",
+            "effect": "bitcoin ETF"
+        },
+        {
+            "cause": "ETFs",
+            "relation": "are unavailable in",
+            "effect": "UK"
+        },
+        {
+            "cause": "bitcoin price increase",
+            "relation": "correlates with",
+            "effect": "crypto stock rise"
+        },
+        {
+            "cause": "US election",
+            "relation": "associates with",
+            "effect": "Coinbase share rise"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "raised funds to buy",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "bitcoin purchases",
+            "relation": "correlate with",
+            "effect": "MicroStrategy share gains"
+        },
+        {
+            "cause": "criminals",
+            "relation": "use",
+            "effect": "cryptocurrencies"
+        },
+        {
+            "cause": "cryptocurrencies",
+            "relation": "fund",
+            "effect": "crimes"
+        },
+        {
+            "cause": "US and UK",
+            "relation": "disrupted",
+            "effect": "money-laundering ring"
+        },
+        {
+            "cause": "money-laundering ring",
+            "relation": "used",
+            "effect": "cryptocurrency"
+        },
+        {
+            "cause": "rich Russians",
+            "relation": "evade",
+            "effect": "sanctions"
+        },
+        {
+            "cause": "ring",
+            "relation": "launders cash for",
+            "effect": "drug traffickers"
+        },
+        {
+            "cause": "investors",
+            "relation": "doubt",
+            "effect": "broad crypto adoption"
+        },
+        {
+            "cause": "time passing",
+            "relation": "helps",
+            "effect": "crypto prove itself"
+        },
+        {
+            "cause": "crypto",
+            "relation": "is",
+            "effect": "hard to value"
+        },
+        {
+            "cause": "momentum",
+            "relation": "drives",
+            "effect": "crypto trend upward"
+        },
+        {
+            "cause": "UK authorities",
+            "relation": "move cautiously on",
+            "effect": "crypto authorisation"
+        },
+        {
+            "cause": "FCA",
+            "relation": "warns",
+            "effect": "investors"
+        },
+        {
+            "cause": "buying crypto",
+            "relation": "risks",
+            "effect": "total loss"
+        },
+        {
+            "cause": "FCA roadmap",
+            "relation": "delays",
+            "effect": "full crypto dealing until 2026"
+        },
+        {
+            "cause": "Treasury’s plan",
+            "relation": "is delayed to",
+            "effect": "2026"
+        },
+        {
+            "cause": "delay",
+            "relation": "affects",
+            "effect": "industry"
+        },
+        {
+            "cause": "Trump nominating Atkins",
+            "relation": "increases",
+            "effect": "speculation of regulatory liberalisation"
+        },
+        {
+            "cause": "US policy",
+            "relation": "triggers",
+            "effect": "fund launches by BlackRock and Fidelity"
+        },
+        {
+            "cause": "crypto",
+            "relation": "used by",
+            "effect": "criminals"
+        },
+        {
+            "cause": "Randell",
+            "relation": "compares",
+            "effect": "crypto trading to digital roulette"
+        },
+        {
+            "cause": "regulation",
+            "relation": "gives",
+            "effect": "false reassurance"
+        },
+        {
+            "cause": "Britons",
+            "relation": "own",
+            "effect": "digital currencies"
+        },
+        {
+            "cause": "offshore exchanges",
+            "relation": "provide",
+            "effect": "crypto access"
+        }
+    ]
+}

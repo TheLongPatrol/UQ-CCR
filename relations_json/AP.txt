@@ -1,0 +1,159 @@
+{
+    "triples": [
+        {
+            "cause": "Born from the ashes of the 2008 global financial crisis",
+            "relation": "CAUSED",
+            "effect": "Bitcoin to arrive after trust had withered in the financial system and in Washington’s ability to protect participants."
+        },
+        {
+            "cause": "Washington’s embrace of bitcoin",
+            "relation": "HELPS",
+            "effect": "Send its price to records."
+        },
+        {
+            "cause": "Washington’s embrace of bitcoin",
+            "relation": "LINES",
+            "effect": "Pockets of bitcoin believers."
+        },
+        {
+            "cause": "President-elect Donald Trump’s announcement to nominate Paul Atkins",
+            "relation": "CAUSED",
+            "effect": "Bitcoin to briefly surge above $103,000."
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "WOULD REPLACE",
+            "effect": "Gary Gensler."
+        },
+        {
+            "cause": "Critics",
+            "relation": "SAY",
+            "effect": "Gary Gensler has been overly aggressive in oversight of crypto."
+        },
+        {
+            "cause": "Bitcoin’s swings in price",
+            "relation": "ARE",
+            "effect": "Notoriously extreme."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HAS DOUBLED",
+            "effect": "Its price this year."
+        },
+        {
+            "cause": "Big jump in bitcoin’s price",
+            "relation": "OCCURRED",
+            "effect": "After Election Day, when price was below $70,000."
+        },
+        {
+            "cause": "Trump’s campaign call to make the U.S. the crypto capital",
+            "relation": "REFLECTS",
+            "effect": "Pro-crypto political stance."
+        },
+        {
+            "cause": "Crypto industry",
+            "relation": "BROUGHT",
+            "effect": "Politicians friendly to digital currencies into Washington."
+        },
+        {
+            "cause": "Crypto corporations",
+            "relation": "POURED",
+            "effect": "Over $119 million into influencing federal elections in 2024."
+        },
+        {
+            "cause": "Money poured into PAC",
+            "relation": "DEDICATED TO",
+            "effect": "Electing pro-crypto candidates and defeating crypto skeptics."
+        },
+        {
+            "cause": "Crypto companies",
+            "relation": "ACCOUNTED FOR",
+            "effect": "44% of all corporate election contributions this year."
+        },
+        {
+            "cause": "Satoshi Nakamoto",
+            "relation": "CREATED",
+            "effect": "Bitcoin as electronic cash not beholden to government or financial institutions."
+        },
+        {
+            "cause": "Traditional way of doing business on the internet",
+            "relation": "WORKS",
+            "effect": "Well enough for most transactions."
+        },
+        {
+            "cause": "Traditional model",
+            "relation": "SUFFERS FROM",
+            "effect": "Inherent weaknesses of trust-based model."
+        },
+        {
+            "cause": "Banks or third parties",
+            "relation": "PROCESS",
+            "effect": "Payments in traditional model."
+        },
+        {
+            "cause": "Nakamoto",
+            "relation": "SUGGESTED",
+            "effect": "Harnessing computing power to create digital currency that can’t be double-spent."
+        },
+        {
+            "cause": "Bitcoin network",
+            "relation": "IS",
+            "effect": "Electronic payment system based on cryptographic proof instead of trust."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "MOVED",
+            "effect": "From financial fringes toward mainstream."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "FOUND",
+            "effect": "Popularity as “digital gold” or store of value."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "IS NOT SUBJECT TO",
+            "effect": "Direct influence of federal government or central bank."
+        },
+        {
+            "cause": "Early bitcoin users",
+            "relation": "INCLUDED",
+            "effect": "Drug dealers, scammers, crypto enthusiasts, libertarians, others avoiding government oversight."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HAS FOUND",
+            "effect": "Its way into investor portfolios."
+        },
+        {
+            "cause": "SEC",
+            "relation": "APPROVED",
+            "effect": "ETFs that track bitcoin’s spot price."
+        },
+        {
+            "cause": "ETFs",
+            "relation": "GIVE",
+            "effect": "Investors easy way to buy bitcoin in existing trading accounts."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HAS EXPERIENCED",
+            "effect": "Manic bull runs and “crypto winters” causing extreme declines."
+        },
+        {
+            "cause": "COVID-19 pandemic start",
+            "relation": "CAUSED",
+            "effect": "Bitcoin to rise from just over $5,000 to nearly $69,000 by late 2021."
+        },
+        {
+            "cause": "Federal Reserve interest rate hikes and FTX collapse",
+            "relation": "CAUSED",
+            "effect": "Bitcoin to crash below $17,000."
+        },
+        {
+            "cause": "Trump’s post on Truth Social",
+            "relation": "TAKES",
+            "effect": "Some credit for bitcoin reaching $100,000."
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin (BTC)",
+            "relation": "reached",
+            "effect": "an all-time high (ATH) of $103,600"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins as SEC Chair"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "broke through",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Donald Trump winning the 2024 United States Presidential Election",
+            "relation": "has been linked to",
+            "effect": "current Bitcoin rally"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "was",
+            "effect": "imminent"
+        },
+        {
+            "cause": "Factors (unspecified)",
+            "relation": "perfectly aligned",
+            "effect": "to drive Bitcoin price up"
+        },
+        {
+            "cause": "Tax policy around crypto",
+            "relation": "is",
+            "effect": "major catalyst for Bitcoin price increase"
+        },
+        {
+            "cause": "Talks of strategic BTC reserves",
+            "relation": "are",
+            "effect": "major catalyst for Bitcoin price increase"
+        },
+        {
+            "cause": "Continued inflows into Bitcoin ETFs",
+            "relation": "are",
+            "effect": "major catalyst for Bitcoin price increase"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "have seen",
+            "effect": "over $3.5 billion inflows in past 10 trading days"
+        },
+        {
+            "cause": "Farside data",
+            "relation": "shows",
+            "effect": "total Bitcoin ETF inflows of $31.6 billion since January"
+        },
+        {
+            "cause": "Crypto industry",
+            "relation": "has",
+            "effect": "several consecutive days of record-breaking inflows into spot Bitcoin ETFs"
+        },
+        {
+            "cause": "Short positions (~$1.12 billion)",
+            "relation": "clustered",
+            "effect": "between $91.5k and $92k"
+        },
+        {
+            "cause": "Bitcoin price",
+            "relation": "broke through",
+            "effect": "$91.5k and $92k levels"
+        },
+        {
+            "cause": "Breaking these levels",
+            "relation": "made",
+            "effect": "ride up to $100k very easy"
+        },
+        {
+            "cause": "BTC bull run",
+            "relation": "has led to",
+            "effect": "MicroStrategy and Metaplanet announcing new BTC purchases"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "now holds",
+            "effect": "1.5% of total BTC supply"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "marks",
+            "effect": "significant turning point for investors"
+        },
+        {
+            "cause": "$100,000 BTC mark",
+            "relation": "demonstrates",
+            "effect": "psychological level where people take BTC profits"
+        },
+        {
+            "cause": "Investors addicted to crypto profit",
+            "relation": "return",
+            "effect": "to seek more crypto"
+        },
+        {
+            "cause": "Entry into Solana (SOL) or Ethereum (ETH)",
+            "relation": "will fuel",
+            "effect": "full crypto bull run"
+        },
+        {
+            "cause": "BTC bullrun",
+            "relation": "is",
+            "effect": "not the same narrative as past bullruns"
+        },
+        {
+            "cause": "Memecoin rally / approval of ETH ETF / pro-DeFi regulation",
+            "relation": "may drive",
+            "effect": "Solana and Ethereum prices up"
+        },
+        {
+            "cause": "Bitcoin dominance stabilizing",
+            "relation": "will shift",
+            "effect": "attention to blue-chip DeFi tokens"
+        },
+        {
+            "cause": "New Bitcoin ATH",
+            "relation": "will lead to",
+            "effect": "increased growth within crypto sector"
+        },
+        {
+            "cause": "$100k BTC price",
+            "relation": "will result in",
+            "effect": "massive surge of retail purchases"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "creates",
+            "effect": "fear of missing out (FOMO) for retail investors"
+        },
+        {
+            "cause": "Increasing BTC value",
+            "relation": "will have",
+            "effect": "significant effect on retail investors"
+        },
+        {
+            "cause": "BTC price",
+            "relation": "is closer to",
+            "effect": "incorporation into different countries’ reserves"
+        },
+        {
+            "cause": "BTC reaching $120,000",
+            "relation": "may lead to",
+            "effect": "BTC dropping back around $90k"
+        }
+    ]
+}
