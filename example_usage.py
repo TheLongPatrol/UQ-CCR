@@ -22,7 +22,7 @@ def main():
     )
     
     # Load triples from JSON file
-    pipeline.load_triples_from_json('example_triples.json')
+    pipeline.load_triples_from_json('all_relations.json')
     
     # Build the knowledge graph
     pipeline.build_knowledge_graph()

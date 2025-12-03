@@ -9,6 +9,7 @@ from sentence_transformers import SentenceTransformer, util
 from transformers import pipeline, AutoTokenizer, AutoModelForMaskedLM, AutoConfig
 import numpy as np
 from transformers import AutoModelForSequenceClassification
+import pickle
 
 def load_data(article_dir, relation_dir):
     #Get article and relation files
@@ -31,7 +32,7 @@ def load_data(article_dir, relation_dir):
                 for word in sentence.split(" "):
                     stemmed.append(stemmer.stem(word))
                 stemmed_passage.append(" ".join(stemmed))
-            articles.append(sentences)
+            articles.append((article_name, sentences))
             stemmed_articles.append(stemmed_passage)
         relations = []
         relation_fname = relation_files[i]
@@ -143,7 +144,8 @@ def get_bert_probs(model_name, articles, article_relations, stemmed_articles, ar
     articles_probs = []
     articles_missing_triples = []
     for i in range(len(articles)):
-        sentences = articles[i]
+        article_name = articles[i][0]
+        sentences = articles[i][1]
         stemmed_sentences = stemmed_articles[i]
         stemmed_relations = article_stemmed_relations[i]
         relations = article_relations[i]
@@ -222,7 +224,7 @@ def get_bert_probs(model_name, articles, article_relations, stemmed_articles, ar
                 missing_triples.append([" ".join(premises), relations_as_str[j], (cause,relation,effect)])
                 
         articles_missing_triples.append(missing_triples)
-        articles_probs.append(relation_probs)
+        articles_probs.append((article_name, relation_probs))
         # if len(bert_scores) > 0:
         #     print("BERT scores:", np.percentile(np.array(bert_scores), [0,10,20,30,40,50,60,70,80,90,100]))
         # else:
@@ -279,7 +281,7 @@ def get_mnli_probs(model_name, article_dir, premise_hypos_per_article, output_di
             probabilities.append(probs[entail_ind])
             relation_and_label.append([hypothesis, config.id2label[np.argmax(probs)], str(probs.max())])
             article_relation_to_scores[hypothesis_parts] =  probs[entail_ind]
-        all_relation_to_scores.append(article_relation_to_scores)
+        all_relation_to_scores.append((article_name, article_relation_to_scores))
         entailment_scores = np.array(probabilities)
         with open(act_output_dir+"/"+article_name, "a+") as f:
             for line in relation_and_label:
@@ -299,6 +301,18 @@ def get_mnli_probs(model_name, article_dir, premise_hypos_per_article, output_di
     # print("Percentiles",np.percentile(all_entailment_scores, [0,10,20,30,40,50,60,70,80,90,100]))
     return all_relation_to_scores
 
+def get_context_probs(articles_dir, relations_dir, output_dir):
+    articles, article_relations, stemmed_articles, article_stemmed_relations = load_data(articles_dir, relations_dir)
+    bert_probs, premise_hypos_per_article = get_bert_probs("FacebookAI/roberta-large", articles, article_relations, stemmed_articles, article_stemmed_relations)
+    mnli_probs = get_mnli_probs("microsoft/deberta-large-mnli", articles_dir, premise_hypos_per_article, output_dir)
+    relation_probs_per_article = []
+    for i in range(len(bert_probs)):
+        if bert_probs[0] != mnli_probs:
+            print("article name and index mismatch!")
+        relation_probs_per_article.append((bert_probs[0], bert_probs[i][1] | mnli_probs[i][1]))
+    with open("context_scores.pkl", "wb") as f:
+        pickle.dump(relation_probs_per_article)
+    return relation_probs_per_article
 
 if __name__ == "__main__":
     articles_dir = "bitcoin_docs/"
@@ -311,5 +325,7 @@ if __name__ == "__main__":
     if len(bert_probs) != mnli_probs:
         print("UH OH, something went wrong")
     for i in range(len(bert_probs)):
-        relation_probs_per_article.append(bert_probs[i] | mnli_probs[i])
+        if bert_probs[0] != mnli_probs:
+            print("article name and index mismatch!")
+        relation_probs_per_article.append((bert_probs[0], bert_probs[i][1] | mnli_probs[i][1]))
     print(relation_probs_per_article)

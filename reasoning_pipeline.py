@@ -10,7 +10,9 @@ from query_processor import QueryProcessor
 from direction_classifier import DirectionClassifier
 from chain_ranker import ChainRanker
 import json
-
+from context_scorer import get_context_probs
+import pickle
+import os
 
 class ReasoningPipeline:
     """Main pipeline for knowledge graph-based reasoning."""
@@ -18,7 +20,8 @@ class ReasoningPipeline:
     def __init__(self, 
                  similarity_threshold: float = 0.85,
                  tau: float = 0.5,
-                 model_name: str = 'all-MiniLM-L6-v2'):
+                 model_name: str = 'all-MiniLM-L6-v2',
+                 use_scores: bool = False):
         """
         Initialize the reasoning pipeline.
         
@@ -35,7 +38,8 @@ class ReasoningPipeline:
         
         self.triples = []
         self.is_built = False
-        
+        self.use_scores = use_scores
+
     def load_triples_from_json(self, filepath: str):
         """
         Load triples from a JSON file.
@@ -67,7 +71,26 @@ class ReasoningPipeline:
         self.triples = triples
         print(f"Loaded {len(self.triples)} triples")
         
-    def build_knowledge_graph(self):
+    def load_triples_by_articles(self, article_dir, relation_dir):
+        article_names = sorted(os.listdir(article_dir))
+        relation_files = sorted(os.listdir(relation_dir))
+        article_relations = []
+        for i in range(len(article_names)):
+            article_name = article_names[i]
+            relation_fname = relation_files[i]
+            
+            with open(relation_dir+relation_fname) as f:
+                data = json.load(f)
+                if isinstance(data, dict) and 'triples' in data:
+                    relations = data['triples']
+                elif isinstance(data, list):
+                    relations = data
+                else:
+                    raise ValueError("JSON must contain 'triples' key or be a list of triples")
+            article_relations.append((article_name, relations))
+        return article_relations
+
+    def build_knowledge_graph(self, compute_scores_online = False):
         """Build the knowledge graph from loaded triples."""
         if not self.triples:
             raise ValueError("No triples loaded. Use load_triples_from_json() or load_triples_from_list() first.")
@@ -83,9 +106,31 @@ class ReasoningPipeline:
         # Cluster entities
         self.entity_clusterer.cluster_entities(list(entities))
         
+        if self.use_scores:
+            all_triples = []
+            articles_triples = self.load_triples_by_articles("bitcoin_docs/", "causal_relations/")
+            if compute_scores_online:
+                context_scores = get_context_probs("bitcoin_docs/", "causal_relations/")
+            else:
+                with open('context_scores.pkl', "rb") as f:
+                    context_scores = pickle.load(f)
+            for article_triple in articles_triples:
+                article_name = article_triple[0]
+                triples = article_triple[1]
+                article_scores = context_scores[article_name]
+                for triple in triples:
+                    triple_as_tuple = (triple['cause'], triple['relation'], triple['effect'])
+                    triple['score'] = article_scores[triple_as_tuple]
+                    all_triples.append(triple)
+            self.triples = all_triples
+
         # Normalize triples
-        normalized_triples = self.entity_clusterer.normalize_triples(self.triples)
+        if self.use_scores:
+            normalized_triples = self.entity_clusterer.normalize_triples_with_context_scores(self.triples)
+        else:
+            normalized_triples = self.entity_clusterer.normalize_triples(self.triples)
         print(f"Normalized triples to use canonical entities")
+
         
         print("\n" + "="*60)
         print("STEP 2: Knowledge Graph Construction")
@@ -219,8 +264,8 @@ class ReasoningPipeline:
         print(f"\nTop Reasoning Chains:")
         num_to_show = len(results['top_chains']) if show_all_chains else min(5, len(results['top_chains']))
         
-        for i, (chain, score) in enumerate(results['top_chains'][:num_to_show], 1):
-            formatted = self.chain_ranker.format_chain(chain, self.knowledge_graph, score)
+        for i, (chain, score, reliab_score) in enumerate(results['top_chains'][:num_to_show], 1):
+            formatted = self.chain_ranker.format_chain(chain, self.knowledge_graph, score, reliab_score)
             print(f"\n{i}. {formatted}")
         
         if len(results['top_chains']) > num_to_show:

@@ -6,14 +6,14 @@ Ranks reasoning chains based on semantic similarity to the query.
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
-from typing import List, Tuple, Dict
+from typing import List, Tuple, Dict, Optional
 from knowledge_graph import KnowledgeGraph
 
 
 class ChainRanker:
     """Ranks reasoning chains based on relevance to the query."""
     
-    def __init__(self, model_name: str = 'all-MiniLM-L6-v2'):
+    def __init__(self, model_name: str = 'all-MiniLM-L6-v2', use_reliability_scores: bool = False):
         """
         Initialize the chain ranker.
         
@@ -21,8 +21,8 @@ class ChainRanker:
             model_name: Name of the SentenceBERT model to use
         """
         self.model = SentenceTransformer(model_name)
-        
-    def aggregate_chain_evidence(self, chain: List[str], kg: KnowledgeGraph) -> str:
+        self.use_reliab_score = use_reliability_scores
+    def aggregate_chain_evidence(self, chain: List[str], kg: KnowledgeGraph) -> Tuple[str, Optional[float]]:
         """
         Aggregate evidence from a reasoning chain into a single text.
         
@@ -38,23 +38,36 @@ class ChainRanker:
         
         # Build chain description with relations
         chain_parts = []
+        reliab_score = 0
         for i in range(len(chain)):
             chain_parts.append(chain[i])
             
             # Add relation if there's a next node
             if i < len(chain) - 1:
-                relation = kg.get_edge_relation(chain[i], chain[i+1])
-                if not relation:
-                    # Check reverse direction
-                    relation = kg.get_edge_relation(chain[i+1], chain[i])
-                if relation:
-                    chain_parts.append(f"[{relation}]")
+                if self.use_reliab_score:
+                    relation, rel_score = kg.get_edge_relation_with_score(chain[i], chain[i+1])
+                    # if not relation:
+                    #     # Check reverse direction
+                    #     relation = kg.get_edge_relation_with_score(chain[i+1], chain[i])
+                    if relation:
+                        chain_parts.append(f"[{relation}]")
+                    reliab_score+=rel_score
+                else:
+                    relation = kg.get_edge_relation(chain[i], chain[i+1])
+                    # if not relation:
+                    #     # Check reverse direction
+                    #     relation = kg.get_edge_relation(chain[i+1], chain[i])
+                    if relation:
+                        chain_parts.append(f"[{relation}]")
         
         # Join into coherent text
         aggregated = " → ".join(chain_parts)
-        return aggregated
+        if self.use_reliab_score:
+            return aggregated, reliab_score
+        else:
+            return aggregated, None
     
-    def score_chain(self, query: str, chain: List[str], kg: KnowledgeGraph) -> float:
+    def score_chain(self, query: str, chain: List[str], kg: KnowledgeGraph) -> Tuple[float, Optional[float]]:
         """
         Score a single reasoning chain based on query relevance.
         
@@ -67,7 +80,7 @@ class ChainRanker:
             Similarity score between query and chain
         """
         # Aggregate chain evidence
-        chain_text = self.aggregate_chain_evidence(chain, kg)
+        chain_text, reliab_score = self.aggregate_chain_evidence(chain, kg)
         
         if not chain_text:
             return 0.0
@@ -79,10 +92,10 @@ class ChainRanker:
         # Compute cosine similarity
         similarity = cosine_similarity([query_embedding], [chain_embedding])[0][0]
         
-        return float(similarity)
+        return float(similarity), reliab_score
     
     def score_chain_with_features(self, query: str, chain: List[str], 
-                                  kg: KnowledgeGraph, weights: Dict[str, float] = None) -> float:
+                                  kg: KnowledgeGraph, weights: Dict[str, float] = None) -> Tuple[float, Optional[float]]:
         """
         Score a chain using multiple features.
         
@@ -103,7 +116,7 @@ class ChainRanker:
             }
         
         # Feature 1: Semantic similarity
-        semantic_score = self.score_chain(query, chain, kg)
+        semantic_score, reliab_score = self.score_chain(query, chain, kg)
         
         # Feature 2: Chain length (normalized, prefer moderate lengths)
         optimal_length = 4
@@ -122,11 +135,11 @@ class ChainRanker:
             weights['node_importance'] * importance_score
         )
         
-        return float(total_score)
+        return float(total_score), reliab_score
     
     def rank_chains(self, query: str, chains: List[List[str]], 
                    kg: KnowledgeGraph, top_k: int = 10,
-                   use_features: bool = True) -> List[Tuple[List[str], float]]:
+                   use_features: bool = True, thresh: float=0.85) -> List[Tuple[List[str], float]]:
         """
         Rank all reasoning chains and return top-k.
         
@@ -149,10 +162,13 @@ class ChainRanker:
         scored_chains = []
         for chain in chains:
             if use_features:
-                score = self.score_chain_with_features(query, chain, kg)
+                score, reliab_score = self.score_chain_with_features(query, chain, kg)
             else:
-                score = self.score_chain(query, chain, kg)
-            scored_chains.append((chain, score))
+                score, reliab_score = self.score_chain(query, chain, kg)
+            if self.use_reliab_score and reliab_score > 0.85:
+                scored_chains.append((chain, score, reliab_score))
+            elif not self.use_reliab_score:
+                scored_chains.append((chain, score, None))
         
         # Sort by score (descending)
         scored_chains.sort(key=lambda x: x[1], reverse=True)
@@ -163,7 +179,7 @@ class ChainRanker:
         print(f"Top {len(top_chains)} chains selected")
         return top_chains
     
-    def format_chain(self, chain: List[str], kg: KnowledgeGraph, score: float = None) -> str:
+    def format_chain(self, chain: List[str], kg: KnowledgeGraph, score: float = None, reliab_score: float = None) -> str:
         """
         Format a reasoning chain for display.
         
@@ -185,8 +201,8 @@ class ChainRanker:
             if i < len(chain) - 1:
                 # Get relation
                 relation = kg.get_edge_relation(chain[i], chain[i+1])
-                if not relation:
-                    relation = kg.get_edge_relation(chain[i+1], chain[i])
+                # if not relation:
+                #     relation = kg.get_edge_relation(chain[i+1], chain[i])
                 
                 if relation:
                     formatted_parts.append(f" --[{relation}]--> ")
@@ -195,7 +211,11 @@ class ChainRanker:
         
         chain_str = "".join(formatted_parts)
         
-        if score is not None:
+        if reliab_score is not None and score is not None:
+            chain_str = f"[Reliability score: {reliab_score:.3f}] [Score: {score:.3f}] {chain_str}"
+        elif reliab_score is not None:
+            chain_str = f"[Reliability score: {reliab_score:.3f}] {chain_str}"
+        elif score is not None:
             chain_str = f"[Score: {score:.3f}] {chain_str}"
         
         return chain_str
