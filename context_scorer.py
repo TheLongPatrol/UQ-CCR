@@ -308,7 +308,8 @@ def get_context_probs(articles_dir, relations_dir, output_dir):
     mnli_probs = get_mnli_probs("microsoft/deberta-large-mnli", articles_dir, premise_hypos_per_article, output_dir)
     relation_probs_per_article = []
     for i in range(len(bert_probs)):
-        if bert_probs[0] != mnli_probs:
+        if bert_probs[i][0] != mnli_probs[i][0]:
+            print(bert_probs[i][0], mnli_probs[i][0])
             print("article name and index mismatch!")
         relation_probs_per_article.append((bert_probs[0], bert_probs[i][1] | mnli_probs[i][1]))
     with open("context_scores.pkl", "wb") as f:
