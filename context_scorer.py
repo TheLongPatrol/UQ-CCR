@@ -315,14 +315,30 @@ if __name__ == "__main__":
     articles_dir = "bitcoin_docs/"
     relations_dir = "causal_relations/"
     output_dir = "outputs/"
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--bert", action="store_true")
+    parser.add_argument('--mnli', action="store_true")
+    args = parser.parse_args()
+    # get_context_probs(articles_dir, relations_dir, output_dir)
     articles, article_relations, stemmed_articles, article_stemmed_relations = load_data(articles_dir, relations_dir)
-    bert_probs, premise_hypos_per_article = get_bert_probs("FacebookAI/roberta-large", articles, article_relations, stemmed_articles, article_stemmed_relations)
-    mnli_probs = get_mnli_probs("microsoft/deberta-large-mnli", articles_dir, premise_hypos_per_article, output_dir)
-    relation_probs_per_article = []
-    if len(bert_probs) != mnli_probs:
-        print("UH OH, something went wrong")
-    for i in range(len(bert_probs)):
-        if bert_probs[0] != mnli_probs:
-            print("article name and index mismatch!")
-        relation_probs_per_article.append((bert_probs[0], bert_probs[i][1] | mnli_probs[i][1]))
-    print(relation_probs_per_article)
+    if args.bert:
+        bert_probs, premise_hypos_per_article = get_bert_probs("FacebookAI/roberta-large", articles, article_relations, stemmed_articles, article_stemmed_relations)
+        with open(output_dir+"bert_scores.pkl", "wb") as f:
+            pickle.dump(bert_probs, f)
+        with open(output_dir+"missing_triples.pkl", "wb") as f:
+            pickle.dump(premise_hypos_per_article, f)
+    else:
+        with open('bert_outputs/bert_scores.pkl', 'rb') as f:
+            bert_probs = pickle.load(f)
+        with open('bert_outputs/missing_triples.pkl', 'rb') as f:
+            premise_hypos_per_article = pickle.load(f)
+       # bert_probs, premise_hypos_per_article = get_bert_probs("FacebookAI/roberta-large", articles, article_relations, stemmed_articles, article_stemmed_relations)
+        mnli_probs = get_mnli_probs("microsoft/deberta-large-mnli", articles_dir, premise_hypos_per_article, output_dir)
+        relation_probs_per_article = []
+        for i in range(len(bert_probs)):
+            if bert_probs[0] != mnli_probs[0]:
+                print("article name and index mismatch!")
+            relation_probs_per_article.append((bert_probs[0], bert_probs[i][1] | mnli_probs[i][1]))
+        with open(output_dir+"context_scores.pkl", "wb") as f:
+            pickle.dump(relation_probs_per_article, f)
