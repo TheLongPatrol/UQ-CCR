@@ -5,9 +5,9 @@ sources_list = [
     "Reuters",
     "Vox",
     "Financial Times",
-    "Barron's",
-    "Barron's_2",
-    "Investor's Business Daily",
+    "Barrons",
+    "Barrons_2",
+    "Investors Business Daily",
     "WSJ",
     "The Sun",
     "The Sun_2",
@@ -42,16 +42,16 @@ def convert_to_news_source(article_names, file_dir):
         article_number = int(article_name.replace("article", "").replace("doc", "").replace(ext, ""))
 
         source = sources_list[article_number - 1]
-        os.rename(file_dir+file_name, file_dir+source+".txt")
+        os.rename(file_dir+file_name, file_dir+source+"."+ext)
 
 # Example Usage
-file_dir = "bitcoin_docs/"
-article_files = os.listdir(file_dir)
-news_sources = convert_to_news_source(article_files, file_dir)
+# file_dir = "bitcoin_docs/"
+# article_files = os.listdir(file_dir)
+# news_sources = convert_to_news_source(article_files, file_dir)
 
-file_dir = "relations/"
-article_files = os.listdir(file_dir)
-news_sources = convert_to_news_source(article_files, file_dir)
+# file_dir = "relations/"
+# article_files = os.listdir(file_dir)
+# news_sources = convert_to_news_source(article_files, file_dir)
 
 file_dir = "relations_json/"
 article_files = os.listdir(file_dir)
