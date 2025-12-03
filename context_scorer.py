@@ -199,7 +199,7 @@ def get_bert_probs(model_name, articles, article_relations, stemmed_articles, ar
                     for k in range(len(masks)):
                         matched_sent_as_list[k+relation_start_ind] ="<mask>"
                     masked_sent = " ".join(matched_sent_as_list)
-                if len(relation_words) > 3:
+                if len(relation_words) < 3:
                     predictions = bert_masked_prediction(bert_tokenizer, bert_model, masked_sent, device)
                 else:
                     predictions = bert_masked_prediction(bert_tokenizer, bert_model, masked_sent, device, top_k_per_mask=3)

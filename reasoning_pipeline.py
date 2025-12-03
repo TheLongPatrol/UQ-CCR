@@ -34,7 +34,7 @@ class ReasoningPipeline:
         self.knowledge_graph = KnowledgeGraph()
         self.query_processor = QueryProcessor(model_name, tau)
         self.direction_classifier = DirectionClassifier(model_name)
-        self.chain_ranker = ChainRanker(model_name)
+        self.chain_ranker = ChainRanker(model_name, use_reliability_scores=use_scores)
         
         self.triples = []
         self.is_built = False
@@ -110,7 +110,7 @@ class ReasoningPipeline:
             all_triples = []
             articles_triples = self.load_triples_by_articles("bitcoin_docs/", "causal_relations/")
             if compute_scores_online:
-                context_scores = get_context_probs("bitcoin_docs/", "causal_relations/")
+                context_scores = get_context_probs("bitcoin_docs/", "causal_relations/", "out/")
             else:
                 with open('context_scores.pkl', "rb") as f:
                     context_scores = pickle.load(f)
