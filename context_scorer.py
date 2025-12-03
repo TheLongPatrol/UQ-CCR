@@ -313,7 +313,7 @@ def get_context_probs(articles_dir, relations_dir, output_dir):
 
 if __name__ == "__main__":
     articles_dir = "bitcoin_docs/"
-    relations_dir = "causal_relations/"
+    relations_dir = "relations/"
     output_dir = "outputs/"
     import argparse
     parser = argparse.ArgumentParser()
