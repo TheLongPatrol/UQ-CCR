@@ -35,8 +35,6 @@ def main():
     #     relations_json_dir='relations_misinfo_json/'
     # )
     
-    # Load triples from JSON file
-    pipeline.load_triples_from_json('all_relations.json')
     
     # Build the knowledge graph
     pipeline.build_knowledge_graph()
@@ -48,7 +46,7 @@ def main():
     print("EXAMPLE 1")
     print("="*80)
     
-    query1 = "How did Andrew Yang’s advocacy for blockchain technology influence Bitcoin’s adoption?"
+    query1 = "How did the nomination of Sarah Kline cause Bitcoin's price to rise?"
     context1, results1 = pipeline.query_for_context(
         query1,
         max_depth=5,

@@ -362,6 +362,7 @@ class ReasoningPipeline:
     def get_orig_sentence(self, triples_and_articles):
         sentences = []
         for triple_as_tuple, article_names in triples_and_articles:
+            print(triple_as_tuple, article_names)
             for article_name in article_names:
                 sentences.append(self.triples_to_sent_per_art[article_name][triple_as_tuple])
         return sentences
