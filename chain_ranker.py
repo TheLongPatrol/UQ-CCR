@@ -45,18 +45,19 @@ class ChainRanker:
             # Add relation if there's a next node
             if i < len(chain) - 1:
                 if self.use_reliab_score:
-                    relation, rel_score = kg.get_edge_relation_with_score(chain[i], chain[i+1])
-                    # if not relation:
-                    #     # Check reverse direction
-                    #     relation = kg.get_edge_relation_with_score(chain[i+1], chain[i])
+                    result = kg.get_edge_relation_with_score(chain[i], chain[i+1])
+                    if not result:
+                        # Check reverse direction
+                        relation = kg.get_edge_relation_with_score(chain[i+1], chain[i])
+                    relation, rel_score = result
                     if relation:
                         chain_parts.append(f"[{relation}]")
                     reliab_score+=rel_score
                 else:
                     relation = kg.get_edge_relation(chain[i], chain[i+1])
-                    # if not relation:
-                    #     # Check reverse direction
-                    #     relation = kg.get_edge_relation(chain[i+1], chain[i])
+                    if not relation:
+                        # Check reverse direction
+                        relation = kg.get_edge_relation(chain[i+1], chain[i])
                     if relation:
                         chain_parts.append(f"[{relation}]")
         
