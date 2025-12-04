@@ -92,7 +92,7 @@ class ReasoningPipeline:
             article_name = article_names[i]
             relation_fname = relation_files[i]
             
-            with open(self.relation_dir+relation_fname) as f:
+            with open(self.relation_json_dir+relation_fname) as f:
                 data = json.load(f)
                 if isinstance(data, dict) and 'triples' in data:
                     relations = data['triples']
