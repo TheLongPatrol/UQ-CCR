@@ -1,0 +1,114 @@
+{
+    "triples": [
+        {
+            "cause": "The cryptocurrency market",
+            "relation": "celebrated",
+            "effect": "a historic milestone"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "eclipsed",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Trump’s announcement of pro-crypto nominee David Harlan",
+            "relation": "fueled",
+            "effect": "Bitcoin eclipsing $100,000"
+        },
+        {
+            "cause": "President-elect Donald Trump",
+            "relation": "announced",
+            "effect": "pro-crypto nominee David Harlan"
+        },
+        {
+            "cause": "David Harlan",
+            "relation": "is poised to replace",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler’s tenure",
+            "relation": "was marked by",
+            "effect": "aggressive lawsuits"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "filed aggressive lawsuits against",
+            "effect": "exchanges like Binance and Coinbase"
+        },
+        {
+            "cause": "Bitcoin’s value",
+            "relation": "has doubled since",
+            "effect": "the start of 2024"
+        },
+        {
+            "cause": "Bitcoin’s value",
+            "relation": "spiked by 55% after",
+            "effect": "the election"
+        },
+        {
+            "cause": "The 55% post-election spike",
+            "relation": "pushed",
+            "effect": "Bitcoin’s market cap beyond $2 trillion"
+        },
+        {
+            "cause": "Trump’s team",
+            "relation": "is stacking the deck in favor of",
+            "effect": "crypto deregulation"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to establish",
+            "effect": "a “Crypto Innovation Council”"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to explore",
+            "effect": "Bitcoin as a hedge against inflation"
+        },
+        {
+            "cause": "Trump’s pledges",
+            "relation": "echoed",
+            "effect": "sentiments from allies like Senator Mark Warner"
+        },
+        {
+            "cause": "Robust inflows into Bitcoin ETFs",
+            "relation": "coincide with",
+            "effect": "the surge"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "have amassed",
+            "effect": "$28 billion"
+        },
+        {
+            "cause": "ETFs",
+            "relation": "were approved earlier this year by",
+            "effect": "major players including Goldman Sachs"
+        },
+        {
+            "cause": "Jerome Powell",
+            "relation": "likened",
+            "effect": "Bitcoin to “a modern alternative to traditional commodities”"
+        },
+        {
+            "cause": "Skeptics",
+            "relation": "highlight",
+            "effect": "past crashes"
+        },
+        {
+            "cause": "Terra-Luna collapse",
+            "relation": "caused",
+            "effect": "a 70% drop in 2022"
+        },
+        {
+            "cause": "Paul Rivera",
+            "relation": "warned",
+            "effect": "this rally could unwind if regulatory promises fall short"
+        },
+        {
+            "cause": "Supportive policies",
+            "relation": "could push",
+            "effect": "Bitcoin to potential highs of $150,000 by mid-2025"
+        }
+    ]
+}

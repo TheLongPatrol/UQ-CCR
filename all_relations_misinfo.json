@@ -1,0 +1,5744 @@
+{
+    "triples": [
+        {
+            "cause": "Born from the ashes of the 2008 global financial crisis",
+            "relation": "CAUSED",
+            "effect": "Bitcoin to arrive after trust had withered in the financial system and in Washington’s ability to protect participants."
+        },
+        {
+            "cause": "Washington’s embrace of bitcoin",
+            "relation": "HELPS",
+            "effect": "Send its price to records."
+        },
+        {
+            "cause": "Washington’s embrace of bitcoin",
+            "relation": "LINES",
+            "effect": "Pockets of bitcoin believers."
+        },
+        {
+            "cause": "President-elect Donald Trump’s announcement to nominate Paul Atkins",
+            "relation": "CAUSED",
+            "effect": "Bitcoin to briefly surge above $103,000."
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "WOULD REPLACE",
+            "effect": "Gary Gensler."
+        },
+        {
+            "cause": "Critics",
+            "relation": "SAY",
+            "effect": "Gary Gensler has been overly aggressive in oversight of crypto."
+        },
+        {
+            "cause": "Bitcoin’s swings in price",
+            "relation": "ARE",
+            "effect": "Notoriously extreme."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HAS DOUBLED",
+            "effect": "Its price this year."
+        },
+        {
+            "cause": "Big jump in bitcoin’s price",
+            "relation": "OCCURRED",
+            "effect": "After Election Day, when price was below $70,000."
+        },
+        {
+            "cause": "Trump’s campaign call to make the U.S. the crypto capital",
+            "relation": "REFLECTS",
+            "effect": "Pro-crypto political stance."
+        },
+        {
+            "cause": "Crypto industry",
+            "relation": "BROUGHT",
+            "effect": "Politicians friendly to digital currencies into Washington."
+        },
+        {
+            "cause": "Crypto corporations",
+            "relation": "POURED",
+            "effect": "Over $119 million into influencing federal elections in 2024."
+        },
+        {
+            "cause": "Money poured into PAC",
+            "relation": "DEDICATED TO",
+            "effect": "Electing pro-crypto candidates and defeating crypto skeptics."
+        },
+        {
+            "cause": "Crypto companies",
+            "relation": "ACCOUNTED FOR",
+            "effect": "44% of all corporate election contributions this year."
+        },
+        {
+            "cause": "Satoshi Nakamoto",
+            "relation": "CREATED",
+            "effect": "Bitcoin as electronic cash not beholden to government or financial institutions."
+        },
+        {
+            "cause": "Traditional way of doing business on the internet",
+            "relation": "WORKS",
+            "effect": "Well enough for most transactions."
+        },
+        {
+            "cause": "Traditional model",
+            "relation": "SUFFERS FROM",
+            "effect": "Inherent weaknesses of trust-based model."
+        },
+        {
+            "cause": "Banks or third parties",
+            "relation": "PROCESS",
+            "effect": "Payments in traditional model."
+        },
+        {
+            "cause": "Nakamoto",
+            "relation": "SUGGESTED",
+            "effect": "Harnessing computing power to create digital currency that can’t be double-spent."
+        },
+        {
+            "cause": "Bitcoin network",
+            "relation": "IS",
+            "effect": "Electronic payment system based on cryptographic proof instead of trust."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "MOVED",
+            "effect": "From financial fringes toward mainstream."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "FOUND",
+            "effect": "Popularity as “digital gold” or store of value."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "IS NOT SUBJECT TO",
+            "effect": "Direct influence of federal government or central bank."
+        },
+        {
+            "cause": "Early bitcoin users",
+            "relation": "INCLUDED",
+            "effect": "Drug dealers, scammers, crypto enthusiasts, libertarians, others avoiding government oversight."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HAS FOUND",
+            "effect": "Its way into investor portfolios."
+        },
+        {
+            "cause": "SEC",
+            "relation": "APPROVED",
+            "effect": "ETFs that track bitcoin’s spot price."
+        },
+        {
+            "cause": "ETFs",
+            "relation": "GIVE",
+            "effect": "Investors easy way to buy bitcoin in existing trading accounts."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HAS EXPERIENCED",
+            "effect": "Manic bull runs and “crypto winters” causing extreme declines."
+        },
+        {
+            "cause": "COVID-19 pandemic start",
+            "relation": "CAUSED",
+            "effect": "Bitcoin to rise from just over $5,000 to nearly $69,000 by late 2021."
+        },
+        {
+            "cause": "Federal Reserve interest rate hikes and FTX collapse",
+            "relation": "CAUSED",
+            "effect": "Bitcoin to crash below $17,000."
+        },
+        {
+            "cause": "Trump’s post on Truth Social",
+            "relation": "TAKES",
+            "effect": "Some credit for bitcoin reaching $100,000."
+        },
+        {
+            "cause": "Gold",
+            "relation": "surged",
+            "effect": "nearly 30% this year"
+        },
+        {
+            "cause": "Election",
+            "relation": "caused",
+            "effect": "gold to lose some of its shine"
+        },
+        {
+            "cause": "Donald Trump’s embracing of Bitcoin",
+            "relation": "could be",
+            "effect": "a problem for gold"
+        },
+        {
+            "cause": "Crypto enthusiasts",
+            "relation": "felt",
+            "effect": "heartened by Powell’s comments"
+        },
+        {
+            "cause": "Jerome Powell",
+            "relation": "said",
+            "effect": "Bitcoin was like gold but digital"
+        },
+        {
+            "cause": "Powell’s comments",
+            "relation": "encouraged",
+            "effect": "crypto enthusiasts"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "think",
+            "effect": "gold could lose appeal as investors move to Bitcoin"
+        },
+        {
+            "cause": "Investors and government",
+            "relation": "cozying up to",
+            "effect": "Bitcoin could reduce gold’s appeal"
+        },
+        {
+            "cause": "Cynthia Lummis",
+            "relation": "introduced",
+            "effect": "a bill for Treasury to buy one million Bitcoin"
+        },
+        {
+            "cause": "Lummis’s bill",
+            "relation": "calls for",
+            "effect": "Treasury Department to buy Bitcoin over five years"
+        },
+        {
+            "cause": "Lummis’s bill",
+            "relation": "proposes",
+            "effect": "creation of Strategic Bitcoin Reserve"
+        },
+        {
+            "cause": "Lummis’s bill",
+            "relation": "suggests",
+            "effect": "Federal Reserve regional banks sell gold"
+        },
+        {
+            "cause": "Federal Reserve banks",
+            "relation": "sell gold holdings",
+            "effect": "to purchase Bitcoin"
+        },
+        {
+            "cause": "Combined pro-Bitcoin actions",
+            "relation": "explain",
+            "effect": "gold price decline since Election Day"
+        },
+        {
+            "cause": "Gold prices",
+            "relation": "fell",
+            "effect": "about 3% since Election Day"
+        },
+        {
+            "cause": "Bitcoin price",
+            "relation": "soared",
+            "effect": "more than 30% to above $100,000"
+        },
+        {
+            "cause": "Investors",
+            "relation": "shunned",
+            "effect": "gold in favor of crypto"
+        },
+        {
+            "cause": "Global gold ETFs",
+            "relation": "posted",
+            "effect": "monthly outflows in November"
+        },
+        {
+            "cause": "Gold ETFs",
+            "relation": "experienced",
+            "effect": "first outflows since April"
+        },
+        {
+            "cause": "BlackRock’s iShares Bitcoin Trust ETF",
+            "relation": "accumulated",
+            "effect": "more than $50 billion in assets"
+        },
+        {
+            "cause": "iShares Bitcoin Trust ETF",
+            "relation": "surpassed",
+            "effect": "BlackRock’s gold ETF in size"
+        },
+        {
+            "cause": "iShares Gold Trust",
+            "relation": "holds",
+            "effect": "$33 billion in assets"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "outperformed",
+            "effect": "gold"
+        },
+        {
+            "cause": "Bitcoin’s outperformance trend",
+            "relation": "could",
+            "effect": "continue"
+        },
+        {
+            "cause": "Crypto enthusiasts",
+            "relation": "gained",
+            "effect": "supporters in Washington"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "received",
+            "effect": "support from governments and investors"
+        },
+        {
+            "cause": "Government and investor support",
+            "relation": "could lead to",
+            "effect": "Bitcoin adoption as national reserve currency"
+        },
+        {
+            "cause": "Bitcoin reserve",
+            "relation": "could diversify",
+            "effect": "assets"
+        },
+        {
+            "cause": "Bitcoin reserve",
+            "relation": "could hedge",
+            "effect": "against dollar’s declining value"
+        },
+        {
+            "cause": "Powell’s comments on Bitcoin",
+            "relation": "encouraged",
+            "effect": "market sentiment"
+        },
+        {
+            "cause": "Powell’s remarks",
+            "relation": "quelled",
+            "effect": "concerns about central bank hostility toward Bitcoin"
+        },
+        {
+            "cause": "Powell’s remarks",
+            "relation": "propelled",
+            "effect": "hopes that policy leaders will embrace crypto"
+        },
+        {
+            "cause": "Gold",
+            "relation": "retains",
+            "effect": "place in portfolios despite Bitcoin’s rise"
+        },
+        {
+            "cause": "Gold",
+            "relation": "is less",
+            "effect": "volatile than Bitcoin"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has experienced",
+            "effect": "70–80% pullbacks roughly every four years"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "tends to drop",
+            "effect": "alongside falling stock market"
+        },
+        {
+            "cause": "High volatility",
+            "relation": "reduces",
+            "effect": "Bitcoin’s stability as a store of value"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "lacks",
+            "effect": "clear investing or economic purpose"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "remains",
+            "effect": "speculative and ill-suited for diversified portfolios"
+        },
+        {
+            "cause": "David Dziekanski",
+            "relation": "argued",
+            "effect": "Bitcoin and gold could complement each other"
+        },
+        {
+            "cause": "Bitcoin and gold",
+            "relation": "are",
+            "effect": "long-term stores of value"
+        },
+        {
+            "cause": "Low correlation between Bitcoin and gold",
+            "relation": "makes",
+            "effect": "them interesting pair for diversification"
+        },
+        {
+            "cause": "Quantify Funds",
+            "relation": "launched",
+            "effect": "STKD Bitcoin & Gold ETF"
+        },
+        {
+            "cause": "STKD Bitcoin & Gold ETF",
+            "relation": "owns",
+            "effect": "both crypto and precious metals"
+        },
+        {
+            "cause": "Dziekanski",
+            "relation": "suggested",
+            "effect": "Bitcoin and gold together can diversify portfolios"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "would benefit from",
+            "effect": "greater market acceptance"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "would benefit from",
+            "effect": "meaningful government support"
+        },
+        {
+            "cause": "Bitcoin ETFs and Trump administration",
+            "relation": "provide",
+            "effect": "strong backing for Bitcoin"
+        },
+        {
+            "cause": "Trump administration’s support",
+            "relation": "strengthens",
+            "effect": "crypto market confidence"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "now has",
+            "effect": "ample support from Wall Street and Washington"
+        },
+        {
+            "cause": "Chairman and controlling shareholder of MicroStrategy",
+            "relation": "turned",
+            "effect": "smallish business software company into world’s largest corporate Bitcoin holder"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "holds",
+            "effect": "2% of the Bitcoins outstanding"
+        },
+        {
+            "cause": "Stake",
+            "relation": "is worth",
+            "effect": "more than $40 billion"
+        },
+        {
+            "cause": "Company’s market value",
+            "relation": "is",
+            "effect": "almost 2½ times that of company’s Bitcoins (adjusted for debt and software business)"
+        },
+        {
+            "cause": "Gap between market value and Bitcoin value",
+            "relation": "is",
+            "effect": "heart of the debate about company"
+        },
+        {
+            "cause": "Company",
+            "relation": "sold stock and convertible bonds",
+            "effect": "to fund Bitcoin purchases"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "calls",
+            "effect": "MicroStrategy a “Bitcoin treasury company”"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "bridges",
+            "effect": "traditional capital markets and crypto economy"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "serves as",
+            "effect": "vehicle to connect markets"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "has been",
+            "effect": "convincing"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "gained",
+            "effect": "huge retail following"
+        },
+        {
+            "cause": "Retail following",
+            "relation": "contributed to",
+            "effect": "500% gain in MicroStrategy’s stock"
+        },
+        {
+            "cause": "Trading",
+            "relation": "has been",
+            "effect": "heavy in both stock and options"
+        },
+        {
+            "cause": "Options volume",
+            "relation": "rivaled",
+            "effect": "that of Nvidia and Tesla"
+        },
+        {
+            "cause": "Premium",
+            "relation": "looks",
+            "effect": "too high"
+        },
+        {
+            "cause": "Stock",
+            "relation": "is vulnerable to",
+            "effect": "pullback"
+        },
+        {
+            "cause": "Pullback",
+            "relation": "may occur if",
+            "effect": "postelection run-up in Bitcoin reverses"
+        },
+        {
+            "cause": "Investors",
+            "relation": "are paying",
+            "effect": "nearly $240,000 per company Bitcoin"
+        },
+        {
+            "cause": "Price per Bitcoin",
+            "relation": "exceeds",
+            "effect": "market price"
+        },
+        {
+            "cause": "Risk",
+            "relation": "is that",
+            "effect": "MicroStrategy fails to keep pace with Bitcoin gains if premium contracts"
+        },
+        {
+            "cause": "Stock",
+            "relation": "dropped",
+            "effect": "25% from Nov. 21 peak"
+        },
+        {
+            "cause": "Premium",
+            "relation": "leaked out of",
+            "effect": "stock"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "record highs"
+        },
+        {
+            "cause": "Institutional ownership",
+            "relation": "is",
+            "effect": "low"
+        },
+        {
+            "cause": "Success of company’s strategy",
+            "relation": "hinges on",
+            "effect": "ability to find stock buyers at large premium"
+        },
+        {
+            "cause": "Michael Saylor",
+            "relation": "used",
+            "effect": "evangelical qualities to get cult following"
+        },
+        {
+            "cause": "Cult following",
+            "relation": "buys",
+            "effect": "stock at two to three times Bitcoin value"
+        },
+        {
+            "cause": "True Bitcoin believers",
+            "relation": "own",
+            "effect": "digital asset directly"
+        },
+        {
+            "cause": "MicroStrategy (past)",
+            "relation": "sold",
+            "effect": "business analytics software"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "started buying",
+            "effect": "Bitcoin in 2020"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has",
+            "effect": "capped issuance at 21 million"
+        },
+        {
+            "cause": "20 million Bitcoins",
+            "relation": "are",
+            "effect": "outstanding"
+        },
+        {
+            "cause": "Remaining 5%",
+            "relation": "will be",
+            "effect": "mined"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "believes",
+            "effect": "Bitcoin is going much higher"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "sees",
+            "effect": "50% annual returns for Bitcoin"
+        },
+        {
+            "cause": "Stock premium",
+            "relation": "is",
+            "effect": "2024 phenomenon"
+        },
+        {
+            "cause": "From 2022–2023, MicroStrategy",
+            "relation": "traded",
+            "effect": "near parity with Bitcoin value"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "started 2024 with",
+            "effect": "30% premium"
+        },
+        {
+            "cause": "Donald Trump’s presidential win",
+            "relation": "energized",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Trump’s crypto-friendly views",
+            "relation": "boosted",
+            "effect": "market sentiment"
+        },
+        {
+            "cause": "Trump’s appointment of Paul Atkins",
+            "relation": "helped push",
+            "effect": "Bitcoin above $100,000"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "flipped",
+            "effect": "typical corporate policy on stock issuance"
+        },
+        {
+            "cause": "Company",
+            "relation": "issued",
+            "effect": "$21 billion of stock and $21 billion of bonds"
+        },
+        {
+            "cause": "Company",
+            "relation": "used",
+            "effect": "proceeds to purchase Bitcoin"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "sold",
+            "effect": "about $10.5 billion of equity"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "issued",
+            "effect": "$3 billion convertible bond"
+        },
+        {
+            "cause": "Company",
+            "relation": "is on pace to",
+            "effect": "achieve fundraising goal next year"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "raised",
+            "effect": "Bitcoin holdings by 60% since Sept. 30"
+        },
+        {
+            "cause": "Higher purchases",
+            "relation": "lifted",
+            "effect": "average Bitcoin cost to $58,000"
+        },
+        {
+            "cause": "Buying at higher prices",
+            "relation": "increased",
+            "effect": "average cost"
+        },
+        {
+            "cause": "Jim Chanos",
+            "relation": "pointed out",
+            "effect": "company bought little Bitcoin in 2022"
+        },
+        {
+            "cause": "Company",
+            "relation": "bought",
+            "effect": "a lot of Bitcoin now at record levels"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "addressed",
+            "effect": "dilution concerns"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "stated",
+            "effect": "plan is to accrete shareholders"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "developed",
+            "effect": "metric called Bitcoin “yield”"
+        },
+        {
+            "cause": "Bitcoin “yield”",
+            "relation": "measures",
+            "effect": "change in Bitcoin per share"
+        },
+        {
+            "cause": "Bitcoin per 1,000 shares",
+            "relation": "rose from",
+            "effect": "0.9 to 1.5 this year"
+        },
+        {
+            "cause": "Company",
+            "relation": "highlights",
+            "effect": "high stock volatility as positive"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "said",
+            "effect": "MicroStrategy is 10× as volatile as S&P 500"
+        },
+        {
+            "cause": "Volatility",
+            "relation": "allowed",
+            "effect": "company to issue convertible debt at attractive prices"
+        },
+        {
+            "cause": "Bond buyers",
+            "relation": "like",
+            "effect": "volatile stocks"
+        },
+        {
+            "cause": "Latest deal",
+            "relation": "carried",
+            "effect": "zero interest rate and 55% conversion premium"
+        },
+        {
+            "cause": "Adding debt",
+            "relation": "carries",
+            "effect": "risk"
+        },
+        {
+            "cause": "In 2022, Bitcoin drop",
+            "relation": "caused",
+            "effect": "investor concern about debt repayment"
+        },
+        {
+            "cause": "Debt",
+            "relation": "traded",
+            "effect": "below 50 cents on the dollar"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "described",
+            "effect": "buying Bitcoin via stock and bond sales as Treasury operations"
+        },
+        {
+            "cause": "Issuing lots of stock",
+            "relation": "is right if",
+            "effect": "investors buy at large premium"
+        },
+        {
+            "cause": "Company",
+            "relation": "offers equity",
+            "effect": "through at-the-market sales"
+        },
+        {
+            "cause": "Bloomberg",
+            "relation": "reported",
+            "effect": "company has analyst coverage from eight firms"
+        },
+        {
+            "cause": "All analysts",
+            "relation": "have",
+            "effect": "Buy ratings"
+        },
+        {
+            "cause": "Analysts’ optimism",
+            "relation": "has been",
+            "effect": "justified"
+        },
+        {
+            "cause": "Klymochko",
+            "relation": "argued",
+            "effect": "investors use “mental jujitsu” to justify valuation"
+        },
+        {
+            "cause": "Closed-end funds",
+            "relation": "usually trade",
+            "effect": "at discount to NAV"
+        },
+        {
+            "cause": "Benchmark analyst Mark Palmer",
+            "relation": "wrote",
+            "effect": "detractors questioned premium valuation"
+        },
+        {
+            "cause": "Palmer",
+            "relation": "argued",
+            "effect": "company creates shareholder value via treasury operations"
+        },
+        {
+            "cause": "Treasury operations",
+            "relation": "involve",
+            "effect": "raising proceeds to buy more Bitcoin"
+        },
+        {
+            "cause": "Palmer",
+            "relation": "has",
+            "effect": "Buy rating and $650 price target"
+        },
+        {
+            "cause": "Treasury operations",
+            "relation": "valued at",
+            "effect": "$100 billion in his model"
+        },
+        {
+            "cause": "Two leveraged ETFs on MicroStrategy",
+            "relation": "exist",
+            "effect": "with $4 billion in assets"
+        },
+        {
+            "cause": "If stock drops and investors exit ETFs",
+            "relation": "ETFs must",
+            "effect": "unwind holdings"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "unlikely to be added",
+            "effect": "to S&P 500 due to lack of recurring earnings"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "may be added",
+            "effect": "to Nasdaq 100 at Dec. 13 reconstitution"
+        },
+        {
+            "cause": "Given dangers",
+            "relation": "investors should consider",
+            "effect": "low-fee Bitcoin ETFs"
+        },
+        {
+            "cause": "iShares Bitcoin Trust",
+            "relation": "has",
+            "effect": "annual fee of 0.25%"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "is",
+            "effect": "cult stock with $100 billion valuation"
+        },
+        {
+            "cause": "Valuation",
+            "relation": "supported by",
+            "effect": "$40 billion in assets"
+        },
+        {
+            "cause": "Situation",
+            "relation": "may not end well for",
+            "effect": "investors"
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "has blasted through",
+            "effect": "the $100,000 threshold"
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "is influenced by",
+            "effect": "Donald Trump's election victory"
+        },
+        {
+            "cause": "Trump's election victory",
+            "relation": "helped",
+            "effect": "push Bitcoin's price higher"
+        },
+        {
+            "cause": "Trump celebrating milestone on social media",
+            "relation": "influenced",
+            "effect": "public perception/confidence in Bitcoin"
+        },
+        {
+            "cause": "Trump's pledge to make US a crypto capital",
+            "relation": "influenced",
+            "effect": "Bitcoin's price increase"
+        },
+        {
+            "cause": "Trump nominating Paul Atkins to SEC",
+            "relation": "caused",
+            "effect": "Bitcoin to break through $100k barrier"
+        },
+        {
+            "cause": "Paul Atkins being pro-crypto",
+            "relation": "influences",
+            "effect": "expectations of favorable crypto regulation"
+        },
+        {
+            "cause": "Anticipation of new administration being favorable to crypto",
+            "relation": "has driven",
+            "effect": "Bitcoin's price trend"
+        },
+        {
+            "cause": "SEC enforcement under Gensler",
+            "relation": "caused",
+            "effect": "previous regulatory pressure on crypto"
+        },
+        {
+            "cause": "FTX collapse",
+            "relation": "caused",
+            "effect": "Bitcoin price to fall sharply below $16,000 in 2022"
+        },
+        {
+            "cause": "SEC approval of spot Bitcoin ETFs",
+            "relation": "caused",
+            "effect": "investor confidence to increase"
+        },
+        {
+            "cause": "ETF approval",
+            "relation": "allowed",
+            "effect": "Blackrock, Fidelity, Grayscale to sell Bitcoin-based products"
+        },
+        {
+            "cause": "ETF product inflows",
+            "relation": "caused",
+            "effect": "increased capital investment in Bitcoin"
+        },
+        {
+            "cause": "Fear of missing out (FOMO) among younger people",
+            "relation": "drives",
+            "effect": "Bitcoin’s price to continue rising"
+        },
+        {
+            "cause": "Momentum in crypto markets",
+            "relation": "causes",
+            "effect": "increased caution among investors"
+        },
+        {
+            "cause": "Speculation",
+            "relation": "drives",
+            "effect": "Bitcoin's volatility"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "$100,000 for the first time on Wednesday"
+        },
+        {
+            "cause": "The cryptocurrency",
+            "relation": "has risen",
+            "effect": "over $30,000 since Donald Trump's reelection"
+        },
+        {
+            "cause": "Trump",
+            "relation": "picked",
+            "effect": "Paul Atkins to run the SEC"
+        },
+        {
+            "cause": "Investors",
+            "relation": "fueled",
+            "effect": "a red-hot rally"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "reached",
+            "effect": "six-figure milestone"
+        },
+        {
+            "cause": "The coin",
+            "relation": "traded",
+            "effect": "at $100,400 around 9:30 p.m. ET"
+        },
+        {
+            "cause": "The coin",
+            "relation": "continued climbing",
+            "effect": "after the $100,000 mark"
+        },
+        {
+            "cause": "The token",
+            "relation": "approached",
+            "effect": "milestone last month"
+        },
+        {
+            "cause": "Investors",
+            "relation": "took",
+            "effect": "profits"
+        },
+        {
+            "cause": "Investors",
+            "relation": "struggled",
+            "effect": "to clear the important psychological resistance level"
+        },
+        {
+            "cause": "The world's largest cryptocurrency",
+            "relation": "has climbed",
+            "effect": "steadily since Trump won the election"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "rose",
+            "effect": "from just under $70,000 on Election Day to $100,000 in just over two weeks"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "predicted",
+            "effect": "bitcoin could keep going higher"
+        },
+        {
+            "cause": "Standard Chartered",
+            "relation": "said",
+            "effect": "crypto could rally to $125,000 by the end of the year"
+        },
+        {
+            "cause": "Craig Johnson",
+            "relation": "said",
+            "effect": "he saw bitcoin headed toward $130,000"
+        },
+        {
+            "cause": "Michael Saylor",
+            "relation": "said",
+            "effect": "his long-term forecast is for bitcoin to hit $13 million by 2045"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is up",
+            "effect": "133% year-to-date"
+        },
+        {
+            "cause": "Trump's nomination of Paul Atkins",
+            "relation": "pushed",
+            "effect": "bitcoin higher"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "is viewed",
+            "effect": "as pro-crypto"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "cochairs",
+            "effect": "Chamber of Digital Commerce's Token Alliance"
+        },
+        {
+            "cause": "If confirmed, Atkins",
+            "relation": "would replace",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "has taken",
+            "effect": "a more aggressive approach to regulating crypto"
+        },
+        {
+            "cause": "Reports",
+            "relation": "cheered",
+            "effect": "the market"
+        },
+        {
+            "cause": "Trump",
+            "relation": "could appoint",
+            "effect": "a \"crypto czar\" in the White House"
+        },
+        {
+            "cause": "Trump",
+            "relation": "could create",
+            "effect": "a new position to guide the market"
+        },
+        {
+            "cause": "Senator Cynthia Lummis",
+            "relation": "reignited",
+            "effect": "market excitement"
+        },
+        {
+            "cause": "Senator Cynthia Lummis",
+            "relation": "said",
+            "effect": "Federal Reserve should sell some gold to buy bitcoin"
+        },
+        {
+            "cause": "Selling gold and buying bitcoin",
+            "relation": "avoids",
+            "effect": "having to print new money"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "said",
+            "effect": "Trump represented a \"paradigm shift\" for industry regulation"
+        },
+        {
+            "cause": "Novogratz",
+            "relation": "predicted",
+            "effect": "bitcoin would undergo a correction after hitting $100,000"
+        },
+        {
+            "cause": "Novogratz",
+            "relation": "said",
+            "effect": "bitcoin would eventually continue to rally"
+        },
+        {
+            "cause": "The entire cabinet",
+            "relation": "owns",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "The cabinet",
+            "relation": "are proponents of",
+            "effect": "digital assets"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "said",
+            "effect": "Republicans taking control would be a tailwind for the crypto industry"
+        },
+        {
+            "cause": "Red wave",
+            "relation": "converted",
+            "effect": "headwinds into tailwinds"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "praised",
+            "effect": "Atkins"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "said",
+            "effect": "bitcoin still is in early innings"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "said",
+            "effect": "her firm believes bitcoin is a much bigger idea than gold"
+        },
+        {
+            "cause": "Bitcoin (BTC)",
+            "relation": "reached",
+            "effect": "an all-time high (ATH) of $103,600"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins as SEC Chair"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "broke through",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Donald Trump winning the 2024 United States Presidential Election",
+            "relation": "has been linked to",
+            "effect": "current Bitcoin rally"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "was",
+            "effect": "imminent"
+        },
+        {
+            "cause": "Factors (unspecified)",
+            "relation": "perfectly aligned",
+            "effect": "to drive Bitcoin price up"
+        },
+        {
+            "cause": "Tax policy around crypto",
+            "relation": "is",
+            "effect": "major catalyst for Bitcoin price increase"
+        },
+        {
+            "cause": "Talks of strategic BTC reserves",
+            "relation": "are",
+            "effect": "major catalyst for Bitcoin price increase"
+        },
+        {
+            "cause": "Continued inflows into Bitcoin ETFs",
+            "relation": "are",
+            "effect": "major catalyst for Bitcoin price increase"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "have seen",
+            "effect": "over $3.5 billion inflows in past 10 trading days"
+        },
+        {
+            "cause": "Farside data",
+            "relation": "shows",
+            "effect": "total Bitcoin ETF inflows of $31.6 billion since January"
+        },
+        {
+            "cause": "Crypto industry",
+            "relation": "has",
+            "effect": "several consecutive days of record-breaking inflows into spot Bitcoin ETFs"
+        },
+        {
+            "cause": "Short positions (~$1.12 billion)",
+            "relation": "clustered",
+            "effect": "between $91.5k and $92k"
+        },
+        {
+            "cause": "Bitcoin price",
+            "relation": "broke through",
+            "effect": "$91.5k and $92k levels"
+        },
+        {
+            "cause": "Breaking these levels",
+            "relation": "made",
+            "effect": "ride up to $100k very easy"
+        },
+        {
+            "cause": "BTC bull run",
+            "relation": "has led to",
+            "effect": "MicroStrategy and Metaplanet announcing new BTC purchases"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "now holds",
+            "effect": "1.5% of total BTC supply"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "marks",
+            "effect": "significant turning point for investors"
+        },
+        {
+            "cause": "$100,000 BTC mark",
+            "relation": "demonstrates",
+            "effect": "psychological level where people take BTC profits"
+        },
+        {
+            "cause": "Investors addicted to crypto profit",
+            "relation": "return",
+            "effect": "to seek more crypto"
+        },
+        {
+            "cause": "Entry into Solana (SOL) or Ethereum (ETH)",
+            "relation": "will fuel",
+            "effect": "full crypto bull run"
+        },
+        {
+            "cause": "BTC bullrun",
+            "relation": "is",
+            "effect": "not the same narrative as past bullruns"
+        },
+        {
+            "cause": "Memecoin rally / approval of ETH ETF / pro-DeFi regulation",
+            "relation": "may drive",
+            "effect": "Solana and Ethereum prices up"
+        },
+        {
+            "cause": "Bitcoin dominance stabilizing",
+            "relation": "will shift",
+            "effect": "attention to blue-chip DeFi tokens"
+        },
+        {
+            "cause": "New Bitcoin ATH",
+            "relation": "will lead to",
+            "effect": "increased growth within crypto sector"
+        },
+        {
+            "cause": "$100k BTC price",
+            "relation": "will result in",
+            "effect": "massive surge of retail purchases"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "creates",
+            "effect": "fear of missing out (FOMO) for retail investors"
+        },
+        {
+            "cause": "Increasing BTC value",
+            "relation": "will have",
+            "effect": "significant effect on retail investors"
+        },
+        {
+            "cause": "BTC price",
+            "relation": "is closer to",
+            "effect": "incorporation into different countries’ reserves"
+        },
+        {
+            "cause": "BTC reaching $120,000",
+            "relation": "may lead to",
+            "effect": "BTC dropping back around $90k"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "soared past",
+            "effect": "$100,000 mark."
+        },
+        {
+            "cause": "Growing investor confidence",
+            "relation": "drove",
+            "effect": "Bitcoin soaring past $100,000."
+        },
+        {
+            "cause": "Growing investor confidence",
+            "relation": "was in",
+            "effect": "a pro-crypto shift under the incoming Trump administration."
+        },
+        {
+            "cause": "Pro-crypto shift under the incoming Trump administration",
+            "relation": "generated",
+            "effect": "growing investor confidence."
+        },
+        {
+            "cause": "The cryptocurrency (Bitcoin)",
+            "relation": "closed at",
+            "effect": "around $69,500 on Election Day."
+        },
+        {
+            "cause": "The cryptocurrency (Bitcoin)",
+            "relation": "climbed over",
+            "effect": "45% in the weeks since Donald Trump's victory."
+        },
+        {
+            "cause": "Donald Trump's victory",
+            "relation": "preceded",
+            "effect": "the cryptocurrency climbing over 45%."
+        },
+        {
+            "cause": "Other digital assets (Ethereum and Litecoin)",
+            "relation": "followed suit with",
+            "effect": "notable gains."
+        },
+        {
+            "cause": "Other digital assets (Ethereum and Litecoin)",
+            "relation": "experienced",
+            "effect": "notable gains."
+        },
+        {
+            "cause": "The surge",
+            "relation": "reflects",
+            "effect": "optimism around Trump's cabinet picks."
+        },
+        {
+            "cause": "Trump's cabinet picks (including Sarah Kline's nomination)",
+            "relation": "generated",
+            "effect": "optimism."
+        },
+        {
+            "cause": "Sarah Kline's nomination",
+            "relation": "is to head",
+            "effect": "the Commodity Futures Trading Commission (CFTC)."
+        },
+        {
+            "cause": "Sarah Kline",
+            "relation": "is",
+            "effect": "a crypto-friendly regulator."
+        },
+        {
+            "cause": "Kline",
+            "relation": "was",
+            "effect": "a former advisor to blockchain initiatives."
+        },
+        {
+            "cause": "Kline",
+            "relation": "is expected to advocate for",
+            "effect": "lighter regulations on digital currencies."
+        },
+        {
+            "cause": "The nomination (of Kline)",
+            "relation": "signals",
+            "effect": "a green light for innovation in the crypto space."
+        },
+        {
+            "cause": "Mark Feldman",
+            "relation": "said",
+            "effect": "the nomination signals a green light for innovation in the crypto space."
+        },
+        {
+            "cause": "Mark Feldman",
+            "relation": "is",
+            "effect": "a senior analyst at Blockchain Insights."
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed to position",
+            "effect": "the U.S. as a global leader in blockchain technology."
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "a national crypto framework."
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "reduced oversight from agencies like the SEC."
+        },
+        {
+            "cause": "Critics of the outgoing Biden administration",
+            "relation": "point to",
+            "effect": "Gary Gensler's stringent enforcement actions."
+        },
+        {
+            "cause": "Critics",
+            "relation": "argue that",
+            "effect": "Gary Gensler's stringent enforcement actions stifled growth."
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "is",
+            "effect": "SEC Chair."
+        },
+        {
+            "cause": "Industry leaders",
+            "relation": "dubbed",
+            "effect": "Gary Gensler a \"crypto adversary\"."
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "announced",
+            "effect": "his resignation effective January 20."
+        },
+        {
+            "cause": "Institutional adoption",
+            "relation": "amplified",
+            "effect": "the rally."
+        },
+        {
+            "cause": "Spot Bitcoin ETFs from firms like Vanguard and State Street",
+            "relation": "attracted",
+            "effect": "over $25 billion in inflows this year."
+        },
+        {
+            "cause": "Spot Bitcoin ETFs",
+            "relation": "are from",
+            "effect": "firms like Vanguard and State Street."
+        },
+        {
+            "cause": "Over $25 billion in inflows",
+            "relation": "contributed to",
+            "effect": "amplification of the rally."
+        },
+        {
+            "cause": "Some experts",
+            "relation": "warn of",
+            "effect": "volatility ahead."
+        },
+        {
+            "cause": "Emily Torres",
+            "relation": "noted",
+            "effect": "similar booms have been followed by corrections."
+        },
+        {
+            "cause": "Emily Torres",
+            "relation": "is",
+            "effect": "an economist at Global Finance Group."
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "dipped slightly after",
+            "effect": "hitting $104,200."
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "remains above",
+            "effect": "$101,000."
+        },
+        {
+            "cause": "Bitcoin's price behavior",
+            "relation": "underscores",
+            "effect": "its evolution from a fringe asset to a mainstream investment."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has evolved from",
+            "effect": "a fringe asset to a mainstream investment."
+        },
+        {
+            "cause": "Trump preparing to take office",
+            "relation": "led the crypto community to",
+            "effect": "anticipate policies."
+        },
+        {
+            "cause": "The crypto community",
+            "relation": "anticipates",
+            "effect": "policies that could include tax incentives for miners."
+        },
+        {
+            "cause": "The crypto community",
+            "relation": "anticipates",
+            "effect": "policies that could include integration of digital assets into federal reserves."
+        },
+        {
+            "cause": "The cryptocurrency market",
+            "relation": "celebrated",
+            "effect": "a historic milestone"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "eclipsed",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Trump’s announcement of pro-crypto nominee David Harlan",
+            "relation": "fueled",
+            "effect": "Bitcoin eclipsing $100,000"
+        },
+        {
+            "cause": "President-elect Donald Trump",
+            "relation": "announced",
+            "effect": "pro-crypto nominee David Harlan"
+        },
+        {
+            "cause": "David Harlan",
+            "relation": "is poised to replace",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler’s tenure",
+            "relation": "was marked by",
+            "effect": "aggressive lawsuits"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "filed aggressive lawsuits against",
+            "effect": "exchanges like Binance and Coinbase"
+        },
+        {
+            "cause": "Bitcoin’s value",
+            "relation": "has doubled since",
+            "effect": "the start of 2024"
+        },
+        {
+            "cause": "Bitcoin’s value",
+            "relation": "spiked by 55% after",
+            "effect": "the election"
+        },
+        {
+            "cause": "The 55% post-election spike",
+            "relation": "pushed",
+            "effect": "Bitcoin’s market cap beyond $2 trillion"
+        },
+        {
+            "cause": "Trump’s team",
+            "relation": "is stacking the deck in favor of",
+            "effect": "crypto deregulation"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to establish",
+            "effect": "a “Crypto Innovation Council”"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to explore",
+            "effect": "Bitcoin as a hedge against inflation"
+        },
+        {
+            "cause": "Trump’s pledges",
+            "relation": "echoed",
+            "effect": "sentiments from allies like Senator Mark Warner"
+        },
+        {
+            "cause": "Robust inflows into Bitcoin ETFs",
+            "relation": "coincide with",
+            "effect": "the surge"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "have amassed",
+            "effect": "$28 billion"
+        },
+        {
+            "cause": "ETFs",
+            "relation": "were approved earlier this year by",
+            "effect": "major players including Goldman Sachs"
+        },
+        {
+            "cause": "Jerome Powell",
+            "relation": "likened",
+            "effect": "Bitcoin to “a modern alternative to traditional commodities”"
+        },
+        {
+            "cause": "Skeptics",
+            "relation": "highlight",
+            "effect": "past crashes"
+        },
+        {
+            "cause": "Terra-Luna collapse",
+            "relation": "caused",
+            "effect": "a 70% drop in 2022"
+        },
+        {
+            "cause": "Paul Rivera",
+            "relation": "warned",
+            "effect": "this rally could unwind if regulatory promises fall short"
+        },
+        {
+            "cause": "Supportive policies",
+            "relation": "could push",
+            "effect": "Bitcoin to potential highs of $150,000 by mid-2025"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "shattered",
+            "effect": "$100,000 barrier"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "climbed to",
+            "effect": "$105,000"
+        },
+        {
+            "cause": "heightened expectations",
+            "relation": "accompanied",
+            "effect": "Bitcoin's climb"
+        },
+        {
+            "cause": "expectations of a crypto-friendly Trump White House",
+            "relation": "influenced",
+            "effect": "market sentiment"
+        },
+        {
+            "cause": "digital currency's price",
+            "relation": "has surged",
+            "effect": "48%"
+        },
+        {
+            "cause": "Donald Trump's election win",
+            "relation": "preceded",
+            "effect": "price surge"
+        },
+        {
+            "cause": "price",
+            "relation": "transformed from",
+            "effect": "$68,000 to $105,000"
+        },
+        {
+            "cause": "Trump's selection of Elena Vasquez",
+            "relation": "is attributed as cause of",
+            "effect": "Bitcoin boom"
+        },
+        {
+            "cause": "Elena Vasquez",
+            "relation": "was selected to oversee",
+            "effect": "Office of the Comptroller of the Currency"
+        },
+        {
+            "cause": "Vasquez",
+            "relation": "supported",
+            "effect": "integrating cryptocurrencies into the banking system"
+        },
+        {
+            "cause": "Biden era",
+            "relation": "imposed",
+            "effect": "crackdowns"
+        },
+        {
+            "cause": "industry voices",
+            "relation": "are",
+            "effect": "jubilant"
+        },
+        {
+            "cause": "Tyler Brooks",
+            "relation": "tweeted",
+            "effect": "statement"
+        },
+        {
+            "cause": "regulator",
+            "relation": "gets",
+            "effect": "it (crypto understanding)"
+        },
+        {
+            "cause": "Trump's campaign",
+            "relation": "included",
+            "effect": "promises of U.S. Digital Asset Strategy"
+        },
+        {
+            "cause": "Trump's campaign",
+            "relation": "included",
+            "effect": "incentives for domestic mining"
+        },
+        {
+            "cause": "rally",
+            "relation": "lifted",
+            "effect": "related stocks"
+        },
+        {
+            "cause": "Riot Blockchain",
+            "relation": "increased by",
+            "effect": "60%"
+        },
+        {
+            "cause": "Kraken",
+            "relation": "saw",
+            "effect": "record volumes"
+        },
+        {
+            "cause": "Bitcoin's energy-intensive mining",
+            "relation": "draws",
+            "effect": "criticism"
+        },
+        {
+            "cause": "Rachel Klein",
+            "relation": "said",
+            "effect": "carbon footprint is unsustainable"
+        },
+        {
+            "cause": "federal comments from Treasury Secretary nominee",
+            "relation": "buoyed",
+            "effect": "sentiment"
+        },
+        {
+            "cause": "comments",
+            "relation": "suggested",
+            "effect": "Bitcoin could rival gold reserves"
+        },
+        {
+            "cause": "optimists",
+            "relation": "predict",
+            "effect": "$200,000 by 2026"
+        },
+        {
+            "cause": "historical volatility",
+            "relation": "tempers",
+            "effect": "excitement"
+        },
+        {
+            "cause": "2021 plunge",
+            "relation": "amounted to",
+            "effect": "65%"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hovered around",
+            "effect": "$103,000"
+        },
+        {
+            "cause": "hovering",
+            "relation": "signaled",
+            "effect": "continued market fervor"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "blasted through",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "reached",
+            "effect": "a peak of $106,500"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "settled at",
+            "effect": "$102,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "produced",
+            "effect": "a blockbuster moment for digital currencies"
+        },
+        {
+            "cause": "The explosive growth",
+            "relation": "is up",
+            "effect": "50% since President-elect Donald Trump's triumph"
+        },
+        {
+            "cause": "The explosive growth",
+            "relation": "underscores",
+            "effect": "investor bets on his pro-crypto agenda"
+        },
+        {
+            "cause": "Investor bets",
+            "relation": "are on",
+            "effect": "his pro-crypto agenda"
+        },
+        {
+            "cause": "Trump's naming of Jordan Ellis",
+            "relation": "was key to",
+            "effect": "the spike"
+        },
+        {
+            "cause": "Trump",
+            "relation": "named/appointed",
+            "effect": "Jordan Ellis to lead the Federal Reserve's digital currency task force"
+        },
+        {
+            "cause": "Jordan Ellis",
+            "relation": "will lead",
+            "effect": "the Federal Reserve's digital currency task force"
+        },
+        {
+            "cause": "Ellis",
+            "relation": "is known for",
+            "effect": "consulting on Ethereum projects"
+        },
+        {
+            "cause": "Ellis (appointment)",
+            "relation": "represents",
+            "effect": "a pivot from the restrictive policies under Janet Yellen's Treasury"
+        },
+        {
+            "cause": "Janet Yellen's Treasury",
+            "relation": "had",
+            "effect": "restrictive policies"
+        },
+        {
+            "cause": "Kyle Sanders",
+            "relation": "declared",
+            "effect": "\"This is crypto's golden era\""
+        },
+        {
+            "cause": "Kyle Sanders",
+            "relation": "declared on",
+            "effect": "social media"
+        },
+        {
+            "cause": "Trump",
+            "relation": "once dismissed",
+            "effect": "Bitcoin as a scam"
+        },
+        {
+            "cause": "Trump",
+            "relation": "now champions",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed during rallies to create",
+            "effect": "tax-free zones for crypto transactions"
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed during rallies to create",
+            "effect": "a government-backed stablecoin"
+        },
+        {
+            "cause": "ETF approvals",
+            "relation": "have supercharged",
+            "effect": "the surge"
+        },
+        {
+            "cause": "Products from JPMorgan Chase",
+            "relation": "have drawn",
+            "effect": "$22 billion in assets"
+        },
+        {
+            "cause": "Fed Vice Chair's nod",
+            "relation": "called Bitcoin",
+            "effect": "\"innovative finance\""
+        },
+        {
+            "cause": "Fed Vice Chair's nod",
+            "relation": "added",
+            "effect": "fuel (to the surge)"
+        },
+        {
+            "cause": "Detractors like Nora Feldman",
+            "relation": "caution",
+            "effect": "that bubbles burst"
+        },
+        {
+            "cause": "Nora Feldman",
+            "relation": "reminded (readers) of",
+            "effect": "the 2022 meltdown that wiped out trillions"
+        },
+        {
+            "cause": "The 2022 meltdown",
+            "relation": "wiped out",
+            "effect": "trillions"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "is",
+            "effect": "a major Bitcoin holder"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "saw its shares rocket",
+            "effect": "70%"
+        },
+        {
+            "cause": "The surge",
+            "relation": "caused (implied)",
+            "effect": "MicroStrategy's shares to rocket 70%"
+        },
+        {
+            "cause": "Trump",
+            "relation": "assembles",
+            "effect": "his team"
+        },
+        {
+            "cause": "The crypto world",
+            "relation": "eyes",
+            "effect": "policies that could integrate Bitcoin into national reserves"
+        },
+        {
+            "cause": "Policies",
+            "relation": "could integrate",
+            "effect": "Bitcoin into national reserves"
+        },
+        {
+            "cause": "Integration into national reserves",
+            "relation": "could drive",
+            "effect": "prices to $180,000 by late 2025"
+        },
+        {
+            "cause": "The crypto world",
+            "relation": "anticipates",
+            "effect": "prices potentially reaching $180,000 by late 2025"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "achieved",
+            "effect": "a monumental feat by surpassing $100,000."
+        },
+        {
+            "cause": "Surpassing $100,000",
+            "relation": "caused",
+            "effect": "Bitcoin to trade as high as $104,800."
+        },
+        {
+            "cause": "Euphoria over the Trump administration's crypto leanings",
+            "relation": "contributed to",
+            "effect": "Bitcoin trading as high as $104,800."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "rocketed",
+            "effect": "42% from $70,200 on Election Day."
+        },
+        {
+            "cause": "The 42% price increase",
+            "relation": "reflects",
+            "effect": "hopes for deregulation."
+        },
+        {
+            "cause": "Trump's appointment of Mia Gonzalez as advisor on digital assets",
+            "relation": "served as",
+            "effect": "the catalyst."
+        },
+        {
+            "cause": "Trump",
+            "relation": "appointed",
+            "effect": "Mia Gonzalez as advisor on digital assets in the White House."
+        },
+        {
+            "cause": "Mia Gonzalez's background in stablecoin development",
+            "relation": "contrasts with",
+            "effect": "the SEC's enforcement-heavy approach under Gary Gensler."
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "led",
+            "effect": "the SEC's enforcement-heavy approach."
+        },
+        {
+            "cause": "Greg Harlan (fintech analyst)",
+            "relation": "said",
+            "effect": "\"A new dawn for innovation.\""
+        },
+        {
+            "cause": "Trump's pledges",
+            "relation": "include",
+            "effect": "easing mining regulations."
+        },
+        {
+            "cause": "Trump's pledges",
+            "relation": "include",
+            "effect": "exploring Bitcoin for international trade settlements."
+        },
+        {
+            "cause": "Bitcoin ETFs from Charles Schwab and others",
+            "relation": "netted",
+            "effect": "$30 billion in inflows."
+        },
+        {
+            "cause": "The $30 billion in ETF inflows",
+            "relation": "contributed to",
+            "effect": "swelled institutional interest."
+        },
+        {
+            "cause": "Powell's offhand comparison of Bitcoin to \"electronic silver\"",
+            "relation": "bolstered",
+            "effect": "confidence."
+        },
+        {
+            "cause": "A 2023 dip",
+            "relation": "caused",
+            "effect": "prices to halve."
+        },
+        {
+            "cause": "Scandals in 2023",
+            "relation": "accompanied",
+            "effect": "the 2023 dip that halved prices."
+        },
+        {
+            "cause": "Sarah Kline (professor)",
+            "relation": "advises",
+            "effect": "proceed with caution."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "stabilized at",
+            "effect": "$101,500 Thursday."
+        },
+        {
+            "cause": "Projections (if reforms pass)",
+            "relation": "eye",
+            "effect": "$140,000 for Bitcoin."
+        },
+        {
+            "cause": "The stabilization and bullish projections",
+            "relation": "mark",
+            "effect": "crypto's shift from outsider to economic staple."
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "closed",
+            "effect": "just below $70,000 on election day"
+        },
+        {
+            "cause": "Donald Trump heading back to the White House",
+            "relation": "caused",
+            "effect": "bitcoin price to soar"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "started trading",
+            "effect": "above $100,000"
+        },
+        {
+            "cause": "Trump nominating Paul Atkins",
+            "relation": "led to",
+            "effect": "bitcoin price spike"
+        },
+        {
+            "cause": "Paul Atkins nomination",
+            "relation": "delighted",
+            "effect": "crypto community"
+        },
+        {
+            "cause": "Trump",
+            "relation": "could have named anyone other than Gary Gensler and crypto community",
+            "effect": "would have been delighted"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "pro-crypto"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "said",
+            "effect": "positive things about crypto industry"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "expressed",
+            "effect": "views on improving crypto regulation"
+        },
+        {
+            "cause": "Atkins’s pro-crypto stance",
+            "relation": "helped",
+            "effect": "push bitcoin price to six-figure levels"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "became",
+            "effect": "enemy number one for crypto world"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "branded",
+            "effect": "crypto sector as Wild West"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "described",
+            "effect": "crypto as rife with fraud and risk"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "refused",
+            "effect": "to craft regulation for digital assets"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "claimed",
+            "effect": "existing securities laws were sufficient"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "cracked down",
+            "effect": "through enforcement actions"
+        },
+        {
+            "cause": "Gensler’s enforcement",
+            "relation": "angered",
+            "effect": "crypto industry"
+        },
+        {
+            "cause": "Crypto players",
+            "relation": "accused Gensler of",
+            "effect": "regulating by enforcement"
+        },
+        {
+            "cause": "Crypto investors and executives",
+            "relation": "hated",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Jesse Powell",
+            "relation": "insulted",
+            "effect": "Gary Gensler online"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "to create bitcoin strategic reserve fund"
+        },
+        {
+            "cause": "Trump",
+            "relation": "helped launch",
+            "effect": "crypto company backed by his sons and Steve Wyckoff"
+        },
+        {
+            "cause": "Steve Wyckoff",
+            "relation": "appointed",
+            "effect": "U.S. Middle East envoy"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promoted",
+            "effect": "U.S.-based bitcoin mining"
+        },
+        {
+            "cause": "Trump’s promotion of U.S. crypto industry",
+            "relation": "delighted",
+            "effect": "crypto community"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "to fire Gary Gensler on day one"
+        },
+        {
+            "cause": "Crypto community",
+            "relation": "welcomed",
+            "effect": "Trump’s hint of creating regulatory council for crypto"
+        },
+        {
+            "cause": "Trump’s regulatory council plan",
+            "relation": "represented",
+            "effect": "major shift from Gensler’s approach"
+        },
+        {
+            "cause": "SEC under Gensler",
+            "relation": "launched",
+            "effect": "lawsuits against Coinbase, Kraken, and other firms"
+        },
+        {
+            "cause": "Trump firing Gensler",
+            "relation": "aimed to end",
+            "effect": "SEC lawsuits and regulation by enforcement"
+        },
+        {
+            "cause": "Crypto executives",
+            "relation": "demanded",
+            "effect": "regulation allowing banks to serve crypto firms"
+        },
+        {
+            "cause": "Crypto firms",
+            "relation": "wanted",
+            "effect": "ability to hold crypto on balance sheets"
+        },
+        {
+            "cause": "Regulatory reform",
+            "relation": "intended to",
+            "effect": "bring crypto into mainstream finance"
+        },
+        {
+            "cause": "Integration of crypto into mainstream finance",
+            "relation": "would affect",
+            "effect": "U.S. financial system"
+        },
+        {
+            "cause": "Crypto crash after mainstream integration",
+            "relation": "would devastate",
+            "effect": "financial institutions and consumers"
+        },
+        {
+            "cause": "FTX collapse in 2022",
+            "relation": "caused",
+            "effect": "bitcoin price plunge and retail investor losses"
+        },
+        {
+            "cause": "Involvement of big banks and asset managers",
+            "relation": "would amplify",
+            "effect": "impact of future crypto crashes"
+        },
+        {
+            "cause": "Crypto industry history of fraud",
+            "relation": "justified",
+            "effect": "Gensler’s caution"
+        },
+        {
+            "cause": "Crypto’s newness",
+            "relation": "created",
+            "effect": "regulatory uncertainty"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "indicated",
+            "effect": "openness to crafting crypto rules"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "advocated for",
+            "effect": "SEC listening to market participants"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "saw",
+            "effect": "potential for investor benefits"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "emphasized",
+            "effect": "capital formation as SEC’s key role"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "enmeshed in",
+            "effect": "crypto industry"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "serves on",
+            "effect": "advisory board of Chamber of Digital Commerce"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "advises",
+            "effect": "Securitize, a blockchain tokenization firm"
+        },
+        {
+            "cause": "Atkins’s ties to crypto",
+            "relation": "shape",
+            "effect": "his views differently from Gensler"
+        },
+        {
+            "cause": "Trump",
+            "relation": "attracted",
+            "effect": "powerful, cutting-edge business figures"
+        },
+        {
+            "cause": "Big tech and VC crypto players",
+            "relation": "became",
+            "effect": "aligned with Trump"
+        },
+        {
+            "cause": "Crypto ethos",
+            "relation": "aligns with",
+            "effect": "Trump’s minimal government oversight philosophy"
+        },
+        {
+            "cause": "Crypto philosophy",
+            "relation": "based on",
+            "effect": "freedom from government and banks"
+        },
+        {
+            "cause": "Bitcoin’s early appeal",
+            "relation": "rooted in",
+            "effect": "anti-establishment ideals"
+        },
+        {
+            "cause": "White House acceptance of crypto",
+            "relation": "symbolizes",
+            "effect": "institutional embrace of bitcoin"
+        },
+        {
+            "cause": "Institutional embrace of bitcoin",
+            "relation": "contrasts with",
+            "effect": "crypto’s anti-establishment origins"
+        },
+        {
+            "cause": "Bitcoin’s institutionalization",
+            "relation": "makes it",
+            "effect": "less rebellious and less “sexy”"
+        },
+        {
+            "cause": "Early bitcoin holders",
+            "relation": "sought",
+            "effect": "to upend Wall Street"
+        },
+        {
+            "cause": "Modern bitcoin holders",
+            "relation": "seek",
+            "effect": "profit from rising value"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "evolved from",
+            "effect": "revolution to investment"
+        },
+        {
+            "cause": "Crypto booms and busts",
+            "relation": "show",
+            "effect": "volatility of market"
+        },
+        {
+            "cause": "Between 2021 and 2022",
+            "relation": "bitcoin value plunged",
+            "effect": "75%"
+        },
+        {
+            "cause": "Trump presidency",
+            "relation": "expected to",
+            "effect": "sustain crypto boom"
+        },
+        {
+            "cause": "Pro-crypto leadership",
+            "relation": "removed",
+            "effect": "negative pressures on crypto"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "provided",
+            "effect": "favorable environment for crypto"
+        },
+        {
+            "cause": "FTX-scale collapse",
+            "relation": "could",
+            "effect": "trigger bitcoin price plunge"
+        },
+        {
+            "cause": "Current crypto optimism",
+            "relation": "created",
+            "effect": "potentially risky complacency"
+        },
+        {
+            "cause": "Market euphoria",
+            "relation": "can precede",
+            "effect": "downturns or collapses"
+        },
+        {
+            "cause": "Fed",
+            "relation": "flips on",
+            "effect": "bitcoin and crypto price boom"
+        },
+        {
+            "cause": "Donald Trump's election victory",
+            "relation": "triggered",
+            "effect": "bitcoin surge"
+        },
+        {
+            "cause": "bitcoin price",
+            "relation": "is braced for",
+            "effect": "game-changer"
+        },
+        {
+            "cause": "bitcoin price",
+            "relation": "closed in on",
+            "effect": "$100,000 level"
+        },
+        {
+            "cause": "perfect storm",
+            "relation": "pushes",
+            "effect": "combined crypto market above $3T"
+        },
+        {
+            "cause": "Elon Musk",
+            "relation": "issues",
+            "effect": "U.S. bankruptcy warning"
+        },
+        {
+            "cause": "Federal Reserve official",
+            "relation": "softened",
+            "effect": "criticism of bitcoin and crypto"
+        },
+        {
+            "cause": "Neel Kashkari",
+            "relation": "expressed",
+            "effect": "open mind"
+        },
+        {
+            "cause": "Kashkari",
+            "relation": "called",
+            "effect": "bitcoin worthless/fraudulent/nonsense"
+        },
+        {
+            "cause": "Kashkari",
+            "relation": "compared",
+            "effect": "crypto market to garbage dumpster"
+        },
+        {
+            "cause": "Kashkari",
+            "relation": "questioned",
+            "effect": "crypto's real-economy utility"
+        },
+        {
+            "cause": "JPMorgan analysts",
+            "relation": "labeled",
+            "effect": "bitcoin rally as debasement trade"
+        },
+        {
+            "cause": "fears of dollar devaluation and inflation",
+            "relation": "could drive",
+            "effect": "bitcoin price rise"
+        },
+        {
+            "cause": "Elon Musk",
+            "relation": "led",
+            "effect": "backlash against government spending"
+        },
+        {
+            "cause": "Covid-era lockdowns",
+            "relation": "caused",
+            "effect": "explosion of government spending"
+        },
+        {
+            "cause": "Trump surrounding himself with pro-bitcoin advisors",
+            "relation": "coincides with",
+            "effect": "Kashkari’s softening"
+        },
+        {
+            "cause": "Howard Lutnick",
+            "relation": "heads",
+            "effect": "Trump transition team"
+        },
+        {
+            "cause": "Trump",
+            "relation": "considers",
+            "effect": "Lutnick for Treasury secretary"
+        },
+        {
+            "cause": "Trump’s victory",
+            "relation": "propelled",
+            "effect": "bitcoin price higher"
+        },
+        {
+            "cause": "traders",
+            "relation": "bet on",
+            "effect": "easing of crypto regulations"
+        },
+        {
+            "cause": "easing of crypto regulations",
+            "relation": "implies",
+            "effect": "leadership change at regulatory agencies"
+        },
+        {
+            "cause": "Trump",
+            "relation": "floated plans for",
+            "effect": "bitcoin strategic reserve"
+        },
+        {
+            "cause": "Trump",
+            "relation": "predicted",
+            "effect": "bitcoin eclipsing gold"
+        },
+        {
+            "cause": "Trump",
+            "relation": "suggested",
+            "effect": "using bitcoin to pay off debt"
+        },
+        {
+            "cause": "people",
+            "relation": "want",
+            "effect": "agency in their lives"
+        },
+        {
+            "cause": "people wanting agency",
+            "relation": "causes",
+            "effect": "crypto exploding"
+        },
+        {
+            "cause": "Ken Griffin",
+            "relation": "says",
+            "effect": "it was a mistake not to buy crypto sooner"
+        },
+        {
+            "cause": "not buying crypto sooner",
+            "relation": "was",
+            "effect": "a mistake"
+        },
+        {
+            "cause": "being wrong earlier",
+            "relation": "does not make",
+            "effect": "Griffin a fan of Bitcoin"
+        },
+        {
+            "cause": "something",
+            "relation": "trades at",
+            "effect": "100 times previous price"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "wishes he bought",
+            "effect": "something that increased 100×"
+        },
+        {
+            "cause": "people",
+            "relation": "have",
+            "effect": "FOMO"
+        },
+        {
+            "cause": "FOMO",
+            "relation": "is",
+            "effect": "universal"
+        },
+        {
+            "cause": "FOMO",
+            "relation": "is",
+            "effect": "part of human psychology"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surpassed",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Trump’s election win",
+            "relation": "led to",
+            "effect": "cryptocurrency surge"
+        },
+        {
+            "cause": "Trump’s deregulation announcements",
+            "relation": "contributed to",
+            "effect": "cryptocurrency surge"
+        },
+        {
+            "cause": "Trump’s win environment",
+            "relation": "is part of",
+            "effect": "attitude of seeking agency"
+        },
+        {
+            "cause": "Republicans taking House and Senate",
+            "relation": "is part of",
+            "effect": "attitude of seeking agency"
+        },
+        {
+            "cause": "Americans",
+            "relation": "seek",
+            "effect": "agency in their lives"
+        },
+        {
+            "cause": "American people",
+            "relation": "say",
+            "effect": "they want agency"
+        },
+        {
+            "cause": "wanting agency",
+            "relation": "includes",
+            "effect": "crypto"
+        },
+        {
+            "cause": "crypto",
+            "relation": "was called",
+            "effect": "a jihadist call against the dollar"
+        },
+        {
+            "cause": "crypto",
+            "relation": "is positioned as opposing",
+            "effect": "the dollar"
+        },
+        {
+            "cause": "crypto market valuation",
+            "relation": "tells",
+            "effect": "Griffin was wrong"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "admitted",
+            "effect": "he was wrong"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "questions",
+            "effect": "long-term stability of cryptocurrencies"
+        },
+        {
+            "cause": "cryptocurrency structure",
+            "relation": "may not capture",
+            "effect": "zeitgeist of the world"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "doesn’t understand",
+            "effect": "real need for crypto"
+        },
+        {
+            "cause": "crypto",
+            "relation": "fails to solve",
+            "effect": "clear economic problem"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "rose above",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "traded closer to",
+            "effect": "$98,000"
+        },
+        {
+            "cause": "Profit taking",
+            "relation": "caused",
+            "effect": "Bitcoin to trade closer to $98,000"
+        },
+        {
+            "cause": "Surge past $100K",
+            "relation": "followed",
+            "effect": "comments from Putin, Powell, and Trump’s nomination of Atkins"
+        },
+        {
+            "cause": "Trump’s nomination of Paul Atkins",
+            "relation": "contributed to",
+            "effect": "surge past $100K"
+        },
+        {
+            "cause": "Comments from Putin and Powell",
+            "relation": "contributed to",
+            "effect": "surge past $100K"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "set",
+            "effect": "bitcoin price targets above $100,000"
+        },
+        {
+            "cause": "Increasing demand",
+            "relation": "drives",
+            "effect": "higher bitcoin price targets"
+        },
+        {
+            "cause": "Limited supply",
+            "relation": "drives",
+            "effect": "higher bitcoin price targets"
+        },
+        {
+            "cause": "Volatility in bitcoin prices",
+            "relation": "may occur",
+            "effect": "(effect: future price fluctuations)"
+        },
+        {
+            "cause": "Volatility",
+            "relation": "may not be as severe as",
+            "effect": "past cycles"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "soared past",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "think",
+            "effect": "bitcoin could stay above $100,000"
+        },
+        {
+            "cause": "Encouraging words from Putin, Powell, and Trump’s SEC pick",
+            "relation": "boosted",
+            "effect": "bitcoin above $103,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "traded lower",
+            "effect": "Thursday afternoon"
+        },
+        {
+            "cause": "Profit taking",
+            "relation": "caused",
+            "effect": "bitcoin to trade lower"
+        },
+        {
+            "cause": "Bitcoin bulls",
+            "relation": "remain confident",
+            "effect": "bitcoin will trade above $100,000"
+        },
+        {
+            "cause": "Trump’s pick of Paul Atkins",
+            "relation": "boosted",
+            "effect": "bitcoin price"
+        },
+        {
+            "cause": "Investors",
+            "relation": "cheered",
+            "effect": "Trump’s pick of Atkins"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "announced",
+            "effect": "he would step down"
+        },
+        {
+            "cause": "Trump",
+            "relation": "congratulated",
+            "effect": "bitcoin holders"
+        },
+        {
+            "cause": "Trump",
+            "relation": "took credit for",
+            "effect": "bitcoin’s price milestone"
+        },
+        {
+            "cause": "Trump’s election victory",
+            "relation": "expected to boost",
+            "effect": "crypto industry"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "traded below",
+            "effect": "$70,000 on Election Day"
+        },
+        {
+            "cause": "Putin",
+            "relation": "encouraged",
+            "effect": "bitcoin investors"
+        },
+        {
+            "cause": "U.S.",
+            "relation": "undermined",
+            "effect": "dollar's role as global reserve currency"
+        },
+        {
+            "cause": "U.S. using dollar for political purposes",
+            "relation": "forces",
+            "effect": "countries to seek alternatives"
+        },
+        {
+            "cause": "Countries",
+            "relation": "look for",
+            "effect": "alternatives (including bitcoin)"
+        },
+        {
+            "cause": "Putin",
+            "relation": "claimed",
+            "effect": "no one can prohibit bitcoin"
+        },
+        {
+            "cause": "Powell",
+            "relation": "said",
+            "effect": "bitcoin is a competitor for gold"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "competitor for gold"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "expect",
+            "effect": "bitcoin to become a premier store of value"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "will replace",
+            "effect": "gold (predicted)"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has",
+            "effect": "finite supply (21 million)"
+        },
+        {
+            "cause": "Finite supply + increasing demand",
+            "relation": "dictate",
+            "effect": "long-term price increase"
+        },
+        {
+            "cause": "Demand",
+            "relation": "is exploding for",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "Bitcoin supply",
+            "relation": "is fixed and does not respond to",
+            "effect": "price signals"
+        },
+        {
+            "cause": "In traditional commodities",
+            "relation": "companies increase production to",
+            "effect": "satisfy demand"
+        },
+        {
+            "cause": "Breaching $100,000",
+            "relation": "makes",
+            "effect": "earlier price predictions seem reachable"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "expect",
+            "effect": "bitcoin to reach $200,000 in 2025"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "anticipate",
+            "effect": "bitcoin to reach $500,000 in 2029"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "anticipate",
+            "effect": "bitcoin to reach $1 million in 2033"
+        },
+        {
+            "cause": "Technical analysis",
+            "relation": "suggests",
+            "effect": "bitcoin could rise to $129,930"
+        },
+        {
+            "cause": "Technical analysis",
+            "relation": "provides",
+            "effect": "support levels of $90,500 and $80,500"
+        },
+        {
+            "cause": "Profit taking",
+            "relation": "may trigger",
+            "effect": "downtrend"
+        },
+        {
+            "cause": "Pullbacks",
+            "relation": "will occur",
+            "effect": "in any bull market"
+        },
+        {
+            "cause": "Bitcoin price drops",
+            "relation": "may be less severe",
+            "effect": "going forward (per Hougan)"
+        },
+        {
+            "cause": "Bitcoin’s finite supply, outperformance, and volatility",
+            "relation": "make",
+            "effect": "bitcoin a better investment than gold (per Saylor)"
+        },
+        {
+            "cause": "Volatility",
+            "relation": "is",
+            "effect": "a feature of a 24/7 global market"
+        },
+        {
+            "cause": "Stock market rally",
+            "relation": "hit",
+            "effect": "fresh highs"
+        },
+        {
+            "cause": "Salesforce (CRM), Credo Technology Group (CRDO), Marvell Technology (MRVL), and positive earnings",
+            "relation": "buoyed",
+            "effect": "stock market rally"
+        },
+        {
+            "cause": "Tame economic data and Fed comments",
+            "relation": "bolstered",
+            "effect": "expectations for December rate cut"
+        },
+        {
+            "cause": "Tesla (TSLA)",
+            "relation": "kept surging",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Nvidia (NVDA), Meta Platforms (META)",
+            "relation": "cleared",
+            "effect": "buy points"
+        },
+        {
+            "cause": "Microsoft (MSFT)",
+            "relation": "flashed",
+            "effect": "aggressive entries"
+        },
+        {
+            "cause": "Extended plays",
+            "relation": "grew",
+            "effect": "more"
+        },
+        {
+            "cause": "President-elect Trump’s pro-crypto SEC pick and Fed chief Jerome Powell’s comments",
+            "relation": "buoyed",
+            "effect": "Bitcoin rise above $100,000"
+        },
+        {
+            "cause": "Nasdaq",
+            "relation": "led",
+            "effect": "major indexes"
+        },
+        {
+            "cause": "Dow Jones",
+            "relation": "fell",
+            "effect": "slightly"
+        },
+        {
+            "cause": "Small-cap Russell 2000",
+            "relation": "retreated",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Salesforce (CRM) and upbeat tech earnings",
+            "relation": "led",
+            "effect": "market rally"
+        },
+        {
+            "cause": "Tame economic data",
+            "relation": "caused",
+            "effect": "Treasury yields to fall"
+        },
+        {
+            "cause": "Jobs report",
+            "relation": "bolstered",
+            "effect": "Fed rate cut hopes"
+        },
+        {
+            "cause": "Jobs report",
+            "relation": "cleared way for",
+            "effect": "December 18 rate cut"
+        },
+        {
+            "cause": "Stronger-than-expected payroll rebound",
+            "relation": "contrasted with",
+            "effect": "rate cut likelihood"
+        },
+        {
+            "cause": "Job growth",
+            "relation": "stabilized",
+            "effect": "at low level"
+        },
+        {
+            "cause": "Storms and Boeing (BA) strike",
+            "relation": "influenced",
+            "effect": "October job revisions"
+        },
+        {
+            "cause": "Unemployment rate",
+            "relation": "rose",
+            "effect": "to 4.2%"
+        },
+        {
+            "cause": "Ranks of employed",
+            "relation": "fell",
+            "effect": "by 355,000"
+        },
+        {
+            "cause": "Labor force participation",
+            "relation": "fell",
+            "effect": "by 193,000"
+        },
+        {
+            "cause": "Average hourly wages",
+            "relation": "rose",
+            "effect": "0.4% month and 4% year"
+        },
+        {
+            "cause": "Wage growth",
+            "relation": "exceeded",
+            "effect": "estimates"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "cleared",
+            "effect": "$100,000 threshold"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "all-time high of $103,900"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "fell back",
+            "effect": "below $100,000"
+        },
+        {
+            "cause": "U.S. elections",
+            "relation": "spurred",
+            "effect": "Bitcoin new highs"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "promised",
+            "effect": "friendlier crypto administration"
+        },
+        {
+            "cause": "Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins to lead SEC"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "expected to take",
+            "effect": "looser stance on crypto regulation"
+        },
+        {
+            "cause": "Jerome Powell",
+            "relation": "called",
+            "effect": "Bitcoin “digital gold”"
+        },
+        {
+            "cause": "Jerome Powell’s comments",
+            "relation": "spurred",
+            "effect": "Bitcoin higher"
+        },
+        {
+            "cause": "Trump",
+            "relation": "named",
+            "effect": "David Sacks as “AI & Crypto Czar”"
+        },
+        {
+            "cause": "Assassination of UNH CEO Brian Thompson",
+            "relation": "robbed",
+            "effect": "two boys of father"
+        },
+        {
+            "cause": "Assassination of Thompson",
+            "relation": "shook",
+            "effect": "entire industry"
+        },
+        {
+            "cause": "UNH",
+            "relation": "released",
+            "effect": "positive earnings outlook for 2025"
+        },
+        {
+            "cause": "UNH stock",
+            "relation": "rose",
+            "effect": "on Wednesday"
+        },
+        {
+            "cause": "Health care stocks",
+            "relation": "sold off",
+            "effect": "Thursday and Friday"
+        },
+        {
+            "cause": "Thompson’s wife",
+            "relation": "said",
+            "effect": "he faced threats"
+        },
+        {
+            "cause": "Threats",
+            "relation": "possibly linked to",
+            "effect": "lack-of-coverage issues"
+        },
+        {
+            "cause": "UNH",
+            "relation": "removed",
+            "effect": "executive pictures from website"
+        },
+        {
+            "cause": "Anthem Blue Cross Blue Shield",
+            "relation": "reversed",
+            "effect": "anesthesiology coverage limits"
+        },
+        {
+            "cause": "Public backlash",
+            "relation": "caused",
+            "effect": "Anthem reversal"
+        },
+        {
+            "cause": "Salesforce (CRM)",
+            "relation": "reported",
+            "effect": "Q3 earnings rose 14%"
+        },
+        {
+            "cause": "Salesforce",
+            "relation": "missed",
+            "effect": "EPS expectations slightly"
+        },
+        {
+            "cause": "Revenue",
+            "relation": "climbed",
+            "effect": "8% to $9.44 billion"
+        },
+        {
+            "cause": "Operating margin",
+            "relation": "topped",
+            "effect": "estimates"
+        },
+        {
+            "cause": "Salesforce",
+            "relation": "signed",
+            "effect": "200 Agentforce deals"
+        },
+        {
+            "cause": "Salesforce",
+            "relation": "pivoted to",
+            "effect": "autonomous AI agents"
+        },
+        {
+            "cause": "Pivot to AI agents",
+            "relation": "increased",
+            "effect": "expectations for AI monetization"
+        },
+        {
+            "cause": "Salesforce",
+            "relation": "forecast",
+            "effect": "Q4 revenue in line with consensus"
+        },
+        {
+            "cause": "Salesforce shares",
+            "relation": "gapped higher",
+            "effect": "after report"
+        },
+        {
+            "cause": "Business software stocks",
+            "relation": "rallied",
+            "effect": "with Salesforce"
+        },
+        {
+            "cause": "Zscaler (ZS)",
+            "relation": "reported",
+            "effect": "36% earnings rise"
+        },
+        {
+            "cause": "Zscaler",
+            "relation": "revenue climbed",
+            "effect": "26% to $628 million"
+        },
+        {
+            "cause": "Zscaler",
+            "relation": "guided",
+            "effect": "fractionally higher for Q2"
+        },
+        {
+            "cause": "SentinelOne (S)",
+            "relation": "broke even",
+            "effect": "vs prior loss"
+        },
+        {
+            "cause": "SentinelOne",
+            "relation": "revenue rose",
+            "effect": "28%"
+        },
+        {
+            "cause": "SentinelOne",
+            "relation": "guided",
+            "effect": "slightly above consensus"
+        },
+        {
+            "cause": "Investors",
+            "relation": "hoped",
+            "effect": "for upside from CrowdStrike IT outage"
+        },
+        {
+            "cause": "Shares of SentinelOne",
+            "relation": "tumbled",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Okta (OKTA)",
+            "relation": "EPS gained",
+            "effect": "52%"
+        },
+        {
+            "cause": "Okta",
+            "relation": "revenue climbed",
+            "effect": "14%"
+        },
+        {
+            "cause": "Okta",
+            "relation": "guided up",
+            "effect": "Q4 revenue"
+        },
+        {
+            "cause": "Okta shares",
+            "relation": "hit",
+            "effect": "resistance"
+        },
+        {
+            "cause": "Rubrik (RBRK)",
+            "relation": "reduced",
+            "effect": "loss to 21 cents per share"
+        },
+        {
+            "cause": "Rubrik",
+            "relation": "revenue jumped",
+            "effect": "43%"
+        },
+        {
+            "cause": "Microsoft",
+            "relation": "backed",
+            "effect": "Rubrik IPO"
+        },
+        {
+            "cause": "Rubrik",
+            "relation": "achieved",
+            "effect": "$1B ARR"
+        },
+        {
+            "cause": "Rubrik",
+            "relation": "beat",
+            "effect": "net new ARR expectations"
+        },
+        {
+            "cause": "Rubrik shares",
+            "relation": "skyrocketed",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Credo Technology (CRDO)",
+            "relation": "reported",
+            "effect": "earnings leaped 600%"
+        },
+        {
+            "cause": "Credo",
+            "relation": "revenue rose",
+            "effect": "64% to $72 million"
+        },
+        {
+            "cause": "Credo",
+            "relation": "forecast",
+            "effect": "$120M January-quarter revenue"
+        },
+        {
+            "cause": "Forecast",
+            "relation": "exceeded",
+            "effect": "estimates"
+        },
+        {
+            "cause": "AEC products",
+            "relation": "connect",
+            "effect": "servers to networking equipment"
+        },
+        {
+            "cause": "Microsoft and Amazon",
+            "relation": "are",
+            "effect": "Credo’s largest customers"
+        },
+        {
+            "cause": "Credo shares",
+            "relation": "spiked",
+            "effect": "48%"
+        },
+        {
+            "cause": "Marvell Technology (MRVL)",
+            "relation": "reported",
+            "effect": "5% EPS gain"
+        },
+        {
+            "cause": "Marvell",
+            "relation": "sales rose",
+            "effect": "7% to $1.516B"
+        },
+        {
+            "cause": "Marvell",
+            "relation": "guided up",
+            "effect": "Q4"
+        },
+        {
+            "cause": "Strong AI chip demand",
+            "relation": "drove",
+            "effect": "Marvell growth"
+        },
+        {
+            "cause": "Marvell",
+            "relation": "makes",
+            "effect": "custom AI chips for Google, Amazon, Microsoft"
+        },
+        {
+            "cause": "Marvell shares",
+            "relation": "soared",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Amazon shares",
+            "relation": "climbed",
+            "effect": "to record highs"
+        },
+        {
+            "cause": "Amazon Web Services",
+            "relation": "stepped up",
+            "effect": "AI chip competition with Nvidia"
+        },
+        {
+            "cause": "AWS",
+            "relation": "announced",
+            "effect": "Apple uses Trainium2 chip"
+        },
+        {
+            "cause": "AWS",
+            "relation": "plans",
+            "effect": "Trainium3 launch"
+        },
+        {
+            "cause": "Amazon",
+            "relation": "building",
+            "effect": "UltraCluster of AI chips"
+        },
+        {
+            "cause": "UltraCluster",
+            "relation": "will train",
+            "effect": "Anthropic models"
+        },
+        {
+            "cause": "Amazon",
+            "relation": "invested",
+            "effect": "$8B into Anthropic"
+        },
+        {
+            "cause": "Andy Jassy",
+            "relation": "announced",
+            "effect": "Amazon Nova AI models"
+        },
+        {
+            "cause": "AWS",
+            "relation": "will offer",
+            "effect": "Nova models to enterprises"
+        },
+        {
+            "cause": "Judge Kathaleen McCormick",
+            "relation": "rejected",
+            "effect": "Elon Musk’s $56B pay deal"
+        },
+        {
+            "cause": "Tesla China sales",
+            "relation": "tracked",
+            "effect": "strong quarter"
+        },
+        {
+            "cause": "Tesla Europe & U.S. sales",
+            "relation": "remained",
+            "effect": "weak"
+        },
+        {
+            "cause": "Tesla",
+            "relation": "uncertain to achieve",
+            "effect": "2024 delivery growth"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "raised",
+            "effect": "Tesla price targets"
+        },
+        {
+            "cause": "Analyst optimism",
+            "relation": "boosted",
+            "effect": "Tesla stock"
+        },
+        {
+            "cause": "Elon Musk",
+            "relation": "expressed",
+            "effect": "optimism about Full Self-Driving"
+        },
+        {
+            "cause": "Musk optimism",
+            "relation": "drove",
+            "effect": "share price higher"
+        },
+        {
+            "cause": "Ulta Beauty (ULTA)",
+            "relation": "surged",
+            "effect": "on earnings"
+        },
+        {
+            "cause": "Lululemon (LULU)",
+            "relation": "surged",
+            "effect": "on earnings"
+        },
+        {
+            "cause": "Victoria’s Secret (VSCO)",
+            "relation": "traded",
+            "effect": "at 52-week highs"
+        },
+        {
+            "cause": "American Eagle (AEO)",
+            "relation": "plunged",
+            "effect": "on weak sales guidance"
+        },
+        {
+            "cause": "American Airlines (AAL)",
+            "relation": "guided up",
+            "effect": "Q4 EPS"
+        },
+        {
+            "cause": "Southwest Airlines (LUV)",
+            "relation": "hiked",
+            "effect": "revenue growth forecast"
+        },
+        {
+            "cause": "Airline stocks",
+            "relation": "climbed",
+            "effect": "together"
+        },
+        {
+            "cause": "Intel (INTC)",
+            "relation": "announced",
+            "effect": "CEO Pat Gelsinger retirement"
+        },
+        {
+            "cause": "Board dissatisfaction",
+            "relation": "caused",
+            "effect": "ouster"
+        },
+        {
+            "cause": "Gelsinger ouster",
+            "relation": "raised",
+            "effect": "strategic questions"
+        },
+        {
+            "cause": "Eli Lilly (LLY)",
+            "relation": "reported",
+            "effect": "Zepbound stoked greater weight loss than Wegovy"
+        },
+        {
+            "cause": "Zepbound",
+            "relation": "caused",
+            "effect": "20.2% weight loss"
+        },
+        {
+            "cause": "Wegovy",
+            "relation": "caused",
+            "effect": "13.7% weight loss"
+        },
+        {
+            "cause": "Participants",
+            "relation": "lost",
+            "effect": "up to 20.2% weight"
+        },
+        {
+            "cause": "NCino (NCNO)",
+            "relation": "reported",
+            "effect": "50% EPS gain"
+        },
+        {
+            "cause": "NCino",
+            "relation": "revenue rose",
+            "effect": "14%"
+        },
+        {
+            "cause": "Weak guidance",
+            "relation": "caused",
+            "effect": "share plunge"
+        },
+        {
+            "cause": "Chewy (CHWY)",
+            "relation": "reported",
+            "effect": "33% EPS gain"
+        },
+        {
+            "cause": "Chewy",
+            "relation": "revenue rose",
+            "effect": "4.8%"
+        },
+        {
+            "cause": "Chewy",
+            "relation": "missed",
+            "effect": "estimates"
+        },
+        {
+            "cause": "Active customers",
+            "relation": "declined",
+            "effect": "year-over-year"
+        },
+        {
+            "cause": "CHWY stock",
+            "relation": "fell",
+            "effect": "solidly"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "tapped",
+            "effect": "Jared Isaacman to lead NASA"
+        },
+        {
+            "cause": "Isaacman",
+            "relation": "is",
+            "effect": "private astronaut"
+        },
+        {
+            "cause": "Shift4",
+            "relation": "competes",
+            "effect": "with Clover, Square, and Toast"
+        },
+        {
+            "cause": "Weak payment guidance",
+            "relation": "caused",
+            "effect": "Toast shares to plunge"
+        },
+        {
+            "cause": "Palantir (PLTR)",
+            "relation": "received",
+            "effect": "higher FedRAMP authorization"
+        },
+        {
+            "cause": "Higher rating",
+            "relation": "enabled",
+            "effect": "U.S. government to process sensitive workloads"
+        },
+        {
+            "cause": "Palantir",
+            "relation": "partnered with",
+            "effect": "Booz Allen Hamilton"
+        },
+        {
+            "cause": "Partnership",
+            "relation": "strengthened",
+            "effect": "government collaboration"
+        },
+        {
+            "cause": "PLTR shares",
+            "relation": "soared",
+            "effect": "for the week"
+        },
+        {
+            "cause": "Foot Locker (FL)",
+            "relation": "reported",
+            "effect": "10% EPS gain"
+        },
+        {
+            "cause": "Foot Locker",
+            "relation": "sales fell",
+            "effect": "1%"
+        },
+        {
+            "cause": "Foot Locker",
+            "relation": "cut",
+            "effect": "guidance"
+        },
+        {
+            "cause": "Kroger (KR)",
+            "relation": "earnings rose",
+            "effect": "3%"
+        },
+        {
+            "cause": "Kroger",
+            "relation": "sales fell",
+            "effect": "1%"
+        },
+        {
+            "cause": "Uncertain macroeconomic environment",
+            "relation": "concerned",
+            "effect": "CEO McMullen"
+        },
+        {
+            "cause": "FTC lawsuit",
+            "relation": "cast doubt on",
+            "effect": "Albertsons merger"
+        },
+        {
+            "cause": "Kroger stock",
+            "relation": "reversed higher",
+            "effect": "on earnings"
+        },
+        {
+            "cause": "Pure Storage (PSTG)",
+            "relation": "beat",
+            "effect": "earnings and sales views"
+        },
+        {
+            "cause": "Pure Storage",
+            "relation": "achieved",
+            "effect": "first-ever design win"
+        },
+        {
+            "cause": "Top-four cloud hyperscaler",
+            "relation": "adopted",
+            "effect": "flash memory technology"
+        },
+        {
+            "cause": "Pure Storage shares",
+            "relation": "soared",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Veeva Systems (VEEV)",
+            "relation": "reported",
+            "effect": "31% EPS growth"
+        },
+        {
+            "cause": "Veeva",
+            "relation": "sales advanced",
+            "effect": "13%"
+        },
+        {
+            "cause": "Veeva",
+            "relation": "raised",
+            "effect": "full-year outlook"
+        },
+        {
+            "cause": "Subscription services",
+            "relation": "drove",
+            "effect": "majority of revenue"
+        },
+        {
+            "cause": "Veeva shares",
+            "relation": "jumped",
+            "effect": "NONE"
+        },
+        {
+            "cause": "HPE",
+            "relation": "reported",
+            "effect": "12% earnings rise"
+        },
+        {
+            "cause": "HPE",
+            "relation": "revenue climbed",
+            "effect": "15%"
+        },
+        {
+            "cause": "AI server revenue",
+            "relation": "rose",
+            "effect": "from $400M to $1.5B"
+        },
+        {
+            "cause": "HPE shares",
+            "relation": "rose",
+            "effect": "slightly"
+        },
+        {
+            "cause": "Box (BOX)",
+            "relation": "reported",
+            "effect": "45% EPS gain"
+        },
+        {
+            "cause": "Box",
+            "relation": "sales advanced",
+            "effect": "5%"
+        },
+        {
+            "cause": "Box",
+            "relation": "missed",
+            "effect": "billings expectations"
+        },
+        {
+            "cause": "Box shares",
+            "relation": "tumbled",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Samsara (IOT)",
+            "relation": "doubled",
+            "effect": "Q3 EPS"
+        },
+        {
+            "cause": "Samsara",
+            "relation": "revenue rose",
+            "effect": "36%"
+        },
+        {
+            "cause": "Samsara",
+            "relation": "beat",
+            "effect": "analyst estimates"
+        },
+        {
+            "cause": "ARR from subscriptions",
+            "relation": "rose",
+            "effect": "35%"
+        },
+        {
+            "cause": "IOT",
+            "relation": "guided",
+            "effect": "fractionally lower revenue"
+        },
+        {
+            "cause": "IOT stock",
+            "relation": "plunged",
+            "effect": "NONE"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "breaks",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is boosted by",
+            "effect": "Trump’s crypto embrace"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is boosted by",
+            "effect": "Powell’s remarks"
+        },
+        {
+            "cause": "Bitcoin’s comeback",
+            "relation": "is helped along by",
+            "effect": "Wall Street bets"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "rose above",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "underscored",
+            "effect": "a remarkable comeback for the industry"
+        },
+        {
+            "cause": "Collapse of key players",
+            "relation": "affected",
+            "effect": "crypto industry"
+        },
+        {
+            "cause": "FTX implosion",
+            "relation": "preceded",
+            "effect": "Bitcoin’s comeback"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "was up",
+            "effect": "2.7%"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "peaked at",
+            "effect": "$103,853"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "gained",
+            "effect": "more than 520% from cycle low"
+        },
+        {
+            "cause": "Cycle low",
+            "relation": "occurred at",
+            "effect": "below $16,000"
+        },
+        {
+            "cause": "November 2022 implosion of FTX",
+            "relation": "happened in",
+            "effect": "wake of collapse of crypto exchange"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is up",
+            "effect": "more than 140% YTD"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said he would nominate",
+            "effect": "Paul Atkins to lead SEC"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "is seen as",
+            "effect": "friendly to the crypto industry"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "would replace",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "ushered in",
+            "effect": "more ways for public to invest in crypto"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "brought",
+            "effect": "legal actions against digital-asset companies"
+        },
+        {
+            "cause": "Expectations for retooled SEC",
+            "relation": "ignited",
+            "effect": "optimism over friendlier regulatory backdrop"
+        },
+        {
+            "cause": "Market watchers",
+            "relation": "tied gains to",
+            "effect": "Powell’s remarks"
+        },
+        {
+            "cause": "Powell",
+            "relation": "said",
+            "effect": "bitcoin is not a rival to the U.S. dollar"
+        },
+        {
+            "cause": "Powell",
+            "relation": "compared",
+            "effect": "bitcoin to gold"
+        },
+        {
+            "cause": "People",
+            "relation": "are not using",
+            "effect": "bitcoin as payment or store of value"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "highly volatile"
+        },
+        {
+            "cause": "Powell’s comparison",
+            "relation": "introduces",
+            "effect": "credibility to bitcoin"
+        },
+        {
+            "cause": "Gold’s larger size",
+            "relation": "offers",
+            "effect": "insight about bitcoin’s growth room"
+        },
+        {
+            "cause": "SEC",
+            "relation": "greenlighted",
+            "effect": "crypto ETFs"
+        },
+        {
+            "cause": "New crypto offerings",
+            "relation": "helped broaden",
+            "effect": "bitcoin’s investor base"
+        },
+        {
+            "cause": "New crypto offerings",
+            "relation": "brought",
+            "effect": "BlackRock and other managers into the fold"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "had",
+            "effect": "violent swings"
+        },
+        {
+            "cause": "Violent swings",
+            "relation": "remind",
+            "effect": "investors how quickly enthusiasm can turn to regret"
+        },
+        {
+            "cause": "Bitcoin investors",
+            "relation": "have been treated to",
+            "effect": "gains and losses"
+        },
+        {
+            "cause": "Crypto enthusiasts",
+            "relation": "have",
+            "effect": "concerns about sustainability of rally"
+        },
+        {
+            "cause": "Trump winning second term",
+            "relation": "boosted",
+            "effect": "bitcoin price in early November"
+        },
+        {
+            "cause": "Trump",
+            "relation": "was viewed as",
+            "effect": "crypto-friendly candidate"
+        },
+        {
+            "cause": "Trump’s promises",
+            "relation": "included",
+            "effect": "building a bitcoin reserve"
+        },
+        {
+            "cause": "Trump’s promises",
+            "relation": "included",
+            "effect": "making all bitcoin mined/minted/made in U.S."
+        },
+        {
+            "cause": "Bitcoin above $100,000",
+            "relation": "could impact",
+            "effect": "future price appreciation"
+        },
+        {
+            "cause": "Human beings",
+            "relation": "have",
+            "effect": "decimal fixation"
+        },
+        {
+            "cause": "Bitcoin crossing $100,000",
+            "relation": "will spike",
+            "effect": "public attention"
+        },
+        {
+            "cause": "Bitcoin crossing $100,000",
+            "relation": "will generate",
+            "effect": "media coverage"
+        },
+        {
+            "cause": "Media coverage",
+            "relation": "will help",
+            "effect": "bitcoin grow"
+        },
+        {
+            "cause": "$100,000 mark",
+            "relation": "is",
+            "effect": "sign of legitimacy/maturing of asset class"
+        },
+        {
+            "cause": "Driving factors",
+            "relation": "matter more to",
+            "effect": "crypto industry"
+        },
+        {
+            "cause": "Positive regulatory environment",
+            "relation": "will increase",
+            "effect": "crypto adoption"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "experiences",
+            "effect": "price explosion"
+        },
+        {
+            "cause": "Bitcoin's price explosion",
+            "relation": "affects",
+            "effect": "crypto in 2025 (implied inquiry)"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hits",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Donald Trump’s re-election",
+            "relation": "contributes to",
+            "effect": "Bitcoin hitting $100,000"
+        },
+        {
+            "cause": "Other contributing factors",
+            "relation": "have led to",
+            "effect": "crypto resurgence"
+        },
+        {
+            "cause": "Donald Trump winning re-election",
+            "relation": "causes",
+            "effect": "Bitcoin price to continue soaring"
+        },
+        {
+            "cause": "Bitcoin price",
+            "relation": "rose from",
+            "effect": "~$73,000 to ~$98,000"
+        },
+        {
+            "cause": "CoinGecko data",
+            "relation": "reports",
+            "effect": "Bitcoin price movement"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "new all-time high of $103,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surpassed",
+            "effect": "$100,000 mark"
+        },
+        {
+            "cause": "$100,000 mark",
+            "relation": "was seen as",
+            "effect": "point of resistance"
+        },
+        {
+            "cause": "Cryptocurrency prices",
+            "relation": "are",
+            "effect": "notoriously volatile"
+        },
+        {
+            "cause": "Coin’s market cap",
+            "relation": "determines",
+            "effect": "amount of money needed to spike/dump price"
+        },
+        {
+            "cause": "Larger market cap",
+            "relation": "requires",
+            "effect": "more money to move price"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "largest cryptocurrency"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "oldest cryptocurrency"
+        },
+        {
+            "cause": "Bitcoin’s price movements",
+            "relation": "influence",
+            "effect": "rest of crypto market"
+        },
+        {
+            "cause": "New inflows",
+            "relation": "go to",
+            "effect": "BTC"
+        },
+        {
+            "cause": "Chris Akhavan",
+            "relation": "says",
+            "effect": "new inflows go to BTC"
+        },
+        {
+            "cause": "Speculation that US will build BTC reserve",
+            "relation": "creates",
+            "effect": "tailwinds skewing cycle toward BTC"
+        },
+        {
+            "cause": "Combination of favorable broader market + US government changes",
+            "relation": "caused",
+            "effect": "Bitcoin surpassing $90,000"
+        },
+        {
+            "cause": "US government changes",
+            "relation": "may trigger",
+            "effect": "potentially massive shift"
+        },
+        {
+            "cause": "Coinbase rep",
+            "relation": "emphasizes",
+            "effect": "government changes don’t necessarily refer to Trump"
+        },
+        {
+            "cause": "US approval of spot BTC/ETH ETFs",
+            "relation": "were",
+            "effect": "major milestones"
+        },
+        {
+            "cause": "Europe’s MiCA regulation",
+            "relation": "was",
+            "effect": "significant development"
+        },
+        {
+            "cause": "House approval of FIT21",
+            "relation": "was",
+            "effect": "significant development"
+        },
+        {
+            "cause": "BlackRock’s tokenized BUIDL fund",
+            "relation": "was",
+            "effect": "significant development"
+        },
+        {
+            "cause": "These advancements",
+            "relation": "were impressive considering",
+            "effect": "asset class was reeling last year"
+        },
+        {
+            "cause": "Interest rate hikes (previous year)",
+            "relation": "caused",
+            "effect": "asset class to reel"
+        },
+        {
+            "cause": "Regulatory crackdowns (previous year)",
+            "relation": "weakened",
+            "effect": "asset class"
+        },
+        {
+            "cause": "Crypto industry",
+            "relation": "has been accused of",
+            "effect": "buying/winning election for Trump"
+        },
+        {
+            "cause": "Coinbase",
+            "relation": "spent",
+            "effect": "over $50 million on political donations"
+        },
+        {
+            "cause": "Coinbase CEO",
+            "relation": "reportedly met with",
+            "effect": "President-elect"
+        },
+        {
+            "cause": "Coinbase",
+            "relation": "denies",
+            "effect": "CEO openly supports Trump"
+        },
+        {
+            "cause": "Investors",
+            "relation": "feel more confident due to",
+            "effect": "Trump’s win"
+        },
+        {
+            "cause": "Approval of Bitcoin ETFs",
+            "relation": "increases",
+            "effect": "investor confidence"
+        },
+        {
+            "cause": "Investor confidence",
+            "relation": "causes",
+            "effect": "Bitcoin price to spike"
+        },
+        {
+            "cause": "Investors",
+            "relation": "believe",
+            "effect": "US regulation will favor them"
+        },
+        {
+            "cause": "Bitcoin’s price",
+            "relation": "is shaped by",
+            "effect": "market sentiment"
+        },
+        {
+            "cause": "Bitcoin’s price",
+            "relation": "is shaped by",
+            "effect": "regulatory developments"
+        },
+        {
+            "cause": "Bitcoin’s price",
+            "relation": "is shaped by",
+            "effect": "macroeconomic conditions"
+        },
+        {
+            "cause": "Cryptocurrency market",
+            "relation": "remains",
+            "effect": "inherently volatile"
+        },
+        {
+            "cause": "Prices",
+            "relation": "are subject to",
+            "effect": "rapid fluctuations"
+        },
+        {
+            "cause": "Slusser",
+            "relation": "urges",
+            "effect": "investors to approach market with caution"
+        },
+        {
+            "cause": "Investors",
+            "relation": "must keep",
+            "effect": "close eye on evolving trends"
+        },
+        {
+            "cause": "Investors",
+            "relation": "must maintain",
+            "effect": "well-considered strategy"
+        },
+        {
+            "cause": "Strategy",
+            "relation": "helps navigate",
+            "effect": "high-risk, high-reward environment"
+        },
+        {
+            "cause": "Trump",
+            "relation": "has embraced",
+            "effect": "crypto industry"
+        },
+        {
+            "cause": "Trump",
+            "relation": "launched",
+            "effect": "his own NFTs"
+        },
+        {
+            "cause": "Trump",
+            "relation": "appeared at",
+            "effect": "Bitcoin Conference"
+        },
+        {
+            "cause": "Trump",
+            "relation": "made friends with",
+            "effect": "Elon Musk"
+        },
+        {
+            "cause": "Elon Musk",
+            "relation": "is tapped to run",
+            "effect": "Department of Government Efficiency"
+        },
+        {
+            "cause": "DOGE (department name)",
+            "relation": "shares name with",
+            "effect": "meme coin Musk once touted"
+        },
+        {
+            "cause": "Musk touting DOGE on SNL (2021)",
+            "relation": "preceded",
+            "effect": "crypto market crash"
+        },
+        {
+            "cause": "Crypto market crash",
+            "relation": "occurred in large part due to",
+            "effect": "failure of FTX"
+        },
+        {
+            "cause": "Sam Bankman-Fried’s FTX failure",
+            "relation": "caused",
+            "effect": "crypto market crash"
+        },
+        {
+            "cause": "Trump",
+            "relation": "made",
+            "effect": "crypto promises"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said",
+            "effect": "US would never sell Bitcoin holdings"
+        },
+        {
+            "cause": "US government",
+            "relation": "obtained",
+            "effect": "Bitcoin by seizing it from cybercriminals"
+        },
+        {
+            "cause": "Hackers/scammers",
+            "relation": "prefer using",
+            "effect": "crypto"
+        },
+        {
+            "cause": "Hackers/scammers",
+            "relation": "target",
+            "effect": "crypto users"
+        },
+        {
+            "cause": "Blockchain transaction irreversibility",
+            "relation": "motivates",
+            "effect": "hacker/scammer preference for crypto"
+        },
+        {
+            "cause": "Difficulty tracing identities",
+            "relation": "enables",
+            "effect": "hacker/scammer preference"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said he would fire",
+            "effect": "SEC Chairman Gensler"
+        },
+        {
+            "cause": "President",
+            "relation": "does not have power to",
+            "effect": "fire SEC chair"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "announced",
+            "effect": "he will resign"
+        },
+        {
+            "cause": "Trump",
+            "relation": "selected",
+            "effect": "Paul Aktins to replace Gensler"
+        },
+        {
+            "cause": "Selection of pro-crypto Aktins",
+            "relation": "is",
+            "effect": "good news for crypto industry"
+        },
+        {
+            "cause": "Trump",
+            "relation": "supports",
+            "effect": "Bitcoin mining"
+        },
+        {
+            "cause": "Trump",
+            "relation": "wants",
+            "effect": "Bitcoin mining done in America"
+        },
+        {
+            "cause": "Trump",
+            "relation": "claims",
+            "effect": "Biden’s hatred of Bitcoin helps China/Russia/Left"
+        },
+        {
+            "cause": "Biden administration",
+            "relation": "has not stated",
+            "effect": "crypto stance"
+        },
+        {
+            "cause": "Axios",
+            "relation": "suggested",
+            "effect": "Biden policies hinder crypto advancement"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "broke above",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Investors",
+            "relation": "bet on",
+            "effect": "friendly U.S. regulatory shift"
+        },
+        {
+            "cause": "Friendly U.S. regulatory shift",
+            "relation": "caused",
+            "effect": "Bitcoin to rise above $100,000"
+        },
+        {
+            "cause": "World stocks",
+            "relation": "touched",
+            "effect": "record highs"
+        },
+        {
+            "cause": "Upbeat comments on the economy from Jerome Powell",
+            "relation": "bolstered",
+            "effect": "sentiment"
+        },
+        {
+            "cause": "Bolstered sentiment",
+            "relation": "caused",
+            "effect": "world stocks to touch record highs"
+        },
+        {
+            "cause": "France's government",
+            "relation": "lost",
+            "effect": "confidence vote"
+        },
+        {
+            "cause": "Far-right and leftist lawmakers",
+            "relation": "joined forces to topple",
+            "effect": "Michel Barnier's government"
+        },
+        {
+            "cause": "Lawmakers joining forces",
+            "relation": "caused",
+            "effect": "Barnier’s government to collapse"
+        },
+        {
+            "cause": "Government collapse",
+            "relation": "was anticipated by",
+            "effect": "investors"
+        },
+        {
+            "cause": "Anticipation by investors",
+            "relation": "caused",
+            "effect": "euro, French stocks, and bonds to remain steady"
+        },
+        {
+            "cause": "Michel Barnier",
+            "relation": "resigned",
+            "effect": "officially"
+        },
+        {
+            "cause": "U.S. stocks",
+            "relation": "were little changed",
+            "effect": "after record closing highs"
+        },
+        {
+            "cause": "Comments from Fed Chair Powell",
+            "relation": "helped",
+            "effect": "U.S. stock indexes reach record highs"
+        },
+        {
+            "cause": "Dow Jones Industrial Average",
+            "relation": "fell",
+            "effect": "0.22%"
+        },
+        {
+            "cause": "S&P 500",
+            "relation": "rose",
+            "effect": "0.09%"
+        },
+        {
+            "cause": "Nasdaq Composite",
+            "relation": "gained",
+            "effect": "0.19%"
+        },
+        {
+            "cause": "Powell",
+            "relation": "said",
+            "effect": "the economy was stronger than it had appeared in September"
+        },
+        {
+            "cause": "Stronger economy",
+            "relation": "allowed",
+            "effect": "policymakers to be more cautious in reducing rates"
+        },
+        {
+            "cause": "Fall in U.S. Treasury yields",
+            "relation": "supported",
+            "effect": "sentiment in equity markets"
+        },
+        {
+            "cause": "Robust U.S. data",
+            "relation": "supported",
+            "effect": "sentiment in equity markets"
+        },
+        {
+            "cause": "Powell's comments",
+            "relation": "supported",
+            "effect": "sentiment in equity markets"
+        },
+        {
+            "cause": "Trump taking power",
+            "relation": "will require",
+            "effect": "implementation of economic plans"
+        },
+        {
+            "cause": "Implementation of economic plans",
+            "relation": "could cause",
+            "effect": "inflationary impact"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "$100,000 mark"
+        },
+        {
+            "cause": "Trump saying he would nominate Paul Atkins",
+            "relation": "caused",
+            "effect": "Bitcoin’s latest surge"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "pro-crypto and pro-deregulation"
+        },
+        {
+            "cause": "Industry institutionalization",
+            "relation": "caused",
+            "effect": "Bitcoin to reach current level"
+        },
+        {
+            "cause": "ETF inflows",
+            "relation": "contributed to",
+            "effect": "Bitcoin industry institutionalization"
+        },
+        {
+            "cause": "U.S. rate-cut optimism",
+            "relation": "supported",
+            "effect": "sentiment across broader markets"
+        },
+        {
+            "cause": "Markets",
+            "relation": "priced in",
+            "effect": "extra U.S. rate cut for 2025"
+        },
+        {
+            "cause": "Implied chance of a December rate cut",
+            "relation": "lifted from",
+            "effect": "even to 70%"
+        },
+        {
+            "cause": "Christopher Waller",
+            "relation": "leaned towards",
+            "effect": "a rate cut in December"
+        },
+        {
+            "cause": "ISM survey",
+            "relation": "showed",
+            "effect": "services sector activity slowed"
+        },
+        {
+            "cause": "Posting big gains in recent months",
+            "relation": "preceded",
+            "effect": "services sector slowdown"
+        },
+        {
+            "cause": "Investors",
+            "relation": "digested",
+            "effect": "slightly higher jobless claims data"
+        },
+        {
+            "cause": "Jobless claims increase",
+            "relation": "caused",
+            "effect": "10-year Treasury yields to edge up"
+        },
+        {
+            "cause": "New unemployment data",
+            "relation": "showed",
+            "effect": "applications for benefits increased"
+        },
+        {
+            "cause": "Increased applications",
+            "relation": "suggested",
+            "effect": "labor market cooling"
+        },
+        {
+            "cause": "Labor market",
+            "relation": "continued to",
+            "effect": "cool steadily"
+        },
+        {
+            "cause": "Dollar",
+            "relation": "weakened against",
+            "effect": "major currencies"
+        },
+        {
+            "cause": "Euro",
+            "relation": "rose",
+            "effect": "0.5% to $1.056"
+        },
+        {
+            "cause": "Government collapse in France",
+            "relation": "reduced",
+            "effect": "French-German bond risk premium"
+        },
+        {
+            "cause": "Investors’ hope for new French budget",
+            "relation": "aided",
+            "effect": "European stocks"
+        },
+        {
+            "cause": "Barnier’s government toppling",
+            "relation": "led to",
+            "effect": "hopes for new budget"
+        },
+        {
+            "cause": "STOXX 600",
+            "relation": "finished",
+            "effect": "0.4% higher"
+        },
+        {
+            "cause": "STOXX 600",
+            "relation": "logged",
+            "effect": "sixth-straight session of advances"
+        },
+        {
+            "cause": "France’s CAC 40",
+            "relation": "ended",
+            "effect": "0.3% higher"
+        },
+        {
+            "cause": "Bad news",
+            "relation": "was",
+            "effect": "priced in by markets"
+        },
+        {
+            "cause": "Expectation of government fall",
+            "relation": "was",
+            "effect": "obvious to investors"
+        },
+        {
+            "cause": "President Yoon Suk Yeol’s failed martial law attempt",
+            "relation": "triggered",
+            "effect": "volatility and political crisis"
+        },
+        {
+            "cause": "Volatility and crisis",
+            "relation": "affected",
+            "effect": "South Korean markets"
+        },
+        {
+            "cause": "OPEC+ delaying its increase to April 2025",
+            "relation": "affected",
+            "effect": "oil price expectations"
+        },
+        {
+            "cause": "Ample supply outlook",
+            "relation": "weighed on",
+            "effect": "oil prices"
+        },
+        {
+            "cause": "U.S. crude",
+            "relation": "fell",
+            "effect": "0.1%"
+        },
+        {
+            "cause": "Brent",
+            "relation": "declined",
+            "effect": "0.04%"
+        },
+        {
+            "cause": "The chief executive",
+            "relation": "is identifying",
+            "effect": "one catalyst"
+        },
+        {
+            "cause": "One catalyst",
+            "relation": "could send",
+            "effect": "Bitcoin to a $1 million price tag"
+        },
+        {
+            "cause": "Ki Young Ju",
+            "relation": "says",
+            "effect": "top crypto asset will have overtaken gold when it reaches $1M"
+        },
+        {
+            "cause": "Top crypto asset",
+            "relation": "reaches",
+            "effect": "$1 million"
+        },
+        {
+            "cause": "Top crypto asset",
+            "relation": "will have overtaken",
+            "effect": "gold"
+        },
+        {
+            "cause": "Investor demand",
+            "relation": "shifts from",
+            "effect": "gold to BTC"
+        },
+        {
+            "cause": "Crypto king",
+            "relation": "reaching",
+            "effect": "nine figures"
+        },
+        {
+            "cause": "Reaching nine figures",
+            "relation": "is",
+            "effect": "inevitable"
+        },
+        {
+            "cause": "Gold’s market cap",
+            "relation": "was",
+            "effect": "$1 trillion (in 2004)"
+        },
+        {
+            "cause": "Gold ETFs",
+            "relation": "were approved",
+            "effect": "(implicit effect: after 2004)"
+        },
+        {
+            "cause": "Gold’s market cap",
+            "relation": "is",
+            "effect": "$17.8 trillion (today)"
+        },
+        {
+            "cause": "Gold’s intrinsic value",
+            "relation": "is",
+            "effect": "$1 trillion"
+        },
+        {
+            "cause": "$16.8 trillion",
+            "relation": "represents",
+            "effect": "gold’s demand as a safe-haven asset"
+        },
+        {
+            "cause": "Gold’s demand",
+            "relation": "serves as",
+            "effect": "hedge against inflation"
+        },
+        {
+            "cause": "Bitcoin’s current market cap",
+            "relation": "is",
+            "effect": "$2 trillion"
+        },
+        {
+            "cause": "Gold demand",
+            "relation": "shifts to",
+            "effect": "BTC"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "could go up",
+            "effect": "750%"
+        },
+        {
+            "cause": "Inflation",
+            "relation": "contributes to",
+            "effect": "Bitcoin reaching $1 million (implicit)"
+        },
+        {
+            "cause": "Bitcoin reaching $1 million",
+            "relation": "isn’t about if; is about",
+            "effect": "when"
+        },
+        {
+            "cause": "People",
+            "relation": "will start discussing",
+            "effect": "the gold flippening (within five years)"
+        },
+        {
+            "cause": "BTC",
+            "relation": "has yet to form",
+            "effect": "a bubble"
+        },
+        {
+            "cause": "BTC",
+            "relation": "reached",
+            "effect": "the $100,000 milestone"
+        },
+        {
+            "cause": "Fresh capital",
+            "relation": "is fueling",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Realized cap",
+            "relation": "grew",
+            "effect": "(causing ceiling price to increase)"
+        },
+        {
+            "cause": "Ceiling price",
+            "relation": "increased from",
+            "effect": "$129,000 to $146,000 (in 30 days)"
+        },
+        {
+            "cause": "Bitcoin at $102,000",
+            "relation": "is far from",
+            "effect": "a bubble"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "would need",
+            "effect": "a 43% surge to hit bubble threshold"
+        },
+        {
+            "cause": "Donald Trump’s return",
+            "relation": "fuelled",
+            "effect": "Bitcoin price smashing through $100,000"
+        },
+        {
+            "cause": "The world’s first, largest and most valuable cryptocurrency",
+            "relation": "has doubled",
+            "effect": "in value since the start of the year"
+        },
+        {
+            "cause": "Trump’s election win",
+            "relation": "caused",
+            "effect": "Bitcoin to surge by more than 50 per cent since November"
+        },
+        {
+            "cause": "Republican Trump",
+            "relation": "pledged",
+            "effect": "to make the US the “crypto capital of the planet”"
+        },
+        {
+            "cause": "Republican Trump",
+            "relation": "pledged",
+            "effect": "to build a strategic reserve of Bitcoin"
+        },
+        {
+            "cause": "Republican Trump",
+            "relation": "pledged",
+            "effect": "to set up his own cryptocurrency venture"
+        },
+        {
+            "cause": "Trump",
+            "relation": "appointed",
+            "effect": "Elon Musk as head of the new Department of Government Efficiency (DOGE)"
+        },
+        {
+            "cause": "Appointment of Elon Musk",
+            "relation": "served as",
+            "effect": "explicit nod to Dogecoin"
+        },
+        {
+            "cause": "Trump nominating Paul Atkins",
+            "relation": "boosted",
+            "effect": "frenzy around digital currency"
+        },
+        {
+            "cause": "Paul Atkins’ appointment",
+            "relation": "will mark",
+            "effect": "a dramatic shift from outgoing SEC boss Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "led",
+            "effect": "a crypto crackdown"
+        },
+        {
+            "cause": "Biggest investment managers (e.g., Blackrock)",
+            "relation": "backed",
+            "effect": "exchange-traded funds investing in cryptocurrency"
+        },
+        {
+            "cause": "Blackrock",
+            "relation": "invested",
+            "effect": "£35 billion into Bitcoin"
+        },
+        {
+            "cause": "UK financial watchdog",
+            "relation": "warned",
+            "effect": "Brits to be prepared “to lose all their money”"
+        },
+        {
+            "cause": "Around 7 million adults in the UK",
+            "relation": "hold",
+            "effect": "some form of digital currency"
+        },
+        {
+            "cause": "Carol Alexander",
+            "relation": "predicted",
+            "effect": "$100,000 Bitcoin record last month"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surged to",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "a virtual object"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "nothing more than computer code"
+        },
+        {
+            "cause": "Crypto currencies",
+            "relation": "have been on",
+            "effect": "a wild ride"
+        },
+        {
+            "cause": "Crypto currencies",
+            "relation": "surge and tumble sharply",
+            "effect": "based on little more than a post by Elon Musk"
+        },
+        {
+            "cause": "Massive swings",
+            "relation": "have occurred in",
+            "effect": "crypto currencies’ value in recent years"
+        },
+        {
+            "cause": "Total value of the cryptocurrency market",
+            "relation": "is now",
+            "effect": "over $3 trillion"
+        },
+        {
+            "cause": "Nearly $1 trillion",
+            "relation": "was wiped off",
+            "effect": "crypto market valuation three years ago"
+        },
+        {
+            "cause": "Crypto currency as an asset class",
+            "relation": "is",
+            "effect": "unstable"
+        },
+        {
+            "cause": "£10 note",
+            "relation": "could buy",
+            "effect": "a beer on one day"
+        },
+        {
+            "cause": "£10 note",
+            "relation": "could buy",
+            "effect": "a bottle of fine wine on another day"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has",
+            "effect": "no intrinsic value"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is not backed by",
+            "effect": "anything"
+        },
+        {
+            "cause": "Bitcoin devotees",
+            "relation": "claim",
+            "effect": "Bitcoin’s value comes from scarcity"
+        },
+        {
+            "cause": "Scarcity",
+            "relation": "can hardly be",
+            "effect": "a source of value"
+        },
+        {
+            "cause": "Bitcoin investors",
+            "relation": "rely on",
+            "effect": "the “greater fool” theory"
+        },
+        {
+            "cause": "Profit from an investment",
+            "relation": "requires",
+            "effect": "finding someone willing to buy the asset at an even higher price"
+        },
+        {
+            "cause": "Naive investors who come late",
+            "relation": "are at",
+            "effect": "greatest risk of losses"
+        },
+        {
+            "cause": "The Government",
+            "relation": "should caution",
+            "effect": "retail investors that they act at their own peril"
+        },
+        {
+            "cause": "Sophisticated investors",
+            "relation": "may tap into",
+            "effect": "the benefits"
+        },
+        {
+            "cause": "Less well-off dazzled by new technologies",
+            "relation": "will take on",
+            "effect": "risks they do not fully comprehend"
+        },
+        {
+            "cause": "investors’ hope",
+            "relation": "motivates",
+            "effect": "bitcoin price rising"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "rises above",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "investors",
+            "relation": "hope for",
+            "effect": "Trump administration bringing crypto into mainstream markets"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "brings (anticipated)",
+            "effect": "cryptocurrencies into mainstream markets"
+        },
+        {
+            "cause": "cryptocurrency",
+            "relation": "rose to",
+            "effect": "$103,335"
+        },
+        {
+            "cause": "US president-elect (Trump)",
+            "relation": "takes credit for",
+            "effect": "bitcoin rise"
+        },
+        {
+            "cause": "Trump",
+            "relation": "told",
+            "effect": "social media followers"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "doubled in",
+            "effect": "value"
+        },
+        {
+            "cause": "Trump’s election victory",
+            "relation": "associates with",
+            "effect": "bitcoin rising 50%"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged",
+            "effect": "to make US the crypto capital"
+        },
+        {
+            "cause": "Trump",
+            "relation": "aims to transform",
+            "effect": "United States into crypto capital"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to create",
+            "effect": "strategic reserve of bitcoin"
+        },
+        {
+            "cause": "campaign",
+            "relation": "accepted",
+            "effect": "crypto donations"
+        },
+        {
+            "cause": "Trump",
+            "relation": "courted",
+            "effect": "crypto fans"
+        },
+        {
+            "cause": "World Liberty Financial",
+            "relation": "trades",
+            "effect": "cryptocurrencies"
+        },
+        {
+            "cause": "Trump",
+            "relation": "started",
+            "effect": "World Liberty Financial"
+        },
+        {
+            "cause": "Trump",
+            "relation": "plans to form",
+            "effect": "crypto advisory council"
+        },
+        {
+            "cause": "executives",
+            "relation": "expect",
+            "effect": "Trump pushing legislative/regulatory changes"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pushes through (anticipated)",
+            "effect": "legislative/regulatory changes"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "to remove Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "leads",
+            "effect": "government clampdown on crypto industry"
+        },
+        {
+            "cause": "Trump taking oath",
+            "relation": "triggers",
+            "effect": "Gensler stepping down"
+        },
+        {
+            "cause": "Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "replaces",
+            "effect": "Gensler"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "involved in",
+            "effect": "crypto policy"
+        },
+        {
+            "cause": "Token Alliance",
+            "relation": "develops",
+            "effect": "best practices for digital asset issuance and trading"
+        },
+        {
+            "cause": "Chamber of Digital Commerce",
+            "relation": "works on",
+            "effect": "digital asset practice development"
+        },
+        {
+            "cause": "Novogratz",
+            "relation": "witnesses",
+            "effect": "paradigm shift"
+        },
+        {
+            "cause": "digital asset ecosystem",
+            "relation": "approaches",
+            "effect": "financial mainstream"
+        },
+        {
+            "cause": "institutional adoption",
+            "relation": "fuels",
+            "effect": "momentum"
+        },
+        {
+            "cause": "advancements in tokenisation and payments",
+            "relation": "fuel",
+            "effect": "momentum"
+        },
+        {
+            "cause": "clearer regulatory path",
+            "relation": "fuels",
+            "effect": "momentum"
+        },
+        {
+            "cause": "Satoshi Nakamoto",
+            "relation": "created",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "lacks",
+            "effect": "physical form"
+        },
+        {
+            "cause": "Nakamoto",
+            "relation": "developed",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "Nakamoto’s identity",
+            "relation": "remains",
+            "effect": "undiscovered"
+        },
+        {
+            "cause": "industry institutionalisation",
+            "relation": "enables",
+            "effect": "bitcoin reaching current level"
+        },
+        {
+            "cause": "institutional money",
+            "relation": "purchases",
+            "effect": "3% of bitcoin supply"
+        },
+        {
+            "cause": "BlackRock",
+            "relation": "launched",
+            "effect": "bitcoin ETF"
+        },
+        {
+            "cause": "Fidelity",
+            "relation": "launched",
+            "effect": "bitcoin ETF"
+        },
+        {
+            "cause": "ETFs",
+            "relation": "are unavailable in",
+            "effect": "UK"
+        },
+        {
+            "cause": "bitcoin price increase",
+            "relation": "correlates with",
+            "effect": "crypto stock rise"
+        },
+        {
+            "cause": "US election",
+            "relation": "associates with",
+            "effect": "Coinbase share rise"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "raised funds to buy",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "bitcoin purchases",
+            "relation": "correlate with",
+            "effect": "MicroStrategy share gains"
+        },
+        {
+            "cause": "criminals",
+            "relation": "use",
+            "effect": "cryptocurrencies"
+        },
+        {
+            "cause": "cryptocurrencies",
+            "relation": "fund",
+            "effect": "crimes"
+        },
+        {
+            "cause": "US and UK",
+            "relation": "disrupted",
+            "effect": "money-laundering ring"
+        },
+        {
+            "cause": "money-laundering ring",
+            "relation": "used",
+            "effect": "cryptocurrency"
+        },
+        {
+            "cause": "rich Russians",
+            "relation": "evade",
+            "effect": "sanctions"
+        },
+        {
+            "cause": "ring",
+            "relation": "launders cash for",
+            "effect": "drug traffickers"
+        },
+        {
+            "cause": "investors",
+            "relation": "doubt",
+            "effect": "broad crypto adoption"
+        },
+        {
+            "cause": "time passing",
+            "relation": "helps",
+            "effect": "crypto prove itself"
+        },
+        {
+            "cause": "crypto",
+            "relation": "is",
+            "effect": "hard to value"
+        },
+        {
+            "cause": "momentum",
+            "relation": "drives",
+            "effect": "crypto trend upward"
+        },
+        {
+            "cause": "UK authorities",
+            "relation": "move cautiously on",
+            "effect": "crypto authorisation"
+        },
+        {
+            "cause": "FCA",
+            "relation": "warns",
+            "effect": "investors"
+        },
+        {
+            "cause": "buying crypto",
+            "relation": "risks",
+            "effect": "total loss"
+        },
+        {
+            "cause": "FCA roadmap",
+            "relation": "delays",
+            "effect": "full crypto dealing until 2026"
+        },
+        {
+            "cause": "Treasury’s plan",
+            "relation": "is delayed to",
+            "effect": "2026"
+        },
+        {
+            "cause": "delay",
+            "relation": "affects",
+            "effect": "industry"
+        },
+        {
+            "cause": "Trump nominating Atkins",
+            "relation": "increases",
+            "effect": "speculation of regulatory liberalisation"
+        },
+        {
+            "cause": "US policy",
+            "relation": "triggers",
+            "effect": "fund launches by BlackRock and Fidelity"
+        },
+        {
+            "cause": "crypto",
+            "relation": "used by",
+            "effect": "criminals"
+        },
+        {
+            "cause": "Randell",
+            "relation": "compares",
+            "effect": "crypto trading to digital roulette"
+        },
+        {
+            "cause": "regulation",
+            "relation": "gives",
+            "effect": "false reassurance"
+        },
+        {
+            "cause": "Britons",
+            "relation": "own",
+            "effect": "digital currencies"
+        },
+        {
+            "cause": "offshore exchanges",
+            "relation": "provide",
+            "effect": "crypto access"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surged past",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin’s rise",
+            "relation": "continued",
+            "effect": "post-election run"
+        },
+        {
+            "cause": "Post-election run",
+            "relation": "was buoyed by",
+            "effect": "pro-crypto promise of incoming Trump administration"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "was worth",
+            "effect": "$69,374 on Election Day"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "spiked",
+            "effect": "more than 44% within a month"
+        },
+        {
+            "cause": "Other cryptocurrencies (ethereum, XRP)",
+            "relation": "shot up",
+            "effect": "during same period"
+        },
+        {
+            "cause": "Increase in cryptocurrency value",
+            "relation": "signaled",
+            "effect": "investor optimism about Trump’s policies"
+        },
+        {
+            "cause": "Trump’s policies",
+            "relation": "inspired",
+            "effect": "investor optimism"
+        },
+        {
+            "cause": "Trump’s regulatory picks",
+            "relation": "promised",
+            "effect": "deregulation of crypto industry"
+        },
+        {
+            "cause": "Nomination of crypto-enthusiasts",
+            "relation": "signaled",
+            "effect": "embrace of bitcoin and crypto"
+        },
+        {
+            "cause": "Embrace of bitcoin and crypto",
+            "relation": "triggered",
+            "effect": "flood of money into markets"
+        },
+        {
+            "cause": "Bitcoin’s rally",
+            "relation": "was a product of",
+            "effect": "increased legitimacy"
+        },
+        {
+            "cause": "Trump’s election",
+            "relation": "sparked",
+            "effect": "bitcoin’s rally"
+        },
+        {
+            "cause": "Financial establishment’s embrace",
+            "relation": "provided",
+            "effect": "tinder for bitcoin rally"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "evolved into",
+            "effect": "mainstream digital currency"
+        },
+        {
+            "cause": "Everyday Americans",
+            "relation": "can buy",
+            "effect": "bitcoin through reputable accounts"
+        },
+        {
+            "cause": "Investment vehicles",
+            "relation": "assured",
+            "effect": "bitcoin’s staying power"
+        },
+        {
+            "cause": "Trump administration policies",
+            "relation": "fueled",
+            "effect": "optimism"
+        },
+        {
+            "cause": "Trump",
+            "relation": "supported",
+            "effect": "cryptocurrency"
+        },
+        {
+            "cause": "Trump’s choices for agency heads",
+            "relation": "reflected",
+            "effect": "pro-crypto enthusiasm"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "highest valuation after nomination of Paul Atkins"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "nominated to head",
+            "effect": "Securities and Exchange Commission (SEC)"
+        },
+        {
+            "cause": "SEC",
+            "relation": "regulates",
+            "effect": "tradable securities"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "served as",
+            "effect": "SEC commissioner under George W. Bush"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "advocated for",
+            "effect": "deregulation during and after SEC tenure"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "co-chairs",
+            "effect": "Chamber of Digital Commerce’s Token Alliance"
+        },
+        {
+            "cause": "Token Alliance",
+            "relation": "advocates for",
+            "effect": "lax cryptocurrency regulation"
+        },
+        {
+            "cause": "Perianne Boring",
+            "relation": "rumored to be",
+            "effect": "Trump’s pick for CFTC head"
+        },
+        {
+            "cause": "CFTC",
+            "relation": "makes rules for",
+            "effect": "trading of futures and commodities"
+        },
+        {
+            "cause": "Cryptocurrency",
+            "relation": "currently under",
+            "effect": "SEC purview"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "weighing",
+            "effect": "regulating crypto as commodity"
+        },
+        {
+            "cause": "Crypto regulation change",
+            "relation": "would shift oversight to",
+            "effect": "CFTC"
+        },
+        {
+            "cause": "CFTC",
+            "relation": "seen as",
+            "effect": "more hands-off regulator"
+        },
+        {
+            "cause": "David Sacks",
+            "relation": "named as",
+            "effect": "Trump’s crypto and AI czar"
+        },
+        {
+            "cause": "David Sacks",
+            "relation": "tasked with",
+            "effect": "formulating crypto and AI policy"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said",
+            "effect": "Sacks will work with SEC and CFTC on regulation"
+        },
+        {
+            "cause": "Sacks",
+            "relation": "will develop",
+            "effect": "legal framework for crypto regulation"
+        },
+        {
+            "cause": "Trump family",
+            "relation": "operates",
+            "effect": "World Liberty Financial (crypto venture)"
+        },
+        {
+            "cause": "Pro-crypto groups",
+            "relation": "spent",
+            "effect": "$245 million in elections"
+        },
+        {
+            "cause": "Pro-crypto spending",
+            "relation": "supported",
+            "effect": "pro-crypto candidates"
+        },
+        {
+            "cause": "Friendly Trump administration",
+            "relation": "expected to create",
+            "effect": "friendlier regulatory landscape"
+        },
+        {
+            "cause": "Gensler’s SEC",
+            "relation": "imposed",
+            "effect": "heavy crypto regulation"
+        },
+        {
+            "cause": "Gensler’s SEC",
+            "relation": "filed",
+            "effect": "lawsuits against crypto companies"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "likely to reverse",
+            "effect": "Gensler-era regulations"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "could drop",
+            "effect": "SEC lawsuits against crypto firms"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "likely to change",
+            "effect": "crypto regulation significantly"
+        },
+        {
+            "cause": "Trump regulatory regime",
+            "relation": "could allow",
+            "effect": "crypto exchanges to operate with less litigation threat"
+        },
+        {
+            "cause": "Reduced litigation threat",
+            "relation": "would make",
+            "effect": "trading easier on exchanges"
+        },
+        {
+            "cause": "Easier trading",
+            "relation": "would spur",
+            "effect": "industry innovation"
+        },
+        {
+            "cause": "Reduced regulation",
+            "relation": "could expose",
+            "effect": "traders to fraud and theft"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "became",
+            "effect": "established digital asset"
+        },
+        {
+            "cause": "Downfall of FTX",
+            "relation": "changed",
+            "effect": "narrative around crypto utility"
+        },
+        {
+            "cause": "Crypto narrative",
+            "relation": "shifted from",
+            "effect": "currency use to investment instrument"
+        },
+        {
+            "cause": "Shift to investment role",
+            "relation": "helped",
+            "effect": "bitcoin’s valuation rise"
+        },
+        {
+            "cause": "SEC",
+            "relation": "approved",
+            "effect": "first bitcoin ETFs in U.S."
+        },
+        {
+            "cause": "ETFs",
+            "relation": "allow",
+            "effect": "indirect cryptocurrency access"
+        },
+        {
+            "cause": "Bitcoin’s value",
+            "relation": "determines",
+            "effect": "ETF value"
+        },
+        {
+            "cause": "ETF bundling",
+            "relation": "insulates",
+            "effect": "investors from losses"
+        },
+        {
+            "cause": "Firms (BlackRock, Fidelity, etc.)",
+            "relation": "launched",
+            "effect": "bitcoin funds"
+        },
+        {
+            "cause": "Bitcoin funds",
+            "relation": "offer",
+            "effect": "easy entry for risk-averse investors"
+        },
+        {
+            "cause": "Previously, investors",
+            "relation": "had",
+            "effect": "limited options for trading bitcoin"
+        },
+        {
+            "cause": "Investors",
+            "relation": "could buy",
+            "effect": "bitcoin directly on exchanges"
+        },
+        {
+            "cause": "Crypto held on exchanges",
+            "relation": "vulnerable to",
+            "effect": "theft"
+        },
+        {
+            "cause": "Offline crypto storage",
+            "relation": "safer but",
+            "effect": "harder to trade"
+        },
+        {
+            "cause": "ETFs",
+            "relation": "provide",
+            "effect": "establishment-backed option for crypto exposure"
+        },
+        {
+            "cause": "Bitcoin’s evolution",
+            "relation": "drives",
+            "effect": "long-term price growth"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "evolving into",
+            "effect": "foundational layer of global financial infrastructure"
+        },
+        {
+            "cause": "Vasudevan",
+            "relation": "warned",
+            "effect": "crypto climb may not last"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surged before and",
+            "effect": "crashed precipitously"
+        },
+        {
+            "cause": "FTX collapse in 2022",
+            "relation": "caused",
+            "effect": "bitcoin value to drop 20%"
+        },
+        {
+            "cause": "Crypto price",
+            "relation": "based on",
+            "effect": "speculation rather than inherent value"
+        },
+        {
+            "cause": "Favorable regulatory environment",
+            "relation": "stoking",
+            "effect": "crypto bubble"
+        },
+        {
+            "cause": "Prospect of new funds and products",
+            "relation": "attracting",
+            "effect": "more investors to crypto markets"
+        },
+        {
+            "cause": "Bitcoin traded above $100,000",
+            "relation": "CAUSED BY",
+            "effect": "a wave of investors betting that Trump will turn U.S. government policy into an engine of growth for crypto"
+        },
+        {
+            "cause": "President-elect Donald Trump",
+            "relation": "WILL TURN",
+            "effect": "U.S. government policy into an engine of growth for crypto"
+        },
+        {
+            "cause": "The world’s largest digital currency",
+            "relation": "HAS STAGED",
+            "effect": "an extraordinary rally since Election Day"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "SURGED",
+            "effect": "more than 40% in four weeks"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "SET",
+            "effect": "one record after another"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "SURGED",
+            "effect": "as high as $103,853"
+        },
+        {
+            "cause": "Trump",
+            "relation": "PICKED",
+            "effect": "Paul Atkins to lead the SEC"
+        },
+        {
+            "cause": "Trump",
+            "relation": "DROPPED",
+            "effect": "his earlier skepticism of bitcoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "PROMISED",
+            "effect": "to end Joe Biden’s war on crypto"
+        },
+        {
+            "cause": "Crypto",
+            "relation": "HAS EMBRACED",
+            "effect": "the new U.S. administration"
+        },
+        {
+            "cause": "Crypto",
+            "relation": "IS",
+            "effect": "newly ascendant in Washington"
+        },
+        {
+            "cause": "Crypto’s march toward the mainstream",
+            "relation": "HAS ENRICHED",
+            "effect": "a youthful cohort of digital-currency tycoons"
+        },
+        {
+            "cause": "Crypto’s march toward the mainstream",
+            "relation": "HAS SWELLED",
+            "effect": "the value of the asset class to more than $3 trillion"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "WAS CREATED BY",
+            "effect": "Satoshi Nakamoto"
+        },
+        {
+            "cause": "Satoshi Nakamoto",
+            "relation": "PROPOSED",
+            "effect": "bitcoin as a way to make payments without relying on traditional banking"
+        },
+        {
+            "cause": "Many of bitcoin’s early fans",
+            "relation": "SAW",
+            "effect": "it as a way to let individuals control financial destinies"
+        },
+        {
+            "cause": "Crypto investors",
+            "relation": "ARE CHEERING",
+            "effect": "Trump’s pledge to create a strategic national reserve for bitcoin"
+        },
+        {
+            "cause": "Trump’s policy",
+            "relation": "COULD BOOST",
+            "effect": "the price of bitcoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "HAS PROMISED",
+            "effect": "to ease the regulatory burden on the crypto industry"
+        },
+        {
+            "cause": "SEC Chair Gary Gensler",
+            "relation": "PLANS TO RESIGN",
+            "effect": "on Inauguration Day"
+        },
+        {
+            "cause": "Trump",
+            "relation": "HAD VOWED",
+            "effect": "to fire Gensler"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "HAS WARNED",
+            "effect": "that digital currencies are rife with fraud and manipulation"
+        },
+        {
+            "cause": "Governments in Bhutan and El Salvador",
+            "relation": "HAVE AMASSED",
+            "effect": "stashes of bitcoin"
+        },
+        {
+            "cause": "Some publicly traded companies (MicroStrategy and Tesla)",
+            "relation": "HAVE AMASSED",
+            "effect": "stashes of bitcoin"
+        },
+        {
+            "cause": "Large hoards of bitcoin",
+            "relation": "ARE BULLISH FOR",
+            "effect": "bitcoin’s price"
+        },
+        {
+            "cause": "Crypto firms’ campaign spending",
+            "relation": "HELPED TOPPLE",
+            "effect": "lawmakers hostile to the industry"
+        },
+        {
+            "cause": "Voters",
+            "relation": "ELECTED",
+            "effect": "298 pro-crypto representatives and senators"
+        },
+        {
+            "cause": "Voters",
+            "relation": "ELECTED",
+            "effect": "134 anti-crypto representatives and senators"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "IS USED",
+            "effect": "as a form of digital gold"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "IS USED",
+            "effect": "to store monetary value and hedge against inflation"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HAS HIT RECORDS",
+            "effect": "on signs of mainstream adoption"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "SPIKED",
+            "effect": "to nearly $20,000 after Chicago exchanges listed futures contracts"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "HIT",
+            "effect": "almost $69,000 following launch of ETFs holding bitcoin futures"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "PLUNGED",
+            "effect": "78% to less than $16,000 after FTX collapse"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "BROKE THROUGH INTO RECORD TERRITORY",
+            "effect": "after launch of spot ETFs"
+        },
+        {
+            "cause": "Investors",
+            "relation": "HAVE POURED",
+            "effect": "more than $7 billion into U.S. spot bitcoin ETFs"
+        },
+        {
+            "cause": "Inflows into ETFs",
+            "relation": "HAVE HELPED",
+            "effect": "drive bitcoin higher"
+        },
+        {
+            "cause": "Holding bitcoin through ETFs",
+            "relation": "IS",
+            "effect": "a departure from crypto origins"
+        },
+        {
+            "cause": "Early bitcoin holders",
+            "relation": "COULD ONLY ACCESS",
+            "effect": "coins by typing cryptographic keys"
+        },
+        {
+            "cause": "Coinbase",
+            "relation": "HELD",
+            "effect": "people’s bitcoin and provided easy-to-use interface"
+        },
+        {
+            "cause": "Investors",
+            "relation": "ARE LETTING",
+            "effect": "Wall Street hold coins on their behalf through spot ETFs"
+        },
+        {
+            "cause": "People",
+            "relation": "WILL TEND TO FOLLOW",
+            "effect": "the path of least resistance and greatest familiarity to investing in bitcoin"
+        },
+        {
+            "cause": "Using traditional vehicles",
+            "relation": "DOES NOT NEGATIVELY AFFECT",
+            "effect": "the underlying investment thesis of bitcoin"
+        }
+    ]
+}

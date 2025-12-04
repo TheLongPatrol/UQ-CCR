@@ -1,0 +1,439 @@
+{
+    "triples": [
+        {
+            "cause": "Chairman and controlling shareholder of MicroStrategy",
+            "relation": "turned",
+            "effect": "smallish business software company into world’s largest corporate Bitcoin holder"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "holds",
+            "effect": "2% of the Bitcoins outstanding"
+        },
+        {
+            "cause": "Stake",
+            "relation": "is worth",
+            "effect": "more than $40 billion"
+        },
+        {
+            "cause": "Company’s market value",
+            "relation": "is",
+            "effect": "almost 2½ times that of company’s Bitcoins (adjusted for debt and software business)"
+        },
+        {
+            "cause": "Gap between market value and Bitcoin value",
+            "relation": "is",
+            "effect": "heart of the debate about company"
+        },
+        {
+            "cause": "Company",
+            "relation": "sold stock and convertible bonds",
+            "effect": "to fund Bitcoin purchases"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "calls",
+            "effect": "MicroStrategy a “Bitcoin treasury company”"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "bridges",
+            "effect": "traditional capital markets and crypto economy"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "serves as",
+            "effect": "vehicle to connect markets"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "has been",
+            "effect": "convincing"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "gained",
+            "effect": "huge retail following"
+        },
+        {
+            "cause": "Retail following",
+            "relation": "contributed to",
+            "effect": "500% gain in MicroStrategy’s stock"
+        },
+        {
+            "cause": "Trading",
+            "relation": "has been",
+            "effect": "heavy in both stock and options"
+        },
+        {
+            "cause": "Options volume",
+            "relation": "rivaled",
+            "effect": "that of Nvidia and Tesla"
+        },
+        {
+            "cause": "Premium",
+            "relation": "looks",
+            "effect": "too high"
+        },
+        {
+            "cause": "Stock",
+            "relation": "is vulnerable to",
+            "effect": "pullback"
+        },
+        {
+            "cause": "Pullback",
+            "relation": "may occur if",
+            "effect": "postelection run-up in Bitcoin reverses"
+        },
+        {
+            "cause": "Investors",
+            "relation": "are paying",
+            "effect": "nearly $240,000 per company Bitcoin"
+        },
+        {
+            "cause": "Price per Bitcoin",
+            "relation": "exceeds",
+            "effect": "market price"
+        },
+        {
+            "cause": "Risk",
+            "relation": "is that",
+            "effect": "MicroStrategy fails to keep pace with Bitcoin gains if premium contracts"
+        },
+        {
+            "cause": "Stock",
+            "relation": "dropped",
+            "effect": "25% from Nov. 21 peak"
+        },
+        {
+            "cause": "Premium",
+            "relation": "leaked out of",
+            "effect": "stock"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "record highs"
+        },
+        {
+            "cause": "Institutional ownership",
+            "relation": "is",
+            "effect": "low"
+        },
+        {
+            "cause": "Success of company’s strategy",
+            "relation": "hinges on",
+            "effect": "ability to find stock buyers at large premium"
+        },
+        {
+            "cause": "Michael Saylor",
+            "relation": "used",
+            "effect": "evangelical qualities to get cult following"
+        },
+        {
+            "cause": "Cult following",
+            "relation": "buys",
+            "effect": "stock at two to three times Bitcoin value"
+        },
+        {
+            "cause": "True Bitcoin believers",
+            "relation": "own",
+            "effect": "digital asset directly"
+        },
+        {
+            "cause": "MicroStrategy (past)",
+            "relation": "sold",
+            "effect": "business analytics software"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "started buying",
+            "effect": "Bitcoin in 2020"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has",
+            "effect": "capped issuance at 21 million"
+        },
+        {
+            "cause": "20 million Bitcoins",
+            "relation": "are",
+            "effect": "outstanding"
+        },
+        {
+            "cause": "Remaining 5%",
+            "relation": "will be",
+            "effect": "mined"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "believes",
+            "effect": "Bitcoin is going much higher"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "sees",
+            "effect": "50% annual returns for Bitcoin"
+        },
+        {
+            "cause": "Stock premium",
+            "relation": "is",
+            "effect": "2024 phenomenon"
+        },
+        {
+            "cause": "From 2022–2023, MicroStrategy",
+            "relation": "traded",
+            "effect": "near parity with Bitcoin value"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "started 2024 with",
+            "effect": "30% premium"
+        },
+        {
+            "cause": "Donald Trump’s presidential win",
+            "relation": "energized",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Trump’s crypto-friendly views",
+            "relation": "boosted",
+            "effect": "market sentiment"
+        },
+        {
+            "cause": "Trump’s appointment of Paul Atkins",
+            "relation": "helped push",
+            "effect": "Bitcoin above $100,000"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "flipped",
+            "effect": "typical corporate policy on stock issuance"
+        },
+        {
+            "cause": "Company",
+            "relation": "issued",
+            "effect": "$21 billion of stock and $21 billion of bonds"
+        },
+        {
+            "cause": "Company",
+            "relation": "used",
+            "effect": "proceeds to purchase Bitcoin"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "sold",
+            "effect": "about $10.5 billion of equity"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "issued",
+            "effect": "$3 billion convertible bond"
+        },
+        {
+            "cause": "Company",
+            "relation": "is on pace to",
+            "effect": "achieve fundraising goal next year"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "raised",
+            "effect": "Bitcoin holdings by 60% since Sept. 30"
+        },
+        {
+            "cause": "Higher purchases",
+            "relation": "lifted",
+            "effect": "average Bitcoin cost to $58,000"
+        },
+        {
+            "cause": "Buying at higher prices",
+            "relation": "increased",
+            "effect": "average cost"
+        },
+        {
+            "cause": "Jim Chanos",
+            "relation": "pointed out",
+            "effect": "company bought little Bitcoin in 2022"
+        },
+        {
+            "cause": "Company",
+            "relation": "bought",
+            "effect": "a lot of Bitcoin now at record levels"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "addressed",
+            "effect": "dilution concerns"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "stated",
+            "effect": "plan is to accrete shareholders"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "developed",
+            "effect": "metric called Bitcoin “yield”"
+        },
+        {
+            "cause": "Bitcoin “yield”",
+            "relation": "measures",
+            "effect": "change in Bitcoin per share"
+        },
+        {
+            "cause": "Bitcoin per 1,000 shares",
+            "relation": "rose from",
+            "effect": "0.9 to 1.5 this year"
+        },
+        {
+            "cause": "Company",
+            "relation": "highlights",
+            "effect": "high stock volatility as positive"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "said",
+            "effect": "MicroStrategy is 10× as volatile as S&P 500"
+        },
+        {
+            "cause": "Volatility",
+            "relation": "allowed",
+            "effect": "company to issue convertible debt at attractive prices"
+        },
+        {
+            "cause": "Bond buyers",
+            "relation": "like",
+            "effect": "volatile stocks"
+        },
+        {
+            "cause": "Latest deal",
+            "relation": "carried",
+            "effect": "zero interest rate and 55% conversion premium"
+        },
+        {
+            "cause": "Adding debt",
+            "relation": "carries",
+            "effect": "risk"
+        },
+        {
+            "cause": "In 2022, Bitcoin drop",
+            "relation": "caused",
+            "effect": "investor concern about debt repayment"
+        },
+        {
+            "cause": "Debt",
+            "relation": "traded",
+            "effect": "below 50 cents on the dollar"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "described",
+            "effect": "buying Bitcoin via stock and bond sales as Treasury operations"
+        },
+        {
+            "cause": "Issuing lots of stock",
+            "relation": "is right if",
+            "effect": "investors buy at large premium"
+        },
+        {
+            "cause": "Company",
+            "relation": "offers equity",
+            "effect": "through at-the-market sales"
+        },
+        {
+            "cause": "Bloomberg",
+            "relation": "reported",
+            "effect": "company has analyst coverage from eight firms"
+        },
+        {
+            "cause": "All analysts",
+            "relation": "have",
+            "effect": "Buy ratings"
+        },
+        {
+            "cause": "Analysts’ optimism",
+            "relation": "has been",
+            "effect": "justified"
+        },
+        {
+            "cause": "Klymochko",
+            "relation": "argued",
+            "effect": "investors use “mental jujitsu” to justify valuation"
+        },
+        {
+            "cause": "Closed-end funds",
+            "relation": "usually trade",
+            "effect": "at discount to NAV"
+        },
+        {
+            "cause": "Benchmark analyst Mark Palmer",
+            "relation": "wrote",
+            "effect": "detractors questioned premium valuation"
+        },
+        {
+            "cause": "Palmer",
+            "relation": "argued",
+            "effect": "company creates shareholder value via treasury operations"
+        },
+        {
+            "cause": "Treasury operations",
+            "relation": "involve",
+            "effect": "raising proceeds to buy more Bitcoin"
+        },
+        {
+            "cause": "Palmer",
+            "relation": "has",
+            "effect": "Buy rating and $650 price target"
+        },
+        {
+            "cause": "Treasury operations",
+            "relation": "valued at",
+            "effect": "$100 billion in his model"
+        },
+        {
+            "cause": "Two leveraged ETFs on MicroStrategy",
+            "relation": "exist",
+            "effect": "with $4 billion in assets"
+        },
+        {
+            "cause": "If stock drops and investors exit ETFs",
+            "relation": "ETFs must",
+            "effect": "unwind holdings"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "unlikely to be added",
+            "effect": "to S&P 500 due to lack of recurring earnings"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "may be added",
+            "effect": "to Nasdaq 100 at Dec. 13 reconstitution"
+        },
+        {
+            "cause": "Given dangers",
+            "relation": "investors should consider",
+            "effect": "low-fee Bitcoin ETFs"
+        },
+        {
+            "cause": "iShares Bitcoin Trust",
+            "relation": "has",
+            "effect": "annual fee of 0.25%"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "is",
+            "effect": "cult stock with $100 billion valuation"
+        },
+        {
+            "cause": "Valuation",
+            "relation": "supported by",
+            "effect": "$40 billion in assets"
+        },
+        {
+            "cause": "Situation",
+            "relation": "may not end well for",
+            "effect": "investors"
+        }
+    ]
+}

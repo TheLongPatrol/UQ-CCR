@@ -1,0 +1,369 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "surged past",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin’s rise",
+            "relation": "continued",
+            "effect": "post-election run"
+        },
+        {
+            "cause": "Post-election run",
+            "relation": "was buoyed by",
+            "effect": "pro-crypto promise of incoming Trump administration"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "was worth",
+            "effect": "$69,374 on Election Day"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "spiked",
+            "effect": "more than 44% within a month"
+        },
+        {
+            "cause": "Other cryptocurrencies (ethereum, XRP)",
+            "relation": "shot up",
+            "effect": "during same period"
+        },
+        {
+            "cause": "Increase in cryptocurrency value",
+            "relation": "signaled",
+            "effect": "investor optimism about Trump’s policies"
+        },
+        {
+            "cause": "Trump’s policies",
+            "relation": "inspired",
+            "effect": "investor optimism"
+        },
+        {
+            "cause": "Trump’s regulatory picks",
+            "relation": "promised",
+            "effect": "deregulation of crypto industry"
+        },
+        {
+            "cause": "Nomination of crypto-enthusiasts",
+            "relation": "signaled",
+            "effect": "embrace of bitcoin and crypto"
+        },
+        {
+            "cause": "Embrace of bitcoin and crypto",
+            "relation": "triggered",
+            "effect": "flood of money into markets"
+        },
+        {
+            "cause": "Bitcoin’s rally",
+            "relation": "was a product of",
+            "effect": "increased legitimacy"
+        },
+        {
+            "cause": "Trump’s election",
+            "relation": "sparked",
+            "effect": "bitcoin’s rally"
+        },
+        {
+            "cause": "Financial establishment’s embrace",
+            "relation": "provided",
+            "effect": "tinder for bitcoin rally"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "evolved into",
+            "effect": "mainstream digital currency"
+        },
+        {
+            "cause": "Everyday Americans",
+            "relation": "can buy",
+            "effect": "bitcoin through reputable accounts"
+        },
+        {
+            "cause": "Investment vehicles",
+            "relation": "assured",
+            "effect": "bitcoin’s staying power"
+        },
+        {
+            "cause": "Trump administration policies",
+            "relation": "fueled",
+            "effect": "optimism"
+        },
+        {
+            "cause": "Trump",
+            "relation": "supported",
+            "effect": "cryptocurrency"
+        },
+        {
+            "cause": "Trump’s choices for agency heads",
+            "relation": "reflected",
+            "effect": "pro-crypto enthusiasm"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "highest valuation after nomination of Paul Atkins"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "nominated to head",
+            "effect": "Securities and Exchange Commission (SEC)"
+        },
+        {
+            "cause": "SEC",
+            "relation": "regulates",
+            "effect": "tradable securities"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "served as",
+            "effect": "SEC commissioner under George W. Bush"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "advocated for",
+            "effect": "deregulation during and after SEC tenure"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "co-chairs",
+            "effect": "Chamber of Digital Commerce’s Token Alliance"
+        },
+        {
+            "cause": "Token Alliance",
+            "relation": "advocates for",
+            "effect": "lax cryptocurrency regulation"
+        },
+        {
+            "cause": "Perianne Boring",
+            "relation": "rumored to be",
+            "effect": "Trump’s pick for CFTC head"
+        },
+        {
+            "cause": "CFTC",
+            "relation": "makes rules for",
+            "effect": "trading of futures and commodities"
+        },
+        {
+            "cause": "Cryptocurrency",
+            "relation": "currently under",
+            "effect": "SEC purview"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "weighing",
+            "effect": "regulating crypto as commodity"
+        },
+        {
+            "cause": "Crypto regulation change",
+            "relation": "would shift oversight to",
+            "effect": "CFTC"
+        },
+        {
+            "cause": "CFTC",
+            "relation": "seen as",
+            "effect": "more hands-off regulator"
+        },
+        {
+            "cause": "David Sacks",
+            "relation": "named as",
+            "effect": "Trump’s crypto and AI czar"
+        },
+        {
+            "cause": "David Sacks",
+            "relation": "tasked with",
+            "effect": "formulating crypto and AI policy"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said",
+            "effect": "Sacks will work with SEC and CFTC on regulation"
+        },
+        {
+            "cause": "Sacks",
+            "relation": "will develop",
+            "effect": "legal framework for crypto regulation"
+        },
+        {
+            "cause": "Trump family",
+            "relation": "operates",
+            "effect": "World Liberty Financial (crypto venture)"
+        },
+        {
+            "cause": "Pro-crypto groups",
+            "relation": "spent",
+            "effect": "$245 million in elections"
+        },
+        {
+            "cause": "Pro-crypto spending",
+            "relation": "supported",
+            "effect": "pro-crypto candidates"
+        },
+        {
+            "cause": "Friendly Trump administration",
+            "relation": "expected to create",
+            "effect": "friendlier regulatory landscape"
+        },
+        {
+            "cause": "Gensler’s SEC",
+            "relation": "imposed",
+            "effect": "heavy crypto regulation"
+        },
+        {
+            "cause": "Gensler’s SEC",
+            "relation": "filed",
+            "effect": "lawsuits against crypto companies"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "likely to reverse",
+            "effect": "Gensler-era regulations"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "could drop",
+            "effect": "SEC lawsuits against crypto firms"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "likely to change",
+            "effect": "crypto regulation significantly"
+        },
+        {
+            "cause": "Trump regulatory regime",
+            "relation": "could allow",
+            "effect": "crypto exchanges to operate with less litigation threat"
+        },
+        {
+            "cause": "Reduced litigation threat",
+            "relation": "would make",
+            "effect": "trading easier on exchanges"
+        },
+        {
+            "cause": "Easier trading",
+            "relation": "would spur",
+            "effect": "industry innovation"
+        },
+        {
+            "cause": "Reduced regulation",
+            "relation": "could expose",
+            "effect": "traders to fraud and theft"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "became",
+            "effect": "established digital asset"
+        },
+        {
+            "cause": "Downfall of FTX",
+            "relation": "changed",
+            "effect": "narrative around crypto utility"
+        },
+        {
+            "cause": "Crypto narrative",
+            "relation": "shifted from",
+            "effect": "currency use to investment instrument"
+        },
+        {
+            "cause": "Shift to investment role",
+            "relation": "helped",
+            "effect": "bitcoin’s valuation rise"
+        },
+        {
+            "cause": "SEC",
+            "relation": "approved",
+            "effect": "first bitcoin ETFs in U.S."
+        },
+        {
+            "cause": "ETFs",
+            "relation": "allow",
+            "effect": "indirect cryptocurrency access"
+        },
+        {
+            "cause": "Bitcoin’s value",
+            "relation": "determines",
+            "effect": "ETF value"
+        },
+        {
+            "cause": "ETF bundling",
+            "relation": "insulates",
+            "effect": "investors from losses"
+        },
+        {
+            "cause": "Firms (BlackRock, Fidelity, etc.)",
+            "relation": "launched",
+            "effect": "bitcoin funds"
+        },
+        {
+            "cause": "Bitcoin funds",
+            "relation": "offer",
+            "effect": "easy entry for risk-averse investors"
+        },
+        {
+            "cause": "Previously, investors",
+            "relation": "had",
+            "effect": "limited options for trading bitcoin"
+        },
+        {
+            "cause": "Investors",
+            "relation": "could buy",
+            "effect": "bitcoin directly on exchanges"
+        },
+        {
+            "cause": "Crypto held on exchanges",
+            "relation": "vulnerable to",
+            "effect": "theft"
+        },
+        {
+            "cause": "Offline crypto storage",
+            "relation": "safer but",
+            "effect": "harder to trade"
+        },
+        {
+            "cause": "ETFs",
+            "relation": "provide",
+            "effect": "establishment-backed option for crypto exposure"
+        },
+        {
+            "cause": "Bitcoin’s evolution",
+            "relation": "drives",
+            "effect": "long-term price growth"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "evolving into",
+            "effect": "foundational layer of global financial infrastructure"
+        },
+        {
+            "cause": "Vasudevan",
+            "relation": "warned",
+            "effect": "crypto climb may not last"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surged before and",
+            "effect": "crashed precipitously"
+        },
+        {
+            "cause": "FTX collapse in 2022",
+            "relation": "caused",
+            "effect": "bitcoin value to drop 20%"
+        },
+        {
+            "cause": "Crypto price",
+            "relation": "based on",
+            "effect": "speculation rather than inherent value"
+        },
+        {
+            "cause": "Favorable regulatory environment",
+            "relation": "stoking",
+            "effect": "crypto bubble"
+        },
+        {
+            "cause": "Prospect of new funds and products",
+            "relation": "attracting",
+            "effect": "more investors to crypto markets"
+        }
+    ]
+}
