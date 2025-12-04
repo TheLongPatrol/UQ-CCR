@@ -38,7 +38,7 @@ class ChainRanker:
         
         # Build chain description with relations
         chain_parts = []
-        reliab_score = 0
+        reliab_score = 1
         for i in range(len(chain)):
             chain_parts.append(chain[i])
             
@@ -48,11 +48,11 @@ class ChainRanker:
                     result = kg.get_edge_relation_with_score(chain[i], chain[i+1])
                     if not result:
                         # Check reverse direction
-                        relation = kg.get_edge_relation_with_score(chain[i+1], chain[i])
+                        result = kg.get_edge_relation_with_score(chain[i+1], chain[i])
                     relation, rel_score = result
                     if relation:
                         chain_parts.append(f"[{relation}]")
-                    reliab_score+=rel_score
+                    reliab_score*=rel_score
                 else:
                     relation = kg.get_edge_relation(chain[i], chain[i+1])
                     if not relation:
@@ -64,7 +64,7 @@ class ChainRanker:
         # Join into coherent text
         aggregated = " → ".join(chain_parts)
         if self.use_reliab_score:
-            return aggregated, reliab_score
+            return aggregated, reliab_score**(1/len(chain))
         else:
             return aggregated, None
     
