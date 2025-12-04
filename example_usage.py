@@ -30,7 +30,7 @@ def main():
     #     tau=0.5,                    # Starting node similarity threshold
     #     model_name='all-MiniLM-L6-v2',
     #     use_scores=True,
-    #     articles_dir='bitcoin_misinfo_docs/',
+    #     articles_dir='bitcoin_docs_misinfo/',
     #     relations_dir='relations_misinfo/',
     #     relations_json_dir='relations_misinfo_json/'
     # )
