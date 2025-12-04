@@ -39,7 +39,7 @@ class KnowledgeGraph:
                     self.graph.add_node(effect)
                 
                 # Add edge with relation as attribute
-                if score:
+                if score is not None:
                     self.graph.add_edge(cause,effect, relation=relation, score=score)
                 else:
                     self.graph.add_edge(cause, effect, relation=relation)
