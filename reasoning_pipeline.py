@@ -92,7 +92,7 @@ class ReasoningPipeline:
             article_name = article_names[i]
             relation_fname = relation_files[i]
             
-            with open(self.relation_json_dir+relation_fname) as f:
+            with open(self.relations_json_dir+relation_fname) as f:
                 data = json.load(f)
                 if isinstance(data, dict) and 'triples' in data:
                     relations = data['triples']
@@ -371,8 +371,12 @@ class ReasoningPipeline:
         chains = self.process_results(results)
         original_triples, triples_and_articles = self.find_original_triple(chains)
         sentences = self.get_orig_sentence(triples_and_articles)
+        triples_as_str = []
+        for triple in original_triples:
+            cause, relation, effect = triple
+            triples_as_str.append(f"<{cause}, {relation}, {effect}>")
         context = ["Relation chains:", " ".join(original_triples), "\nSentences", " ".join(sentences)]
-        return "Context\n" +"\n".join(context)
+        return "Context\n" +"\n".join(context), results
     
     def display_results(self, results: Dict, show_all_chains: bool = False):
         """

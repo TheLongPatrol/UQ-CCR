@@ -39,12 +39,13 @@ def main():
     print("="*80)
     
     query1 = "How did Andrew Yang’s advocacy for blockchain technology influence Bitcoin’s adoption?"
-    results1 = pipeline.query_for_context(
+    context1, results1 = pipeline.query_for_context(
         query1,
         max_depth=5,
         max_chains_per_node=50,
         top_k=10
     )
+    print(context1)
     pipeline.display_results(results1)
     
     # Query 2: Backward reasoning (effect to cause)
@@ -53,12 +54,13 @@ def main():
     print("="*80)
     
     query2 = "How did global economic uncertainty contribute to Bitcoin’s price rise?"
-    results2 = pipeline.query_for_context(
+    context2, results2 = pipeline.query_for_context(
         query2,
         max_depth=5,
         max_chains_per_node=50,
         top_k=10
     )
+    print(context2)
     pipeline.display_results(results2)
     
     # # Query 3: Bidirectional reasoning (exploring relationships)

@@ -208,13 +208,13 @@ class ChainRanker:
                     forward_found = False
                     relation = kg.get_edge_relation(chain[i+1], chain[i])
                 if forward_found:
-                    raw_chain.append(f"<{chain[i]},{relation},{chain[i+1]}>")
+                    raw_chain.append([chain[i],relation,chain[i+1]])
                 else:
-                    raw_chain.append(f"<{chain[i+1]},{relation},{chain[i]}>")
+                    raw_chain.append([chain[i+1],relation,chain[i]])
                 if relation and forward_found:
                     formatted_parts.append(f" --[{relation}]--> ")
                 elif relation:
-                    formatted_parts.append(f" --[{relation}]--> ")
+                    formatted_parts.append(f" <--[{relation}]-- ")
                 else:
                     formatted_parts.append(" --> ")
         
