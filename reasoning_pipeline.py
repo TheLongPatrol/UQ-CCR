@@ -109,9 +109,9 @@ class ReasoningPipeline:
         
         if self.use_scores:
             all_triples = []
-            articles_triples = self.load_triples_by_articles("bitcoin_docs/", "relations_json/")
+            articles_triples = self.load_triples_by_articles("bitcoin_docs/", "new_relations_json/")
             if compute_scores_online:
-                context_scores = get_context_probs("bitcoin_docs/", "relations/", "out/")
+                context_scores = get_context_probs("bitcoin_docs/", "new_relations/", "out/")
             else:
                 with open('context_scores.pkl', "rb") as f:
                     context_scores = pickle.load(f)
