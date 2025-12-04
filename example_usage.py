@@ -58,36 +58,36 @@ def main():
     )
     pipeline.display_results(results2)
     
-    # Query 3: Bidirectional reasoning (exploring relationships)
-    print("\n\n" + "="*80)
-    print("EXAMPLE 3: Bidirectional Reasoning (Relationships)")
-    print("="*80)
+    # # Query 3: Bidirectional reasoning (exploring relationships)
+    # print("\n\n" + "="*80)
+    # print("EXAMPLE 3: Bidirectional Reasoning (Relationships)")
+    # print("="*80)
     
-    query3 = "What is the relationship between alpha-synuclein and GCase?"
-    results3 = pipeline.query(
-        query3,
-        max_depth=4,
-        max_chains_per_node=50,
-        top_k=10
-    )
-    pipeline.display_results(results3)
+    # query3 = "What is the relationship between alpha-synuclein and GCase?"
+    # results3 = pipeline.query(
+    #     query3,
+    #     max_depth=4,
+    #     max_chains_per_node=50,
+    #     top_k=10
+    # )
+    # pipeline.display_results(results3)
     
-    # Query 4: Complex multi-hop reasoning
-    print("\n\n" + "="*80)
-    print("EXAMPLE 4: Complex Multi-hop Reasoning")
-    print("="*80)
+    # # Query 4: Complex multi-hop reasoning
+    # print("\n\n" + "="*80)
+    # print("EXAMPLE 4: Complex Multi-hop Reasoning")
+    # print("="*80)
     
-    query4 = "How does low GCase activity lead to Parkinson's disease?"
-    results4 = pipeline.query(
-        query4,
-        max_depth=6,
-        max_chains_per_node=100,
-        top_k=15
-    )
-    pipeline.display_results(results4, show_all_chains=False)
+    # query4 = "How does low GCase activity lead to Parkinson's disease?"
+    # results4 = pipeline.query(
+    #     query4,
+    #     max_depth=6,
+    #     max_chains_per_node=100,
+    #     top_k=15
+    # )
+    # pipeline.display_results(results4, show_all_chains=False)
     
-    # Save results to JSON
-    pipeline.save_results_to_json(results4, 'results_example4.json')
+    # # Save results to JSON
+    # pipeline.save_results_to_json(results4, 'results_example4.json')
     
     # Visualize the knowledge graph (limited to 50 nodes for readability)
     print("\n\nGenerating knowledge graph visualization...")
