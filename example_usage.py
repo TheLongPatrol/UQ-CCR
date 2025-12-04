@@ -15,29 +15,29 @@ import json
 def main():
     # Initialize the pipeline
     print("Initializing Knowledge Graph Reasoning Pipeline...")
-    pipeline = ReasoningPipeline(
-        similarity_threshold=0.85,  # Entity clustering threshold
-        tau=0.5,                    # Starting node similarity threshold
-        model_name='all-MiniLM-L6-v2',
-        use_scores=True,
-        articles_dir='bitcoin_docs/',
-        relations_dir='relations/',
-        relations_json_dir='relations_json/'
-    )
-    # pipeline to use with misinfo docs
     # pipeline = ReasoningPipeline(
     #     similarity_threshold=0.85,  # Entity clustering threshold
     #     tau=0.5,                    # Starting node similarity threshold
     #     model_name='all-MiniLM-L6-v2',
     #     use_scores=True,
-    #     articles_dir='bitcoin_docs_misinfo/',
-    #     relations_dir='relations_misinfo/',
-    #     relations_json_dir='relations_misinfo_json/'
+    #     articles_dir='bitcoin_docs/',
+    #     relations_dir='relations/',
+    #     relations_json_dir='relations_json/'
     # )
+    # pipeline to use with misinfo docs
+    pipeline = ReasoningPipeline(
+        similarity_threshold=0.85,  # Entity clustering threshold
+        tau=0.5,                    # Starting node similarity threshold
+        model_name='all-MiniLM-L6-v2',
+        use_scores=True,
+        articles_dir='bitcoin_docs_misinfo/',
+        relations_dir='relations_misinfo/',
+        relations_json_dir='relations_misinfo_json/'
+    )
     
     
     # Build the knowledge graph
-    pipeline.build_knowledge_graph()
+    pipeline.build_knowledge_graph(False, True)
     
     # Example queries demonstrating different reasoning directions
     
