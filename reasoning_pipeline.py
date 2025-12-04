@@ -13,6 +13,10 @@ from frequency_reliability import website_reliability_map
 import json
 from context_scorer import get_context_probs
 import pickle
+import itertools
+from nltk.tokenize import sent_tokenize
+import torch
+from sentence_transformers import SentenceTransformer, util
 import os
 
 class ReasoningPipeline:
@@ -40,6 +44,10 @@ class ReasoningPipeline:
         self.triples = []
         self.is_built = False
         self.use_scores = use_scores
+        self.triples_to_articles = {}
+        self.article_dir = "bitcoin_docs/"
+        self.relation_dir = "relations/"
+        self.triples_to_sent_per_art = None
 
     def load_triples_from_json(self, filepath: str):
         """
@@ -72,15 +80,15 @@ class ReasoningPipeline:
         self.triples = triples
         print(f"Loaded {len(self.triples)} triples")
         
-    def load_triples_by_articles(self, article_dir, relation_dir):
-        article_names = sorted(os.listdir(article_dir))
-        relation_files = sorted(os.listdir(relation_dir))
+    def load_triples_by_articles(self):
+        article_names = sorted(os.listdir(self.article_dir))
+        relation_files = sorted(os.listdir(self.relation_dir))
         article_relations = []
         for i in range(len(article_names)):
             article_name = article_names[i]
             relation_fname = relation_files[i]
             
-            with open(relation_dir+relation_fname) as f:
+            with open(self.relation_dir+relation_fname) as f:
                 data = json.load(f)
                 if isinstance(data, dict) and 'triples' in data:
                     relations = data['triples']
@@ -90,6 +98,49 @@ class ReasoningPipeline:
                     raise ValueError("JSON must contain 'triples' key or be a list of triples")
             article_relations.append((article_name, relations))
         return article_relations
+
+    def map_triples_to_article(self, articles_triples: List):
+        if self.triples_to_sent_per_art is not None:
+            return 
+        article_to_triples = {}
+        article_to_relations = {}
+        for article, triples in articles_triples:
+            triples_as_sents = []
+            triples_as_tuple = []
+            for triple in triples:
+                sent = (" ".join([triple['cause'], triple['relation'], triple['effect']])).strip()
+                triples_as_sents.append(sent)
+                triples_as_tuple.append((triple['cause'], triple['relation'], triple['effect']))
+            article_to_triples[article] = triples_as_sents
+            article_to_relations[article] = triples_as_tuple
+        article_names = sorted(os.listdir(self.article_dir))
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        sentence_model = SentenceTransformer('msmarco-MiniLM-L6-cos-v5').to(device)
+        sentence_model.eval()
+        self.triples_to_sent_per_art = {}
+        for i in range(len(article_names)):
+            article_name = article_names[i]
+            with open(self.article_dir+article_name, "r") as f:
+                passage = f.read()
+                sentences = sent_tokenize(passage)
+            relations_as_str = article_to_triples[article_name]
+            relations = article_to_relations[article_name]
+            article_mat = sentence_model.encode_document(sentences, convert_to_tensor=True, device=device, normalize_embeddings=True)
+            relations_as_str_mat = sentence_model.encode_query(relations_as_str, convert_to_tensor=True, device=device, normalize_embeddings=True)
+            best_fit_sents = util.semantic_search(relations_as_str_mat, article_mat, top_k=5)
+            triples_to_sentences = {}
+            for j in range(len(best_fit_sents)):
+                cause,relation,effect = relations[j]
+                ind_found = 0
+                for k in range(len(best_fit_sents[j])):
+                    match = best_fit_sents[j][k]
+                    matched_sent = sentences[int(match['corpus_id'])]
+                    if relation in matched_sent:
+                        ind_found = int(match['corpus_id'])
+                        break
+                matched_sent = sentences[ind_found]
+                triples_to_sentences[(cause,relation,effect)] = matched_sent
+            self.triples_to_sent_per_art[article_name] = triples_to_sentences
 
     def build_knowledge_graph(self, compute_scores_online = False, use_website_rel_scores = False):
         """Build the knowledge graph from loaded triples."""
@@ -107,11 +158,12 @@ class ReasoningPipeline:
         # Cluster entities
         self.entity_clusterer.cluster_entities(list(entities))
         
+        articles_triples = self.load_triples_by_articles()
+        self.map_triples_to_article(articles_triples)
         if self.use_scores:
             all_triples = []
-            articles_triples = self.load_triples_by_articles("bitcoin_docs/", "relations_json/")
             if compute_scores_online:
-                context_scores = get_context_probs("bitcoin_docs/", "relations/", "out/")
+                context_scores = get_context_probs(self.article_dir, self.relation_dir, "out/")
             else:
                 with open('context_scores.pkl', "rb") as f:
                     context_scores = pickle.load(f)
@@ -121,6 +173,10 @@ class ReasoningPipeline:
                 article_scores = context_scores[article_name]
                 for triple in triples:
                     triple_as_tuple = (triple['cause'], triple['relation'], triple['effect'])
+                    if triple_as_tuple not in self.triples_to_articles:
+                        self.triples_to_articles[triple_as_tuple] = [article_name]
+                    else:
+                        self.triples_to_articles[triple_as_tuple].append(article_name)
                     if use_website_rel_scores:
                         act_article_name = article_name.split("_")[0]
                         if act_article_name in website_reliability_map:
@@ -142,7 +198,16 @@ class ReasoningPipeline:
                         triple['score'] = article_scores[triple_as_tuple]
                     all_triples.append(triple)
             self.triples = all_triples
-
+        else:
+            for article_triple in articles_triples:
+                article_name = article_triple[0]
+                triples = article_triple[1]
+                for triple in triples:
+                    triple_as_tuple = (triple['cause'], triple['relation'], triple['effect'])
+                    if triple_as_tuple not in self.triples_to_articles:
+                        self.triples_to_articles[triple_as_tuple] = [article_name]
+                    else:
+                        self.triples_to_articles[triple_as_tuple].append(article_name)
         # Normalize triples
         if self.use_scores:
             normalized_triples = self.entity_clusterer.normalize_triples_with_context_scores(self.triples)
@@ -260,6 +325,51 @@ class ReasoningPipeline:
         
         return results
     
+    def process_results(self, results:Dict):
+        top_chains = results['top_chains']
+        final_chains = []
+        ind = 0
+        while len(final_chains) < 50 and ind < len(top_chains):
+            chain, score, reliab_score = top_chains[ind]
+            _, chain_as_triple = self.chain_ranker.format_chain(chain, self.knowledge_graph, score, reliab_score)
+            final_chains.extend(chain_as_triple)
+            ind+=1
+        return final_chains
+    
+    def find_original_triple(self, chains: List):
+        original_triples = []
+        triples_and_arts = []
+        for triple in chains:
+            cause,relation,effect = triple
+            all_causes = self.entity_clusterer.get_cluster_members(cause)
+            all_effects = self.entity_clusterer.get_cluster_members(effect)
+            for pot_cause, pot_effect in itertools.product(all_causes, all_effects):
+                if (pot_cause, relation, pot_effect) in self.triples_to_articles:
+                    trip = (pot_cause, relation, pot_effect)
+                    original_triples.append(trip)
+                    triples_and_arts.append((trip, self.triples_to_articles[trip]))
+        return original_triples, triples_and_arts
+    
+    def get_orig_sentence(self, triples_and_articles):
+        sentences = []
+        for triple_as_tuple, article_names in triples_and_articles:
+            for article_name in article_names:
+                sentences.append(self.triples_to_sent_per_art[article_name][triple_as_tuple])
+        return sentences
+    
+    def query_for_context(self, 
+             query_text: str,
+             max_depth: int = 5,
+             max_chains_per_node: int = 50,
+             top_k: int = 10,
+             use_rule_based_direction: bool = True):
+        results = self.query(query_text=query_text, max_depth=max_depth, max_chains_per_node=max_chains_per_node, top_k=top_k, use_rule_based_direction=use_rule_based_direction)
+        chains = self.process_results(results)
+        original_triples, triples_and_articles = self.find_original_triple(chains)
+        sentences = self.get_orig_sentence(triples_and_articles)
+        context = ["Relation chains:", " ".join(original_triples), "\nSentences", " ".join(sentences)]
+        return "Context\n" +"\n".join(context)
+    
     def display_results(self, results: Dict, show_all_chains: bool = False):
         """
         Display query results in a readable format.
@@ -284,7 +394,7 @@ class ReasoningPipeline:
         num_to_show = len(results['top_chains']) if show_all_chains else min(5, len(results['top_chains']))
         
         for i, (chain, score, reliab_score) in enumerate(results['top_chains'][:num_to_show], 1):
-            formatted = self.chain_ranker.format_chain(chain, self.knowledge_graph, score, reliab_score)
+            formatted,_ = self.chain_ranker.format_chain(chain, self.knowledge_graph, score, reliab_score)
             print(f"\n{i}. {formatted}")
         
         if len(results['top_chains']) > num_to_show:

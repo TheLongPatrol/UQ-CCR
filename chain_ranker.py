@@ -196,16 +196,24 @@ class ChainRanker:
             return "Empty chain"
         
         formatted_parts = []
+        raw_chain = []
         for i in range(len(chain)):
             formatted_parts.append(f"{chain[i]}")
             
             if i < len(chain) - 1:
                 # Get relation
                 relation = kg.get_edge_relation(chain[i], chain[i+1])
-                # if not relation:
-                #     relation = kg.get_edge_relation(chain[i+1], chain[i])
-                
-                if relation:
+                forward_found = True
+                if not relation:
+                    forward_found = False
+                    relation = kg.get_edge_relation(chain[i+1], chain[i])
+                if forward_found:
+                    raw_chain.append(f"<{chain[i]},{relation},{chain[i+1]}>")
+                else:
+                    raw_chain.append(f"<{chain[i+1]},{relation},{chain[i]}>")
+                if relation and forward_found:
+                    formatted_parts.append(f" --[{relation}]--> ")
+                elif relation:
                     formatted_parts.append(f" --[{relation}]--> ")
                 else:
                     formatted_parts.append(" --> ")
@@ -219,5 +227,5 @@ class ChainRanker:
         elif score is not None:
             chain_str = f"[Score: {score:.3f}] {chain_str}"
         
-        return chain_str
+        return chain_str, raw_chain
 
