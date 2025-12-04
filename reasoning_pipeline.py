@@ -169,7 +169,10 @@ class ReasoningPipeline:
             if compute_scores_online:
                 context_scores = get_context_probs(self.article_dir, self.relation_dir, "out/")
             else:
-                with open('context_scores.pkl', "rb") as f:
+                scores_filename = 'context_scores.pkl'
+                if "misinfo" in self.article_dir:
+                    scores_filename = 'context_scores_misinfo.pkl'
+                with open(scores_filename, "rb") as f:
                     context_scores = pickle.load(f)
             for article_triple in articles_triples:
                 article_name = article_triple[0]
