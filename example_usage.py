@@ -19,7 +19,10 @@ def main():
         similarity_threshold=0.85,  # Entity clustering threshold
         tau=0.5,                    # Starting node similarity threshold
         model_name='all-MiniLM-L6-v2',
-        use_scores=True
+        use_scores=True,
+        articles_dir='bitcoin_docs/',
+        relations_dir='relations/',
+        relations_json_dir='relations_json/'
     )
     
     # Load triples from JSON file

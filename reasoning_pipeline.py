@@ -26,7 +26,10 @@ class ReasoningPipeline:
                  similarity_threshold: float = 0.85,
                  tau: float = 0.5,
                  model_name: str = 'all-MiniLM-L6-v2',
-                 use_scores: bool = False):
+                 use_scores: bool = False,
+                 articles_dir: str = "bitcoin_docs/",
+                 relations_dir: str = "relations/",
+                 relations_json_dir: str = "relations_json/"):
         """
         Initialize the reasoning pipeline.
         
@@ -45,8 +48,9 @@ class ReasoningPipeline:
         self.is_built = False
         self.use_scores = use_scores
         self.triples_to_articles = {}
-        self.article_dir = "bitcoin_docs/"
-        self.relation_dir = "relations/"
+        self.article_dir = articles_dir
+        self.relation_dir = relations_dir
+        self.relations_json_dir = relations_json_dir
         self.triples_to_sent_per_art = None
 
     def load_triples_from_json(self, filepath: str):
@@ -82,7 +86,7 @@ class ReasoningPipeline:
         
     def load_triples_by_articles(self):
         article_names = sorted(os.listdir(self.article_dir))
-        relation_files = sorted(os.listdir(self.relation_dir))
+        relation_files = sorted(os.listdir(self.relations_json_dir))
         article_relations = []
         for i in range(len(article_names)):
             article_name = article_names[i]
