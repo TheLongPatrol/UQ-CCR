@@ -148,8 +148,8 @@ class ReasoningPipeline:
 
     def build_knowledge_graph(self, compute_scores_online = False, use_website_rel_scores = False):
         """Build the knowledge graph from loaded triples."""
-        if not self.triples:
-            raise ValueError("No triples loaded. Use load_triples_from_json() or load_triples_from_list() first.")
+        if self.triples:
+            raise ValueError("Triples loaded. Should not use load_triples_from_json() or load_triples_from_list() first.")
         
         print("\n" + "="*60)
         print("STEP 1: Entity Clustering")
@@ -202,8 +202,9 @@ class ReasoningPipeline:
                             else:
                                 web_rel_score = 0.95
                         else:
-                            web_rel_score = 0.5
-                        triple['score'] = 0.7*article_scores[triple_as_tuple]+0.2*web_rel_score+0.1*(1-abs(bias_score/21))
+                            web_rel_score = 0.3
+                            bias_score = 0.5
+                        triple['score'] = 0.65*article_scores[triple_as_tuple]+0.25*web_rel_score+0.1*(1-abs(bias_score/21))
                     else:
                         triple['score'] = article_scores[triple_as_tuple]
                     all_triples.append(triple)
