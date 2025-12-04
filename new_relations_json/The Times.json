@@ -1,0 +1,794 @@
+{
+    "triples": [
+        {
+            "cause": "The price of bitcoin",
+            "relation": "has risen above",
+            "effect": "$100,000 for the first time"
+        },
+        {
+            "cause": "investors",
+            "relation": "hope",
+            "effect": "that Donald Trump’s administration will bring cryptocurrencies into mainstream financial markets"
+        },
+        {
+            "cause": "Donald Trump’s administration",
+            "relation": "will bring",
+            "effect": "cryptocurrencies into mainstream financial markets"
+        },
+        {
+            "cause": "investors’ hope",
+            "relation": "coincides with",
+            "effect": "the price of bitcoin rising above $100,000"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "is",
+            "effect": "the world’s most popular cryptocurrency"
+        },
+        {
+            "cause": "the world’s most popular cryptocurrency",
+            "relation": "rose as high as",
+            "effect": "$103,335 on Thursday"
+        },
+        {
+            "cause": "the US president-elect Trump",
+            "relation": "has taken credit for",
+            "effect": "bitcoin’s rise above $100,000"
+        },
+        {
+            "cause": "Trump",
+            "relation": "told",
+            "effect": "social media followers on Truth Social"
+        },
+        {
+            "cause": "Trump",
+            "relation": "addressed",
+            "effect": "bitcoiners with his celebratory message"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said",
+            "effect": "“Together, we will Make America Great Again”"
+        },
+        {
+            "cause": "Trump and his supporters (“we”)",
+            "relation": "will make",
+            "effect": "America great again"
+        },
+        {
+            "cause": "Trump",
+            "relation": "used",
+            "effect": "Truth Social to communicate with followers"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has more than doubled in value",
+            "effect": "this year"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has risen more than 50 per cent",
+            "effect": "since Trump won the presidential race"
+        },
+        {
+            "cause": "Trump",
+            "relation": "won",
+            "effect": "the presidential race"
+        },
+        {
+            "cause": "Trump",
+            "relation": "was",
+            "effect": "previously a cryptosceptic"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged during his campaign",
+            "effect": "to make the United States the “crypto capital of the planet”"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged during his campaign",
+            "effect": "to create a “strategic reserve” of bitcoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "aims to make",
+            "effect": "the United States the “crypto capital of the planet”"
+        },
+        {
+            "cause": "Trump",
+            "relation": "aims to create",
+            "effect": "a “strategic reserve” of bitcoin"
+        },
+        {
+            "cause": "the United States",
+            "relation": "would become",
+            "effect": "the “crypto capital of the planet”"
+        },
+        {
+            "cause": "the planned “strategic reserve”",
+            "relation": "would consist of",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "Trump’s campaign",
+            "relation": "accepted",
+            "effect": "donations in cryptocurrency"
+        },
+        {
+            "cause": "Trump",
+            "relation": "courted",
+            "effect": "crypto fans"
+        },
+        {
+            "cause": "crypto fans",
+            "relation": "gathered at",
+            "effect": "a bitcoin conference in July"
+        },
+        {
+            "cause": "Trump",
+            "relation": "started",
+            "effect": "World Liberty Financial"
+        },
+        {
+            "cause": "World Liberty Financial",
+            "relation": "is",
+            "effect": "a venture with Trump’s family members"
+        },
+        {
+            "cause": "World Liberty Financial",
+            "relation": "is intended to",
+            "effect": "trade cryptocurrencies"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said",
+            "effect": "he would form a crypto advisory council"
+        },
+        {
+            "cause": "Trump",
+            "relation": "would form",
+            "effect": "a crypto advisory council"
+        },
+        {
+            "cause": "crypto industry executives",
+            "relation": "are betting",
+            "effect": "that Trump will be able to push through legislative and regulatory changes"
+        },
+        {
+            "cause": "Trump",
+            "relation": "will be able to push through",
+            "effect": "legislative and regulatory changes"
+        },
+        {
+            "cause": "Trump",
+            "relation": "had promised",
+            "effect": "that in the event of an election victory he would remove Gary Gensler"
+        },
+        {
+            "cause": "an election victory for Trump",
+            "relation": "would trigger",
+            "effect": "the removal of Gary Gensler"
+        },
+        {
+            "cause": "Trump",
+            "relation": "would remove",
+            "effect": "Gary Gensler from his position"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "is",
+            "effect": "chairman of the Securities and Exchange Commission (SEC)"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "has been leading",
+            "effect": "the government’s clampdown on the crypto industry"
+        },
+        {
+            "cause": "the government",
+            "relation": "has been clamping down on",
+            "effect": "the crypto industry"
+        },
+        {
+            "cause": "cryptocurrency",
+            "relation": "is",
+            "effect": "booming once more"
+        },
+        {
+            "cause": "readers/investors",
+            "relation": "are urged to brace for",
+            "effect": "the volatility (“the rollercoaster”) in cryptocurrency markets"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "said",
+            "effect": "that he would step down on the day Trump takes the oath of office"
+        },
+        {
+            "cause": "Trump’s election victory",
+            "relation": "prompted",
+            "effect": "Gensler’s announcement that he would step down"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "will step down",
+            "effect": "on the day Trump takes the oath of office on Capitol Hill in January"
+        },
+        {
+            "cause": "Trump",
+            "relation": "will take",
+            "effect": "the oath of office on Capitol Hill in January"
+        },
+        {
+            "cause": "Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "a crypto advocate"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "will replace",
+            "effect": "Gary Gensler as SEC chair"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "is",
+            "effect": "a former SEC commissioner"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "has been involved in",
+            "effect": "crypto policy"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "serves as",
+            "effect": "co-chairman of the Token Alliance"
+        },
+        {
+            "cause": "Token Alliance",
+            "relation": "works to develop",
+            "effect": "best practices for digital asset issuances and trading platforms"
+        },
+        {
+            "cause": "Chamber of Digital Commerce",
+            "relation": "works to develop",
+            "effect": "best practices for digital asset issuances and trading platforms"
+        },
+        {
+            "cause": "Novogratz and others (“we”)",
+            "relation": "are witnessing",
+            "effect": "a paradigm shift"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "said",
+            "effect": "“We’re witnessing a paradigm shift”"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "is",
+            "effect": "founder and chief executive of US cryptocurrency company Galaxy Digital"
+        },
+        {
+            "cause": "Galaxy Digital",
+            "relation": "is",
+            "effect": "a US cryptocurrency company"
+        },
+        {
+            "cause": "Bitcoin and the entire digital asset ecosystem",
+            "relation": "are on the brink of entering",
+            "effect": "the financial mainstream"
+        },
+        {
+            "cause": "momentum in digital assets",
+            "relation": "is fuelled by",
+            "effect": "institutional adoption"
+        },
+        {
+            "cause": "momentum in digital assets",
+            "relation": "is fuelled by",
+            "effect": "advancements in tokenisation and payments"
+        },
+        {
+            "cause": "momentum in digital assets",
+            "relation": "is fuelled by",
+            "effect": "a clearer regulatory path"
+        },
+        {
+            "cause": "institutional adoption",
+            "relation": "fuels",
+            "effect": "momentum in digital assets"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "was worth",
+            "effect": "almost nothing when it was created in 2008"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "was created",
+            "effect": "in 2008"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "was created as",
+            "effect": "strings of computer code"
+        },
+        {
+            "cause": "strings of computer code",
+            "relation": "have",
+            "effect": "no physical form"
+        },
+        {
+            "cause": "Bitcoin, a notoriously volatile digital currency",
+            "relation": "was developed by",
+            "effect": "Satoshi Nakamoto"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "a notoriously volatile digital currency"
+        },
+        {
+            "cause": "Satoshi Nakamoto",
+            "relation": "is supposedly",
+            "effect": "a secretive software developer"
+        },
+        {
+            "cause": "Satoshi Nakamoto’s true identity",
+            "relation": "has never been uncovered by",
+            "effect": "anyone"
+        },
+        {
+            "cause": "Geoff Kendrick",
+            "relation": "is",
+            "effect": "global head of digital assets research at Standard Chartered"
+        },
+        {
+            "cause": "Geoff Kendrick",
+            "relation": "told",
+            "effect": "Reuters his views on bitcoin’s price level"
+        },
+        {
+            "cause": "bitcoin’s price level (“it”)",
+            "relation": "is",
+            "effect": "just a number"
+        },
+        {
+            "cause": "the reality",
+            "relation": "is",
+            "effect": "the industry has become institutionalised this year"
+        },
+        {
+            "cause": "the crypto industry",
+            "relation": "has become",
+            "effect": "institutionalised this year"
+        },
+        {
+            "cause": "the industry’s institutionalisation",
+            "relation": "has enabled",
+            "effect": "reaching the current bitcoin price level"
+        },
+        {
+            "cause": "roughly 3 per cent of the total supply of bitcoins that will ever exist",
+            "relation": "have been purchased",
+            "effect": "in 2024"
+        },
+        {
+            "cause": "institutional money",
+            "relation": "has purchased",
+            "effect": "roughly 3 per cent of the total eventual bitcoin supply"
+        },
+        {
+            "cause": "bitcoin exchange-traded funds (ETFs)",
+            "relation": "have been launched",
+            "effect": "this year"
+        },
+        {
+            "cause": "BlackRock",
+            "relation": "launched",
+            "effect": "bitcoin exchange-traded funds (ETFs)"
+        },
+        {
+            "cause": "Fidelity",
+            "relation": "launched",
+            "effect": "bitcoin exchange-traded funds (ETFs)"
+        },
+        {
+            "cause": "BlackRock and Fidelity",
+            "relation": "are",
+            "effect": "some of the biggest money managers in the world"
+        },
+        {
+            "cause": "bitcoin ETFs",
+            "relation": "are not yet available",
+            "effect": "in the UK"
+        },
+        {
+            "cause": "crypto-related stocks",
+            "relation": "have soared",
+            "effect": "along with the bitcoin price"
+        },
+        {
+            "cause": "the rise in the bitcoin price",
+            "relation": "coincides with",
+            "effect": "the soaring of crypto-related stocks"
+        },
+        {
+            "cause": "Coinbase Global",
+            "relation": "is",
+            "effect": "the largest cryptocurrency exchange in the US"
+        },
+        {
+            "cause": "shares in Coinbase Global",
+            "relation": "have risen around 77 per cent to",
+            "effect": "$344 since the election on November 5"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "is",
+            "effect": "a software firm"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "has repeatedly raised funds",
+            "effect": "to buy bitcoin"
+        },
+        {
+            "cause": "raised funds by MicroStrategy",
+            "relation": "are used to buy",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "shares in MicroStrategy",
+            "relation": "have gained 88 per cent to",
+            "effect": "$429"
+        },
+        {
+            "cause": "critics",
+            "relation": "worry about",
+            "effect": "the use of cryptocurrencies to fund crimes around the world"
+        },
+        {
+            "cause": "cryptocurrencies",
+            "relation": "are used to fund",
+            "effect": "crimes around the world"
+        },
+        {
+            "cause": "the US and UK",
+            "relation": "announced",
+            "effect": "they had disrupted a global money-laundering ring"
+        },
+        {
+            "cause": "the US and UK",
+            "relation": "disrupted",
+            "effect": "a global money-laundering ring"
+        },
+        {
+            "cause": "the disrupted ring",
+            "relation": "used",
+            "effect": "cryptocurrency"
+        },
+        {
+            "cause": "cryptocurrency",
+            "relation": "was used to help",
+            "effect": "rich Russians evade sanctions"
+        },
+        {
+            "cause": "cryptocurrency",
+            "relation": "was used to launder",
+            "effect": "cash for drug traffickers"
+        },
+        {
+            "cause": "rich Russians",
+            "relation": "used cryptocurrency to evade",
+            "effect": "sanctions"
+        },
+        {
+            "cause": "drug traffickers",
+            "relation": "used cryptocurrency to launder",
+            "effect": "cash"
+        },
+        {
+            "cause": "some investors",
+            "relation": "are sceptical about",
+            "effect": "whether cryptocurrencies including bitcoin can be adopted more broadly in the financial system"
+        },
+        {
+            "cause": "cryptocurrencies including bitcoin",
+            "relation": "can potentially be adopted",
+            "effect": "more broadly in the financial system"
+        },
+        {
+            "cause": "Shane Oliver",
+            "relation": "is",
+            "effect": "chief economist and head of investment strategy at AMP"
+        },
+        {
+            "cause": "AMP",
+            "relation": "is",
+            "effect": "an Australian financial services firm"
+        },
+        {
+            "cause": "Shane Oliver",
+            "relation": "said",
+            "effect": "bitcoin/crypto is proving itself as part of the financial landscape"
+        },
+        {
+            "cause": "as time goes by",
+            "relation": "bitcoin/crypto",
+            "effect": "is proving itself as part of the financial landscape"
+        },
+        {
+            "cause": "bitcoin/crypto",
+            "relation": "is proving itself as",
+            "effect": "part of the financial landscape"
+        },
+        {
+            "cause": "Shane Oliver",
+            "relation": "said",
+            "effect": "it is very hard to value bitcoin/crypto"
+        },
+        {
+            "cause": "bitcoin/crypto",
+            "relation": "is",
+            "effect": "very hard to value"
+        },
+        {
+            "cause": "Shane Oliver",
+            "relation": "added",
+            "effect": "“It’s anyone’s guess”"
+        },
+        {
+            "cause": "the future value of bitcoin/crypto",
+            "relation": "is",
+            "effect": "anyone’s guess"
+        },
+        {
+            "cause": "bitcoin/crypto",
+            "relation": "has",
+            "effect": "a momentum aspect"
+        },
+        {
+            "cause": "momentum in bitcoin/crypto",
+            "relation": "is",
+            "effect": "up at the moment"
+        },
+        {
+            "cause": "the UK’s caution on crypto",
+            "relation": "is",
+            "effect": "in stark contrast to America’s stance"
+        },
+        {
+            "cause": "Donald Trump’s full-throated embrace of crypto",
+            "relation": "stands in sharp contrast to",
+            "effect": "the UK authorities’ caution"
+        },
+        {
+            "cause": "UK authorities",
+            "relation": "have moved cautiously and sometimes reluctantly",
+            "effect": "to authorise any trading in digital tokens"
+        },
+        {
+            "cause": "UK authorities",
+            "relation": "authorise",
+            "effect": "trading in digital tokens only cautiously and sometimes reluctantly"
+        },
+        {
+            "cause": "the Financial Conduct Authority (FCA)",
+            "relation": "continues to warn",
+            "effect": "people to be prepared to lose all their money if they buy bitcoin and other digital currencies"
+        },
+        {
+            "cause": "buying bitcoin and other digital currencies",
+            "relation": "can cause",
+            "effect": "people to lose all their money (risk warned about by FCA)"
+        },
+        {
+            "cause": "the Financial Conduct Authority",
+            "relation": "set out",
+            "effect": "a “road map” last month"
+        },
+        {
+            "cause": "the FCA “road map”",
+            "relation": "envisages",
+            "effect": "authorised exchanges being fully able to deal in crypto for professional investors from 2026"
+        },
+        {
+            "cause": "authorised exchanges",
+            "relation": "will be fully able to deal in",
+            "effect": "crypto for professional investors from 2026"
+        },
+        {
+            "cause": "the timetable in the FCA’s road map",
+            "relation": "is",
+            "effect": "“incredibly disappointing for the industry”"
+        },
+        {
+            "cause": "Mike Ringer",
+            "relation": "is",
+            "effect": "a financial services partner at City law firm CMS"
+        },
+        {
+            "cause": "Mike Ringer",
+            "relation": "said",
+            "effect": "the timetable is incredibly disappointing for the industry"
+        },
+        {
+            "cause": "the timetable",
+            "relation": "causes",
+            "effect": "disappointment in the crypto industry"
+        },
+        {
+            "cause": "Mike Ringer",
+            "relation": "points out",
+            "effect": "that the Treasury wanted phase 2 secondary legislation for stablecoins laid in 2024"
+        },
+        {
+            "cause": "the Treasury",
+            "relation": "wanted",
+            "effect": "phase 2 secondary legislation for stablecoins to be laid in 2024"
+        },
+        {
+            "cause": "stablecoins",
+            "relation": "are",
+            "effect": "cryptocurrencies underpinned by conventional currencies"
+        },
+        {
+            "cause": "phase 2 secondary legislation",
+            "relation": "is meant for",
+            "effect": "stablecoins"
+        },
+        {
+            "cause": "phase 2 secondary legislation for stablecoins",
+            "relation": "has been deferred until",
+            "effect": "2026"
+        },
+        {
+            "cause": "this deferral",
+            "relation": "is",
+            "effect": "a massive delay"
+        },
+        {
+            "cause": "Trump’s naming of Paul Atkins as next SEC head",
+            "relation": "has raised",
+            "effect": "speculation of an acceleration in liberalising crypto rules"
+        },
+        {
+            "cause": "Trump",
+            "relation": "named",
+            "effect": "Paul Atkins as the next head of the Securities & Exchange Commission"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "a longstanding cheerleader for crypto"
+        },
+        {
+            "cause": "the raised speculation",
+            "relation": "concerns",
+            "effect": "an acceleration in the liberalisation of the rules on crypto"
+        },
+        {
+            "cause": "the US",
+            "relation": "is seen as",
+            "effect": "years ahead of Britain on crypto"
+        },
+        {
+            "cause": "the US",
+            "relation": "allowed",
+            "effect": "the launch of easily traded crypto-backed funds last year"
+        },
+        {
+            "cause": "easily traded crypto-backed funds",
+            "relation": "have triggered",
+            "effect": "fund launches by big names such as BlackRock and Fidelity Investments"
+        },
+        {
+            "cause": "big names such as BlackRock and Fidelity Investments",
+            "relation": "have launched",
+            "effect": "crypto-backed funds"
+        },
+        {
+            "cause": "crypto-backed funds",
+            "relation": "are",
+            "effect": "easily traded"
+        },
+        {
+            "cause": "regulators",
+            "relation": "remain concerned that",
+            "effect": "crypto could be a bubble that bursts violently"
+        },
+        {
+            "cause": "regulators",
+            "relation": "remain concerned that",
+            "effect": "crypto is used as a payment method by criminals"
+        },
+        {
+            "cause": "crypto",
+            "relation": "could be",
+            "effect": "a bubble that bursts violently"
+        },
+        {
+            "cause": "crypto",
+            "relation": "is used as a payment method by",
+            "effect": "gangsters, money launderers and tax evaders"
+        },
+        {
+            "cause": "gangsters",
+            "relation": "use",
+            "effect": "crypto as a payment method"
+        },
+        {
+            "cause": "money launderers",
+            "relation": "use",
+            "effect": "crypto as a payment method"
+        },
+        {
+            "cause": "tax evaders",
+            "relation": "use",
+            "effect": "crypto as a payment method"
+        },
+        {
+            "cause": "Charles Randell",
+            "relation": "chaired",
+            "effect": "the FCA until May 2022"
+        },
+        {
+            "cause": "Charles Randell",
+            "relation": "has likened",
+            "effect": "trading in crypto to “digital roulette”"
+        },
+        {
+            "cause": "trading in crypto",
+            "relation": "is like",
+            "effect": "“digital roulette” (according to Randell)"
+        },
+        {
+            "cause": "Charles Randell",
+            "relation": "was concerned that",
+            "effect": "any move to regulate the sector would give people false reassurance"
+        },
+        {
+            "cause": "any move to regulate the crypto sector",
+            "relation": "would give",
+            "effect": "people false reassurance"
+        },
+        {
+            "cause": "regulating the crypto sector",
+            "relation": "could cause",
+            "effect": "false reassurance among people"
+        },
+        {
+            "cause": "seven million people in Britain",
+            "relation": "now own",
+            "effect": "digital currencies"
+        },
+        {
+            "cause": "this ownership figure",
+            "relation": "is according to",
+            "effect": "the FCA"
+        },
+        {
+            "cause": "people in Britain",
+            "relation": "usually hold digital currencies through",
+            "effect": "offshore exchanges not authorised in the UK"
+        },
+        {
+            "cause": "offshore exchanges such as Coinbase and Binance",
+            "relation": "are not authorised",
+            "effect": "in the UK"
+        },
+        {
+            "cause": "Coinbase and Binance",
+            "relation": "are",
+            "effect": "offshore exchanges used by UK holders of digital currencies"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin profit taking on Thursday",
+            "relation": "pushed price lower",
+            "effect": "bitcoin trading closer to $98,000"
+        },
+        {
+            "cause": "Comments from Putin and Powell about bitcoin",
+            "relation": "contributed to",
+            "effect": "surge past $100,000"
+        },
+        {
+            "cause": "Donald Trump’s nomination of Paul Atkins as next SEC chair",
+            "relation": "contributed to",
+            "effect": "surge past $100,000"
+        },
+        {
+            "cause": "Increasing demand for bitcoin",
+            "relation": "led analysts to set",
+            "effect": "bitcoin price targets well above $100,000"
+        },
+        {
+            "cause": "Limited supply of bitcoin",
+            "relation": "led analysts to set",
+            "effect": "bitcoin price targets well above $100,000"
+        },
+        {
+            "cause": "Encouraging words from Putin, Powell, and Trump’s SEC pick",
+            "relation": "boosted",
+            "effect": "bitcoin price to more than $103,000"
+        },
+        {
+            "cause": "Profit taking on Thursday afternoon",
+            "relation": "caused",
+            "effect": "bitcoin to trade lower near $98,000"
+        },
+        {
+            "cause": "Trump’s pick of pro-crypto Paul Atkins to head the SEC",
+            "relation": "caused",
+            "effect": "bitcoin investors to cheer"
+        },
+        {
+            "cause": "SEC’s strict enforcement approach toward crypto under Gary Gensler",
+            "relation": "caused",
+            "effect": "market watchers to closely monitor the SEC appointment"
+        },
+        {
+            "cause": "Bitcoin’s latest price milestone around $100,000",
+            "relation": "prompted",
+            "effect": "Trump to congratulate bitcoin holders and take credit"
+        },
+        {
+            "cause": "Trump’s victory in the 2024 U.S. presidential election",
+            "relation": "is expected to be",
+            "effect": "a positive development for the crypto industry"
+        },
+        {
+            "cause": "Trump’s victory in the 2024 U.S. presidential election",
+            "relation": "has coincided with / helped spark",
+            "effect": "bitcoin “being on a tear”"
+        },
+        {
+            "cause": "Putin’s comments",
+            "relation": "encouraged",
+            "effect": "bitcoin investors"
+        },
+        {
+            "cause": "U.S. use of the dollar for political purposes",
+            "relation": "undermines",
+            "effect": "the dollar’s role as a global reserve currency"
+        },
+        {
+            "cause": "U.S. use of the dollar for political purposes",
+            "relation": "forces",
+            "effect": "some countries to look for alternatives to the dollar"
+        },
+        {
+            "cause": "Perception that bitcoin cannot be prohibited",
+            "relation": "makes",
+            "effect": "bitcoin an attractive alternative for some countries/investors"
+        },
+        {
+            "cause": "Bitcoin supporters",
+            "relation": "have promoted",
+            "effect": "bitcoin as “digital gold”"
+        },
+        {
+            "cause": "Powell’s comment that bitcoin competes with gold",
+            "relation": "reinforces",
+            "effect": "view of bitcoin as “digital gold”"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "a competitor for gold (as a store of value)"
+        },
+        {
+            "cause": "Bitcoin’s ability to act as a “store of value”",
+            "relation": "is expected to",
+            "effect": "replace gold over the next decade (Bernstein view)"
+        },
+        {
+            "cause": "Fixed maximum supply of 21 million bitcoin",
+            "relation": "keeps",
+            "effect": "bitcoin believers undeterred"
+        },
+        {
+            "cause": "Finite bitcoin supply",
+            "relation": "contributes to",
+            "effect": "expectation that bitcoin’s price will rise over the long term"
+        },
+        {
+            "cause": "Increasing demand for bitcoin",
+            "relation": "contributes to",
+            "effect": "expectation that bitcoin’s price will rise over the long term"
+        },
+        {
+            "cause": "Combination of finite supply and increasing demand",
+            "relation": "causes",
+            "effect": "bitcoin’s price to “have to go up” over the long term"
+        },
+        {
+            "cause": "Explosive demand for a fixed-supply commodity",
+            "relation": "puts upward pressure on",
+            "effect": "the commodity’s price"
+        },
+        {
+            "cause": "Supply of bitcoin not responding to price signals",
+            "relation": "prevents",
+            "effect": "increased production from tempering price rises"
+        },
+        {
+            "cause": "In traditional commodities, higher demand",
+            "relation": "leads companies to",
+            "effect": "increase production"
+        },
+        {
+            "cause": "In traditional commodities, increased production",
+            "relation": "helps",
+            "effect": "satisfy demand"
+        },
+        {
+            "cause": "Bitcoin breaching the psychological $100,000 barrier",
+            "relation": "makes",
+            "effect": "earlier high price predictions seem less insurmountable"
+        },
+        {
+            "cause": "Profit-taking activity",
+            "relation": "can trigger",
+            "effect": "a downtrend in bitcoin price"
+        },
+        {
+            "cause": "Technical analysis",
+            "relation": "suggests",
+            "effect": "bitcoin could head higher to about $129,930"
+        },
+        {
+            "cause": "Technical analysis",
+            "relation": "identifies",
+            "effect": "support levels near $90,500 and $80,500 in case of a downtrend"
+        },
+        {
+            "cause": "Nature of any bull market",
+            "relation": "ensures",
+            "effect": "that pullbacks will still occur"
+        },
+        {
+            "cause": "Bitcoin’s finite supply",
+            "relation": "helps make",
+            "effect": "bitcoin a better investment bet than other commodities such as gold (Saylor’s view)"
+        },
+        {
+            "cause": "Bitcoin’s outperformance versus stock markets",
+            "relation": "helps make",
+            "effect": "bitcoin a better investment bet than other commodities (Saylor’s view)"
+        },
+        {
+            "cause": "Bitcoin’s inherent volatility",
+            "relation": "helps make",
+            "effect": "bitcoin a better investment bet than other commodities (Saylor’s view)"
+        },
+        {
+            "cause": "24x7, 365-day global trading of bitcoin",
+            "relation": "makes",
+            "effect": "volatility “a feature, not a bug” of the market"
+        }
+    ]
+}

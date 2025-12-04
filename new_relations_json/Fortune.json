@@ -1,0 +1,274 @@
+{
+    "triples": [
+        {
+            "cause": "Ken Griffin",
+            "relation": "says",
+            "effect": "crypto is exploding right now because more people want to have \"agency\" in their lives"
+        },
+        {
+            "cause": "crypto",
+            "relation": "is exploding",
+            "effect": "right now"
+        },
+        {
+            "cause": "more people",
+            "relation": "want to have",
+            "effect": "\"agency\" in their lives"
+        },
+        {
+            "cause": "more people wanting agency in their lives",
+            "relation": "is driving",
+            "effect": "crypto exploding right now"
+        },
+        {
+            "cause": "Citadel CEO Ken Griffin",
+            "relation": "says",
+            "effect": "it was a \"mistake\" not to buy crypto sooner"
+        },
+        {
+            "cause": "not buying crypto sooner",
+            "relation": "was",
+            "effect": "a \"mistake\""
+        },
+        {
+            "cause": "the fact it was a mistake not to buy crypto sooner",
+            "relation": "does not mean",
+            "effect": "Ken Griffin is suddenly a fan of Bitcoin"
+        },
+        {
+            "cause": "Ken Griffin",
+            "relation": "is not suddenly",
+            "effect": "a fan of Bitcoin"
+        },
+        {
+            "cause": "Ken Griffin",
+            "relation": "wishes",
+            "effect": "he had bought something that trades at 100 times the price it traded at a few years ago"
+        },
+        {
+            "cause": "something (a crypto asset)",
+            "relation": "trades at",
+            "effect": "100 times the price it traded at a few years ago"
+        },
+        {
+            "cause": "that asset",
+            "relation": "traded at",
+            "effect": "a lower price a few years ago"
+        },
+        {
+            "cause": "Ken Griffin",
+            "relation": "told",
+            "effect": "Andrew Ross Sorkin"
+        },
+        {
+            "cause": "Ken Griffin",
+            "relation": "spoke during",
+            "effect": "the New York Times DealBook Summit 2024"
+        },
+        {
+            "cause": "we all",
+            "relation": "have",
+            "effect": "FOMO"
+        },
+        {
+            "cause": "FOMO",
+            "relation": "is",
+            "effect": "universal"
+        },
+        {
+            "cause": "FOMO",
+            "relation": "is part of",
+            "effect": "human psychology"
+        },
+        {
+            "cause": "the conversation",
+            "relation": "took place on",
+            "effect": "the same day Bitcoin surpassed $100,000 for the first time"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surpassed",
+            "effect": "$100,000 for the first time"
+        },
+        {
+            "cause": "Bitcoin surpassing $100,000 for the first time",
+            "relation": "coincided with",
+            "effect": "the conversation"
+        },
+        {
+            "cause": "the cryptocurrency",
+            "relation": "has surged",
+            "effect": "following Donald Trump’s election win and deregulation-focused announcements"
+        },
+        {
+            "cause": "President-elect Donald Trump",
+            "relation": "won",
+            "effect": "the election"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "made",
+            "effect": "subsequent announcements about his second term’s priorities around deregulation"
+        },
+        {
+            "cause": "Donald Trump’s second-term priorities",
+            "relation": "focus on",
+            "effect": "deregulation"
+        },
+        {
+            "cause": "Trump’s election win and deregulation-focused announcements",
+            "relation": "contributed to",
+            "effect": "the cryptocurrency surging"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "told",
+            "effect": "the New York Times"
+        },
+        {
+            "cause": "the environment surrounding Trump’s win and Republicans taking the House and Senate",
+            "relation": "is part of",
+            "effect": "an attitude of Americans seeking \"agency\" in their lives"
+        },
+        {
+            "cause": "Republicans",
+            "relation": "took",
+            "effect": "the House and Senate"
+        },
+        {
+            "cause": "Americans",
+            "relation": "are seeking",
+            "effect": "\"agency\" in their lives"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "said",
+            "effect": "that one thing seen in the election cycle was Americans saying they want agency and crypto is part of that"
+        },
+        {
+            "cause": "we",
+            "relation": "saw",
+            "effect": "American people saying \"I want to have agency in my life\" over the course of this election cycle"
+        },
+        {
+            "cause": "American people",
+            "relation": "said",
+            "effect": "\"I want to have agency in my life\""
+        },
+        {
+            "cause": "American people",
+            "relation": "want to have",
+            "effect": "agency in their lives"
+        },
+        {
+            "cause": "crypto",
+            "relation": "is part of",
+            "effect": "that desire for agency"
+        },
+        {
+            "cause": "the election cycle",
+            "relation": "provided context for",
+            "effect": "American people expressing a desire for agency"
+        },
+        {
+            "cause": "this occasion",
+            "relation": "is not",
+            "effect": "the first time Griffin has said he was wrong on the matter"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "once called",
+            "effect": "crypto \"a jihadist call\" against the dollar"
+        },
+        {
+            "cause": "crypto",
+            "relation": "was called",
+            "effect": "\"a jihadist call\" against the dollar by Griffin"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "has said",
+            "effect": "he was wrong on the matter"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "was wrong on",
+            "effect": "this matter"
+        },
+        {
+            "cause": "he",
+            "relation": "admitted",
+            "effect": "the valuation of the crypto market tells you he hasn’t been right on this call"
+        },
+        {
+            "cause": "valuation of the crypto market",
+            "relation": "tells you",
+            "effect": "he hasn’t been right on this call"
+        },
+        {
+            "cause": "he",
+            "relation": "hasn’t been right on",
+            "effect": "this call"
+        },
+        {
+            "cause": "he",
+            "relation": "questions",
+            "effect": "the long-term stability of Bitcoin and other cryptocurrencies"
+        },
+        {
+            "cause": "he",
+            "relation": "questions",
+            "effect": "how well the structure of cryptocurrencies has captured the \"zeitgeist of the world\""
+        },
+        {
+            "cause": "the structure of cryptocurrencies",
+            "relation": "has captured",
+            "effect": "the \"zeitgeist of the world\" (to some degree)"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "repeated",
+            "effect": "something he has said many times before"
+        },
+        {
+            "cause": "he",
+            "relation": "has said",
+            "effect": "this many times before"
+        },
+        {
+            "cause": "he",
+            "relation": "doesn’t understand",
+            "effect": "the real need for crypto"
+        },
+        {
+            "cause": "crypto",
+            "relation": "is perceived to have",
+            "effect": "a real need in the economy"
+        },
+        {
+            "cause": "he",
+            "relation": "asked",
+            "effect": "what problem crypto solves for our economy"
+        },
+        {
+            "cause": "he",
+            "relation": "doesn’t care for",
+            "effect": "crypto"
+        },
+        {
+            "cause": "crypto",
+            "relation": "solves",
+            "effect": "some problem for our economy (questioned)"
+        },
+        {
+            "cause": "our economy",
+            "relation": "has",
+            "effect": "problems that might be solved"
+        },
+        {
+            "cause": "crypto",
+            "relation": "solves",
+            "effect": "what problem (unspecified)"
+        }
+    ]
+}

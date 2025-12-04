@@ -1,0 +1,434 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin (BTC)",
+            "relation": "reached",
+            "effect": "an all-time high (ATH) of $103,600"
+        },
+        {
+            "cause": "all-time high (ATH) of $103,600",
+            "relation": "occurred on",
+            "effect": "Thursday, December 5"
+        },
+        {
+            "cause": "all-time high (ATH) of $103,600",
+            "relation": "occurred during",
+            "effect": "early Asian trading hours"
+        },
+        {
+            "cause": "Bitcoin’s six-figure milestone",
+            "relation": "comes just hours after",
+            "effect": "Donald Trump nominated Paul Atkins as SEC Chair"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins as SEC Chair"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "was nominated as",
+            "effect": "SEC Chair"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "pro-crypto advocate"
+        },
+        {
+            "cause": "week of sideways movement",
+            "relation": "preceded",
+            "effect": "Bitcoin breaking through $100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "broke through",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Donald Trump winning the 2024 United States Presidential Election",
+            "relation": "has been linked to",
+            "effect": "this current rally"
+        },
+        {
+            "cause": "Bitcoin at $100,000",
+            "relation": "was",
+            "effect": "imminent"
+        },
+        {
+            "cause": "Market analysts",
+            "relation": "believe",
+            "effect": "Bitcoin breaking $100,000 was imminent"
+        },
+        {
+            "cause": "a number of factors",
+            "relation": "aligned to drive",
+            "effect": "the price up"
+        },
+        {
+            "cause": "alignment of factors",
+            "relation": "made",
+            "effect": "Bitcoin breaking $100,000 imminent"
+        },
+        {
+            "cause": "factors",
+            "relation": "drove",
+            "effect": "the price up"
+        },
+        {
+            "cause": "Greg Magadini",
+            "relation": "is",
+            "effect": "Director of Derivatives at Amberdata"
+        },
+        {
+            "cause": "Amberdata",
+            "relation": "is",
+            "effect": "crypto analytics firm"
+        },
+        {
+            "cause": "Greg Magadini",
+            "relation": "told",
+            "effect": "Cryptonews about major catalysts for the price increase"
+        },
+        {
+            "cause": "major catalysts for the price increase",
+            "relation": "include",
+            "effect": "tax policy around crypto"
+        },
+        {
+            "cause": "major catalysts for the price increase",
+            "relation": "include",
+            "effect": "talks of strategic BTC reserves"
+        },
+        {
+            "cause": "major catalysts for the price increase",
+            "relation": "include",
+            "effect": "continued inflows into Bitcoin ETFs"
+        },
+        {
+            "cause": "tax policy around crypto",
+            "relation": "acts as",
+            "effect": "major catalyst for the price increase"
+        },
+        {
+            "cause": "talks of strategic BTC reserves",
+            "relation": "act as",
+            "effect": "major catalyst for the price increase"
+        },
+        {
+            "cause": "continued inflows into Bitcoin ETFs",
+            "relation": "act as",
+            "effect": "major catalyst for the price increase"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has been on",
+            "effect": "a roll lately"
+        },
+        {
+            "cause": "BTC",
+            "relation": "became",
+            "effect": "the seventh-largest asset by market cap in the world"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "have seen",
+            "effect": "an incredible amount of inflows"
+        },
+        {
+            "cause": "inflows into Bitcoin ETFs",
+            "relation": "totalled",
+            "effect": "over $3.5 billion as of last week"
+        },
+        {
+            "cause": "inflows into Bitcoin ETFs",
+            "relation": "occurred within",
+            "effect": "the past 10 trading days"
+        },
+        {
+            "cause": "recent inflows",
+            "relation": "bring",
+            "effect": "total Bitcoin ETF inflows to $31.6 billion"
+        },
+        {
+            "cause": "Bitcoin ETF inflows",
+            "relation": "have occurred since",
+            "effect": "their introduction in January this year"
+        },
+        {
+            "cause": "record-breaking inflows",
+            "relation": "are into",
+            "effect": "Bitcoin ETFs"
+        },
+        {
+            "cause": "Joe Consorti",
+            "relation": "is",
+            "effect": "Head of Growth at Theya"
+        },
+        {
+            "cause": "Theya",
+            "relation": "is",
+            "effect": "multisig Bitcoin vault maker"
+        },
+        {
+            "cause": "Joe Consorti",
+            "relation": "told",
+            "effect": "Cryptonews about record-breaking inflows into spot Bitcoin ETFs"
+        },
+        {
+            "cause": "crypto industry",
+            "relation": "has",
+            "effect": "several consecutive days of record-breaking inflows into spot Bitcoin ETFs"
+        },
+        {
+            "cause": "record-breaking inflows",
+            "relation": "are into",
+            "effect": "spot Bitcoin ETFs"
+        },
+        {
+            "cause": "market",
+            "relation": "has",
+            "effect": "roughly $1.12 billion in short positions between here and $100,000"
+        },
+        {
+            "cause": "short positions",
+            "relation": "are clustered between",
+            "effect": "$91.5k and $92k"
+        },
+        {
+            "cause": "price breaking through $91.5k and $92k levels",
+            "relation": "made",
+            "effect": "an easy ride up to $100k"
+        },
+        {
+            "cause": "price",
+            "relation": "broke through",
+            "effect": "$91.5k and $92k levels"
+        },
+        {
+            "cause": "easy ride",
+            "relation": "carried",
+            "effect": "price to $100k"
+        },
+        {
+            "cause": "current BTC bull run",
+            "relation": "has led to",
+            "effect": "Bitcoin backers announcing new BTC purchases"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "is",
+            "effect": "Bitcoin backer"
+        },
+        {
+            "cause": "Metaplanet",
+            "relation": "is",
+            "effect": "Bitcoin backer"
+        },
+        {
+            "cause": "MicroStrategy and Metaplanet",
+            "relation": "announced",
+            "effect": "new BTC purchases"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "holds",
+            "effect": "1.5% of Bitcoin’s total supply"
+        },
+        {
+            "cause": "Investors",
+            "relation": "will take",
+            "effect": "BTC profits"
+        },
+        {
+            "cause": "Investors taking BTC profits",
+            "relation": "will fuel",
+            "effect": "a full crypto bull run"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "marks",
+            "effect": "significant turning point for retail and institutional investors"
+        },
+        {
+            "cause": "Sergey Vasylchuk",
+            "relation": "is",
+            "effect": "CEO of Everstake"
+        },
+        {
+            "cause": "Everstake",
+            "relation": "is",
+            "effect": "global crypto staking platform"
+        },
+        {
+            "cause": "Sergey Vasylchuk",
+            "relation": "told",
+            "effect": "Cryptonews that $100,000 BTC mark is a psychological level"
+        },
+        {
+            "cause": "$100,000 BTC mark",
+            "relation": "demonstrates",
+            "effect": "psychological level where people take BTC profits"
+        },
+        {
+            "cause": "psychological level at $100,000",
+            "relation": "leads",
+            "effect": "people to take BTC profits"
+        },
+        {
+            "cause": "Vasylchuk",
+            "relation": "believes",
+            "effect": "many investors will not shy away from cryptocurrency"
+        },
+        {
+            "cause": "many investors",
+            "relation": "will not shy away from",
+            "effect": "cryptocurrency"
+        },
+        {
+            "cause": "addiction to crypto profit",
+            "relation": "causes",
+            "effect": "you to come back to seek more"
+        },
+        {
+            "cause": "you",
+            "relation": "come back to",
+            "effect": "seek more (crypto profit)"
+        },
+        {
+            "cause": "crypto industry",
+            "relation": "will see",
+            "effect": "entry into Solana (SOL) or Ethereum (ETH)"
+        },
+        {
+            "cause": "entry into Solana (SOL) or Ethereum (ETH)",
+            "relation": "will fuel",
+            "effect": "a full crypto bull run"
+        },
+        {
+            "cause": "this bull run to 100,000 BTC",
+            "relation": "is",
+            "effect": "a BTC bull run"
+        },
+        {
+            "cause": "this bull run to 100,000 BTC",
+            "relation": "is not",
+            "effect": "a full crypto bull run"
+        },
+        {
+            "cause": "memecoin rally",
+            "relation": "may push",
+            "effect": "Solana to another rise"
+        },
+        {
+            "cause": "approval of an ETH ETF",
+            "relation": "may drive",
+            "effect": "ETH up"
+        },
+        {
+            "cause": "pro-DeFi regulation",
+            "relation": "may drive",
+            "effect": "ETH up"
+        },
+        {
+            "cause": "Joe Flanagan",
+            "relation": "is",
+            "effect": "Co-Founder of Maple Finance"
+        },
+        {
+            "cause": "Joe Flanagan",
+            "relation": "believes",
+            "effect": "attention will shift to blue-chip DeFi tokens"
+        },
+        {
+            "cause": "Bitcoin dominance stabilizing",
+            "relation": "will shift",
+            "effect": "attention to blue-chip DeFi tokens"
+        },
+        {
+            "cause": "attention",
+            "relation": "will shift to",
+            "effect": "blue-chip DeFi tokens"
+        },
+        {
+            "cause": "industry experts",
+            "relation": "predict",
+            "effect": "new Bitcoin ATH will lead to increased growth"
+        },
+        {
+            "cause": "new Bitcoin ATH",
+            "relation": "will lead to",
+            "effect": "increased growth within the crypto sector overall"
+        },
+        {
+            "cause": "Dennis Porter",
+            "relation": "is",
+            "effect": "CEO and Co-Founder of Satoshi Action Fund"
+        },
+        {
+            "cause": "Dennis Porter",
+            "relation": "told",
+            "effect": "Cryptonews that $100k BTC price will result in a surge of retail purchases"
+        },
+        {
+            "cause": "$100k BTC price",
+            "relation": "will result in",
+            "effect": "massive surge of retail purchases"
+        },
+        {
+            "cause": "Tim Enneking",
+            "relation": "is",
+            "effect": "Founder and Principle of Digital Capital Management"
+        },
+        {
+            "cause": "Tim Enneking",
+            "relation": "told",
+            "effect": "Cryptonews that Bitcoin breaking $100,000 creates FOMO"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "creates",
+            "effect": "fear of missing out (FOMO) for retail investors"
+        },
+        {
+            "cause": "a single BTC",
+            "relation": "becomes",
+            "effect": "more valuable"
+        },
+        {
+            "cause": "more valuable single BTC",
+            "relation": "has",
+            "effect": "significant effect on retail investors"
+        },
+        {
+            "cause": "increase in value of a single BTC",
+            "relation": "increases",
+            "effect": "its effect on retail investors"
+        },
+        {
+            "cause": "Bitcoin (the asset)",
+            "relation": "is closer to becoming incorporated into",
+            "effect": "different countries’ reserves"
+        },
+        {
+            "cause": "Tim Enneking",
+            "relation": "added",
+            "effect": "$100k Bitcoin price will not turn into permanent support"
+        },
+        {
+            "cause": "$100k Bitcoin price",
+            "relation": "will not turn into",
+            "effect": "permanent support for the asset"
+        },
+        {
+            "cause": "BTC reaching $120,000",
+            "relation": "may cause",
+            "effect": "BTC to drop back around $90k"
+        },
+        {
+            "cause": "BTC",
+            "relation": "may drop back to",
+            "effect": "around $90k"
+        }
+    ]
+}

@@ -1,0 +1,469 @@
+{
+    "triples": [
+        {
+            "cause": "MarketWatch",
+            "relation": "reports",
+            "effect": "Bitcoin breaks $100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "breaks",
+            "effect": "$100,000 price level"
+        },
+        {
+            "cause": "Trump’s crypto embrace",
+            "relation": "boosts",
+            "effect": "Bitcoin breaking $100,000"
+        },
+        {
+            "cause": "Powell’s remarks",
+            "relation": "boost",
+            "effect": "Bitcoin breaking $100,000"
+        },
+        {
+            "cause": "Wall Street bets on bitcoin’s future",
+            "relation": "help along",
+            "effect": "Bitcoin’s remarkable comeback"
+        },
+        {
+            "cause": "Implosion of FTX",
+            "relation": "precedes by two years",
+            "effect": "Bitcoin’s remarkable comeback"
+        },
+        {
+            "cause": "Implosion of FTX",
+            "relation": "damages",
+            "effect": "crypto industry"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "rose above",
+            "effect": "$100,000 on Wednesday night"
+        },
+        {
+            "cause": "Many crypto bulls",
+            "relation": "had been anticipating",
+            "effect": "Bitcoin’s rise above $100,000 milestone"
+        },
+        {
+            "cause": "Bitcoin’s rise above $100,000",
+            "relation": "underscores",
+            "effect": "remarkable comeback for the crypto industry"
+        },
+        {
+            "cause": "Collapse of several key players in 2022",
+            "relation": "is followed by",
+            "effect": "crypto industry’s remarkable comeback"
+        },
+        {
+            "cause": "World’s largest cryptocurrency (Bitcoin)",
+            "relation": "was up 2.7% to",
+            "effect": "$101,590 late Thursday morning"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "was up more than 5% to",
+            "effect": "$103,853 at one point Wednesday night"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "gained more than 520% from",
+            "effect": "its cycle low below $16,000 in November 2022"
+        },
+        {
+            "cause": "Implosion of crypto exchange FTX",
+            "relation": "coincided with",
+            "effect": "Bitcoin’s cycle low below $16,000 in November 2022"
+        },
+        {
+            "cause": "Implosion of crypto exchange FTX",
+            "relation": "contributed to",
+            "effect": "Bitcoin’s cycle low below $16,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is up more than 140%",
+            "effect": "year to date"
+        },
+        {
+            "cause": "CoinDesk data",
+            "relation": "reports",
+            "effect": "Bitcoin is up more than 140% year to date"
+        },
+        {
+            "cause": "President-elect Donald Trump",
+            "relation": "said he would nominate",
+            "effect": "Paul Atkins to lead the SEC"
+        },
+        {
+            "cause": "Trump’s statement about nominating Atkins",
+            "relation": "came before",
+            "effect": "Bitcoin’s move above $100,000"
+        },
+        {
+            "cause": "Trump’s statement about nominating Atkins",
+            "relation": "contributed to",
+            "effect": "Bitcoin’s move above $100,000"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "is seen as friendly to",
+            "effect": "the crypto industry"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "would replace",
+            "effect": "current SEC Chair Gary Gensler"
+        },
+        {
+            "cause": "Many industry participants",
+            "relation": "have viewed",
+            "effect": "Gensler’s stance on crypto as “hostile”"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "leads",
+            "effect": "the Securities and Exchange Commission"
+        },
+        {
+            "cause": "Gensler’s term at the helm of the SEC",
+            "relation": "ushered in",
+            "effect": "more ways for the broader public to invest in crypto assets in a regulated format"
+        },
+        {
+            "cause": "More ways to invest in crypto assets",
+            "relation": "enable",
+            "effect": "broader public participation in crypto in a regulated format"
+        },
+        {
+            "cause": "SEC under Gensler",
+            "relation": "brought legal actions against",
+            "effect": "several digital-asset companies"
+        },
+        {
+            "cause": "Expectations for a retooled SEC under the Trump administration",
+            "relation": "have ignited",
+            "effect": "optimism over a more friendly regulatory backdrop"
+        },
+        {
+            "cause": "More friendly regulatory backdrop",
+            "relation": "would benefit",
+            "effect": "the digital-asset industry"
+        },
+        {
+            "cause": "Market watchers",
+            "relation": "tied",
+            "effect": "Bitcoin gains to Powell’s remarks at the New York Times Dealbook Summit"
+        },
+        {
+            "cause": "Powell’s remarks at the Dealbook Summit",
+            "relation": "contributed to",
+            "effect": "Bitcoin gains"
+        },
+        {
+            "cause": "Powell",
+            "relation": "said",
+            "effect": "he saw bitcoin not as a rival to the U.S. dollar but to gold"
+        },
+        {
+            "cause": "Powell",
+            "relation": "saw",
+            "effect": "bitcoin as a rival to gold"
+        },
+        {
+            "cause": "Powell",
+            "relation": "did not see",
+            "effect": "bitcoin as a rival to the U.S. dollar"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is just like",
+            "effect": "gold"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "virtual"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "digital"
+        },
+        {
+            "cause": "People",
+            "relation": "are not using",
+            "effect": "bitcoin as a form of payment"
+        },
+        {
+            "cause": "People",
+            "relation": "are not using",
+            "effect": "bitcoin as a store of value"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "highly volatile"
+        },
+        {
+            "cause": "Powell",
+            "relation": "said",
+            "effect": "bitcoin is like gold, virtual, digital, not used as payment or store of value, and highly volatile"
+        },
+        {
+            "cause": "Powell’s comparison of bitcoin to gold",
+            "relation": "is",
+            "effect": "a significant development"
+        },
+        {
+            "cause": "Powell’s comparison of bitcoin to gold",
+            "relation": "introduces",
+            "effect": "another level of credibility to bitcoin as a major asset in global markets"
+        },
+        {
+            "cause": "Added credibility from Powell’s comparison",
+            "relation": "strengthens",
+            "effect": "bitcoin’s status as a major asset in global markets"
+        },
+        {
+            "cause": "Joel Kruger",
+            "relation": "said",
+            "effect": "Powell’s comparison introduces another level of credibility to bitcoin"
+        },
+        {
+            "cause": "Gold being about 10 times larger than bitcoin",
+            "relation": "should offer",
+            "effect": "additional insight into how much room bitcoin has to grow"
+        },
+        {
+            "cause": "Additional room to grow",
+            "relation": "allows",
+            "effect": "bitcoin to grow from current levels"
+        },
+        {
+            "cause": "SEC in January",
+            "relation": "greenlighted",
+            "effect": "a series of ETFs that invest directly in bitcoin"
+        },
+        {
+            "cause": "Exchange-traded funds",
+            "relation": "invest directly in",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "SEC’s greenlighting of ETFs",
+            "relation": "led to",
+            "effect": "increased mainstream adoption of bitcoin this year"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "saw",
+            "effect": "increased mainstream adoption this year"
+        },
+        {
+            "cause": "New crypto offerings (ETFs)",
+            "relation": "helped broaden",
+            "effect": "bitcoin’s potential base of investors"
+        },
+        {
+            "cause": "New crypto offerings (ETFs)",
+            "relation": "brought",
+            "effect": "BlackRock and other major global asset managers into the fold"
+        },
+        {
+            "cause": "BlackRock and other major global asset managers",
+            "relation": "entered",
+            "effect": "the bitcoin/crypto investment space"
+        },
+        {
+            "cause": "Digital currency bitcoin",
+            "relation": "had",
+            "effect": "violent price swings on the way to $100,000"
+        },
+        {
+            "cause": "Bitcoin’s path to its $100,000 perch",
+            "relation": "included",
+            "effect": "violent swings"
+        },
+        {
+            "cause": "Violent swings in bitcoin",
+            "relation": "serve as",
+            "effect": "a reminder of how quickly investor enthusiasm for crypto can turn into regret"
+        },
+        {
+            "cause": "Investor enthusiasm for crypto",
+            "relation": "can turn into",
+            "effect": "regret"
+        },
+        {
+            "cause": "Bitcoin investors",
+            "relation": "have experienced",
+            "effect": "stunning gains in recent years"
+        },
+        {
+            "cause": "Bitcoin investors",
+            "relation": "have experienced",
+            "effect": "stunning losses in recent years"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has delivered",
+            "effect": "stunning gains and losses to its investors"
+        },
+        {
+            "cause": "Bitcoin’s charge higher",
+            "relation": "has made",
+            "effect": "many crypto enthusiasts giddy"
+        },
+        {
+            "cause": "Many crypto enthusiasts",
+            "relation": "have been giddy about",
+            "effect": "bitcoin’s charge higher"
+        },
+        {
+            "cause": "Market observers and participants",
+            "relation": "have had",
+            "effect": "concerns about the sustainability of the rally"
+        },
+        {
+            "cause": "Bitcoin nearing $100,000",
+            "relation": "prompts",
+            "effect": "investors to ask whether the rally can last much longer"
+        },
+        {
+            "cause": "Trump winning a second term in the White House",
+            "relation": "gave",
+            "effect": "the price of bitcoin a boost in early November"
+        },
+        {
+            "cause": "Trump winning a second term",
+            "relation": "preceded",
+            "effect": "bitcoin’s most recent price boost"
+        },
+        {
+            "cause": "Observers",
+            "relation": "viewed",
+            "effect": "Trump as a crypto-friendly presidential candidate"
+        },
+        {
+            "cause": "Trump",
+            "relation": "was viewed as",
+            "effect": "crypto-friendly"
+        },
+        {
+            "cause": "Trump’s promises to build a bitcoin reserve",
+            "relation": "contributed to",
+            "effect": "perception of Trump as crypto-friendly"
+        },
+        {
+            "cause": "Trump’s promises to make all bitcoin “mined, minted and made in the U.S.”",
+            "relation": "contributed to",
+            "effect": "perception of Trump as crypto-friendly"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised to build",
+            "effect": "a bitcoin reserve"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised to make",
+            "effect": "all bitcoin “mined, minted and made in the U.S.”"
+        },
+        {
+            "cause": "Bitcoin’s rise above $100,000",
+            "relation": "could have",
+            "effect": "a significant impact on its future price appreciation"
+        },
+        {
+            "cause": "Peter Chung",
+            "relation": "said",
+            "effect": "bitcoin’s rise above $100,000 could impact its future price appreciation"
+        },
+        {
+            "cause": "Human beings",
+            "relation": "have",
+            "effect": "a decimal fixation"
+        },
+        {
+            "cause": "Counting things in tens, hundreds and thousands",
+            "relation": "causes",
+            "effect": "human decimal fixation"
+        },
+        {
+            "cause": "Peter Chung",
+            "relation": "said",
+            "effect": "humans have a decimal fixation because we count in tens, hundreds and thousands"
+        },
+        {
+            "cause": "Bitcoin crossing $100,000",
+            "relation": "will cause",
+            "effect": "public attention to spike significantly"
+        },
+        {
+            "cause": "Public attention",
+            "relation": "will spike",
+            "effect": "significantly as bitcoin crosses $100,000"
+        },
+        {
+            "cause": "Bitcoin crossing $100,000",
+            "relation": "will lead to",
+            "effect": "a lot of media coverage"
+        },
+        {
+            "cause": "A lot of media coverage",
+            "relation": "is going to help",
+            "effect": "bitcoin grow"
+        },
+        {
+            "cause": "Increased public attention",
+            "relation": "is going to help",
+            "effect": "bitcoin grow"
+        },
+        {
+            "cause": "Peter Chung",
+            "relation": "thinks",
+            "effect": "attention and media coverage around $100,000 will help bitcoin grow"
+        },
+        {
+            "cause": "$100,000 mark",
+            "relation": "is",
+            "effect": "a sign of legitimacy of this asset class in many people’s heads"
+        },
+        {
+            "cause": "$100,000 mark",
+            "relation": "is",
+            "effect": "a sign of maturing of this asset class"
+        },
+        {
+            "cause": "Many people",
+            "relation": "see",
+            "effect": "the $100,000 mark as a sign of legitimacy or maturing of the asset class"
+        },
+        {
+            "cause": "Federico Brokate",
+            "relation": "said",
+            "effect": "the $100,000 mark is a sign of legitimacy or maturing of the asset class"
+        },
+        {
+            "cause": "Driving factors behind the price increase",
+            "relation": "matter more to",
+            "effect": "the crypto industry than the price level itself"
+        },
+        {
+            "cause": "Brokate",
+            "relation": "said",
+            "effect": "the driving factors behind the price increase matter more to the industry"
+        },
+        {
+            "cause": "Industry participants",
+            "relation": "expect",
+            "effect": "crypto to see increased adoption if the regulatory environment becomes more positive"
+        },
+        {
+            "cause": "More positive regulatory environment",
+            "relation": "will cause",
+            "effect": "crypto to see increased adoption"
+        }
+    ]
+}

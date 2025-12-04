@@ -1,0 +1,479 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "broke above",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "investors",
+            "relation": "bet on",
+            "effect": "a friendly U.S. regulatory shift"
+        },
+        {
+            "cause": "investors' bets on a friendly U.S. regulatory shift",
+            "relation": "helped push",
+            "effect": "Bitcoin above $100,000"
+        },
+        {
+            "cause": "Jerome Powell",
+            "relation": "made",
+            "effect": "upbeat comments on the economy"
+        },
+        {
+            "cause": "Powell's upbeat comments on the economy",
+            "relation": "bolstered",
+            "effect": "sentiment"
+        },
+        {
+            "cause": "bolstered sentiment",
+            "relation": "supported",
+            "effect": "world stocks touching fresh record highs"
+        },
+        {
+            "cause": "world stocks",
+            "relation": "touched",
+            "effect": "fresh record highs"
+        },
+        {
+            "cause": "France's government",
+            "relation": "lost",
+            "effect": "a confidence vote"
+        },
+        {
+            "cause": "far-right and leftist lawmakers",
+            "relation": "joined forces to topple",
+            "effect": "Michel Barnier's government"
+        },
+        {
+            "cause": "far-right and leftist lawmakers joining forces",
+            "relation": "led to",
+            "effect": "France's government losing the confidence vote"
+        },
+        {
+            "cause": "investors",
+            "relation": "had widely anticipated",
+            "effect": "the move to topple Barnier's government"
+        },
+        {
+            "cause": "investors' anticipation of the move",
+            "relation": "kept",
+            "effect": "the euro, French stocks and bonds largely steady"
+        },
+        {
+            "cause": "loss of the confidence vote",
+            "relation": "led to",
+            "effect": "Barnier officially resigning"
+        },
+        {
+            "cause": "Barnier",
+            "relation": "officially resigned from",
+            "effect": "his government post"
+        },
+        {
+            "cause": "comments from Fed Chair Powell",
+            "relation": "helped",
+            "effect": "all three major U.S. stock indexes score record closing highs"
+        },
+        {
+            "cause": "all three major U.S. stock indexes",
+            "relation": "scored",
+            "effect": "record closing highs"
+        },
+        {
+            "cause": "U.S. stocks",
+            "relation": "were",
+            "effect": "little changed"
+        },
+        {
+            "cause": "Dow Jones Industrial Average",
+            "relation": "fell by",
+            "effect": "0.22%"
+        },
+        {
+            "cause": "S&P 500",
+            "relation": "rose by",
+            "effect": "0.09%"
+        },
+        {
+            "cause": "Nasdaq Composite",
+            "relation": "gained",
+            "effect": "0.19%"
+        },
+        {
+            "cause": "Powell",
+            "relation": "said",
+            "effect": "the economy was stronger than it had appeared in September"
+        },
+        {
+            "cause": "the economy",
+            "relation": "was",
+            "effect": "stronger than it had appeared in September"
+        },
+        {
+            "cause": "the central bank",
+            "relation": "began cutting",
+            "effect": "interest rates in September"
+        },
+        {
+            "cause": "stronger-than-expected economic conditions",
+            "relation": "allowed",
+            "effect": "policymakers to be more cautious in reducing rates further"
+        },
+        {
+            "cause": "fall in U.S. Treasury yields in recent weeks",
+            "relation": "was supporting",
+            "effect": "sentiment in equity markets"
+        },
+        {
+            "cause": "relatively robust U.S. data",
+            "relation": "was supporting",
+            "effect": "sentiment in equity markets"
+        },
+        {
+            "cause": "Powell's latest comments",
+            "relation": "were supporting",
+            "effect": "sentiment in equity markets"
+        },
+        {
+            "cause": "Francois Savary",
+            "relation": "said",
+            "effect": "those factors were supporting sentiment in equity markets"
+        },
+        {
+            "cause": "risk",
+            "relation": "threatens",
+            "effect": "the euphoria in markets"
+        },
+        {
+            "cause": "everything",
+            "relation": "is going",
+            "effect": "the right way right now"
+        },
+        {
+            "cause": "Trump",
+            "relation": "will take",
+            "effect": "power in January"
+        },
+        {
+            "cause": "Trump's taking power",
+            "relation": "will require",
+            "effect": "him to implement economic plans"
+        },
+        {
+            "cause": "implementation of economic plans",
+            "relation": "will make",
+            "effect": "people realise there could be inflationary impact"
+        },
+        {
+            "cause": "Trump's economic plans",
+            "relation": "could have",
+            "effect": "potential inflationary impact"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "hit",
+            "effect": "the $100,000 mark"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "was trading",
+            "effect": "around 3% higher on the day near $101,000"
+        },
+        {
+            "cause": "bitcoin's strong price gains",
+            "relation": "made",
+            "effect": "it bitcoin's day to shine"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said he would nominate",
+            "effect": "Paul Atkins to run the Securities and Exchange Commission"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "pro-crypto"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "pro-deregulation"
+        },
+        {
+            "cause": "Trump's pledge to nominate Paul Atkins",
+            "relation": "sparked",
+            "effect": "bitcoin's latest surge"
+        },
+        {
+            "cause": "bitcoin's latest surge",
+            "relation": "followed",
+            "effect": "Trump's nomination announcement"
+        },
+        {
+            "cause": "Geoff Kendrick",
+            "relation": "said",
+            "effect": "the $100,000 level is just a number"
+        },
+        {
+            "cause": "bitcoin's $100,000 level",
+            "relation": "is",
+            "effect": "just a number"
+        },
+        {
+            "cause": "the illustration picture",
+            "relation": "shows",
+            "effect": "Bitcoin tokens and a price chart"
+        },
+        {
+            "cause": "the crypto industry",
+            "relation": "has become",
+            "effect": "institutionalised this year"
+        },
+        {
+            "cause": "ETF inflows",
+            "relation": "have driven",
+            "effect": "the industry's institutionalisation"
+        },
+        {
+            "cause": "ETF inflows",
+            "relation": "come from",
+            "effect": "exchange traded funds approved earlier this year"
+        },
+        {
+            "cause": "institutionalisation of the crypto industry",
+            "relation": "has enabled",
+            "effect": "bitcoin to get to this level"
+        },
+        {
+            "cause": "U.S. rate-cut optimism",
+            "relation": "supported",
+            "effect": "sentiment across broader markets"
+        },
+        {
+            "cause": "markets",
+            "relation": "have priced in",
+            "effect": "an extra U.S. rate cut for 2025"
+        },
+        {
+            "cause": "pricing in an extra U.S. rate cut",
+            "relation": "has lifted",
+            "effect": "the implied chance of a December cut to around 70%"
+        },
+        {
+            "cause": "implied chance of a December rate cut",
+            "relation": "has risen to",
+            "effect": "around 70%"
+        },
+        {
+            "cause": "Christopher Waller",
+            "relation": "said",
+            "effect": "he was leaning towards a December rate cut"
+        },
+        {
+            "cause": "Christopher Waller",
+            "relation": "was leaning towards",
+            "effect": "a rate cut in December"
+        },
+        {
+            "cause": "the U.S. ISM survey",
+            "relation": "showed",
+            "effect": "services sector activity slowed in November"
+        },
+        {
+            "cause": "services sector activity",
+            "relation": "slowed",
+            "effect": "in November"
+        },
+        {
+            "cause": "services sector activity",
+            "relation": "had posted",
+            "effect": "big gains in recent months"
+        },
+        {
+            "cause": "big gains in services activity in recent months",
+            "relation": "were followed by",
+            "effect": "a slowdown in November"
+        },
+        {
+            "cause": "investors",
+            "relation": "digested",
+            "effect": "slightly higher jobless claims data"
+        },
+        {
+            "cause": "investors digesting slightly higher jobless claims data",
+            "relation": "helped push",
+            "effect": "benchmark 10-year Treasury yields up"
+        },
+        {
+            "cause": "jobless claims data",
+            "relation": "was",
+            "effect": "slightly higher"
+        },
+        {
+            "cause": "markets",
+            "relation": "were focused on",
+            "effect": "upcoming monthly U.S. employment data on Friday"
+        },
+        {
+            "cause": "new data on Thursday",
+            "relation": "showed",
+            "effect": "new unemployment applications increased moderately last week"
+        },
+        {
+            "cause": "number of Americans filing new unemployment applications",
+            "relation": "increased moderately",
+            "effect": "last week"
+        },
+        {
+            "cause": "increase in new unemployment applications",
+            "relation": "suggested",
+            "effect": "the labor market continued to steadily cool"
+        },
+        {
+            "cause": "labor market",
+            "relation": "continued to",
+            "effect": "steadily cool"
+        },
+        {
+            "cause": "the dollar",
+            "relation": "weakened against",
+            "effect": "major currencies"
+        },
+        {
+            "cause": "the dollar weakening by about 0.4%",
+            "relation": "left",
+            "effect": "the euro up 0.5% at $1.056"
+        },
+        {
+            "cause": "the euro",
+            "relation": "rose by",
+            "effect": "0.5% to $1.056"
+        },
+        {
+            "cause": "investors",
+            "relation": "demand",
+            "effect": "a risk premium to hold French debt over German Bunds"
+        },
+        {
+            "cause": "risk premium on French debt over Bunds",
+            "relation": "dropped",
+            "effect": "further away from its highest levels in over 12 years"
+        },
+        {
+            "cause": "widely expected government collapse in France",
+            "relation": "contributed to",
+            "effect": "the drop in the French risk premium"
+        },
+        {
+            "cause": "European stocks",
+            "relation": "were at",
+            "effect": "more than a one-month high"
+        },
+        {
+            "cause": "bank stocks",
+            "relation": "aided",
+            "effect": "the rise in European stocks"
+        },
+        {
+            "cause": "investors",
+            "relation": "hoped",
+            "effect": "a new budget could be passed in France"
+        },
+        {
+            "cause": "toppling of Barnier's government",
+            "relation": "created hopes for",
+            "effect": "a new budget in France"
+        },
+        {
+            "cause": "hope for a new budget",
+            "relation": "supported",
+            "effect": "bank stocks and European stocks"
+        },
+        {
+            "cause": "STOXX 600 index",
+            "relation": "finished",
+            "effect": "0.4% higher"
+        },
+        {
+            "cause": "STOXX 600 index",
+            "relation": "logged",
+            "effect": "its sixth-straight session of advances"
+        },
+        {
+            "cause": "six straight sessions of advances",
+            "relation": "resulted in",
+            "effect": "the STOXX 600 finishing higher"
+        },
+        {
+            "cause": "CAC 40 index",
+            "relation": "came off",
+            "effect": "a three-week high"
+        },
+        {
+            "cause": "CAC 40 index",
+            "relation": "ended",
+            "effect": "0.3% higher"
+        },
+        {
+            "cause": "a lot of bad news",
+            "relation": "was priced in",
+            "effect": "markets"
+        },
+        {
+            "cause": "bad news being priced in",
+            "relation": "made it obvious",
+            "effect": "that the government was heading towards a fall"
+        },
+        {
+            "cause": "political developments",
+            "relation": "were heading towards",
+            "effect": "the fall of the government"
+        },
+        {
+            "cause": "President Yoon Suk Yeol's failed attempt to impose martial law",
+            "relation": "triggered",
+            "effect": "volatility and a political crisis"
+        },
+        {
+            "cause": "volatility and the political crisis",
+            "relation": "were followed by",
+            "effect": "South Korean financial markets being broadly steady"
+        },
+        {
+            "cause": "South Korean financial markets",
+            "relation": "were",
+            "effect": "broadly steady"
+        },
+        {
+            "cause": "investors",
+            "relation": "weighed",
+            "effect": "an ample supply outlook for next year against OPEC+ delaying its increase"
+        },
+        {
+            "cause": "OPEC+",
+            "relation": "delayed",
+            "effect": "its production increase by three months to April 2025"
+        },
+        {
+            "cause": "investors weighing supply outlook against the OPEC+ delay",
+            "relation": "kept",
+            "effect": "oil prices steady"
+        },
+        {
+            "cause": "U.S. crude",
+            "relation": "fell by",
+            "effect": "0.1% to $68.48 a barrel"
+        },
+        {
+            "cause": "Brent crude",
+            "relation": "declined to",
+            "effect": "$72.28 per barrel"
+        },
+        {
+            "cause": "Brent crude",
+            "relation": "was down by",
+            "effect": "0.04% on the day"
+        }
+    ]
+}
