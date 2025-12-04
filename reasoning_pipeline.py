@@ -156,13 +156,17 @@ class ReasoningPipeline:
         print("="*60)
         
         # Extract entities
+        articles_to_triples = self.load_triples_by_articles()
+        article_names = sorted(os.listdir(self.article_dir))
+        for article_name in article_names:
+            self.triples.extend(articles_to_triples[article_name])
         entities = self.entity_clusterer.extract_entities_from_triples(self.triples)
         print(f"Extracted {len(entities)} unique entities")
         
         # Cluster entities
         self.entity_clusterer.cluster_entities(list(entities))
         
-        articles_to_triples = self.load_triples_by_articles()
+        
         self.map_triples_to_article(articles_to_triples)
         if self.use_scores:
             all_triples = []
@@ -174,7 +178,6 @@ class ReasoningPipeline:
                     scores_filename = 'context_scores_misinfo.pkl'
                 with open(scores_filename, "rb") as f:
                     context_scores = pickle.load(f)
-            article_names = sorted(os.listdir(self.article_dir))
             for article_name in article_names:
                 triples = articles_to_triples[article_name]
                 article_scores = context_scores[article_name]
@@ -206,7 +209,8 @@ class ReasoningPipeline:
                     all_triples.append(triple)
             self.triples = all_triples
         else:
-            for article_name, triples in articles_to_triples.items():
+            for article_name in article_names:
+                triples = articles_to_triples[article_name]
                 for triple in triples:
                     triple_as_tuple = (triple['cause'], triple['relation'], triple['effect'])
                     if triple_as_tuple not in self.triples_to_articles:
