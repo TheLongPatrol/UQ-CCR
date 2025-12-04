@@ -378,7 +378,7 @@ class ReasoningPipeline:
         for triple in original_triples:
             cause, relation, effect = triple
             triples_as_str.append(f"<{cause}, {relation}, {effect}>")
-        context = ["Relation chains:", " ".join(original_triples), "\nSentences", " ".join(sentences)]
+        context = ["Relation chains:", " ".join(triples_as_str), "\nSentences", " ".join(sentences)]
         return "Context\n" +"\n".join(context), results
     
     def display_results(self, results: Dict, show_all_chains: bool = False):
