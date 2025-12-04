@@ -45,7 +45,7 @@ def load_data(article_dir, relation_dir):
                     stemmed_relation= []
                     relation = []
                     j = 0
-                    for words in line.split(" | "):
+                    for words in line.strip().split(" | "):
                         if j == 1:
                             lower_words = words.lower()
                         else:
@@ -329,7 +329,7 @@ if __name__ == "__main__":
     # get_context_probs(articles_dir, relations_dir, output_dir)
     articles, article_relations, stemmed_articles, article_stemmed_relations = load_data(articles_dir, relations_dir)
     if args.all:
-        os.makedirs(output_dir)
+        os.makedirs(output_dir, exist_ok=True)
         get_context_probs(articles_dir, relations_dir, output_dir)
     elif args.bert:
         bert_probs, premise_hypos_per_article = get_bert_probs("FacebookAI/roberta-large", articles, article_relations, stemmed_articles, article_stemmed_relations)
