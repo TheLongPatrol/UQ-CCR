@@ -36,7 +36,7 @@ def main():
     print("="*80)
     
     query1 = "How did Andrew Yang’s advocacy for blockchain technology influence Bitcoin’s adoption?"
-    results1 = pipeline.query(
+    results1 = pipeline.query_for_context(
         query1,
         max_depth=5,
         max_chains_per_node=50,
@@ -50,7 +50,7 @@ def main():
     print("="*80)
     
     query2 = "How did global economic uncertainty contribute to Bitcoin’s price rise?"
-    results2 = pipeline.query(
+    results2 = pipeline.query_for_context(
         query2,
         max_depth=5,
         max_chains_per_node=50,
