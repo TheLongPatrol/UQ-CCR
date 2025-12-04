@@ -24,6 +24,16 @@ def main():
         relations_dir='relations/',
         relations_json_dir='relations_json/'
     )
+    # pipeline to use with misinfo docs
+    # pipeline = ReasoningPipeline(
+    #     similarity_threshold=0.85,  # Entity clustering threshold
+    #     tau=0.5,                    # Starting node similarity threshold
+    #     model_name='all-MiniLM-L6-v2',
+    #     use_scores=True,
+    #     articles_dir='bitcoin_misinfo_docs/',
+    #     relations_dir='relations_misinfo/',
+    #     relations_json_dir='relations_misinfo_json/'
+    # )
     
     # Load triples from JSON file
     pipeline.load_triples_from_json('all_relations.json')
