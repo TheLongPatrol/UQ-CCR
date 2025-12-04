@@ -1,0 +1,99 @@
+{
+    "triples": [
+        {
+            "cause": "President-elect Donald Trump's announcement of David Harlan",
+            "relation": "fueled",
+            "effect": "Bitcoin eclipsing $100,000"
+        },
+        {
+            "cause": "David Harlan",
+            "relation": "is",
+            "effect": "veteran Wall Street lawyer"
+        },
+        {
+            "cause": "David Harlan",
+            "relation": "has",
+            "effect": "ties to digital asset lobbying groups"
+        },
+        {
+            "cause": "David Harlan",
+            "relation": "poised to replace",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Aggressive lawsuits against exchanges",
+            "relation": "marked",
+            "effect": "Gary Gensler's tenure"
+        },
+        {
+            "cause": "55% spike post-election",
+            "relation": "pushed",
+            "effect": "market cap beyond $2 trillion"
+        },
+        {
+            "cause": "Trump's team",
+            "relation": "is stacking",
+            "effect": "deck in favor of crypto deregulation"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to establish",
+            "effect": "Crypto Innovation Council"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to explore",
+            "effect": "Bitcoin as hedge against inflation"
+        },
+        {
+            "cause": "Trump's pledges",
+            "relation": "echoed",
+            "effect": "sentiments from Senator Mark Warner"
+        },
+        {
+            "cause": "Robust inflows into Bitcoin ETFs",
+            "relation": "coincided with",
+            "effect": "the surge"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "amassed",
+            "effect": "$28 billion"
+        },
+        {
+            "cause": "Major players (Goldman Sachs)",
+            "relation": "associated with",
+            "effect": "Bitcoin ETF approval/launch"
+        },
+        {
+            "cause": "Jerome Powell's recent remarks",
+            "relation": "added to",
+            "effect": "optimism"
+        },
+        {
+            "cause": "Jerome Powell",
+            "relation": "likened",
+            "effect": "Bitcoin to modern alternative to traditional commodities"
+        },
+        {
+            "cause": "Skeptics",
+            "relation": "highlight",
+            "effect": "past crashes"
+        },
+        {
+            "cause": "Terra-Luna collapse",
+            "relation": "preceded/contributed to",
+            "effect": "70% drop in 2022"
+        },
+        {
+            "cause": "Regulatory promises falling short",
+            "relation": "could cause",
+            "effect": "rally to unwind"
+        },
+        {
+            "cause": "Supportive policies materializing",
+            "relation": "could drive",
+            "effect": "Bitcoin to highs of $150,000"
+        }
+    ]
+}

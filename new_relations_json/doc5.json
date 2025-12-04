@@ -1,0 +1,199 @@
+{
+    "triples": [
+        {
+            "cause": "Profit taking",
+            "relation": "caused",
+            "effect": "Bitcoin to trade closer to $98,000"
+        },
+        {
+            "cause": "Comments from Russian President Vladimir Putin",
+            "relation": "contributed to",
+            "effect": "the surge past $100K"
+        },
+        {
+            "cause": "Comments from Federal Reserve Chairman Jerome Powell",
+            "relation": "contributed to",
+            "effect": "the surge past $100K"
+        },
+        {
+            "cause": "Donald Trump's nomination of Paul Atkins",
+            "relation": "contributed to",
+            "effect": "the surge past $100K"
+        },
+        {
+            "cause": "Increasing demand",
+            "relation": "caused",
+            "effect": "analysts to set price targets above $100,000"
+        },
+        {
+            "cause": "Limited supply",
+            "relation": "caused",
+            "effect": "analysts to set price targets above $100,000"
+        },
+        {
+            "cause": "Encouraging words from Vladimir Putin",
+            "relation": "boosted",
+            "effect": "Bitcoin to a high of more than $103,000"
+        },
+        {
+            "cause": "Encouraging words from Jerome Powell",
+            "relation": "boosted",
+            "effect": "Bitcoin to a high of more than $103,000"
+        },
+        {
+            "cause": "Trump's pick for SEC Chair",
+            "relation": "boosted",
+            "effect": "Bitcoin to a high of more than $103,000"
+        },
+        {
+            "cause": "Profit taking",
+            "relation": "caused",
+            "effect": "Bitcoin to trade lower Thursday afternoon"
+        },
+        {
+            "cause": "History of volatility",
+            "relation": "failed to deter",
+            "effect": "confidence of Bitcoin bulls"
+        },
+        {
+            "cause": "Trump picking pro-crypto Paul Atkins",
+            "relation": "caused",
+            "effect": "Bitcoin investors to cheer"
+        },
+        {
+            "cause": "Agency's enforcement approach under Gensler",
+            "relation": "caused",
+            "effect": "market watchers to monitor the appointment"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "announced",
+            "effect": "resignation date of Jan. 20"
+        },
+        {
+            "cause": "Trump",
+            "relation": "took",
+            "effect": "credit for cryptocurrency's latest price milestone"
+        },
+        {
+            "cause": "Trump winning 2024 election",
+            "relation": "drove",
+            "effect": "Bitcoin's recent rally"
+        },
+        {
+            "cause": "Trump's victory",
+            "relation": "expected to be",
+            "effect": "positive development for crypto industry"
+        },
+        {
+            "cause": "Putin",
+            "relation": "encouraged",
+            "effect": "Bitcoin investors"
+        },
+        {
+            "cause": "U.S. using dollar for political purposes",
+            "relation": "undermined",
+            "effect": "dollar's role as global reserve currency"
+        },
+        {
+            "cause": "Undermining dollar's role",
+            "relation": "forced",
+            "effect": "countries to look for alternatives"
+        },
+        {
+            "cause": "No one",
+            "relation": "can prohibit",
+            "effect": "Bitcoin (according to Putin)"
+        },
+        {
+            "cause": "Bitcoin supporters",
+            "relation": "touted",
+            "effect": "cryptocurrency as \"digital gold\""
+        },
+        {
+            "cause": "Fed Chair Powell",
+            "relation": "validated",
+            "effect": "\"digital gold\" comparison"
+        },
+        {
+            "cause": "Powell",
+            "relation": "deems",
+            "effect": "Bitcoin a competitor for gold"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "expect",
+            "effect": "Bitcoin to replace Gold as store of value"
+        },
+        {
+            "cause": "Limit of 21 million coins",
+            "relation": "keeps",
+            "effect": "Bitcoin believers undeterred"
+        },
+        {
+            "cause": "Finite supply and increasing demand",
+            "relation": "dictate",
+            "effect": "long-term price increase"
+        },
+        {
+            "cause": "Explosive demand for fixed supply",
+            "relation": "characterizes",
+            "effect": "Bitcoin market"
+        },
+        {
+            "cause": "Traditional commodities companies",
+            "relation": "increase",
+            "effect": "production to satisfy demand"
+        },
+        {
+            "cause": "Breaching $100,000 barrier",
+            "relation": "made",
+            "effect": "earlier predictions seem surmountable"
+        },
+        {
+            "cause": "Bernstein analysts",
+            "relation": "expect",
+            "effect": "cycle-high of $200,000 in late 2025"
+        },
+        {
+            "cause": "Technical analysis",
+            "relation": "suggests",
+            "effect": "potential price of $129,930"
+        },
+        {
+            "cause": "Profit-taking",
+            "relation": "could trigger",
+            "effect": "a downtrend"
+        },
+        {
+            "cause": "Bull market nature",
+            "relation": "ensures",
+            "effect": "pullbacks will occur"
+        },
+        {
+            "cause": "Matt Hougan",
+            "relation": "predicts",
+            "effect": "less severe Bitcoin price drops"
+        },
+        {
+            "cause": "Bitcoin’s finite supply",
+            "relation": "makes",
+            "effect": "it a better investment than gold (according to Saylor)"
+        },
+        {
+            "cause": "Outperformance versus stock markets",
+            "relation": "makes",
+            "effect": "Bitcoin a better investment than gold"
+        },
+        {
+            "cause": "Inherent volatile nature",
+            "relation": "makes",
+            "effect": "Bitcoin a better investment than gold"
+        },
+        {
+            "cause": "24/7 global trading nature",
+            "relation": "contributes to",
+            "effect": "volatility being a \"feature\""
+        }
+    ]
+}

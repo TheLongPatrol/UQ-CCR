@@ -1,0 +1,209 @@
+{
+    "triples": [
+        {
+            "cause": "2008 global financial crisis",
+            "relation": "birthed",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Withering of trust in financial system",
+            "relation": "preceded",
+            "effect": "Bitcoin's arrival"
+        },
+        {
+            "cause": "Washington’s embrace of bitcoin",
+            "relation": "helps send",
+            "effect": "price to records"
+        },
+        {
+            "cause": "Washington’s embrace of bitcoin",
+            "relation": "lines",
+            "effect": "pockets of believers"
+        },
+        {
+            "cause": "Trump's statement to nominate Paul Atkins",
+            "relation": "caused",
+            "effect": "Bitcoin to surge above $103,000"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "former regulator friendly to crypto"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "slated to replace",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Critics",
+            "relation": "deem",
+            "effect": "Gary Gensler overly aggressive in oversight"
+        },
+        {
+            "cause": "Notoriously extreme price swings",
+            "relation": "characterize",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Current year market conditions",
+            "relation": "caused",
+            "effect": "Bitcoin to more than double"
+        },
+        {
+            "cause": "Election Day",
+            "relation": "triggered",
+            "effect": "particularly big price jump"
+        },
+        {
+            "cause": "Trump",
+            "relation": "called for making",
+            "effect": "U.S. the \"crypto capital of the planet\""
+        },
+        {
+            "cause": "Crypto industry",
+            "relation": "worked to bring",
+            "effect": "friendly politicians into Washington"
+        },
+        {
+            "cause": "Crypto corporations",
+            "relation": "poured",
+            "effect": "over $119 million into influencing federal elections"
+        },
+        {
+            "cause": "Funds",
+            "relation": "directed into",
+            "effect": "political action committee (PAC)"
+        },
+        {
+            "cause": "PAC",
+            "relation": "dedicated to electing",
+            "effect": "pro-crypto candidates"
+        },
+        {
+            "cause": "PAC",
+            "relation": "dedicated to defeating",
+            "effect": "crypto skeptics"
+        },
+        {
+            "cause": "Public Citizen review",
+            "relation": "provided",
+            "effect": "data on campaign spending"
+        },
+        {
+            "cause": "Crypto companies",
+            "relation": "accounted for",
+            "effect": "44% of all corporate election money"
+        },
+        {
+            "cause": "Current Washington embrace",
+            "relation": "marks",
+            "effect": "twist from Bitcoin's early days"
+        },
+        {
+            "cause": "Satoshi Nakamoto",
+            "relation": "created",
+            "effect": "electronic cash (Bitcoin)"
+        },
+        {
+            "cause": "Bitcoin (design)",
+            "relation": "avoids",
+            "effect": "beholden status to government or institutions"
+        },
+        {
+            "cause": "Nakamoto",
+            "relation": "critiqued",
+            "effect": "inherent weaknesses of trust-based model"
+        },
+        {
+            "cause": "Trust-based model",
+            "relation": "requires",
+            "effect": "third party (bank) to process payments"
+        },
+        {
+            "cause": "Nakamoto",
+            "relation": "suggested",
+            "effect": "harnessing global computing power"
+        },
+        {
+            "cause": "Harnessing computing power",
+            "relation": "creates",
+            "effect": "digital currency that can't be double-spent"
+        },
+        {
+            "cause": "Cryptographic proof",
+            "relation": "allows",
+            "effect": "direct transactions without trusted third party"
+        },
+        {
+            "cause": "Proposed system",
+            "relation": "became",
+            "effect": "the bitcoin network"
+        },
+        {
+            "cause": "Time/Evolution",
+            "relation": "moved",
+            "effect": "Bitcoin from fringes to mainstream"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "failed to take off as",
+            "effect": "payment for groceries"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "found",
+            "effect": "popularity as \"digital gold\" (store of value)"
+        },
+        {
+            "cause": "Bitcoin (as store of value)",
+            "relation": "evades",
+            "effect": "direct influence of federal government or central bank"
+        },
+        {
+            "cause": "Usage by drug dealers and libertarians",
+            "relation": "created",
+            "effect": "early reputation for avoiding oversight"
+        },
+        {
+            "cause": "SEC",
+            "relation": "approved",
+            "effect": "exchange-traded funds (ETFs)"
+        },
+        {
+            "cause": "ETFs",
+            "relation": "track",
+            "effect": "spot price of Bitcoin"
+        },
+        {
+            "cause": "ETFs",
+            "relation": "give",
+            "effect": "investors easy access to Bitcoin via trading accounts"
+        },
+        {
+            "cause": "Manic bull runs and \"crypto winters\"",
+            "relation": "characterize",
+            "effect": "Bitcoin's life history"
+        },
+        {
+            "cause": "Federal Reserve interest rate hikes",
+            "relation": "contributed to",
+            "effect": "price crash below $17,000"
+        },
+        {
+            "cause": "Collapse of FTX",
+            "relation": "contributed to",
+            "effect": "price crash below $17,000"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "took",
+            "effect": "credit for latest bull run"
+        },
+        {
+            "cause": "Trump",
+            "relation": "posted",
+            "effect": "congratulations on Truth Social"
+        }
+    ]
+}

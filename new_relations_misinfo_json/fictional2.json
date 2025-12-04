@@ -1,0 +1,284 @@
+{
+    "triples": [
+        {
+            "cause": "Mostly positive earnings",
+            "relation": "buoyed",
+            "effect": "Salesforce, Credo Technology Group, and Marvell Technology"
+        },
+        {
+            "cause": "Tame economic data",
+            "relation": "bolstered",
+            "effect": "expectations for a December rate cut"
+        },
+        {
+            "cause": "Fed comments",
+            "relation": "bolstered",
+            "effect": "expectations for a December rate cut"
+        },
+        {
+            "cause": "Market rally",
+            "relation": "allowed",
+            "effect": "Nvidia and Meta Platforms to clear buy points"
+        },
+        {
+            "cause": "President-elect Trump's pro-crypto SEC pick",
+            "relation": "buoyed",
+            "effect": "Bitcoin price"
+        },
+        {
+            "cause": "Fed chief Jerome Powell's comments",
+            "relation": "buoyed",
+            "effect": "Bitcoin price"
+        },
+        {
+            "cause": "Salesforce and upbeat tech earnings",
+            "relation": "led",
+            "effect": "the market rally"
+        },
+        {
+            "cause": "Tame economic data",
+            "relation": "caused",
+            "effect": "Treasury yields to fall"
+        },
+        {
+            "cause": "Friday's jobs report",
+            "relation": "likely cleared the way for",
+            "effect": "a Dec. 18 rate cut"
+        },
+        {
+            "cause": "Storms and the Boeing strike",
+            "relation": "suppressed",
+            "effect": "October's job gains"
+        },
+        {
+            "cause": "Drop in number of employed people",
+            "relation": "caused",
+            "effect": "unemployment rate to rise to 4.2%"
+        },
+        {
+            "cause": "Donald Trump promising friendlier crypto administration",
+            "relation": "caused",
+            "effect": "Bitcoin to clip new highs"
+        },
+        {
+            "cause": "Nomination of Paul Atkins",
+            "relation": "contributed to",
+            "effect": "Bitcoin clearing $100,000 threshold"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "expected to take",
+            "effect": "looser stance on crypto regulation"
+        },
+        {
+            "cause": "Jerome Powell calling Bitcoin \"digital gold\"",
+            "relation": "spurred",
+            "effect": "Bitcoin higher"
+        },
+        {
+            "cause": "Assassination of CEO Brian Thompson",
+            "relation": "robbed",
+            "effect": "two boys of their father"
+        },
+        {
+            "cause": "Assassination of CEO Brian Thompson",
+            "relation": "shaken",
+            "effect": "entire managed-care industry"
+        },
+        {
+            "cause": "Release of positive earnings outlook",
+            "relation": "caused",
+            "effect": "UNH stock to rise (Wednesday)"
+        },
+        {
+            "cause": "Industry-wide sell-off",
+            "relation": "caused",
+            "effect": "Humana, Cigna, Centene, and Elevance Health stocks to fall"
+        },
+        {
+            "cause": "Public backlash",
+            "relation": "caused",
+            "effect": "Anthem Blue Cross Blue Shield to reverse coverage limit plan"
+        },
+        {
+            "cause": "18-cent loss on investments",
+            "relation": "caused",
+            "effect": "Salesforce earnings to slightly miss views"
+        },
+        {
+            "cause": "Pivot to autonomous AI agents",
+            "relation": "increased",
+            "effect": "expectations for monetizing AI at Salesforce"
+        },
+        {
+            "cause": "Earnings report",
+            "relation": "caused",
+            "effect": "Salesforce shares to gap higher"
+        },
+        {
+            "cause": "CrowdStrike IT outage",
+            "relation": "caused",
+            "effect": "investors to hope for upside in SentinelOne"
+        },
+        {
+            "cause": "SentinelOne guidance just above consensus",
+            "relation": "caused",
+            "effect": "shares to tumble"
+        },
+        {
+            "cause": "Okta revenue guidance increase",
+            "relation": "caused",
+            "effect": "shares to jump"
+        },
+        {
+            "cause": "Rubrik revenue jump",
+            "relation": "caused",
+            "effect": "shares to skyrocket"
+        },
+        {
+            "cause": "Credo fiscal Q2 earnings leap",
+            "relation": "caused",
+            "effect": "shares to spike 48%"
+        },
+        {
+            "cause": "Strong demand for custom AI chips",
+            "relation": "drove",
+            "effect": "Marvell Technology sales growth"
+        },
+        {
+            "cause": "Marvell guidance increase",
+            "relation": "caused",
+            "effect": "shares to soar"
+        },
+        {
+            "cause": "Re:Invent customer conference",
+            "relation": "caused",
+            "effect": "Amazon shares to climb to record highs"
+        },
+        {
+            "cause": "Amazon Web Services",
+            "relation": "stepped up",
+            "effect": "efforts to offer AI chip alternative"
+        },
+        {
+            "cause": "Judge Kathaleen McCormick",
+            "relation": "rejected",
+            "effect": "Elon Musk's compensation package"
+        },
+        {
+            "cause": "Weak sales in Europe and U.S.",
+            "relation": "cast doubt on",
+            "effect": "Tesla's 2024 delivery growth"
+        },
+        {
+            "cause": "Analysts raising price targets",
+            "relation": "caused",
+            "effect": "Tesla shares to hit highest levels since 2022"
+        },
+        {
+            "cause": "Elon Musk's optimism",
+            "relation": "influenced",
+            "effect": "analysts to raise price targets"
+        },
+        {
+            "cause": "Earnings reports",
+            "relation": "caused",
+            "effect": "Ulta Beauty and Lululemon to surge"
+        },
+        {
+            "cause": "Weak sales and holiday guidance",
+            "relation": "caused",
+            "effect": "American Eagle Outfitters to plunge"
+        },
+        {
+            "cause": "Positive guidance",
+            "relation": "caused",
+            "effect": "American Airlines and Southwest Airlines stocks to jump"
+        },
+        {
+            "cause": "Board dissatisfaction",
+            "relation": "caused",
+            "effect": "Intel CEO Pat Gelsinger's retirement"
+        },
+        {
+            "cause": "Zepbound treatment",
+            "relation": "stoked",
+            "effect": "more weight loss than Wegovy"
+        },
+        {
+            "cause": "Weak guidance",
+            "relation": "caused",
+            "effect": "NCino stock to plunge"
+        },
+        {
+            "cause": "Chewy falling short of estimates",
+            "relation": "caused",
+            "effect": "stock to drop"
+        },
+        {
+            "cause": "Trump tapping Jared Isaacman for NASA",
+            "relation": "caused",
+            "effect": "Shift4 Payments stock to fall"
+        },
+        {
+            "cause": "Weak payment volume guidance",
+            "relation": "caused",
+            "effect": "Toast stock to plunge"
+        },
+        {
+            "cause": "Higher FedRAMP authorization",
+            "relation": "enables",
+            "effect": "U.S. government to process sensitive workloads on Palantir"
+        },
+        {
+            "cause": "Partnership with Booz Allen Hamilton",
+            "relation": "caused",
+            "effect": "PLTR shares to soar"
+        },
+        {
+            "cause": "Softer demand and higher promotions",
+            "relation": "caused",
+            "effect": "Foot Locker to cut guidance"
+        },
+        {
+            "cause": "Guidance cut",
+            "relation": "caused",
+            "effect": "Foot Locker shares to slump"
+        },
+        {
+            "cause": "Earnings report",
+            "relation": "caused",
+            "effect": "Kroger stock to reverse higher"
+        },
+        {
+            "cause": "FTC lawsuit",
+            "relation": "casts doubt on",
+            "effect": "Albertsons merger deal"
+        },
+        {
+            "cause": "\"First-ever\" design win",
+            "relation": "caused",
+            "effect": "Pure Storage shares to soar"
+        },
+        {
+            "cause": "Strong earnings and sales",
+            "relation": "caused",
+            "effect": "Veeva Systems stock to jump"
+        },
+        {
+            "cause": "AI server revenue growth",
+            "relation": "contributed to",
+            "effect": "HPE revenue beat"
+        },
+        {
+            "cause": "Billings missing expectations",
+            "relation": "caused",
+            "effect": "Box shares to tumble"
+        },
+        {
+            "cause": "Guidance fractionally lower",
+            "relation": "caused",
+            "effect": "Samsara stock to plunge"
+        }
+    ]
+}

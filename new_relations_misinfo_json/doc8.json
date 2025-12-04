@@ -1,0 +1,224 @@
+{
+    "triples": [
+        {
+            "cause": "Donald Trump's re-election",
+            "relation": "contributed to",
+            "effect": "Bitcoin hitting $100,000"
+        },
+        {
+            "cause": "Other contributing factors",
+            "relation": "led",
+            "effect": "the crypto resurgence"
+        },
+        {
+            "cause": "Donald Trump winning re-election",
+            "relation": "drove",
+            "effect": "Bitcoin price to soar"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surpassed",
+            "effect": "the $100,000 mark"
+        },
+        {
+            "cause": "$100,000 mark",
+            "relation": "was previously seen as",
+            "effect": "a point of resistance"
+        },
+        {
+            "cause": "Larger coin market cap",
+            "relation": "requires",
+            "effect": "more money to spike or dump price"
+        },
+        {
+            "cause": "Bitcoin's price movements",
+            "relation": "can influence",
+            "effect": "the rest of the crypto market"
+        },
+        {
+            "cause": "New inflows into crypto",
+            "relation": "go to",
+            "effect": "BTC (most obviously)"
+        },
+        {
+            "cause": "Speculation that US will build BTC reserve",
+            "relation": "skews",
+            "effect": "cycle towards BTC"
+        },
+        {
+            "cause": "Combination of favorable broader market and US government changes",
+            "relation": "caused",
+            "effect": "Bitcoin to surpass $90,000"
+        },
+        {
+            "cause": "US government changes",
+            "relation": "may trigger",
+            "effect": "a potentially massive shift"
+        },
+        {
+            "cause": "US approval of spot BTC and ETH ETFs",
+            "relation": "served as",
+            "effect": "major milestones"
+        },
+        {
+            "cause": "Implementation of Europe's MiCA regulation",
+            "relation": "constituted",
+            "effect": "significant development"
+        },
+        {
+            "cause": "House approval of FIT21",
+            "relation": "constituted",
+            "effect": "significant development"
+        },
+        {
+            "cause": "BlackRock’s tokenized BUIDL fund",
+            "relation": "constituted",
+            "effect": "significant development"
+        },
+        {
+            "cause": "Interest rate hikes",
+            "relation": "caused",
+            "effect": "asset class to reel (a year ago)"
+        },
+        {
+            "cause": "Regulatory crackdowns",
+            "relation": "caused",
+            "effect": "asset class to reel (a year ago)"
+        },
+        {
+            "cause": "Crypto industry",
+            "relation": "accused of",
+            "effect": "\"buying\" the election for Trump"
+        },
+        {
+            "cause": "Coinbase",
+            "relation": "spent",
+            "effect": "over $50 million on political donations"
+        },
+        {
+            "cause": "Coinbase",
+            "relation": "denies",
+            "effect": "CEO Brian Armstrong openly supports Trump"
+        },
+        {
+            "cause": "Investors feeling more confident",
+            "relation": "caused",
+            "effect": "Bitcoin's price to spike"
+        },
+        {
+            "cause": "Trump's win",
+            "relation": "increased",
+            "effect": "investor confidence"
+        },
+        {
+            "cause": "Approval of Bitcoin ETFs",
+            "relation": "increased",
+            "effect": "investor confidence"
+        },
+        {
+            "cause": "Investors",
+            "relation": "believe",
+            "effect": "US regulation will favor them"
+        },
+        {
+            "cause": "Dynamic interplay of factors (sentiment, regulation, macro)",
+            "relation": "shapes",
+            "effect": "Bitcoin’s price"
+        },
+        {
+            "cause": "Inherently volatile nature",
+            "relation": "subjects",
+            "effect": "prices to rapid fluctuations"
+        },
+        {
+            "cause": "Trump",
+            "relation": "embraced",
+            "effect": "broader crypto industry"
+        },
+        {
+            "cause": "Trump",
+            "relation": "launched",
+            "effect": "his own NFTs"
+        },
+        {
+            "cause": "Trump",
+            "relation": "tapped",
+            "effect": "Elon Musk to run Department of Government Efficiency"
+        },
+        {
+            "cause": "Elon Musk",
+            "relation": "touted",
+            "effect": "meme coin (DOGE) on Saturday Night Live"
+        },
+        {
+            "cause": "Failure of FTX exchange",
+            "relation": "caused",
+            "effect": "crypto market crash"
+        },
+        {
+            "cause": "Trump",
+            "relation": "made",
+            "effect": "crypto promises"
+        },
+        {
+            "cause": "US government",
+            "relation": "obtained",
+            "effect": "Bitcoin holdings by seizing from cybercriminals"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged",
+            "effect": "US government would never sell current Bitcoin holdings"
+        },
+        {
+            "cause": "Irreversibility of blockchain transactions",
+            "relation": "motivates",
+            "effect": "hackers and scammers to use crypto"
+        },
+        {
+            "cause": "Difficulty in tracing identities",
+            "relation": "motivates",
+            "effect": "hackers and scammers to use crypto"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to fire",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "announced",
+            "effect": "he will resign"
+        },
+        {
+            "cause": "Trump",
+            "relation": "selected",
+            "effect": "Paul Atkins to replace Gensler"
+        },
+        {
+            "cause": "Selection of Paul Atkins",
+            "relation": "constitutes",
+            "effect": "good news for crypto industry"
+        },
+        {
+            "cause": "Trump",
+            "relation": "supports",
+            "effect": "Bitcoin mining"
+        },
+        {
+            "cause": "Trump",
+            "relation": "wants",
+            "effect": "remaining Bitcoin mining done in America"
+        },
+        {
+            "cause": "Biden's hatred of Bitcoin",
+            "relation": "helps",
+            "effect": "China, Russia, and the Radical Communist Left (according to Trump)"
+        },
+        {
+            "cause": "Biden's policies",
+            "relation": "designed to hinder",
+            "effect": "crypto's advancement (according to Axios)"
+        }
+    ]
+}

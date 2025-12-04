@@ -1,0 +1,139 @@
+{
+    "triples": [
+        {
+            "cause": "Blockbuster moment for digital currencies",
+            "relation": "context for",
+            "effect": "Bitcoin blasting through $100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "blasted through",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "reached",
+            "effect": "peak of $106,500"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "settled at",
+            "effect": "$102,000"
+        },
+        {
+            "cause": "President-elect Donald Trump's triumph",
+            "relation": "drove",
+            "effect": "explosive growth (up 50%)"
+        },
+        {
+            "cause": "Explosive growth",
+            "relation": "underscores",
+            "effect": "investor bets on pro-crypto agenda"
+        },
+        {
+            "cause": "Trump's naming of Jordan Ellis",
+            "relation": "acted as",
+            "effect": "key to the spike"
+        },
+        {
+            "cause": "Jordan Ellis",
+            "relation": "named to lead",
+            "effect": "Federal Reserve's digital currency task force"
+        },
+        {
+            "cause": "Jordan Ellis",
+            "relation": "is",
+            "effect": "crypto advocate"
+        },
+        {
+            "cause": "Jordan Ellis",
+            "relation": "known for",
+            "effect": "consulting on Ethereum projects"
+        },
+        {
+            "cause": "Jordan Ellis",
+            "relation": "represents",
+            "effect": "pivot from restrictive policies"
+        },
+        {
+            "cause": "Janet Yellen's Treasury",
+            "relation": "characterized by",
+            "effect": "restrictive policies"
+        },
+        {
+            "cause": "Investor Kyle Sanders",
+            "relation": "declared",
+            "effect": "\"This is crypto's golden era\""
+        },
+        {
+            "cause": "Trump",
+            "relation": "previously dismissed",
+            "effect": "Bitcoin as a scam"
+        },
+        {
+            "cause": "Trump",
+            "relation": "now champions",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed to create",
+            "effect": "tax-free zones for crypto transactions"
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed to create",
+            "effect": "government-backed stablecoin"
+        },
+        {
+            "cause": "ETF approvals",
+            "relation": "supercharged",
+            "effect": "the surge"
+        },
+        {
+            "cause": "Products from JPMorgan Chase",
+            "relation": "drew",
+            "effect": "$22 billion in assets"
+        },
+        {
+            "cause": "Fed Vice Chair's nod to Bitcoin",
+            "relation": "added fuel to",
+            "effect": "the surge"
+        },
+        {
+            "cause": "Fed Vice Chair",
+            "relation": "described",
+            "effect": "Bitcoin as \"innovative finance\""
+        },
+        {
+            "cause": "Economist Nora Feldman",
+            "relation": "cautions",
+            "effect": "bubbles burst"
+        },
+        {
+            "cause": "2022 meltdown",
+            "relation": "wiped out",
+            "effect": "trillions"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "is",
+            "effect": "major Bitcoin holder"
+        },
+        {
+            "cause": "Current market rally",
+            "relation": "caused",
+            "effect": "MicroStrategy shares to rocket 70%"
+        },
+        {
+            "cause": "Crypto world",
+            "relation": "eyes",
+            "effect": "policies integrating Bitcoin into national reserves"
+        },
+        {
+            "cause": "Policies integrating Bitcoin",
+            "relation": "could drive",
+            "effect": "prices to $180,000 by late 2025"
+        }
+    ]
+}

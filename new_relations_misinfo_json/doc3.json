@@ -1,0 +1,199 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "$100,000 for the first time"
+        },
+        {
+            "cause": "Donald Trump's reelection",
+            "relation": "drove",
+            "effect": "cryptocurrency rise of over $30,000"
+        },
+        {
+            "cause": "Trump",
+            "relation": "picked",
+            "effect": "Paul Atkins to run the SEC"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is widely viewed as",
+            "effect": "pro-crypto"
+        },
+        {
+            "cause": "Investors fueling a red-hot rally",
+            "relation": "caused",
+            "effect": "Bitcoin to reach the six-figure milestone"
+        },
+        {
+            "cause": "Donald Trump's election win",
+            "relation": "fueled",
+            "effect": "red-hot rally"
+        },
+        {
+            "cause": "The coin",
+            "relation": "traded at",
+            "effect": "$100,400"
+        },
+        {
+            "cause": "The coin",
+            "relation": "continued",
+            "effect": "climbing"
+        },
+        {
+            "cause": "Passage of two hours",
+            "relation": "saw",
+            "effect": "trading around $102,700"
+        },
+        {
+            "cause": "Investors taking profits",
+            "relation": "caused",
+            "effect": "token to drop back down (last month)"
+        },
+        {
+            "cause": "Struggle to clear psychological resistance",
+            "relation": "caused",
+            "effect": "token to drop back down"
+        },
+        {
+            "cause": "Trump winning the election",
+            "relation": "drove",
+            "effect": "steady climb from under $70,000 to $100,000"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "predicted",
+            "effect": "Bitcoin could keep going higher"
+        },
+        {
+            "cause": "Standard Chartered",
+            "relation": "predicted",
+            "effect": "rally to $125,000 by year-end"
+        },
+        {
+            "cause": "Craig Johnson",
+            "relation": "saw/predicted",
+            "effect": "Bitcoin headed toward $130,000"
+        },
+        {
+            "cause": "Michael Saylor",
+            "relation": "forecast",
+            "effect": "token to hit $13 million by 2045"
+        },
+        {
+            "cause": "The price of bitcoin",
+            "relation": "is up",
+            "effect": "133% year-to-date"
+        },
+        {
+            "cause": "Trump's nomination of Paul Atkins",
+            "relation": "pushed",
+            "effect": "Bitcoin higher"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "cochairs",
+            "effect": "Chamber of Digital Commerce's Token Alliance"
+        },
+        {
+            "cause": "Confirmation of Atkins",
+            "relation": "would replace",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "taken",
+            "effect": "aggressive approach to regulating crypto"
+        },
+        {
+            "cause": "Reports of \"crypto czar\" appointment",
+            "relation": "cheered",
+            "effect": "the market"
+        },
+        {
+            "cause": "Trump",
+            "relation": "could create",
+            "effect": "new position to guide the market"
+        },
+        {
+            "cause": "Senator Cynthia Lummis",
+            "relation": "reignited",
+            "effect": "market's excitement"
+        },
+        {
+            "cause": "Trump's campaign promises",
+            "relation": "include",
+            "effect": "creation of a national bitcoin reserve"
+        },
+        {
+            "cause": "Federal Reserve selling gold stash",
+            "relation": "allows",
+            "effect": "buying Bitcoin"
+        },
+        {
+            "cause": "Selling gold to buy Bitcoin",
+            "relation": "avoids",
+            "effect": "printing new money"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "stated",
+            "effect": "Trump represents a \"paradigm shift\" for industry regulation"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "predicted",
+            "effect": "correction and pullback after hitting $100,000"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "predicted",
+            "effect": "eventual continued rally"
+        },
+        {
+            "cause": "Incoming cabinet",
+            "relation": "owns",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Incoming cabinet",
+            "relation": "are",
+            "effect": "proponents of digital assets"
+        },
+        {
+            "cause": "Michael Saylor",
+            "relation": "transformed",
+            "effect": "software company into massive Bitcoin holding company"
+        },
+        {
+            "cause": "Republicans taking control of White House and Congress",
+            "relation": "would be",
+            "effect": "tailwind for crypto industry"
+        },
+        {
+            "cause": "The \"red wave\"",
+            "relation": "converted",
+            "effect": "headwinds into tailwinds"
+        },
+        {
+            "cause": "The \"red wave\"",
+            "relation": "increases",
+            "effect": "bullish sentiment"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "praised",
+            "effect": "Paul Atkins"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "believes",
+            "effect": "Bitcoin is in early innings"
+        },
+        {
+            "cause": "ARK Invest",
+            "relation": "believes",
+            "effect": "Bitcoin is a much bigger idea than gold"
+        }
+    ]
+}

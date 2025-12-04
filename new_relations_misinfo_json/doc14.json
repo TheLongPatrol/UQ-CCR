@@ -1,0 +1,114 @@
+{
+    "triples": [
+        {
+            "cause": "Growing investor confidence in a pro-crypto shift",
+            "relation": "drove",
+            "effect": "Bitcoin past the $100,000 mark"
+        },
+        {
+            "cause": "Incoming Trump administration",
+            "relation": "generated",
+            "effect": "growing investor confidence"
+        },
+        {
+            "cause": "Donald Trump's victory",
+            "relation": "preceded",
+            "effect": "Bitcoin climbing over 45%"
+        },
+        {
+            "cause": "Bitcoin's surge",
+            "relation": "influenced",
+            "effect": "Ethereum and Litecoin to gain notable value"
+        },
+        {
+            "cause": "Optimism around cabinet picks",
+            "relation": "fueled",
+            "effect": "the surge"
+        },
+        {
+            "cause": "Trump",
+            "relation": "nominated",
+            "effect": "Sarah Kline to head the CFTC"
+        },
+        {
+            "cause": "Sarah Kline",
+            "relation": "expected to advocate for",
+            "effect": "lighter regulations on digital currencies"
+        },
+        {
+            "cause": "Nomination of Sarah Kline",
+            "relation": "signals",
+            "effect": "green light for innovation in crypto space"
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed to position",
+            "effect": "U.S. as global leader in blockchain technology"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "national crypto framework"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "reduced oversight from SEC"
+        },
+        {
+            "cause": "Gary Gensler's stringent enforcement actions",
+            "relation": "stifled",
+            "effect": "growth (according to critics)"
+        },
+        {
+            "cause": "Industry leaders",
+            "relation": "dubbed",
+            "effect": "Gensler a \"crypto adversary\""
+        },
+        {
+            "cause": "Gensler",
+            "relation": "announced",
+            "effect": "resignation effective January 20"
+        },
+        {
+            "cause": "Institutional adoption",
+            "relation": "amplified",
+            "effect": "the rally"
+        },
+        {
+            "cause": "Spot Bitcoin ETFs (Vanguard and State Street)",
+            "relation": "attracted",
+            "effect": "over $25 billion in inflows"
+        },
+        {
+            "cause": "Some experts",
+            "relation": "warn of",
+            "effect": "future volatility"
+        },
+        {
+            "cause": "Similar booms",
+            "relation": "followed by",
+            "effect": "corrections (historically)"
+        },
+        {
+            "cause": "Hitting $104,200",
+            "relation": "preceded",
+            "effect": "slight price dip"
+        },
+        {
+            "cause": "Current price stability",
+            "relation": "underscores",
+            "effect": "evolution from fringe asset to mainstream investment"
+        },
+        {
+            "cause": "Crypto community",
+            "relation": "anticipates",
+            "effect": "tax incentives for miners"
+        },
+        {
+            "cause": "Crypto community",
+            "relation": "anticipates",
+            "effect": "integration of digital assets into federal reserves"
+        }
+    ]
+}

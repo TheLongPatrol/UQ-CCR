@@ -1,0 +1,109 @@
+{
+    "triples": [
+        {
+            "cause": "Return of Donald Trump",
+            "relation": "fuelled",
+            "effect": "Bitcoin price smashing through $100,000"
+        },
+        {
+            "cause": "Price of Bitcoin",
+            "relation": "smashed through",
+            "effect": "$100,000 for the first time"
+        },
+        {
+            "cause": "World’s first, largest and most valuable cryptocurrency",
+            "relation": "doubled in",
+            "effect": "value since start of the year"
+        },
+        {
+            "cause": "Trump’s election win",
+            "relation": "drove",
+            "effect": "surge of more than 50 per cent"
+        },
+        {
+            "cause": "The Republican (Trump)",
+            "relation": "pledged to make",
+            "effect": "US the \"crypto capital of the planet\""
+        },
+        {
+            "cause": "The Republican (Trump)",
+            "relation": "pledged to build",
+            "effect": "strategic reserve of Bitcoin"
+        },
+        {
+            "cause": "The Republican (Trump)",
+            "relation": "set up",
+            "effect": "his own crypto-currency venture"
+        },
+        {
+            "cause": "He (Trump)",
+            "relation": "appointed",
+            "effect": "Elon Musk as head of Department of Government Efficiency (DOGE)"
+        },
+        {
+            "cause": "Appointment of Musk to DOGE",
+            "relation": "acts as",
+            "effect": "explicit nod to Dogecoin"
+        },
+        {
+            "cause": "Dogecoin",
+            "relation": "is",
+            "effect": "tech boss’s favoured crypto"
+        },
+        {
+            "cause": "Trump nominating Paul Atkins",
+            "relation": "boosted",
+            "effect": "frenzy around digital currency"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "big crypto advocate"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "nominated to run",
+            "effect": "Securities and Exchange Commission"
+        },
+        {
+            "cause": "The appointment",
+            "relation": "will mark",
+            "effect": "dramatic shift from Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "led",
+            "effect": "crypto crackdown"
+        },
+        {
+            "cause": "Biggest investment managers (Blackrock)",
+            "relation": "back",
+            "effect": "exchange-traded funds"
+        },
+        {
+            "cause": "Blackrock",
+            "relation": "has put",
+            "effect": "£35billion into Bitcoin"
+        },
+        {
+            "cause": "UK environment",
+            "relation": "possesses",
+            "effect": "no regulatory safeguards for crypto investors"
+        },
+        {
+            "cause": "Financial watchdog",
+            "relation": "told",
+            "effect": "Brits to be prepared to lose all their money"
+        },
+        {
+            "cause": "Around 7 million adults in the UK",
+            "relation": "hold",
+            "effect": "digital currency"
+        },
+        {
+            "cause": "Carol Alexander",
+            "relation": "predicted",
+            "effect": "the $100,000 record"
+        }
+    ]
+}

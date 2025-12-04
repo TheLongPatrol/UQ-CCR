@@ -1,0 +1,204 @@
+{
+    "triples": [
+        {
+            "cause": "Price of Bitcoin",
+            "relation": "closed",
+            "effect": "just below $70,000 (Election Day)"
+        },
+        {
+            "cause": "Donald Trump heading back to the White House",
+            "relation": "caused",
+            "effect": "price to soar"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "started trading",
+            "effect": "above $100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "reached",
+            "effect": "major milestone ($100,000)"
+        },
+        {
+            "cause": "Trump nominating Paul Atkins",
+            "relation": "acted as",
+            "effect": "main impetus for the price spike"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "pro-crypto"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "said",
+            "effect": "nice things about the industry"
+        },
+        {
+            "cause": "Paul Atkins' pro-crypto stance",
+            "relation": "helped push",
+            "effect": "price to six-figure levels"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "became",
+            "effect": "enemy number one for crypto world"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "branded",
+            "effect": "crypto sector as \"Wild West\""
+        },
+        {
+            "cause": "Gary Gensler's refusal to craft regulation",
+            "relation": "irked",
+            "effect": "crypto players"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "cracked down",
+            "effect": "via enforcement"
+        },
+        {
+            "cause": "Key crypto investors and executives",
+            "relation": "hated",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Jesse Powell",
+            "relation": "wrote",
+            "effect": "insult directed at Gensler"
+        },
+        {
+            "cause": "Trump",
+            "relation": "expressed desire to create",
+            "effect": "bitcoin strategic reserve fund"
+        },
+        {
+            "cause": "Trump",
+            "relation": "helped launch and promote",
+            "effect": "crypto company backed by his sons"
+        },
+        {
+            "cause": "Trump's pro-crypto statements",
+            "relation": "caused",
+            "effect": "crypto industry delight"
+        },
+        {
+            "cause": "Idea of promoting US crypto industry",
+            "relation": "set",
+            "effect": "everyone ablaze"
+        },
+        {
+            "cause": "Trump hinting at regulatory council",
+            "relation": "made",
+            "effect": "crypto space happy"
+        },
+        {
+            "cause": "Firing Gary Gensler",
+            "relation": "aims to end",
+            "effect": "lawsuits and regulation by enforcement"
+        },
+        {
+            "cause": "New regulations",
+            "relation": "would allow",
+            "effect": "banks to bank crypto companies"
+        },
+        {
+            "cause": "New regulations",
+            "relation": "would allow",
+            "effect": "asset managers to hold crypto on balance sheets"
+        },
+        {
+            "cause": "Ultimate aim",
+            "relation": "is to bring",
+            "effect": "crypto into the mainstream"
+        },
+        {
+            "cause": "Crypto enmeshment with traditional finance",
+            "relation": "would make",
+            "effect": "potential crash more devastating"
+        },
+        {
+            "cause": "2022 collapse",
+            "relation": "hurt",
+            "effect": "ordinary retail investors"
+        },
+        {
+            "cause": "Involvement of BlackRock and big banks",
+            "relation": "would increase",
+            "effect": "devastation of a potential collapse"
+        },
+        {
+            "cause": "History of fraud",
+            "relation": "existed",
+            "effect": "in the sector"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "pointed to",
+            "effect": "potential openness to crafting rules"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "saw",
+            "effect": "potential for investors and capital formation"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "sits on",
+            "effect": "advisory board of Digital Chamber"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "advises",
+            "effect": "Securitize"
+        },
+        {
+            "cause": "Big tech/VC players enmeshed in crypto",
+            "relation": "are enmeshed in",
+            "effect": "Trump world"
+        },
+        {
+            "cause": "Ethos of minimal oversight",
+            "relation": "matches",
+            "effect": "Trump thinking"
+        },
+        {
+            "cause": "Idea of avoiding government tracking",
+            "relation": "birthed",
+            "effect": "crypto"
+        },
+        {
+            "cause": "White House accepting crypto",
+            "relation": "caused",
+            "effect": "celebration and price rise"
+        },
+        {
+            "cause": "Crypto",
+            "relation": "moved away from",
+            "effect": "anti-establishment idea"
+        },
+        {
+            "cause": "Making money",
+            "relation": "motivates",
+            "effect": "holding bitcoin"
+        },
+        {
+            "cause": "Current moment",
+            "relation": "holds",
+            "effect": "nothing negative for crypto"
+        },
+        {
+            "cause": "Pro-crypto President and SEC head",
+            "relation": "constitute",
+            "effect": "favorable market conditions"
+        },
+        {
+            "cause": "FTX-scale collapse",
+            "relation": "could spur",
+            "effect": "price plunge"
+        }
+    ]
+}

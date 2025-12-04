@@ -1,0 +1,284 @@
+{
+    "triples": [
+        {
+            "cause": "Wave of investors betting on Trump",
+            "relation": "powered",
+            "effect": "Bitcoin trading above $100,000"
+        },
+        {
+            "cause": "President-elect Donald Trump",
+            "relation": "expected to turn",
+            "effect": "U.S. government policy into an engine of growth for crypto"
+        },
+        {
+            "cause": "World’s largest digital currency",
+            "relation": "staged",
+            "effect": "extraordinary rally since Election Day"
+        },
+        {
+            "cause": "Bitcoin rally",
+            "relation": "involved",
+            "effect": "surging more than 40%"
+        },
+        {
+            "cause": "Trump picking Paul Atkins",
+            "relation": "caused",
+            "effect": "Bitcoin to surge as high as $103,853"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "crypto-friendly former regulator"
+        },
+        {
+            "cause": "Trump",
+            "relation": "dropped",
+            "effect": "earlier skepticism of bitcoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised to end",
+            "effect": "Joe Biden’s war on crypto"
+        },
+        {
+            "cause": "Crypto",
+            "relation": "embraced",
+            "effect": "the new U.S. administration"
+        },
+        {
+            "cause": "March toward the mainstream",
+            "relation": "enriched",
+            "effect": "youthful cohort of digital-currency tycoons"
+        },
+        {
+            "cause": "March toward the mainstream",
+            "relation": "swelled",
+            "effect": "value of the asset class to more than $3 trillion"
+        },
+        {
+            "cause": "Tim Swanson",
+            "relation": "finds",
+            "effect": "the situation ironic"
+        },
+        {
+            "cause": "Purpose of bitcoin",
+            "relation": "was to create",
+            "effect": "alternative payment infrastructure"
+        },
+        {
+            "cause": "Satoshi Nakamoto",
+            "relation": "proposed",
+            "effect": "Bitcoin in 2008"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "functions as",
+            "effect": "way to make payments without traditional banking"
+        },
+        {
+            "cause": "Many early fans",
+            "relation": "were",
+            "effect": "libertarians"
+        },
+        {
+            "cause": "Libertarians",
+            "relation": "saw",
+            "effect": "Bitcoin as way to control financial destinies"
+        },
+        {
+            "cause": "Crypto investors",
+            "relation": "are cheering",
+            "effect": "Trump’s pledge for strategic national reserve"
+        },
+        {
+            "cause": "Strategic national reserve policy",
+            "relation": "could boost",
+            "effect": "price of digital currency"
+        },
+        {
+            "cause": "Absorbing supply",
+            "relation": "causes",
+            "effect": "price boost"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised to ease",
+            "effect": "regulatory burden on crypto industry"
+        },
+        {
+            "cause": "SEC Chair Gary Gensler",
+            "relation": "plans to resign",
+            "effect": "on Inauguration Day"
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed to fire",
+            "effect": "Gensler"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "warned",
+            "effect": "digital currencies are rife with fraud and manipulation"
+        },
+        {
+            "cause": "Governments in Bhutan and El Salvador",
+            "relation": "amassed",
+            "effect": "stashes of bitcoin"
+        },
+        {
+            "cause": "MicroStrategy and Tesla",
+            "relation": "amassed",
+            "effect": "stashes of bitcoin"
+        },
+        {
+            "cause": "Algorithms",
+            "relation": "impose",
+            "effect": "hard cap of 21 million Bitcoin"
+        },
+        {
+            "cause": "Emergence of large hoards locking up supply",
+            "relation": "is",
+            "effect": "bullish for bitcoin’s price"
+        },
+        {
+            "cause": "Trump's tone",
+            "relation": "represents",
+            "effect": "a departure for incoming leader"
+        },
+        {
+            "cause": "Officials in Washington",
+            "relation": "viewed",
+            "effect": "crypto warily"
+        },
+        {
+            "cause": "Officials",
+            "relation": "associated",
+            "effect": "crypto with illicit activity and scams"
+        },
+        {
+            "cause": "Crypto firms launching campaign spending",
+            "relation": "makes",
+            "effect": "Congress more likely to pass welcomed legislation"
+        },
+        {
+            "cause": "Campaign spending",
+            "relation": "supported",
+            "effect": "friendly candidates"
+        },
+        {
+            "cause": "Campaign spending",
+            "relation": "aimed to oust",
+            "effect": "critics"
+        },
+        {
+            "cause": "Campaign spending",
+            "relation": "helped topple",
+            "effect": "hostile lawmakers (Sherrod Brown)"
+        },
+        {
+            "cause": "Voters",
+            "relation": "elected",
+            "effect": "298 pro-crypto representatives and senators"
+        },
+        {
+            "cause": "Coinbase Global",
+            "relation": "backs",
+            "effect": "Stand With Crypto"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is practically never used",
+            "effect": "as a way to make payments today"
+        },
+        {
+            "cause": "Proponents",
+            "relation": "argue",
+            "effect": "Bitcoin is \"digital gold\""
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "serves as",
+            "effect": "hedge against inflation"
+        },
+        {
+            "cause": "History of wild volatility",
+            "relation": "characterizes",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Signs of mainstream adoption",
+            "relation": "caused",
+            "effect": "Bitcoin to hit records repeatedly"
+        },
+        {
+            "cause": "Chicago exchanges listing futures contracts",
+            "relation": "caused",
+            "effect": "Bitcoin to spike to nearly $20,000 (in 2017)"
+        },
+        {
+            "cause": "Launch of ETFs holding bitcoin futures",
+            "relation": "caused",
+            "effect": "Bitcoin to hit record of almost $69,000 (in 2021)"
+        },
+        {
+            "cause": "Collapse of FTX",
+            "relation": "caused",
+            "effect": "Bitcoin to plunge 78% (in 2022)"
+        },
+        {
+            "cause": "Launch of \"spot\" ETFs",
+            "relation": "caused",
+            "effect": "Bitcoin to break into record territory (in March)"
+        },
+        {
+            "cause": "Investors",
+            "relation": "use",
+            "effect": "\"spot\" ETFs to play the Trump-fueled rally"
+        },
+        {
+            "cause": "Investors",
+            "relation": "poured",
+            "effect": "more than $7 billion into U.S. spot bitcoin ETFs"
+        },
+        {
+            "cause": "ETF inflows",
+            "relation": "helped drive",
+            "effect": "Bitcoin higher"
+        },
+        {
+            "cause": "Holding bitcoin through ETFs",
+            "relation": "represents",
+            "effect": "departure from origins of crypto"
+        },
+        {
+            "cause": "Early bitcoin holders",
+            "relation": "accessed",
+            "effect": "coins by typing cryptographic keys"
+        },
+        {
+            "cause": "Rise of exchanges (Coinbase)",
+            "relation": "provided",
+            "effect": "easy-to-use interface"
+        },
+        {
+            "cause": "Hardcore crypto fans",
+            "relation": "scoffed at",
+            "effect": "exchange users"
+        },
+        {
+            "cause": "Spot bitcoin ETFs",
+            "relation": "allow",
+            "effect": "investors to let Wall Street hold coins"
+        },
+        {
+            "cause": "Convenience of traditional brokerage accounts",
+            "relation": "motivates",
+            "effect": "using ETFs"
+        },
+        {
+            "cause": "Path of least resistance",
+            "relation": "drives",
+            "effect": "people to utilize traditional vehicles"
+        }
+    ]
+}

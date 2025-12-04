@@ -1,0 +1,119 @@
+{
+    "triples": [
+        {
+            "cause": "Donald Trump's decisive U.S. presidential election victory",
+            "relation": "caused",
+            "effect": "Bitcoin surge"
+        },
+        {
+            "cause": "\"Perfect storm\" of market conditions",
+            "relation": "pushes",
+            "effect": "combined crypto market above $3 trillion"
+        },
+        {
+            "cause": "\"Perfect storm\"",
+            "relation": "causes",
+            "effect": "Bitcoin price to close in on $100,000"
+        },
+        {
+            "cause": "Elon Musk",
+            "relation": "issues",
+            "effect": "U.S. \"bankruptcy\" warning"
+        },
+        {
+            "cause": "Neel Kashkari",
+            "relation": "softened",
+            "effect": "criticism of bitcoin and crypto"
+        },
+        {
+            "cause": "Neel Kashkari",
+            "relation": "previously called",
+            "effect": "bitcoin 'worthless' and 'fraudulent'"
+        },
+        {
+            "cause": "Neel Kashkari",
+            "relation": "previously compared",
+            "effect": "crypto market to \"giant garbage dumpster\""
+        },
+        {
+            "cause": "Neel Kashkari",
+            "relation": "promised",
+            "effect": "to remain open to crypto"
+        },
+        {
+            "cause": "Neel Kashkari",
+            "relation": "questioned",
+            "effect": "utility of crypto in real economy"
+        },
+        {
+            "cause": "JPMorgan analysts",
+            "relation": "labeled",
+            "effect": "bitcoin price rally as a \"debasement trade\""
+        },
+        {
+            "cause": "Fears of U.S. dollar devaluation and inflation",
+            "relation": "drive",
+            "effect": "predicted rise in Bitcoin price"
+        },
+        {
+            "cause": "Trump administration",
+            "relation": "appointed",
+            "effect": "Elon Musk to lead Doge department"
+        },
+        {
+            "cause": "Covid-era lockdowns",
+            "relation": "caused",
+            "effect": "explosion in U.S. government spending"
+        },
+        {
+            "cause": "Elon Musk",
+            "relation": "led",
+            "effect": "backlash against government spending"
+        },
+        {
+            "cause": "Trump",
+            "relation": "surrounded himself with",
+            "effect": "pro-bitcoin and crypto advisors"
+        },
+        {
+            "cause": "Howard Lutnick",
+            "relation": "heads up",
+            "effect": "Trump's transition team"
+        },
+        {
+            "cause": "Trump's victory",
+            "relation": "propelled",
+            "effect": "bitcoin price higher"
+        },
+        {
+            "cause": "Traders",
+            "relation": "bet",
+            "effect": "Trump administration will ease U.S. crypto regulations"
+        },
+        {
+            "cause": "Traders",
+            "relation": "bet",
+            "effect": "Trump administration will change leadership at regulatory agencies"
+        },
+        {
+            "cause": "Regulatory agencies",
+            "relation": "previously frowned on",
+            "effect": "crypto markets"
+        },
+        {
+            "cause": "Trump",
+            "relation": "floated plans",
+            "effect": "to create U.S. bitcoin strategic reserve"
+        },
+        {
+            "cause": "Trump",
+            "relation": "predicted",
+            "effect": "bitcoin price could eclipse gold"
+        },
+        {
+            "cause": "Trump",
+            "relation": "suggested",
+            "effect": "using bitcoin to pay off U.S. debt"
+        }
+    ]
+}

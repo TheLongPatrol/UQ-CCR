@@ -1,0 +1,94 @@
+{
+    "triples": [
+        {
+            "cause": "More people wanting to have 'agency' in their lives",
+            "relation": "causes",
+            "effect": "crypto explosion"
+        },
+        {
+            "cause": "Ken Griffin",
+            "relation": "considers",
+            "effect": "not buying crypto sooner a \"mistake\""
+        },
+        {
+            "cause": "Admitting a mistake",
+            "relation": "does not make",
+            "effect": "Griffin a fan of Bitcoin"
+        },
+        {
+            "cause": "Asset trading at 100 times previous price",
+            "relation": "triggers",
+            "effect": "Griffin's wish to have bought it"
+        },
+        {
+            "cause": "Human psychology",
+            "relation": "includes",
+            "effect": "FOMO"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surpassed",
+            "effect": "$100,000 for the first time"
+        },
+        {
+            "cause": "President-elect Donald Trump’s election win",
+            "relation": "caused",
+            "effect": "cryptocurrency surge"
+        },
+        {
+            "cause": "Announcements about deregulation priorities",
+            "relation": "caused",
+            "effect": "cryptocurrency surge"
+        },
+        {
+            "cause": "Environment surrounding Trump’s win",
+            "relation": "reflects",
+            "effect": "Americans seeking “agency”"
+        },
+        {
+            "cause": "Republicans taking the House and Senate",
+            "relation": "reflects",
+            "effect": "Americans seeking “agency”"
+        },
+        {
+            "cause": "American people's desire for agency",
+            "relation": "includes",
+            "effect": "crypto"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "previously called",
+            "effect": "crypto “a jihadist call” against the dollar"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "admits",
+            "effect": "he was wrong on the matter"
+        },
+        {
+            "cause": "Valuation of the crypto market",
+            "relation": "indicates",
+            "effect": "Griffin hasn't been right"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "questions",
+            "effect": "long-term stability of Bitcoin"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "questions",
+            "effect": "if crypto structure captured the “zeitgeist of the world”"
+        },
+        {
+            "cause": "Griffin",
+            "relation": "does not understand",
+            "effect": "real need for crypto"
+        },
+        {
+            "cause": "Lack of clear economic problem solving",
+            "relation": "fuels",
+            "effect": "Griffin's skepticism"
+        }
+    ]
+}

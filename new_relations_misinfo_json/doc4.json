@@ -1,0 +1,134 @@
+{
+    "triples": [
+        {
+            "cause": "Donald Trump nominating Paul Atkins as SEC Chair",
+            "relation": "preceded",
+            "effect": "Bitcoin's six-figure milestone"
+        },
+        {
+            "cause": "Donald Trump winning the 2024 Presidential Election",
+            "relation": "linked to",
+            "effect": "current Bitcoin rally"
+        },
+        {
+            "cause": "Alignment of market factors",
+            "relation": "drove",
+            "effect": "Bitcoin price up"
+        },
+        {
+            "cause": "Tax policy around crypto",
+            "relation": "acts as",
+            "effect": "catalyst for price increase"
+        },
+        {
+            "cause": "Talks of strategic BTC reserves",
+            "relation": "act as",
+            "effect": "catalyst for price increase"
+        },
+        {
+            "cause": "Continued inflows into Bitcoin ETFs",
+            "relation": "act as",
+            "effect": "catalyst for price increase"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "became",
+            "effect": "seventh-largest asset by market cap"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "received",
+            "effect": "over $3.5 billion in inflows (past 10 days)"
+        },
+        {
+            "cause": "Recent inflows",
+            "relation": "brought",
+            "effect": "total Bitcoin ETF inflows to $31.6 billion"
+        },
+        {
+            "cause": "Short positions ($1.12 billion)",
+            "relation": "clustered",
+            "effect": "between $91.5k and $92k"
+        },
+        {
+            "cause": "Price breaking through $91.5k and $92k",
+            "relation": "allowed",
+            "effect": "easy ride to $100k"
+        },
+        {
+            "cause": "Current BTC bull run",
+            "relation": "led to",
+            "effect": "MicroStrategy and Metaplanet announcing new BTC purchases"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "holds",
+            "effect": "1.5% of Bitcoin's total supply"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "marks",
+            "effect": "turning point for retail and institutional investors"
+        },
+        {
+            "cause": "$100,000 BTC mark",
+            "relation": "demonstrates",
+            "effect": "psychological level for taking profits"
+        },
+        {
+            "cause": "Addiction to crypto profit",
+            "relation": "causes",
+            "effect": "investors to seek more"
+        },
+        {
+            "cause": "Entry into Solana or Ethereum",
+            "relation": "will fuel",
+            "effect": "full crypto bull run"
+        },
+        {
+            "cause": "Memecoin rally",
+            "relation": "pushes",
+            "effect": "Solana to another rise"
+        },
+        {
+            "cause": "Approval of ETH ETF or pro-DeFi regulation",
+            "relation": "drives",
+            "effect": "ETH up"
+        },
+        {
+            "cause": "Stabilization of Bitcoin dominance",
+            "relation": "causes",
+            "effect": "attention shift to blue-chip DeFi tokens"
+        },
+        {
+            "cause": "New Bitcoin ATH",
+            "relation": "will lead to",
+            "effect": "increased growth within crypto sector"
+        },
+        {
+            "cause": "$100k BTC price",
+            "relation": "will result in",
+            "effect": "massive surge of retail purchases"
+        },
+        {
+            "cause": "Bitcoin breaking $100,000",
+            "relation": "creates",
+            "effect": "FOMO for retail investors"
+        },
+        {
+            "cause": "Increasing value of single BTC",
+            "relation": "exerts",
+            "effect": "significant effect on retail investors"
+        },
+        {
+            "cause": "Bitcoin (the asset)",
+            "relation": "moves closer to",
+            "effect": "incorporation into countries' reserves"
+        },
+        {
+            "cause": "Reaching $120,000 price point",
+            "relation": "could cause",
+            "effect": "potential drop back to $90k"
+        }
+    ]
+}
