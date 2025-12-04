@@ -87,7 +87,7 @@ class ReasoningPipeline:
     def load_triples_by_articles(self):
         article_names = sorted(os.listdir(self.article_dir))
         relation_files = sorted(os.listdir(self.relations_json_dir))
-        article_relations = []
+        article_relations = {}
         for i in range(len(article_names)):
             article_name = article_names[i]
             relation_fname = relation_files[i]
@@ -100,15 +100,15 @@ class ReasoningPipeline:
                     relations = data
                 else:
                     raise ValueError("JSON must contain 'triples' key or be a list of triples")
-            article_relations.append((article_name, relations))
+            article_relations[article_name] = relations
         return article_relations
 
-    def map_triples_to_article(self, articles_triples: List):
+    def map_triples_to_article(self, articles_triples: Dict):
         if self.triples_to_sent_per_art is not None:
             return 
         article_to_triples = {}
         article_to_relations = {}
-        for article, triples in articles_triples:
+        for article, triples in articles_triples.items():
             triples_as_sents = []
             triples_as_tuple = []
             for triple in triples:
@@ -162,8 +162,8 @@ class ReasoningPipeline:
         # Cluster entities
         self.entity_clusterer.cluster_entities(list(entities))
         
-        articles_triples = self.load_triples_by_articles()
-        self.map_triples_to_article(articles_triples)
+        articles_to_triples = self.load_triples_by_articles()
+        self.map_triples_to_article(articles_to_triples)
         if self.use_scores:
             all_triples = []
             if compute_scores_online:
@@ -174,9 +174,9 @@ class ReasoningPipeline:
                     scores_filename = 'context_scores_misinfo.pkl'
                 with open(scores_filename, "rb") as f:
                     context_scores = pickle.load(f)
-            for article_triple in articles_triples:
-                article_name = article_triple[0]
-                triples = article_triple[1]
+            article_names = sorted(os.listdir(self.article_dir))
+            for article_name in article_names:
+                triples = articles_to_triples[article_name]
                 article_scores = context_scores[article_name]
                 for triple in triples:
                     triple_as_tuple = (triple['cause'], triple['relation'], triple['effect'])
@@ -206,9 +206,7 @@ class ReasoningPipeline:
                     all_triples.append(triple)
             self.triples = all_triples
         else:
-            for article_triple in articles_triples:
-                article_name = article_triple[0]
-                triples = article_triple[1]
+            for article_name, triples in articles_to_triples.items():
                 for triple in triples:
                     triple_as_tuple = (triple['cause'], triple['relation'], triple['effect'])
                     if triple_as_tuple not in self.triples_to_articles:
