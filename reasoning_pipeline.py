@@ -137,7 +137,7 @@ class ReasoningPipeline:
                                 web_rel_score = 0.95
                         else:
                             web_rel_score = 0.5
-                        triples['score'] = 0.7*article_scores[triple_as_tuple]+0.2*web_rel_score+0.1*(1-abs(bias_score/21))
+                        triple['score'] = 0.7*article_scores[triple_as_tuple]+0.2*web_rel_score+0.1*(1-abs(bias_score/21))
                     else:
                         triple['score'] = article_scores[triple_as_tuple]
                     all_triples.append(triple)
