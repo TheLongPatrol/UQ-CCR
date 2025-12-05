@@ -82,7 +82,7 @@ class ChainRanker:
         """
         # Aggregate chain evidence
         chain_text, reliab_score = self.aggregate_chain_evidence(chain, kg)
-        
+        print(chain_text, chain)
         if not chain_text:
             return 0.0
         
@@ -166,7 +166,7 @@ class ChainRanker:
                 score, reliab_score = self.score_chain_with_features(query, chain, kg)
             else:
                 score, reliab_score = self.score_chain(query, chain, kg)
-            if self.use_reliab_score and reliab_score > 0.85:
+            if self.use_reliab_score and reliab_score > 0.7:
                 scored_chains.append((chain, score, reliab_score))
             elif not self.use_reliab_score:
                 scored_chains.append((chain, score, None))
