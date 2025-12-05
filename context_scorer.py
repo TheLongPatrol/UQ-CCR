@@ -162,11 +162,16 @@ def get_bert_probs(model_name, articles, article_relations, stemmed_articles, ar
         for j in range(len(best_fit_sents)):
             cause,relation,effect = relations[j]
             ind_found = 0
+            stemmed_ind_found = 0
+            _, relation_stemmed, _ = stemmed_relations[j]
             for k in range(len(best_fit_sents[j])):
                 match = best_fit_sents[j][k]
                 matched_sent = sentences[int(match['corpus_id'])]
                 if relation in matched_sent:
                     ind_found = int(match['corpus_id'])
+                    break
+                elif relation_stemmed in matched_sent:
+                    stemmed_ind_found = int(match['corpus_id'])
                     break
             matched_sent = sentences[ind_found]
             #Find words in the sentence
@@ -174,15 +179,21 @@ def get_bert_probs(model_name, articles, article_relations, stemmed_articles, ar
             start_ind = matched_sent.find(relation)
             sent_enc = sentence_model.encode(matched_sent)
             stemmed_relation = " ".join(stemmed_relations[j])
-            stemmed_start_ind = stemmed_sentences[ind_found].find(stemmed_relation)
+            stemmed_start_ind = stemmed_sentences[stemmed_ind_found].find(stemmed_relation)
             if start_ind != -1 or stemmed_start_ind != -1:
                 masks = " ".join(["<mask>"]*len(relation_words))
                 if start_ind != -1:
                     masked_sent = matched_sent[:start_ind] + masks + matched_sent[start_ind+len(relation):]
+                    sents = []
+                    if ind_found > 0:
+                        sents.append(sentences[ind_found-1])
+                    sents.append(masked_sent)
+                    if ind_found+1 < len(sentences):
+                        sents.append(sentences[ind_found+1])
                 else:
                     #Find the word stems and original words, mask out the words corresponding to the relation
                     matched_sent_as_list = matched_sent.split(" ")
-                    stemmed_sent_as_list = stemmed_sentences[ind_found].split(" ")
+                    stemmed_sent_as_list = stemmed_sentences[stemmed_ind_found].split(" ")
                     stemmed_relation_as_list = stemmed_relation.split(" ")
                     relation_walker = 0
                     ent_start_ind = 0
@@ -199,7 +210,14 @@ def get_bert_probs(model_name, articles, article_relations, stemmed_articles, ar
                     for k in range(len(masks)):
                         matched_sent_as_list[k+relation_start_ind] ="<mask>"
                     masked_sent = " ".join(matched_sent_as_list)
-                predictions = bert_masked_prediction(bert_tokenizer, bert_model, masked_sent, device, top_k_per_mask=3)
+                    sents = []
+                    if stemmed_ind_found > 0:
+                        sents.append(sentences[stemmed_ind_found-1])
+                    sents.append(masked_sent)
+                    if stemmed_ind_found+1 < len(sentences):
+                        sents.append(sentences[stemmed_ind_found+1])
+                masked_context = " ".join(sents)
+                predictions = bert_masked_prediction(bert_tokenizer, bert_model, masked_context, device, top_k_per_mask=3)
                 
                 best_match_ind = 0
                 match_score = 0
