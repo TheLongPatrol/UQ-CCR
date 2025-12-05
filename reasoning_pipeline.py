@@ -272,30 +272,35 @@ class ReasoningPipeline:
         print(f"QUERY: {query_text}")
         print("="*60)
         
-        # Step 1: Find starting nodes
-        print("\n[1] Finding starting nodes...")
-        starting_nodes = self.query_processor.find_starting_nodes(query_text, self.knowledge_graph)
+        # Step 1: Classify reasoning direction FIRST
+        # This determines whether we start from cause or effect nodes
+        print("\n[1] Classifying reasoning direction...")
+        if use_rule_based_direction:
+            direction = self.direction_classifier.classify_with_rules(query_text)
+        else:
+            direction = self.direction_classifier.classify(query_text)
+        
+        # Step 2: Find starting nodes based on direction
+        # Forward: start from CAUSE nodes, target EFFECT nodes
+        # Backward: start from EFFECT nodes, discover CAUSE nodes
+        print("\n[2] Finding starting nodes...")
+        starting_nodes = self.query_processor.find_starting_nodes(
+            query_text, direction, self.knowledge_graph
+        )
         
         if not starting_nodes:
             print("No starting nodes found!")
             return {
                 'query': query_text,
                 'starting_nodes': [],
-                'direction': None,
-                'chains': [],
+                'direction': direction,
+                'total_chains': 0,
                 'top_chains': []
             }
         
         print(f"Top starting nodes:")
         for node, score in starting_nodes[:5]:
             print(f"  - {node} (similarity: {score:.3f})")
-        
-        # Step 2: Classify reasoning direction
-        print("\n[2] Classifying reasoning direction...")
-        if use_rule_based_direction:
-            direction = self.direction_classifier.classify_with_rules(query_text)
-        else:
-            direction = self.direction_classifier.classify(query_text)
         
         # Step 3: Perform graph traversal from each starting node
         print(f"\n[3] Performing {direction} traversal...")
