@@ -1,0 +1,599 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin's price",
+            "relation": "blasted through",
+            "effect": "the much-anticipated threshold of $100,000"
+        },
+        {
+            "cause": "threshold of $100,000",
+            "relation": "was",
+            "effect": "much-anticipated"
+        },
+        {
+            "cause": "Bitcoin's price blasting through the $100,000 threshold",
+            "relation": "raised",
+            "effect": "questions about how much higher it could go"
+        },
+        {
+            "cause": "Bitcoin's price blasting through the $100,000 threshold",
+            "relation": "raised",
+            "effect": "questions about whether it can shake off its notorious volatility"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has",
+            "effect": "notorious volatility"
+        },
+        {
+            "cause": "questions",
+            "relation": "were about",
+            "effect": "how much higher Bitcoin's price could go"
+        },
+        {
+            "cause": "questions",
+            "relation": "were about",
+            "effect": "whether Bitcoin can shake off its notorious volatility"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "the world's largest cryptocurrency"
+        },
+        {
+            "cause": "the world's largest cryptocurrency",
+            "relation": "rose to",
+            "effect": "around $103,400"
+        },
+        {
+            "cause": "the rise to around $103,400",
+            "relation": "occurred shortly after",
+            "effect": "04:00 GMT on Thursday"
+        },
+        {
+            "cause": "the world's largest cryptocurrency",
+            "relation": "fell",
+            "effect": "slightly"
+        },
+        {
+            "cause": "the slight fall",
+            "relation": "occurred after",
+            "effect": "the rise to around $103,400"
+        },
+        {
+            "cause": "Dan Coatsworth",
+            "relation": "was",
+            "effect": "investment analyst at AJ Bell"
+        },
+        {
+            "cause": "Dan Coatsworth",
+            "relation": "described",
+            "effect": "the price milestone as a \"magic moment\" for the cryptocurrency"
+        },
+        {
+            "cause": "the price milestone",
+            "relation": "was",
+            "effect": "a \"magic moment\" for the cryptocurrency"
+        },
+        {
+            "cause": "Dan Coatsworth",
+            "relation": "said",
+            "effect": "the price milestone had a \"clear link\" to Donald Trump's election victory"
+        },
+        {
+            "cause": "the price milestone",
+            "relation": "had",
+            "effect": "a \"clear link\" to Donald Trump's election victory"
+        },
+        {
+            "cause": "Trump",
+            "relation": "took to",
+            "effect": "social media"
+        },
+        {
+            "cause": "Trump",
+            "relation": "took to social media to",
+            "effect": "celebrate the milestone"
+        },
+        {
+            "cause": "Trump",
+            "relation": "celebrated",
+            "effect": "the milestone"
+        },
+        {
+            "cause": "Trump",
+            "relation": "posted",
+            "effect": "\"congratulations Bitcoiners\""
+        },
+        {
+            "cause": "Trump",
+            "relation": "posted",
+            "effect": "\"you're welcome!\""
+        },
+        {
+            "cause": "Trump as president-elect",
+            "relation": "had pledged",
+            "effect": "to make the US the \"crypto capital\" of the world"
+        },
+        {
+            "cause": "Trump as president-elect",
+            "relation": "had pledged",
+            "effect": "to make the US the \"Bitcoin superpower\" of the world"
+        },
+        {
+            "cause": "Trump's pledges and pro-crypto stance",
+            "relation": "helped to push",
+            "effect": "Bitcoin's price higher"
+        },
+        {
+            "cause": "Trump",
+            "relation": "was elected",
+            "effect": "president"
+        },
+        {
+            "cause": "Trump's election as president",
+            "relation": "helped to push",
+            "effect": "Bitcoin's price higher"
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "broke through",
+            "effect": "the $100k barrier"
+        },
+        {
+            "cause": "Bitcoin's price breaking through the $100k barrier",
+            "relation": "occurred after",
+            "effect": "Trump said he would nominate Paul Atkins to run the Wall Street regulator"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said",
+            "effect": "he would nominate former SEC commissioner Paul Atkins to run the Wall Street regulator"
+        },
+        {
+            "cause": "Trump",
+            "relation": "would nominate",
+            "effect": "Paul Atkins to run the Wall Street regulator"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "would run",
+            "effect": "the Wall Street regulator"
+        },
+        {
+            "cause": "observers",
+            "relation": "see",
+            "effect": "Mr Atkins as more pro-cryptocurrency than Gary Gensler"
+        },
+        {
+            "cause": "Mr Atkins",
+            "relation": "is",
+            "effect": "far more pro-cryptocurrency than Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "is",
+            "effect": "the current head of the regulator"
+        },
+        {
+            "cause": "Andrew O'Neill",
+            "relation": "was",
+            "effect": "digital assets expert at S&P Global"
+        },
+        {
+            "cause": "Andrew O'Neill",
+            "relation": "said",
+            "effect": "there was anticipation that the new administration would be more favourable to crypto"
+        },
+        {
+            "cause": "there",
+            "relation": "was",
+            "effect": "anticipation that the new administration would be more favourable to crypto than the old administration was"
+        },
+        {
+            "cause": "the new administration",
+            "relation": "was expected to be",
+            "effect": "somewhat more favourable to crypto than the old administration was"
+        },
+        {
+            "cause": "the old administration",
+            "relation": "was",
+            "effect": "less favourable to crypto than the new administration is expected to be"
+        },
+        {
+            "cause": "the anticipation of a more pro-crypto administration",
+            "relation": "has driven",
+            "effect": "the trend in the price of Bitcoin so far"
+        },
+        {
+            "cause": "the anticipation of a more pro-crypto administration",
+            "relation": "will likely continue to drive",
+            "effect": "the trend in the price of Bitcoin into the new year"
+        },
+        {
+            "cause": "the trend",
+            "relation": "is in",
+            "effect": "the price of Bitcoin"
+        },
+        {
+            "cause": "Andrew O'Neill",
+            "relation": "added",
+            "effect": "that anticipation had driven and would continue to drive the trend"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has",
+            "effect": "a history of sharp falls"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has",
+            "effect": "a history of rapid rises"
+        },
+        {
+            "cause": "some analysts",
+            "relation": "have cautioned",
+            "effect": "that Bitcoin's history of sharp falls and rapid rises is unlikely to change"
+        },
+        {
+            "cause": "Bitcoin's history of sharp falls and rapid rises",
+            "relation": "is",
+            "effect": "unlikely to change"
+        },
+        {
+            "cause": "the cryptocurrency",
+            "relation": "has soared in",
+            "effect": "value this year"
+        },
+        {
+            "cause": "the cryptocurrency soaring in value this year",
+            "relation": "has made",
+            "effect": "a lot of people rich"
+        },
+        {
+            "cause": "this asset",
+            "relation": "is",
+            "effect": "high-risk"
+        },
+        {
+            "cause": "this high-risk asset",
+            "relation": "is not suitable for",
+            "effect": "everyone"
+        },
+        {
+            "cause": "Mr Coatsworth",
+            "relation": "said",
+            "effect": "that many people had got rich but the asset is not suitable for everyone"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "volatile"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "unpredictable"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is driven by",
+            "effect": "speculation"
+        },
+        {
+            "cause": "volatility, unpredictability, and being driven by speculation",
+            "relation": "do not make for",
+            "effect": "a sleep-at-night investment"
+        },
+        {
+            "cause": "Trump",
+            "relation": "sought to appeal to",
+            "effect": "cryptocurrency investors"
+        },
+        {
+            "cause": "Trump",
+            "relation": "sought to appeal with",
+            "effect": "a promise to sack Gary Gensler on day one of his presidency"
+        },
+        {
+            "cause": "Trump's promise",
+            "relation": "was to sack",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "was",
+            "effect": "chair of the US financial regulator the SEC"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "chaired",
+            "effect": "the US financial regulator the SEC"
+        },
+        {
+            "cause": "the US financial regulator",
+            "relation": "was",
+            "effect": "the Securities and Exchange Commission (SEC)"
+        },
+        {
+            "cause": "Trump's promise to sack Gensler",
+            "relation": "occurred during",
+            "effect": "the US presidential election campaign"
+        },
+        {
+            "cause": "Mr Gensler's approach to the cryptocurrency sector",
+            "relation": "has been",
+            "effect": "decidedly less friendly than Trump's"
+        },
+        {
+            "cause": "Trump's approach to the cryptocurrency sector",
+            "relation": "has been",
+            "effect": "more friendly than Mr Gensler's"
+        },
+        {
+            "cause": "Mr Gensler",
+            "relation": "told",
+            "effect": "the BBC that the industry was rife with fraud and hucksters and grifters"
+        },
+        {
+            "cause": "the cryptocurrency industry",
+            "relation": "was",
+            "effect": "rife with fraud and hucksters and grifters"
+        },
+        {
+            "cause": "the SEC",
+            "relation": "brought",
+            "effect": "a record 46 crypto-related enforcement actions against firms in 2023"
+        },
+        {
+            "cause": "these enforcement actions",
+            "relation": "were against",
+            "effect": "crypto-related firms"
+        },
+        {
+            "cause": "the SEC",
+            "relation": "acted under",
+            "effect": "Mr Gensler's leadership"
+        },
+        {
+            "cause": "Mr Gensler's leadership",
+            "relation": "coincided with",
+            "effect": "a record number of crypto-related enforcement actions"
+        },
+        {
+            "cause": "Mr Gensler",
+            "relation": "said",
+            "effect": "he would step down on 20 January"
+        },
+        {
+            "cause": "Mr Gensler",
+            "relation": "would step down on",
+            "effect": "20 January"
+        },
+        {
+            "cause": "20 January",
+            "relation": "was",
+            "effect": "the day of Trump's inauguration"
+        },
+        {
+            "cause": "Trump",
+            "relation": "would be inaugurated on",
+            "effect": "20 January"
+        },
+        {
+            "cause": "the choice of Paul Atkins to replace Gensler at the helm of the SEC",
+            "relation": "has been welcomed by",
+            "effect": "crypto advocates"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "would replace",
+            "effect": "Mr Gensler at the helm of the SEC"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "would be at",
+            "effect": "the helm of the SEC"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "was",
+            "effect": "founder and chief executive of US crypto firm Galaxy Digital"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "said",
+            "effect": "he hoped the clearer regulatory path would accelerate entry into the financial mainstream"
+        },
+        {
+            "cause": "a clearer regulatory path",
+            "relation": "would accelerate",
+            "effect": "the digital currency ecosystem's entry into the financial mainstream"
+        },
+        {
+            "cause": "the digital currency ecosystem",
+            "relation": "would enter",
+            "effect": "the financial mainstream"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has seen",
+            "effect": "fewer drastic falls in value during 2024 than in previous years"
+        },
+        {
+            "cause": "drastic falls in value",
+            "relation": "affect",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "fell sharply below",
+            "effect": "$16,000 in 2022"
+        },
+        {
+            "cause": "FTX",
+            "relation": "was",
+            "effect": "a crypto exchange"
+        },
+        {
+            "cause": "FTX",
+            "relation": "collapsed into",
+            "effect": "bankruptcy"
+        },
+        {
+            "cause": "FTX's collapse into bankruptcy",
+            "relation": "triggered",
+            "effect": "Bitcoin's price falling sharply below $16,000"
+        },
+        {
+            "cause": "FTX's collapse into bankruptcy",
+            "relation": "occurred before",
+            "effect": "Bitcoin's price fell sharply below $16,000"
+        },
+        {
+            "cause": "a number of key events besides Trump's victory in the election",
+            "relation": "have helped boost",
+            "effect": "investor confidence"
+        },
+        {
+            "cause": "investor confidence",
+            "relation": "is that",
+            "effect": "Bitcoin's value will keep going up"
+        },
+        {
+            "cause": "the SEC",
+            "relation": "approved",
+            "effect": "several spot Bitcoin exchange traded funds"
+        },
+        {
+            "cause": "the approval of spot Bitcoin ETFs",
+            "relation": "allowed",
+            "effect": "giant investment firms to sell products based on the price of Bitcoin"
+        },
+        {
+            "cause": "giant investment firms like Blackrock, Fidelity and Grayscale",
+            "relation": "sell",
+            "effect": "products based on the price of Bitcoin"
+        },
+        {
+            "cause": "these products",
+            "relation": "are based on",
+            "effect": "the price of Bitcoin"
+        },
+        {
+            "cause": "some of these products",
+            "relation": "have seen",
+            "effect": "billions of dollars in cash inflows"
+        },
+        {
+            "cause": "billions of dollars in cash",
+            "relation": "have flowed into",
+            "effect": "some of these products"
+        },
+        {
+            "cause": "Bitcoin's potential to suddenly plummet in value",
+            "relation": "serves as",
+            "effect": "a reminder that it is not like orthodox currencies"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is not like",
+            "effect": "orthodox currencies"
+        },
+        {
+            "cause": "investors",
+            "relation": "have",
+            "effect": "no protection or recourse if they lose money on Bitcoin investments"
+        },
+        {
+            "cause": "losing money on Bitcoin investments",
+            "relation": "leaves",
+            "effect": "investors with no protection or recourse"
+        },
+        {
+            "cause": "Carol Alexander",
+            "relation": "was",
+            "effect": "professor of finance at Sussex University"
+        },
+        {
+            "cause": "Carol Alexander",
+            "relation": "told",
+            "effect": "BBC News that fear of missing out among younger people will see Bitcoin's price continue to rise"
+        },
+        {
+            "cause": "fear of missing out (FOMO) among younger people",
+            "relation": "will see",
+            "effect": "Bitcoin's price continue to rise"
+        },
+        {
+            "cause": "fear of missing out (FOMO)",
+            "relation": "is felt by",
+            "effect": "younger people"
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "will continue to",
+            "effect": "rise"
+        },
+        {
+            "cause": "Carol Alexander",
+            "relation": "added",
+            "effect": "that Bitcoin's rise could spark other effects"
+        },
+        {
+            "cause": "Bitcoin's price continuing to rise",
+            "relation": "could spark",
+            "effect": "a rise in other cryptocurrencies"
+        },
+        {
+            "cause": "many younger investors investing in meme coins",
+            "relation": "are losing",
+            "effect": "money"
+        },
+        {
+            "cause": "younger investors",
+            "relation": "are investing in",
+            "effect": "meme coins"
+        },
+        {
+            "cause": "Kathleen Breitman",
+            "relation": "was",
+            "effect": "co-founder of cryptocurrency Tezos"
+        },
+        {
+            "cause": "Kathleen Breitman",
+            "relation": "had",
+            "effect": "a word of caution for those tempted to invest in Bitcoin"
+        },
+        {
+            "cause": "some people",
+            "relation": "are tempted to invest in",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Kathleen Breitman",
+            "relation": "told",
+            "effect": "the BBC that markets tend to move on momentum and require caution"
+        },
+        {
+            "cause": "crypto markets",
+            "relation": "tend to move on",
+            "effect": "momentum"
+        },
+        {
+            "cause": "crypto markets",
+            "relation": "are",
+            "effect": "markets that tend to move on momentum"
+        },
+        {
+            "cause": "crypto markets' tendency to move on momentum",
+            "relation": "means",
+            "effect": "investors need to be extraordinarily cautious"
+        },
+        {
+            "cause": "investors",
+            "relation": "need to be",
+            "effect": "extraordinarily cautious with these markets"
+        }
+    ]
+}

@@ -1,0 +1,279 @@
+{
+    "triples": [
+        {
+            "cause": "growing investor confidence in a pro-crypto shift under the incoming Trump administration",
+            "relation": "drove",
+            "effect": "Bitcoin soaring past the $100,000 mark"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "soared past",
+            "effect": "the $100,000 mark"
+        },
+        {
+            "cause": "investor confidence",
+            "relation": "is in",
+            "effect": "a pro-crypto shift under the incoming Trump administration"
+        },
+        {
+            "cause": "pro-crypto shift",
+            "relation": "is under",
+            "effect": "the incoming Trump administration"
+        },
+        {
+            "cause": "the cryptocurrency",
+            "relation": "closed at",
+            "effect": "around $69,500 on Election Day"
+        },
+        {
+            "cause": "the cryptocurrency",
+            "relation": "has climbed over 45% in",
+            "effect": "the weeks since Donald Trump's victory"
+        },
+        {
+            "cause": "Donald Trump's victory",
+            "relation": "preceded",
+            "effect": "the cryptocurrency's 45% climb"
+        },
+        {
+            "cause": "other digital assets like Ethereum and Litecoin",
+            "relation": "have followed suit with",
+            "effect": "notable gains"
+        },
+        {
+            "cause": "Bitcoin's surge",
+            "relation": "prompted",
+            "effect": "other digital assets like Ethereum and Litecoin to follow suit"
+        },
+        {
+            "cause": "the surge",
+            "relation": "reflects",
+            "effect": "optimism around Trump's cabinet picks"
+        },
+        {
+            "cause": "the nomination of crypto-friendly regulator Sarah Kline to head the CFTC",
+            "relation": "is included in",
+            "effect": "Trump's cabinet picks"
+        },
+        {
+            "cause": "the nomination of Sarah Kline",
+            "relation": "contributes to",
+            "effect": "optimism around Trump's cabinet picks"
+        },
+        {
+            "cause": "the nomination of Sarah Kline",
+            "relation": "is to head",
+            "effect": "the Commodity Futures Trading Commission (CFTC)"
+        },
+        {
+            "cause": "Sarah Kline",
+            "relation": "is",
+            "effect": "a crypto-friendly regulator"
+        },
+        {
+            "cause": "Kline",
+            "relation": "is",
+            "effect": "a former advisor to blockchain initiatives"
+        },
+        {
+            "cause": "Kline",
+            "relation": "is expected to advocate for",
+            "effect": "lighter regulations on digital currencies"
+        },
+        {
+            "cause": "lighter regulations",
+            "relation": "are on",
+            "effect": "digital currencies"
+        },
+        {
+            "cause": "this nomination",
+            "relation": "signals",
+            "effect": "a green light for innovation in the crypto space"
+        },
+        {
+            "cause": "the green light",
+            "relation": "is for",
+            "effect": "innovation in the crypto space"
+        },
+        {
+            "cause": "Mark Feldman",
+            "relation": "said",
+            "effect": "\"This nomination signals a green light for innovation in the crypto space\""
+        },
+        {
+            "cause": "Mark Feldman",
+            "relation": "is",
+            "effect": "a senior analyst at Blockchain Insights"
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed to position",
+            "effect": "the U.S. as a global leader in blockchain technology"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "a national crypto framework"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promised",
+            "effect": "reduced oversight from agencies like the SEC"
+        },
+        {
+            "cause": "the U.S.",
+            "relation": "is positioned as",
+            "effect": "a global leader in blockchain technology"
+        },
+        {
+            "cause": "reduced oversight",
+            "relation": "is from",
+            "effect": "agencies like the SEC"
+        },
+        {
+            "cause": "critics of the outgoing Biden administration",
+            "relation": "point to",
+            "effect": "SEC Chair Gary Gensler's stringent enforcement actions"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "is",
+            "effect": "SEC Chair"
+        },
+        {
+            "cause": "Gary Gensler's stringent enforcement actions",
+            "relation": "stifled",
+            "effect": "growth"
+        },
+        {
+            "cause": "critics",
+            "relation": "argue",
+            "effect": "that Gensler's stringent enforcement actions stifled growth"
+        },
+        {
+            "cause": "industry leaders",
+            "relation": "dubbed",
+            "effect": "Gensler a \"crypto adversary\""
+        },
+        {
+            "cause": "Gensler",
+            "relation": "announced",
+            "effect": "his resignation effective January 20"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "is",
+            "effect": "a \"crypto adversary\" (as dubbed by industry leaders)"
+        },
+        {
+            "cause": "Gensler's resignation",
+            "relation": "is effective on",
+            "effect": "January 20"
+        },
+        {
+            "cause": "institutional adoption",
+            "relation": "has amplified",
+            "effect": "the rally"
+        },
+        {
+            "cause": "spot Bitcoin ETFs from firms like Vanguard and State Street",
+            "relation": "are part of",
+            "effect": "institutional adoption"
+        },
+        {
+            "cause": "spot Bitcoin ETFs from firms like Vanguard and State Street",
+            "relation": "attracted",
+            "effect": "over $25 billion in inflows this year"
+        },
+        {
+            "cause": "over $25 billion in inflows",
+            "relation": "went into",
+            "effect": "spot Bitcoin ETFs from firms like Vanguard and State Street"
+        },
+        {
+            "cause": "some experts",
+            "relation": "warn of",
+            "effect": "volatility ahead"
+        },
+        {
+            "cause": "momentum",
+            "relation": "is",
+            "effect": "strong"
+        },
+        {
+            "cause": "we",
+            "relation": "have seen",
+            "effect": "similar booms followed by corrections"
+        },
+        {
+            "cause": "similar booms",
+            "relation": "are followed by",
+            "effect": "corrections"
+        },
+        {
+            "cause": "Emily Torres",
+            "relation": "noted",
+            "effect": "\"While the momentum is strong, we've seen similar booms followed by corrections\""
+        },
+        {
+            "cause": "Emily Torres",
+            "relation": "is",
+            "effect": "an economist at Global Finance Group"
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "dipped slightly after hitting",
+            "effect": "$104,200"
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "remains above",
+            "effect": "$101,000"
+        },
+        {
+            "cause": "Bitcoin's price",
+            "relation": "underscores",
+            "effect": "its evolution from a fringe asset to a mainstream investment"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "evolved from",
+            "effect": "a fringe asset to a mainstream investment"
+        },
+        {
+            "cause": "Trump",
+            "relation": "prepares to take",
+            "effect": "office"
+        },
+        {
+            "cause": "the crypto community",
+            "relation": "anticipates",
+            "effect": "policies that could include tax incentives and integration of digital assets into federal reserves"
+        },
+        {
+            "cause": "policies",
+            "relation": "could include",
+            "effect": "tax incentives for miners"
+        },
+        {
+            "cause": "policies",
+            "relation": "could include",
+            "effect": "integration of digital assets into federal reserves"
+        },
+        {
+            "cause": "tax incentives",
+            "relation": "are for",
+            "effect": "miners"
+        },
+        {
+            "cause": "integration",
+            "relation": "is of",
+            "effect": "digital assets into federal reserves"
+        },
+        {
+            "cause": "integration of digital assets",
+            "relation": "is into",
+            "effect": "federal reserves"
+        }
+    ]
+}

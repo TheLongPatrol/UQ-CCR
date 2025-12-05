@@ -1,0 +1,204 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "achieved",
+            "effect": "a monumental feat by surpassing $100,000 for the first time"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surpassed",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "traded as high as",
+            "effect": "$104,800"
+        },
+        {
+            "cause": "Trump administration's crypto leanings",
+            "relation": "generated",
+            "effect": "euphoria"
+        },
+        {
+            "cause": "Euphoria over the Trump administration's crypto leanings",
+            "relation": "accompanied",
+            "effect": "Bitcoin trading as high as $104,800"
+        },
+        {
+            "cause": "Bitcoin price at $70,200 on Election Day",
+            "relation": "served as starting point for",
+            "effect": "subsequent 42% rise"
+        },
+        {
+            "cause": "The coin",
+            "relation": "has rocketed",
+            "effect": "42%"
+        },
+        {
+            "cause": "The coin's 42% rise",
+            "relation": "reflects",
+            "effect": "hopes for deregulation"
+        },
+        {
+            "cause": "Hopes",
+            "relation": "are for",
+            "effect": "deregulation"
+        },
+        {
+            "cause": "Trump's appointment of Mia Gonzalez as advisor on digital assets in the White House",
+            "relation": "acted as",
+            "effect": "catalyst for Bitcoin's surge"
+        },
+        {
+            "cause": "Trump",
+            "relation": "appointed",
+            "effect": "Mia Gonzalez as advisor on digital assets in the White House"
+        },
+        {
+            "cause": "Mia Gonzalez",
+            "relation": "is",
+            "effect": "a fintech expert"
+        },
+        {
+            "cause": "Mia Gonzalez",
+            "relation": "is",
+            "effect": "a vocal crypto supporter"
+        },
+        {
+            "cause": "Gonzalez's background in stablecoin development",
+            "relation": "contrasts sharply with",
+            "effect": "the SEC's enforcement-heavy approach under Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "leads",
+            "effect": "the SEC's enforcement-heavy approach"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "steps down",
+            "effect": "soon"
+        },
+        {
+            "cause": "Greg Harlan",
+            "relation": "said",
+            "effect": "\"A new dawn for innovation\""
+        },
+        {
+            "cause": "Greg Harlan",
+            "relation": "is",
+            "effect": "a fintech analyst"
+        },
+        {
+            "cause": "Greg Harlan",
+            "relation": "is affiliated with",
+            "effect": "Digital Economy Watch"
+        },
+        {
+            "cause": "Trump's pledges",
+            "relation": "include",
+            "effect": "easing mining regulations"
+        },
+        {
+            "cause": "Trump's pledges",
+            "relation": "include",
+            "effect": "exploring Bitcoin for international trade settlements"
+        },
+        {
+            "cause": "Easing mining regulations",
+            "relation": "supports",
+            "effect": "Bitcoin mining activity"
+        },
+        {
+            "cause": "Exploring Bitcoin for international trade settlements",
+            "relation": "promotes",
+            "effect": "Bitcoin's role in global commerce"
+        },
+        {
+            "cause": "Institutional interest",
+            "relation": "has swelled in",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Bitcoin ETFs from Charles Schwab and others",
+            "relation": "netted",
+            "effect": "$30 billion in inflows"
+        },
+        {
+            "cause": "$30 billion in ETF inflows",
+            "relation": "signals",
+            "effect": "strong institutional interest"
+        },
+        {
+            "cause": "Powell's offhand comparison of Bitcoin to \"electronic silver\" in a speech",
+            "relation": "bolstered",
+            "effect": "confidence"
+        },
+        {
+            "cause": "Powell",
+            "relation": "compared",
+            "effect": "Bitcoin to \"electronic silver\""
+        },
+        {
+            "cause": "The comparison of Bitcoin to \"electronic silver\"",
+            "relation": "framed",
+            "effect": "Bitcoin as akin to a precious metal"
+        },
+        {
+            "cause": "Volatility",
+            "relation": "looms over",
+            "effect": "Bitcoin prices"
+        },
+        {
+            "cause": "A 2023 dip",
+            "relation": "saw",
+            "effect": "prices halve"
+        },
+        {
+            "cause": "Scandals",
+            "relation": "coincided with",
+            "effect": "the 2023 price halving"
+        },
+        {
+            "cause": "Scandals",
+            "relation": "contributed to",
+            "effect": "the 2023 dip"
+        },
+        {
+            "cause": "Sarah Kline",
+            "relation": "advises",
+            "effect": "\"Proceed with caution\""
+        },
+        {
+            "cause": "Sarah Kline",
+            "relation": "is",
+            "effect": "a professor at Economic Studies Institute"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "stabilized at",
+            "effect": "$101,500 on Thursday"
+        },
+        {
+            "cause": "Projections",
+            "relation": "eye",
+            "effect": "$140,000 for Bitcoin"
+        },
+        {
+            "cause": "Reforms passing",
+            "relation": "would enable",
+            "effect": "Bitcoin potentially reaching $140,000"
+        },
+        {
+            "cause": "Projections of $140,000 if reforms pass",
+            "relation": "mark",
+            "effect": "crypto's shift from outsider to economic staple"
+        },
+        {
+            "cause": "Crypto",
+            "relation": "shifts from",
+            "effect": "outsider to economic staple"
+        }
+    ]
+}
