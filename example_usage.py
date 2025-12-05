@@ -46,7 +46,7 @@ def main():
     print("EXAMPLE 1")
     print("="*80)
     
-    query1 = "How did the nomination of Sarah Kline cause Bitcoin's price to rise?"
+    query1 = "What caused Bitcoin price to rise above $100,000?"
     context1, results1 = pipeline.query_for_context(
         query1,
         max_depth=5,
@@ -61,7 +61,7 @@ def main():
     print("EXAMPLE 2")
     print("="*80)
     
-    query2 = "How did global economic uncertainty contribute to Bitcoin’s price rise?"
+    query2 = "How did Donald Trump winning the US presidency impact Bitcoin price?"
     context2, results2 = pipeline.query_for_context(
         query2,
         max_depth=5,
@@ -71,33 +71,33 @@ def main():
     print(context2)
     pipeline.display_results(results2)
     
-    # # Query 3: Bidirectional reasoning (exploring relationships)
-    # print("\n\n" + "="*80)
-    # print("EXAMPLE 3: Bidirectional Reasoning (Relationships)")
-    # print("="*80)
+    # Query 3
+    print("\n\n" + "="*80)
+    print("EXAMPLE 3")
+    print("="*80)
     
-    # query3 = "What is the relationship between alpha-synuclein and GCase?"
-    # results3 = pipeline.query(
-    #     query3,
-    #     max_depth=4,
-    #     max_chains_per_node=50,
-    #     top_k=10
-    # )
-    # pipeline.display_results(results3)
+    query3 = "What led to the crypto industry spending so heavily on political campaigns in 2024?"
+    results3 = pipeline.query(
+        query3,
+        max_depth=4,
+        max_chains_per_node=50,
+        top_k=10
+    )
+    pipeline.display_results(results3)
     
-    # # Query 4: Complex multi-hop reasoning
-    # print("\n\n" + "="*80)
-    # print("EXAMPLE 4: Complex Multi-hop Reasoning")
-    # print("="*80)
+    # Query 4: Complex multi-hop reasoning
+    print("\n\n" + "="*80)
+    print("EXAMPLE 4")
+    print("="*80)
     
-    # query4 = "How does low GCase activity lead to Parkinson's disease?"
-    # results4 = pipeline.query(
-    #     query4,
-    #     max_depth=6,
-    #     max_chains_per_node=100,
-    #     top_k=15
-    # )
-    # pipeline.display_results(results4, show_all_chains=False)
+    query4 = "What caused gold to lose some of its appeal to investors since the U.S. election?"
+    results4 = pipeline.query(
+        query4,
+        max_depth=6,
+        max_chains_per_node=100,
+        top_k=15
+    )
+    pipeline.display_results(results4)
     
     # # Save results to JSON
     # pipeline.save_results_to_json(results4, 'results_example4.json')
