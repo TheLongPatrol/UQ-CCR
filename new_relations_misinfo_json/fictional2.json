@@ -1,0 +1,239 @@
+{
+    "triples": [
+        {
+            "cause": "The cryptocurrency market",
+            "relation": "celebrated",
+            "effect": "a historic milestone"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "eclipsed",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin eclipsing $100,000",
+            "relation": "led to",
+            "effect": "the cryptocurrency market celebrating a historic milestone"
+        },
+        {
+            "cause": "President-elect Donald Trump",
+            "relation": "announced",
+            "effect": "pro-crypto nominee David Harlan for the Securities and Exchange Commission"
+        },
+        {
+            "cause": "Trump's announcement of pro-crypto nominee David Harlan",
+            "relation": "fueled",
+            "effect": "Bitcoin eclipsing $100,000"
+        },
+        {
+            "cause": "Trump's announcement of pro-crypto nominee David Harlan",
+            "relation": "fueled",
+            "effect": "the cryptocurrency market's celebration"
+        },
+        {
+            "cause": "David Harlan",
+            "relation": "is nominee for",
+            "effect": "the Securities and Exchange Commission"
+        },
+        {
+            "cause": "Harlan",
+            "relation": "is",
+            "effect": "a veteran Wall Street lawyer"
+        },
+        {
+            "cause": "Harlan",
+            "relation": "has ties to",
+            "effect": "digital asset lobbying groups"
+        },
+        {
+            "cause": "Harlan",
+            "relation": "is poised to replace",
+            "effect": "the departing Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "is",
+            "effect": "departing"
+        },
+        {
+            "cause": "Gary Gensler's tenure",
+            "relation": "was marked by",
+            "effect": "aggressive lawsuits against exchanges like Binance and Coinbase"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "brought aggressive lawsuits against",
+            "effect": "exchanges like Binance and Coinbase"
+        },
+        {
+            "cause": "Bitcoin's value",
+            "relation": "has nearly doubled since",
+            "effect": "the start of 2024"
+        },
+        {
+            "cause": "Post-election period",
+            "relation": "saw",
+            "effect": "a 55% spike in Bitcoin's value"
+        },
+        {
+            "cause": "The 55% spike post-election",
+            "relation": "pushed",
+            "effect": "Bitcoin's market cap beyond $2 trillion"
+        },
+        {
+            "cause": "Bitcoin's market cap",
+            "relation": "is beyond",
+            "effect": "$2 trillion"
+        },
+        {
+            "cause": "Trump's team",
+            "relation": "is stacking the deck in favor of",
+            "effect": "crypto deregulation"
+        },
+        {
+            "cause": "Lisa Chen",
+            "relation": "commented",
+            "effect": "\"Trump's team is stacking the deck in favor of crypto deregulation\""
+        },
+        {
+            "cause": "Lisa Chen",
+            "relation": "is",
+            "effect": "head of digital assets at Morgan Stanley Research"
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to establish",
+            "effect": "a \"Crypto Innovation Council\""
+        },
+        {
+            "cause": "Trump",
+            "relation": "pledged to explore",
+            "effect": "Bitcoin as a hedge against inflation"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is framed as",
+            "effect": "a hedge against inflation"
+        },
+        {
+            "cause": "Trump's pledges",
+            "relation": "echoed",
+            "effect": "sentiments from allies like Senator Mark Warner"
+        },
+        {
+            "cause": "Senator Mark Warner",
+            "relation": "holds",
+            "effect": "similar sentiments about crypto policy"
+        },
+        {
+            "cause": "The surge in Bitcoin",
+            "relation": "coincides with",
+            "effect": "robust inflows into Bitcoin ETFs"
+        },
+        {
+            "cause": "Robust inflows into Bitcoin ETFs",
+            "relation": "support",
+            "effect": "the surge in Bitcoin"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "have amassed",
+            "effect": "$28 billion"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "have amassed $28 billion since",
+            "effect": "their approval earlier this year"
+        },
+        {
+            "cause": "Bitcoin ETFs",
+            "relation": "were approved earlier this year by",
+            "effect": "major players including Goldman Sachs"
+        },
+        {
+            "cause": "Federal Reserve Chair Jerome Powell",
+            "relation": "added to",
+            "effect": "optimism"
+        },
+        {
+            "cause": "Jerome Powell",
+            "relation": "likened",
+            "effect": "Bitcoin to \"a modern alternative to traditional commodities\""
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is likened to",
+            "effect": "a modern alternative to traditional commodities"
+        },
+        {
+            "cause": "Skeptics",
+            "relation": "highlight",
+            "effect": "past crashes"
+        },
+        {
+            "cause": "Skeptics",
+            "relation": "highlight",
+            "effect": "the 70% drop in 2022"
+        },
+        {
+            "cause": "The 70% drop in 2022",
+            "relation": "followed",
+            "effect": "the Terra-Luna collapse"
+        },
+        {
+            "cause": "The Terra-Luna collapse",
+            "relation": "triggered",
+            "effect": "the 70% drop in 2022"
+        },
+        {
+            "cause": "Past crashes",
+            "relation": "undermine",
+            "effect": "current enthusiasm"
+        },
+        {
+            "cause": "This rally",
+            "relation": "is",
+            "effect": "speculative"
+        },
+        {
+            "cause": "Regulatory promises",
+            "relation": "falling short could unwind",
+            "effect": "this rally"
+        },
+        {
+            "cause": "This rally",
+            "relation": "could unwind if",
+            "effect": "regulatory promises fall short"
+        },
+        {
+            "cause": "Paul Rivera",
+            "relation": "warned",
+            "effect": "\"This rally is speculative and could unwind if regulatory promises fall short\""
+        },
+        {
+            "cause": "Paul Rivera",
+            "relation": "is",
+            "effect": "chief strategist at Economic Outlook Institute"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "traded at",
+            "effect": "$102,500 Thursday morning"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "forecast",
+            "effect": "potential highs of $150,000 by mid-2025"
+        },
+        {
+            "cause": "Supportive policies",
+            "relation": "materializing could push",
+            "effect": "Bitcoin to $150,000 by mid-2025"
+        },
+        {
+            "cause": "Materialization of supportive policies",
+            "relation": "could lead to",
+            "effect": "potential highs of $150,000 by mid-2025"
+        }
+    ]
+}

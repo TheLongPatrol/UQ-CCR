@@ -1,0 +1,244 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "has shattered",
+            "effect": "the $100,000 barrier"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "climbed to",
+            "effect": "$105,000 in early trading on Thursday"
+        },
+        {
+            "cause": "heightened expectations of a crypto-friendly Trump White House",
+            "relation": "accompany",
+            "effect": "Bitcoin's climb to $105,000"
+        },
+        {
+            "cause": "Trump White House",
+            "relation": "is expected to be",
+            "effect": "crypto-friendly"
+        },
+        {
+            "cause": "the digital currency's price",
+            "relation": "has surged",
+            "effect": "48% since Donald Trump's election win"
+        },
+        {
+            "cause": "Donald Trump's election win",
+            "relation": "is associated with",
+            "effect": "the 48% surge in the digital currency's price"
+        },
+        {
+            "cause": "the digital currency's price",
+            "relation": "transformed from",
+            "effect": "$68,000 on November 5 to its current heights"
+        },
+        {
+            "cause": "this boom",
+            "relation": "is largely attributed to",
+            "effect": "Trump's selection of Elena Vasquez to oversee the Office of the Comptroller of the Currency"
+        },
+        {
+            "cause": "Trump",
+            "relation": "selected",
+            "effect": "Elena Vasquez to oversee the Office of the Comptroller of the Currency"
+        },
+        {
+            "cause": "Elena Vasquez",
+            "relation": "oversees",
+            "effect": "the Office of the Comptroller of the Currency"
+        },
+        {
+            "cause": "Elena Vasquez",
+            "relation": "is",
+            "effect": "a blockchain enthusiast"
+        },
+        {
+            "cause": "Elena Vasquez",
+            "relation": "is",
+            "effect": "a former Treasury official"
+        },
+        {
+            "cause": "Vasquez",
+            "relation": "has publicly supported",
+            "effect": "integrating cryptocurrencies into the banking system"
+        },
+        {
+            "cause": "integrating cryptocurrencies",
+            "relation": "applies to",
+            "effect": "the banking system"
+        },
+        {
+            "cause": "Biden era",
+            "relation": "is associated with",
+            "effect": "crackdowns (on cryptocurrencies)"
+        },
+        {
+            "cause": "Vasquez's support for integrating cryptocurrencies into the banking system",
+            "relation": "contrasts with",
+            "effect": "the Biden era's crackdowns"
+        },
+        {
+            "cause": "industry voices",
+            "relation": "are",
+            "effect": "jubilant"
+        },
+        {
+            "cause": "Tyler Brooks",
+            "relation": "is",
+            "effect": "CEO of Crypto Alliance"
+        },
+        {
+            "cause": "Tyler Brooks",
+            "relation": "tweeted",
+            "effect": "\"Finally, a regulator who gets it – goodbye to the Wild West accusations.\""
+        },
+        {
+            "cause": "Tyler Brooks's tweet",
+            "relation": "expresses",
+            "effect": "approval of a regulator who understands cryptocurrencies"
+        },
+        {
+            "cause": "Brooks's tweet",
+            "relation": "signals",
+            "effect": "goodbye to the Wild West accusations"
+        },
+        {
+            "cause": "the regulator",
+            "relation": "gets",
+            "effect": "it (understands the industry)"
+        },
+        {
+            "cause": "Trump's campaign",
+            "relation": "included",
+            "effect": "promises of a \"U.S. Digital Asset Strategy\""
+        },
+        {
+            "cause": "Trump's campaign",
+            "relation": "included",
+            "effect": "incentives for domestic mining operations"
+        },
+        {
+            "cause": "promises",
+            "relation": "concern",
+            "effect": "a \"U.S. Digital Asset Strategy\""
+        },
+        {
+            "cause": "incentives",
+            "relation": "target",
+            "effect": "domestic mining operations"
+        },
+        {
+            "cause": "the rally",
+            "relation": "has lifted",
+            "effect": "related stocks"
+        },
+        {
+            "cause": "the rally",
+            "relation": "has lifted",
+            "effect": "mining firm Riot Blockchain (up 60%)"
+        },
+        {
+            "cause": "the rally",
+            "relation": "has lifted",
+            "effect": "exchange operator Kraken (to record volumes)"
+        },
+        {
+            "cause": "mining firm Riot Blockchain",
+            "relation": "is up",
+            "effect": "60%"
+        },
+        {
+            "cause": "exchange operator Kraken",
+            "relation": "is seeing",
+            "effect": "record volumes"
+        },
+        {
+            "cause": "environmental concerns",
+            "relation": "persist",
+            "effect": "despite the rally"
+        },
+        {
+            "cause": "Bitcoin's energy-intensive mining",
+            "relation": "draws",
+            "effect": "criticism from green advocates"
+        },
+        {
+            "cause": "green advocates",
+            "relation": "criticize",
+            "effect": "Bitcoin's energy-intensive mining"
+        },
+        {
+            "cause": "the carbon footprint",
+            "relation": "is",
+            "effect": "unsustainable"
+        },
+        {
+            "cause": "Rachel Klein",
+            "relation": "said",
+            "effect": "\"The carbon footprint is unsustainable.\""
+        },
+        {
+            "cause": "Rachel Klein",
+            "relation": "is",
+            "effect": "a climate economist"
+        },
+        {
+            "cause": "federal comments from the Treasury Secretary nominee",
+            "relation": "have buoyed",
+            "effect": "sentiment"
+        },
+        {
+            "cause": "Treasury Secretary nominee",
+            "relation": "made",
+            "effect": "federal comments"
+        },
+        {
+            "cause": "federal comments",
+            "relation": "suggest",
+            "effect": "Bitcoin could rival gold reserves"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "could rival",
+            "effect": "gold reserves"
+        },
+        {
+            "cause": "optimists",
+            "relation": "predict",
+            "effect": "$200,000 (Bitcoin price) by 2026"
+        },
+        {
+            "cause": "historical volatility",
+            "relation": "tempers",
+            "effect": "the excitement"
+        },
+        {
+            "cause": "a 65% plunge in 2021",
+            "relation": "exemplifies",
+            "effect": "historical volatility"
+        },
+        {
+            "cause": "a 65% plunge in 2021",
+            "relation": "tempers",
+            "effect": "the excitement"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hovered around",
+            "effect": "$103,000 later Thursday"
+        },
+        {
+            "cause": "Bitcoin hovering around $103,000 later Thursday",
+            "relation": "signals",
+            "effect": "continued market fervor"
+        },
+        {
+            "cause": "continued market fervor",
+            "relation": "is indicated by",
+            "effect": "Bitcoin's hovering around $103,000 later Thursday"
+        }
+    ]
+}

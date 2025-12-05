@@ -1,0 +1,229 @@
+{
+    "triples": [
+        {
+            "cause": "price of Bitcoin",
+            "relation": "has smashed through",
+            "effect": "$100,000 level for the first time"
+        },
+        {
+            "cause": "return of Donald Trump",
+            "relation": "has fuelled",
+            "effect": "price of Bitcoin smashing through $100,000"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is described as",
+            "effect": "the world’s first, largest and most valuable cryptocurrency"
+        },
+        {
+            "cause": "Bitcoin’s value",
+            "relation": "has more than doubled",
+            "effect": "since the start of the year"
+        },
+        {
+            "cause": "Bitcoin’s price movement",
+            "relation": "has been",
+            "effect": "most dramatic since November"
+        },
+        {
+            "cause": "Bitcoin’s price",
+            "relation": "has surged by more than 50 per cent",
+            "effect": "since Trump’s election win"
+        },
+        {
+            "cause": "Trump’s election win",
+            "relation": "has coincided with",
+            "effect": "a more than 50 per cent surge in Bitcoin’s price"
+        },
+        {
+            "cause": "the election campaign",
+            "relation": "provided context for",
+            "effect": "Trump’s pledges on crypto"
+        },
+        {
+            "cause": "Trump (the Republican)",
+            "relation": "pledged",
+            "effect": "to make the US the “crypto capital of the planet”"
+        },
+        {
+            "cause": "Trump (the Republican)",
+            "relation": "pledged",
+            "effect": "to build a strategic reserve of Bitcoin"
+        },
+        {
+            "cause": "Trump (the Republican)",
+            "relation": "pledged",
+            "effect": "to set up his own cryptocurrency venture"
+        },
+        {
+            "cause": "the US",
+            "relation": "is intended to become",
+            "effect": "the “crypto capital of the planet”"
+        },
+        {
+            "cause": "the planned strategic reserve",
+            "relation": "is to consist of",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "the cryptocurrency venture",
+            "relation": "belongs to",
+            "effect": "Trump"
+        },
+        {
+            "cause": "Trump",
+            "relation": "has appointed",
+            "effect": "Elon Musk as head of the new Department of Government Efficiency (DOGE)"
+        },
+        {
+            "cause": "Elon Musk",
+            "relation": "is",
+            "effect": "head of the new Department of Government Efficiency (DOGE)"
+        },
+        {
+            "cause": "the appointment of Elon Musk to DOGE",
+            "relation": "is",
+            "effect": "an explicit nod to Dogecoin"
+        },
+        {
+            "cause": "Dogecoin",
+            "relation": "is",
+            "effect": "Elon Musk’s favoured crypto"
+        },
+        {
+            "cause": "the Department of Government Efficiency (DOGE)",
+            "relation": "symbolically references",
+            "effect": "Dogecoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins to run the Securities and Exchange Commission"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "a big crypto advocate"
+        },
+        {
+            "cause": "Trump’s nomination of Paul Atkins to run the SEC",
+            "relation": "has given an even bigger boost to",
+            "effect": "the frenzy around digital currency"
+        },
+        {
+            "cause": "the Securities and Exchange Commission",
+            "relation": "is",
+            "effect": "the main US regulator"
+        },
+        {
+            "cause": "the appointment of Paul Atkins",
+            "relation": "will mark",
+            "effect": "a dramatic shift from Gary Gensler’s approach"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "is",
+            "effect": "outgoing SEC boss"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "led",
+            "effect": "a crypto crackdown"
+        },
+        {
+            "cause": "the crypto crackdown",
+            "relation": "was led by",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "the appointment of Paul Atkins",
+            "relation": "will shift",
+            "effect": "the SEC away from the previous crypto crackdown"
+        },
+        {
+            "cause": "exchange-traded funds investing in cryptocurrency",
+            "relation": "are backed by",
+            "effect": "the biggest investment managers"
+        },
+        {
+            "cause": "the biggest investment managers",
+            "relation": "back",
+            "effect": "exchange-traded funds investing in cryptocurrency"
+        },
+        {
+            "cause": "BlackRock",
+            "relation": "is",
+            "effect": "one of the biggest investment managers"
+        },
+        {
+            "cause": "BlackRock",
+            "relation": "has put",
+            "effect": "£35billion into Bitcoin"
+        },
+        {
+            "cause": "£35billion",
+            "relation": "is invested in",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "exchange-traded funds",
+            "relation": "invest in",
+            "effect": "cryptocurrency"
+        },
+        {
+            "cause": "the UK",
+            "relation": "has",
+            "effect": "no regulatory safeguards for crypto investors"
+        },
+        {
+            "cause": "regulatory safeguards",
+            "relation": "are absent for",
+            "effect": "crypto investors in the UK"
+        },
+        {
+            "cause": "the financial watchdog",
+            "relation": "told",
+            "effect": "Brits they had to be prepared “to lose all their money”"
+        },
+        {
+            "cause": "Brits",
+            "relation": "were told to be prepared",
+            "effect": "to lose all their money"
+        },
+        {
+            "cause": "crypto investors",
+            "relation": "risk",
+            "effect": "losing all their money"
+        },
+        {
+            "cause": "around 7million adults in the UK",
+            "relation": "hold",
+            "effect": "some form of digital currency"
+        },
+        {
+            "cause": "some form of digital currency",
+            "relation": "is held by",
+            "effect": "around 7million adults in the UK"
+        },
+        {
+            "cause": "Carol Alexander",
+            "relation": "is",
+            "effect": "finance professor at Sussex University"
+        },
+        {
+            "cause": "Carol Alexander",
+            "relation": "predicted",
+            "effect": "the $100,000 Bitcoin price record"
+        },
+        {
+            "cause": "Carol Alexander’s prediction of the $100,000 record",
+            "relation": "occurred",
+            "effect": "last month"
+        },
+        {
+            "cause": "Carol Alexander’s prediction",
+            "relation": "was",
+            "effect": "accurate"
+        }
+    ]
+}

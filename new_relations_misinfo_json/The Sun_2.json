@@ -1,0 +1,199 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "surged to",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Bitcoin's surge to $100,000",
+            "relation": "is",
+            "effect": "a staggering price"
+        },
+        {
+            "cause": "$100,000 price",
+            "relation": "is staggering for",
+            "effect": "a virtual object"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is",
+            "effect": "a virtual object"
+        },
+        {
+            "cause": "Virtual object",
+            "relation": "is nothing more than",
+            "effect": "computer code"
+        },
+        {
+            "cause": "Crypto currencies",
+            "relation": "have been on",
+            "effect": "a wild ride"
+        },
+        {
+            "cause": "Posts by Elon Musk",
+            "relation": "cause",
+            "effect": "surging and tumbling of crypto currencies"
+        },
+        {
+            "cause": "Surging and tumbling of crypto currencies",
+            "relation": "are based on",
+            "effect": "little more than a post by Elon Musk"
+        },
+        {
+            "cause": "Crypto currency values",
+            "relation": "have experienced",
+            "effect": "massive swings in recent years"
+        },
+        {
+            "cause": "Total value of the crypto-currency market",
+            "relation": "is",
+            "effect": "over $3 trillion"
+        },
+        {
+            "cause": "Nearly $1 trillion",
+            "relation": "was wiped off",
+            "effect": "the crypto-currency market’s valuation three years ago"
+        },
+        {
+            "cause": "People",
+            "relation": "should remember",
+            "effect": "that nearly $1 trillion was wiped off the crypto-currency market’s valuation"
+        },
+        {
+            "cause": "Crypto-currency as an asset class",
+            "relation": "is",
+            "effect": "unstable"
+        },
+        {
+            "cause": "£10 note",
+            "relation": "could buy",
+            "effect": "a beer on one day"
+        },
+        {
+            "cause": "£10 note",
+            "relation": "could buy",
+            "effect": "a bottle of fine wine on another day"
+        },
+        {
+            "cause": "Instability of crypto-currency as an asset class",
+            "relation": "is likened to",
+            "effect": "variability in what a £10 note can buy"
+        },
+        {
+            "cause": "Crypto-currency",
+            "relation": "has",
+            "effect": "no intrinsic value"
+        },
+        {
+            "cause": "Crypto-currency",
+            "relation": "is not backed by",
+            "effect": "anything"
+        },
+        {
+            "cause": "Bitcoin devotees",
+            "relation": "will tell",
+            "effect": "you"
+        },
+        {
+            "cause": "Bitcoin’s value",
+            "relation": "comes from",
+            "effect": "its scarcity"
+        },
+        {
+            "cause": "Gold’s value",
+            "relation": "comes from",
+            "effect": "its scarcity"
+        },
+        {
+            "cause": "Scarcity by itself",
+            "relation": "can hardly be",
+            "effect": "a source of value"
+        },
+        {
+            "cause": "Scarcity alone",
+            "relation": "fails to provide",
+            "effect": "value"
+        },
+        {
+            "cause": "Bitcoin investors",
+            "relation": "rely on",
+            "effect": "the “greater fool” theory"
+        },
+        {
+            "cause": "Investor",
+            "relation": "needs to find",
+            "effect": "someone willing to buy the asset at an even higher price"
+        },
+        {
+            "cause": "Finding someone willing to buy the asset at an even higher price",
+            "relation": "allows",
+            "effect": "an investor to profit from an investment"
+        },
+        {
+            "cause": "Someone",
+            "relation": "is willing to buy",
+            "effect": "the asset at an even higher price"
+        },
+        {
+            "cause": "Speculative bubble",
+            "relation": "puts",
+            "effect": "naive late investors at greatest risk of losses"
+        },
+        {
+            "cause": "Naive investors who come to the party late",
+            "relation": "are at",
+            "effect": "greatest risk of losses"
+        },
+        {
+            "cause": "Coming to the party late",
+            "relation": "increases",
+            "effect": "risk of losses for naive investors"
+        },
+        {
+            "cause": "Government",
+            "relation": "should caution",
+            "effect": "retail investors"
+        },
+        {
+            "cause": "Retail investors",
+            "relation": "act at",
+            "effect": "their own peril"
+        },
+        {
+            "cause": "Acting at their own peril",
+            "relation": "exposes",
+            "effect": "retail investors to potential harm"
+        },
+        {
+            "cause": "Sophisticated investors",
+            "relation": "may tap into",
+            "effect": "the benefits"
+        },
+        {
+            "cause": "New technologies",
+            "relation": "dazzle",
+            "effect": "the less well-off"
+        },
+        {
+            "cause": "Less well-off investors",
+            "relation": "will take on",
+            "effect": "risks they do not fully comprehend"
+        },
+        {
+            "cause": "Risks",
+            "relation": "are not fully comprehended by",
+            "effect": "less well-off investors"
+        },
+        {
+            "cause": "Being dazzled by new technologies",
+            "relation": "leads",
+            "effect": "less well-off investors to take on risks they do not fully comprehend"
+        },
+        {
+            "cause": "Danger",
+            "relation": "is",
+            "effect": "that less well-off investors will take on risks they do not fully comprehend"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "triples": [
+        {
+            "cause": "chief executive",
+            "relation": "is executive of",
+            "effect": "crypto intelligence firm CryptoQuant"
+        },
+        {
+            "cause": "chief executive",
+            "relation": "is identifying",
+            "effect": "one catalyst"
+        },
+        {
+            "cause": "one catalyst",
+            "relation": "could send",
+            "effect": "Bitcoin (BTC) to a $1 million price tag"
+        },
+        {
+            "cause": "Ki Young Ju",
+            "relation": "says",
+            "effect": "top crypto asset will overtake gold by the time it reaches $1 million"
+        },
+        {
+            "cause": "top crypto asset by market cap",
+            "relation": "reaches",
+            "effect": "$1 million price"
+        },
+        {
+            "cause": "top crypto asset by market cap",
+            "relation": "will have overtaken",
+            "effect": "gold"
+        },
+        {
+            "cause": "investor demand",
+            "relation": "shifts from",
+            "effect": "gold"
+        },
+        {
+            "cause": "investor demand",
+            "relation": "shifts to",
+            "effect": "BTC"
+        },
+        {
+            "cause": "investor demand shifting from gold to BTC",
+            "relation": "makes inevitable",
+            "effect": "crypto king reaching nine figures"
+        },
+        {
+            "cause": "gold ETFs",
+            "relation": "were approved after",
+            "effect": "2004"
+        },
+        {
+            "cause": "gold",
+            "relation": "had market cap",
+            "effect": "$1 trillion in 2004"
+        },
+        {
+            "cause": "gold",
+            "relation": "has market cap",
+            "effect": "$17.8 trillion today"
+        },
+        {
+            "cause": "gold",
+            "relation": "has intrinsic value as a precious metal of",
+            "effect": "$1 trillion"
+        },
+        {
+            "cause": "$16.8 trillion",
+            "relation": "represents",
+            "effect": "demand for gold as a safe-haven asset and hedge against inflation"
+        },
+        {
+            "cause": "demand for gold as a safe-haven asset and hedge against inflation",
+            "relation": "amounts to",
+            "effect": "$16.8 trillion"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has current market cap",
+            "effect": "$2 trillion"
+        },
+        {
+            "cause": "gold demand",
+            "relation": "shifts to",
+            "effect": "BTC (hypothetical condition)"
+        },
+        {
+            "cause": "gold demand shifting to BTC",
+            "relation": "could increase",
+            "effect": "Bitcoin’s market cap by 750%"
+        },
+        {
+            "cause": "inflation (being considered)",
+            "relation": "supports view",
+            "effect": "Bitcoin reaching $1 million is a matter of when, not if"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "will reach",
+            "effect": "$1 million"
+        },
+        {
+            "cause": "people",
+            "relation": "will start discussing",
+            "effect": "the gold flippening within five years"
+        },
+        {
+            "cause": "Ju",
+            "relation": "notes",
+            "effect": "BTC has yet to form a bubble"
+        },
+        {
+            "cause": "BTC",
+            "relation": "has yet to form",
+            "effect": "a bubble"
+        },
+        {
+            "cause": "BTC",
+            "relation": "reached",
+            "effect": "the $100,000 milestone"
+        },
+        {
+            "cause": "$100,000 milestone",
+            "relation": "occurred",
+            "effect": "earlier this week"
+        },
+        {
+            "cause": "fresh capital",
+            "relation": "is fueling",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "realized cap",
+            "relation": "grew",
+            "effect": "recently"
+        },
+        {
+            "cause": "growth in realized cap",
+            "relation": "caused",
+            "effect": "ceiling price to increase"
+        },
+        {
+            "cause": "ceiling price",
+            "relation": "increased from",
+            "effect": "$129,000 to $146,000"
+        },
+        {
+            "cause": "ceiling price increase",
+            "relation": "occurred over",
+            "effect": "30 days"
+        },
+        {
+            "cause": "Bitcoin price at $102,000",
+            "relation": "is",
+            "effect": "far from a bubble"
+        },
+        {
+            "cause": "Bitcoin price",
+            "relation": "would need",
+            "effect": "a 43% surge to hit bubble threshold"
+        },
+        {
+            "cause": "43% surge in Bitcoin price",
+            "relation": "would make",
+            "effect": "price hit the threshold often considered a bubble"
+        },
+        {
+            "cause": "bubble threshold",
+            "relation": "is considered",
+            "effect": "a bubble level for Bitcoin"
+        }
+    ]
+}

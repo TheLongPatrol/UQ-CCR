@@ -1,0 +1,464 @@
+{
+    "triples": [
+        {
+            "cause": "2008 global financial crisis",
+            "relation": "gave rise to",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "Trust",
+            "relation": "withered in",
+            "effect": "the financial system"
+        },
+        {
+            "cause": "Trust",
+            "relation": "withered in",
+            "effect": "Washington’s ability to protect those who must participate in the financial system"
+        },
+        {
+            "cause": "Withered trust in the financial system and Washington’s protection",
+            "relation": "set the stage for",
+            "effect": "bitcoin’s arrival"
+        },
+        {
+            "cause": "Washington’s embrace of bitcoin",
+            "relation": "is helping to send",
+            "effect": "bitcoin’s price to record levels"
+        },
+        {
+            "cause": "Washington’s embrace of bitcoin",
+            "relation": "is lining",
+            "effect": "the pockets of bitcoin’s believers"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "briefly surged above",
+            "effect": "$103,000"
+        },
+        {
+            "cause": "President-elect Donald Trump’s statement that he intends to nominate Paul Atkins as SEC chair",
+            "relation": "was followed by",
+            "effect": "bitcoin briefly surging above $103,000"
+        },
+        {
+            "cause": "President-elect Donald Trump",
+            "relation": "said he intends to nominate",
+            "effect": "Paul Atkins as the next chair of the Securities and Exchange Commission"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is seen as friendly to",
+            "effect": "crypto"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "a former regulator"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "would replace",
+            "effect": "Gary Gensler as SEC chair"
+        },
+        {
+            "cause": "Critics",
+            "relation": "say",
+            "effect": "Gary Gensler has been overly aggressive in his oversight of crypto"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "has been overly aggressive in",
+            "effect": "his oversight of crypto"
+        },
+        {
+            "cause": "This latest price move",
+            "relation": "is",
+            "effect": "the latest leg in an astonishing run for bitcoin"
+        },
+        {
+            "cause": "Bitcoin’s swings in price",
+            "relation": "are",
+            "effect": "notoriously extreme"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has more than doubled",
+            "effect": "this year"
+        },
+        {
+            "cause": "Election Day",
+            "relation": "preceded and helped spur",
+            "effect": "a particularly big jump in bitcoin’s price"
+        },
+        {
+            "cause": "Bitcoin’s price on Election Day",
+            "relation": "was sitting below",
+            "effect": "$70,000"
+        },
+        {
+            "cause": "The particularly big jump in bitcoin’s price",
+            "relation": "came after",
+            "effect": "Election Day"
+        },
+        {
+            "cause": "Trump",
+            "relation": "called for making",
+            "effect": "the United States “the crypto capital of the planet”"
+        },
+        {
+            "cause": "Trump’s campaign period",
+            "relation": "provided the context for",
+            "effect": "his call to make the United States “the crypto capital of the planet”"
+        },
+        {
+            "cause": "The crypto industry",
+            "relation": "did its part to bring",
+            "effect": "politicians friendly to digital currencies into Washington"
+        },
+        {
+            "cause": "Politicians friendly to digital currencies",
+            "relation": "were brought into",
+            "effect": "Washington by the crypto industry"
+        },
+        {
+            "cause": "Crypto corporations",
+            "relation": "poured over $119 million into",
+            "effect": "influencing federal elections in 2024"
+        },
+        {
+            "cause": "Crypto corporations",
+            "relation": "directed over $119 million primarily into",
+            "effect": "a political action committee"
+        },
+        {
+            "cause": "The political action committee",
+            "relation": "is dedicated to electing",
+            "effect": "pro-crypto candidates"
+        },
+        {
+            "cause": "The political action committee",
+            "relation": "is dedicated to defeating",
+            "effect": "crypto skeptics"
+        },
+        {
+            "cause": "Public Citizen",
+            "relation": "conducted",
+            "effect": "a recent review of crypto political spending"
+        },
+        {
+            "cause": "The recent review by Public Citizen",
+            "relation": "reported",
+            "effect": "that crypto corporations poured over $119 million into influencing federal elections in 2024"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "the $100,000 mark for the first time"
+        },
+        {
+            "cause": "Bitcoin’s first move to $100,000",
+            "relation": "marked",
+            "effect": "the first time it reached six figures"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "led",
+            "effect": "the US crackdown on cryptocurrencies"
+        },
+        {
+            "cause": "US crackdown",
+            "relation": "targeted",
+            "effect": "cryptocurrencies"
+        },
+        {
+            "cause": "SEC Chair Gary Gensler",
+            "relation": "is to step down from",
+            "effect": "his position"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "surged past",
+            "effect": "$87,000 for the first time"
+        },
+        {
+            "cause": "Trump’s election win",
+            "relation": "was followed by and helped fuel",
+            "effect": "bitcoin’s surge past $87,000"
+        },
+        {
+            "cause": "The $119 million from crypto corporations",
+            "relation": "is",
+            "effect": "a large amount"
+        },
+        {
+            "cause": "Crypto companies",
+            "relation": "accounted for",
+            "effect": "44% of all the corporate money contributed during this year’s elections"
+        },
+        {
+            "cause": "The consumer advocacy organization",
+            "relation": "reported",
+            "effect": "that crypto companies accounted for 44% of corporate money in the elections"
+        },
+        {
+            "cause": "A tight embrace of crypto by Washington and corporate donors",
+            "relation": "marks",
+            "effect": "an interesting twist from bitcoin’s early days"
+        },
+        {
+            "cause": "Satoshi Nakamoto (someone or a group under that name)",
+            "relation": "created",
+            "effect": "a kind of electronic cash (bitcoin)"
+        },
+        {
+            "cause": "The electronic cash Nakamoto created",
+            "relation": "would not be beholden to",
+            "effect": "any government or financial institution"
+        },
+        {
+            "cause": "Governments and financial institutions",
+            "relation": "would not control",
+            "effect": "Nakamoto’s electronic cash system"
+        },
+        {
+            "cause": "The white paper announcing bitcoin",
+            "relation": "presented",
+            "effect": "Nakamoto’s critique of the traditional online business model"
+        },
+        {
+            "cause": "Nakamoto",
+            "relation": "said",
+            "effect": "the traditional way of doing business on the internet works well enough for most transactions"
+        },
+        {
+            "cause": "Traditional ways of doing business on the internet",
+            "relation": "work well enough for",
+            "effect": "most transactions"
+        },
+        {
+            "cause": "Nakamoto",
+            "relation": "said",
+            "effect": "the traditional system still suffers from the inherent weaknesses of the trust-based model"
+        },
+        {
+            "cause": "The trust-based model",
+            "relation": "suffers from",
+            "effect": "inherent weaknesses"
+        },
+        {
+            "cause": "The trust-based payment model",
+            "relation": "requires",
+            "effect": "a third party like a bank to process payments"
+        },
+        {
+            "cause": "A third party like a bank",
+            "relation": "needs to process",
+            "effect": "payments in the trust-based model"
+        },
+        {
+            "cause": "Nakamoto",
+            "relation": "suggested harnessing",
+            "effect": "computing power around the world"
+        },
+        {
+            "cause": "Harnessing computing power around the world",
+            "relation": "would create",
+            "effect": "a digital currency that can’t be double-spent"
+        },
+        {
+            "cause": "The proposed digital currency",
+            "relation": "cannot be",
+            "effect": "double-spent"
+        },
+        {
+            "cause": "An electronic payment system based on cryptographic proof",
+            "relation": "is needed instead of",
+            "effect": "trust"
+        },
+        {
+            "cause": "An electronic payment system based on cryptographic proof",
+            "relation": "allows",
+            "effect": "any two willing parties to transact directly with each other"
+        },
+        {
+            "cause": "Transactions between any two willing parties",
+            "relation": "can occur directly without",
+            "effect": "a trusted third party"
+        },
+        {
+            "cause": "A trusted third party",
+            "relation": "is not needed for",
+            "effect": "transactions in a cryptographic-proof-based system"
+        },
+        {
+            "cause": "The envisioned electronic payment system",
+            "relation": "became",
+            "effect": "the bitcoin network"
+        },
+        {
+            "cause": "The bitcoin network",
+            "relation": "originated from",
+            "effect": "Nakamoto’s proposed cryptographic payment system"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has moved from",
+            "effect": "the financial fringes toward the mainstream"
+        },
+        {
+            "cause": "Bitcoin’s development",
+            "relation": "has progressed in",
+            "effect": "jagged fits and starts"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has not taken off as",
+            "effect": "a way to pay for groceries"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "found popularity as",
+            "effect": "a kind of “digital gold”"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "serves as",
+            "effect": "a way to store value"
+        },
+        {
+            "cause": "Value stored in bitcoin",
+            "relation": "is not subject to",
+            "effect": "the direct influence of a federal government or a central bank"
+        },
+        {
+            "cause": "Federal governments and central banks",
+            "relation": "do not directly influence",
+            "effect": "value stored in bitcoin"
+        },
+        {
+            "cause": "In its early days, bitcoin",
+            "relation": "had a reputation for use by",
+            "effect": "drug dealers, scammers, crypto enthusiasts, libertarians and others"
+        },
+        {
+            "cause": "Drug dealers, scammers, crypto enthusiasts, libertarians and others",
+            "relation": "were looking to move",
+            "effect": "money without oversight by the government"
+        },
+        {
+            "cause": "Government",
+            "relation": "provides",
+            "effect": "oversight over money movement that these users wanted to avoid"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "enabled moving",
+            "effect": "money without oversight by the government"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has found its way into",
+            "effect": "more investor portfolios"
+        },
+        {
+            "cause": "Investors",
+            "relation": "have added",
+            "effect": "bitcoin to their portfolios"
+        },
+        {
+            "cause": "The SEC",
+            "relation": "approved",
+            "effect": "exchange-traded funds that track the spot price of bitcoin"
+        },
+        {
+            "cause": "Exchange-traded funds",
+            "relation": "track",
+            "effect": "the spot price of bitcoin"
+        },
+        {
+            "cause": "Such ETFs",
+            "relation": "give investors",
+            "effect": "a relatively easy way to buy bitcoin directly in their existing trading accounts"
+        },
+        {
+            "cause": "Such ETFs",
+            "relation": "enable",
+            "effect": "investors to buy bitcoin through their existing trading accounts"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "has soared through",
+            "effect": "a series of manic bull runs"
+        },
+        {
+            "cause": "“Crypto winters”",
+            "relation": "brought",
+            "effect": "extreme declines in bitcoin’s price"
+        },
+        {
+            "cause": "Manic bull runs",
+            "relation": "produced",
+            "effect": "large increases in bitcoin’s price"
+        },
+        {
+            "cause": "Bitcoin’s price",
+            "relation": "rose from",
+            "effect": "just over $5,000 at the start of the COVID-19 pandemic to nearly $69,000 by late 2021"
+        },
+        {
+            "cause": "Bitcoin’s price",
+            "relation": "crashed below",
+            "effect": "$17,000"
+        },
+        {
+            "cause": "Hikes to interest rates by the Federal Reserve",
+            "relation": "contributed to",
+            "effect": "bitcoin’s crash below $17,000"
+        },
+        {
+            "cause": "The Federal Reserve",
+            "relation": "hiked",
+            "effect": "interest rates"
+        },
+        {
+            "cause": "The 2022 collapse of crypto exchange FTX",
+            "relation": "contributed to",
+            "effect": "bitcoin’s crash below $17,000"
+        },
+        {
+            "cause": "Crypto exchange FTX",
+            "relation": "collapsed in",
+            "effect": "2022"
+        },
+        {
+            "cause": "Bitcoin’s latest bull run",
+            "relation": "prompted",
+            "effect": "the man about to roll into the White House to take some credit"
+        },
+        {
+            "cause": "The man about to roll into the White House (Trump)",
+            "relation": "seemed to take",
+            "effect": "at least some credit for bitcoin’s bull run"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said",
+            "effect": "“CONGRATULATIONS BITCOINERS!!!” in a post on his Truth Social network"
+        },
+        {
+            "cause": "Trump",
+            "relation": "posted",
+            "effect": "on his Truth Social network"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "reached",
+            "effect": "$100,000 (implied by “$100,000!!!”)"
+        },
+        {
+            "cause": "Trump",
+            "relation": "implied he helped cause",
+            "effect": "bitcoin reaching $100,000 with “YOU’RE WELCOME!!!”"
+        }
+    ]
+}

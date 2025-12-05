@@ -1,0 +1,394 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "$100,000 for the first time on Wednesday"
+        },
+        {
+            "cause": "The cryptocurrency",
+            "relation": "has risen by",
+            "effect": "over $30,000 since Donald Trump's reelection"
+        },
+        {
+            "cause": "Donald Trump's reelection",
+            "relation": "preceded and coincided with",
+            "effect": "the cryptocurrency rising by over $30,000"
+        },
+        {
+            "cause": "Trump",
+            "relation": "picked",
+            "effect": "Paul Atkins to run the SEC"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is widely viewed as",
+            "effect": "pro-crypto"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "hit",
+            "effect": "$100,000 for the first time ever on Wednesday night"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "reached",
+            "effect": "the coveted six-figure milestone"
+        },
+        {
+            "cause": "Investors",
+            "relation": "fuel",
+            "effect": "a red-hot rally"
+        },
+        {
+            "cause": "Donald Trump's election win",
+            "relation": "preceded and helped trigger",
+            "effect": "investors fueling a red-hot rally"
+        },
+        {
+            "cause": "The coin",
+            "relation": "traded at",
+            "effect": "$100,400 around 9:30 p.m. ET"
+        },
+        {
+            "cause": "The coin",
+            "relation": "continued climbing after",
+            "effect": "crossing the $100,000 mark"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "was trading around",
+            "effect": "$102,700 two hours later"
+        },
+        {
+            "cause": "The token",
+            "relation": "had approached",
+            "effect": "the $100,000 milestone last month"
+        },
+        {
+            "cause": "The token",
+            "relation": "dropped back down as",
+            "effect": "investors took profits"
+        },
+        {
+            "cause": "Investors",
+            "relation": "took",
+            "effect": "profits"
+        },
+        {
+            "cause": "Investors",
+            "relation": "struggled to clear",
+            "effect": "the important psychological resistance level"
+        },
+        {
+            "cause": "The important psychological resistance level",
+            "relation": "impeded",
+            "effect": "investors pushing the price higher"
+        },
+        {
+            "cause": "The world's largest cryptocurrency",
+            "relation": "has climbed steadily since",
+            "effect": "Trump won the election"
+        },
+        {
+            "cause": "Trump's election win",
+            "relation": "preceded and supported",
+            "effect": "the steady climb in the cryptocurrency"
+        },
+        {
+            "cause": "The cryptocurrency",
+            "relation": "rose from",
+            "effect": "just under $70,000 to $100,000 in just over two weeks"
+        },
+        {
+            "cause": "Analysts",
+            "relation": "have predicted",
+            "effect": "it could keep going higher"
+        },
+        {
+            "cause": "Standard Chartered",
+            "relation": "said the crypto could rally to",
+            "effect": "$125,000 by the end of the year"
+        },
+        {
+            "cause": "Standard Chartered",
+            "relation": "predicted in a note",
+            "effect": "a rally to $125,000"
+        },
+        {
+            "cause": "Craig Johnson",
+            "relation": "said he saw",
+            "effect": "bitcoin headed toward $130,000"
+        },
+        {
+            "cause": "Craig Johnson",
+            "relation": "gave his prediction in",
+            "effect": "an interview with CNBC"
+        },
+        {
+            "cause": "Michael Saylor",
+            "relation": "said his long-term forecast is for",
+            "effect": "the token to hit $13 million by 2045"
+        },
+        {
+            "cause": "Michael Saylor",
+            "relation": "forecast",
+            "effect": "the token to hit $13 million by 2045"
+        },
+        {
+            "cause": "The price of bitcoin",
+            "relation": "is up",
+            "effect": "133% year-to-date"
+        },
+        {
+            "cause": "Trump's nomination of Paul Atkins to run the SEC",
+            "relation": "was the latest Trump-related development to",
+            "effect": "push bitcoin higher"
+        },
+        {
+            "cause": "Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins to run the Securities and Exchange Commission"
+        },
+        {
+            "cause": "Trump's nomination of Atkins",
+            "relation": "helped push",
+            "effect": "bitcoin higher"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "is widely viewed as",
+            "effect": "pro-crypto"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "cochairs",
+            "effect": "the Chamber of Digital Commerce's Token Alliance"
+        },
+        {
+            "cause": "The Token Alliance",
+            "relation": "is an industry-led initiative to",
+            "effect": "represent the sector"
+        },
+        {
+            "cause": "The initiative",
+            "relation": "represents",
+            "effect": "the crypto sector"
+        },
+        {
+            "cause": "Atkins (if confirmed)",
+            "relation": "would replace",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "has taken",
+            "effect": "a more aggressive approach to regulating crypto"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "regulates",
+            "effect": "crypto aggressively"
+        },
+        {
+            "cause": "The market",
+            "relation": "has cheered",
+            "effect": "developments about potential crypto-friendly appointments"
+        },
+        {
+            "cause": "Reports",
+            "relation": "say the President-elect could appoint",
+            "effect": "a \"crypto czar\" in the White House"
+        },
+        {
+            "cause": "The President-elect",
+            "relation": "could appoint",
+            "effect": "a \"crypto czar\" in the White House"
+        },
+        {
+            "cause": "Bloomberg",
+            "relation": "reported",
+            "effect": "Trump could create a new position to guide the market"
+        },
+        {
+            "cause": "Trump",
+            "relation": "could create",
+            "effect": "a new position to guide the market"
+        },
+        {
+            "cause": "The new position",
+            "relation": "would guide",
+            "effect": "the market"
+        },
+        {
+            "cause": "Senator Cynthia Lummis",
+            "relation": "reignited",
+            "effect": "the market's excitement"
+        },
+        {
+            "cause": "Senator Cynthia Lummis",
+            "relation": "reignited excitement over",
+            "effect": "the creation of a national bitcoin reserve"
+        },
+        {
+            "cause": "Trump's campaign promise",
+            "relation": "is",
+            "effect": "the creation of a national bitcoin reserve"
+        },
+        {
+            "cause": "The Wyoming senator",
+            "relation": "said",
+            "effect": "the Federal Reserve should sell some gold to buy bitcoin"
+        },
+        {
+            "cause": "The Federal Reserve",
+            "relation": "should sell",
+            "effect": "some of its 1970s-era gold stash"
+        },
+        {
+            "cause": "The Federal Reserve",
+            "relation": "should use proceeds to buy",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "Selling some of its gold stash to buy bitcoin",
+            "relation": "would avoid",
+            "effect": "having to print any new money"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "said",
+            "effect": "Trump represented a \"paradigm shift\" for industry regulation"
+        },
+        {
+            "cause": "Trump",
+            "relation": "represented",
+            "effect": "a paradigm shift for industry regulation"
+        },
+        {
+            "cause": "Mike Novogratz",
+            "relation": "predicted",
+            "effect": "the coin would undergo a correction and pull back after hitting $100,000"
+        },
+        {
+            "cause": "The coin",
+            "relation": "would undergo",
+            "effect": "a correction and pull back after hitting $100,000"
+        },
+        {
+            "cause": "The coin",
+            "relation": "would eventually continue to",
+            "effect": "rally"
+        },
+        {
+            "cause": "The entire cabinet",
+            "relation": "almost owns",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "The entire cabinet",
+            "relation": "are",
+            "effect": "proponents of digital assets"
+        },
+        {
+            "cause": "Novogratz",
+            "relation": "said of the incoming administration",
+            "effect": "that the cabinet are bitcoin owners and digital-asset proponents"
+        },
+        {
+            "cause": "The people around that table",
+            "relation": "are very pro",
+            "effect": "this space"
+        },
+        {
+            "cause": "The people around that table",
+            "relation": "are pro",
+            "effect": "innovation"
+        },
+        {
+            "cause": "The people around that table",
+            "relation": "are pro",
+            "effect": "digital assets"
+        },
+        {
+            "cause": "The people around that table",
+            "relation": "are pro",
+            "effect": "bitcoin"
+        },
+        {
+            "cause": "Michael Saylor",
+            "relation": "transformed",
+            "effect": "his software company into a massive bitcoin holding company"
+        },
+        {
+            "cause": "Republicans taking control of the White House and Congress in January",
+            "relation": "would be",
+            "effect": "a tailwind for the crypto industry"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "said",
+            "effect": "Republicans taking control would be a tailwind for the crypto industry"
+        },
+        {
+            "cause": "The red wave",
+            "relation": "converted",
+            "effect": "headwinds into tailwinds"
+        },
+        {
+            "cause": "The red wave",
+            "relation": "turned",
+            "effect": "a 20% headwind into a 20% tailwind"
+        },
+        {
+            "cause": "The red wave",
+            "relation": "made Saylor",
+            "effect": "more bullish"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "would be more bullish based upon",
+            "effect": "the red wave"
+        },
+        {
+            "cause": "Saylor",
+            "relation": "told",
+            "effect": "CNBC about the shift from headwinds to tailwinds"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "praised",
+            "effect": "Atkins"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "praised Atkins in",
+            "effect": "a Wednesday night X post"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "broke through",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "Cathie Wood",
+            "relation": "said",
+            "effect": "bitcoin still is in early innings"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "still is in",
+            "effect": "early innings (in Wood’s view)"
+        },
+        {
+            "cause": "Her firm",
+            "relation": "believes",
+            "effect": "bitcoin is a much bigger idea than gold"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "is a much bigger idea than",
+            "effect": "gold (according to her firm)"
+        }
+    ]
+}

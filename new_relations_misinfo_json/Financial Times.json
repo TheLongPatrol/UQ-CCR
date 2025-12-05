@@ -1,0 +1,959 @@
+{
+    "triples": [
+        {
+            "cause": "price of a bitcoin",
+            "relation": "closed at",
+            "effect": "just below 70,000 US dollars"
+        },
+        {
+            "cause": "election day last month",
+            "relation": "was when",
+            "effect": "the price of a bitcoin closed just below 70,000 US dollars"
+        },
+        {
+            "cause": "that sub-70,000 dollar closing price",
+            "relation": "is considered",
+            "effect": "respectable"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "is heading back to",
+            "effect": "the White House"
+        },
+        {
+            "cause": "Trump heading back to the White House",
+            "relation": "has accompanied",
+            "effect": "the soaring price of bitcoin"
+        },
+        {
+            "cause": "price of bitcoin",
+            "relation": "has soared",
+            "effect": "relative to its level on election day"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "started trading for the first time",
+            "effect": "above $100,000"
+        },
+        {
+            "cause": "this week",
+            "relation": "is when",
+            "effect": "bitcoin started trading above $100,000"
+        },
+        {
+            "cause": "speaker",
+            "relation": "chooses to start with",
+            "effect": "Nikou"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "reached",
+            "effect": "a major milestone on Wednesday"
+        },
+        {
+            "cause": "Wednesday",
+            "relation": "was when",
+            "effect": "bitcoin reached this major milestone"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "hit",
+            "effect": "$100,000"
+        },
+        {
+            "cause": "events in “Trump world” on Wednesday",
+            "relation": "led to",
+            "effect": "the big spike in bitcoin’s price"
+        },
+        {
+            "cause": "Trump",
+            "relation": "nominated",
+            "effect": "Paul Atkins to be the new head of the SEC"
+        },
+        {
+            "cause": "Trump nominating Paul Atkins",
+            "relation": "has been",
+            "effect": "the main impetus for the bitcoin price spike"
+        },
+        {
+            "cause": "Trump nominating Paul Atkins",
+            "relation": "caused",
+            "effect": "the delight of almost everyone in crypto"
+        },
+        {
+            "cause": "almost everyone in crypto",
+            "relation": "would have been delighted with",
+            "effect": "anyone other than Gary Gensler as SEC head"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "is",
+            "effect": "pretty pro-crypto"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "has said",
+            "effect": "some nice things about the crypto industry"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "has thoughts on",
+            "effect": "what he wants to do in crypto"
+        },
+        {
+            "cause": "Paul Atkins",
+            "relation": "has thoughts on",
+            "effect": "what he thinks could be done better in crypto"
+        },
+        {
+            "cause": "Atkins’s positive comments and ideas",
+            "relation": "are",
+            "effect": "music to the ears of everyone in crypto"
+        },
+        {
+            "cause": "Atkins’s stance and nomination",
+            "relation": "have helped push",
+            "effect": "the price of bitcoin up to six-figure levels"
+        },
+        {
+            "cause": "price of bitcoin",
+            "relation": "has risen to",
+            "effect": "six-figure levels"
+        },
+        {
+            "cause": "speaker",
+            "relation": "wants to ask",
+            "effect": "Stefania a question"
+        },
+        {
+            "cause": "Biden administration and Gary Gensler",
+            "relation": "have taken",
+            "effect": "a particular approach to crypto"
+        },
+        {
+            "cause": "crypto enthusiasts",
+            "relation": "were happy to see",
+            "effect": "Gary Gensler on his way out"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "was",
+            "effect": "on his way out as SEC chair"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "is",
+            "effect": "the current chair of the Securities and Exchange Commission"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "has become",
+            "effect": "enemy number one for the crypto world"
+        },
+        {
+            "cause": "crypto world",
+            "relation": "sees",
+            "effect": "Gary Gensler as enemy number one"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "was very clear about",
+            "effect": "his intention to brand the crypto sector as a Wild West"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "was going to brand",
+            "effect": "the crypto sector as a Wild West"
+        },
+        {
+            "cause": "crypto sector",
+            "relation": "is branded as",
+            "effect": "a Wild West"
+        },
+        {
+            "cause": "crypto sector",
+            "relation": "is described as",
+            "effect": "rife with fraud, investor risks, and misconduct"
+        },
+        {
+            "cause": "Gary Gensler’s refusal to craft regulation for digital assets",
+            "relation": "irked",
+            "effect": "crypto players further"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "has refused to craft",
+            "effect": "regulation for digital assets"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "claimed",
+            "effect": "existing securities law is sufficiently clear for digital assets"
+        },
+        {
+            "cause": "existing securities law",
+            "relation": "is (according to Gensler)",
+            "effect": "sufficiently clear for digital asset firms"
+        },
+        {
+            "cause": "digital asset firms",
+            "relation": "should follow",
+            "effect": "the rules that everyone in the market follows"
+        },
+        {
+            "cause": "everyone in the market",
+            "relation": "follows",
+            "effect": "current securities law rules"
+        },
+        {
+            "cause": "instead of crafting new regulation, Gary Gensler",
+            "relation": "cracked down",
+            "effect": "from an enforcement point of view"
+        },
+        {
+            "cause": "enforcement-focused crackdown",
+            "relation": "happened instead of",
+            "effect": "new digital-asset regulation"
+        },
+        {
+            "cause": "crypto market",
+            "relation": "pushed back with",
+            "effect": "the refrain “you’re regulating by enforcement”"
+        },
+        {
+            "cause": "crypto market",
+            "relation": "accused",
+            "effect": "the SEC of regulating by enforcement"
+        },
+        {
+            "cause": "crypto players",
+            "relation": "were absolutely not happy with",
+            "effect": "regulation by enforcement"
+        },
+        {
+            "cause": "Stefania",
+            "relation": "said",
+            "effect": "Gensler was going to be enemy number one"
+        },
+        {
+            "cause": "key crypto investors and executives",
+            "relation": "hated",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "key crypto investors and executives",
+            "relation": "still hate",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "said",
+            "effect": "he would resign"
+        },
+        {
+            "cause": "Kraken",
+            "relation": "is",
+            "effect": "one of the biggest US crypto exchanges"
+        },
+        {
+            "cause": "Jesse Powell",
+            "relation": "is",
+            "effect": "the co-founder of Kraken"
+        },
+        {
+            "cause": "Jesse Powell",
+            "relation": "wrote on Twitter/X",
+            "effect": "an insult directed at Gary Gensler"
+        },
+        {
+            "cause": "Jesse Powell’s tweet",
+            "relation": "called",
+            "effect": "Gary Gensler “a clown and a treasonous terrorist”"
+        },
+        {
+            "cause": "that description of Gensler",
+            "relation": "is considered",
+            "effect": "outrageous by the speaker"
+        },
+        {
+            "cause": "speaker",
+            "relation": "turns the conversation back to",
+            "effect": "the Trump administration"
+        },
+        {
+            "cause": "Trump",
+            "relation": "talked about",
+            "effect": "crypto on the campaign trail"
+        },
+        {
+            "cause": "Trump",
+            "relation": "made",
+            "effect": "promises to the crypto industry"
+        },
+        {
+            "cause": "number of promises",
+            "relation": "was",
+            "effect": "very large"
+        },
+        {
+            "cause": "Trump",
+            "relation": "said",
+            "effect": "he wanted to create a bitcoin strategic reserve fund"
+        },
+        {
+            "cause": "Trump",
+            "relation": "wants to create",
+            "effect": "a bitcoin strategic reserve fund"
+        },
+        {
+            "cause": "creating a bitcoin strategic reserve fund",
+            "relation": "would be",
+            "effect": "a huge thing to do"
+        },
+        {
+            "cause": "mid-campaign, Trump",
+            "relation": "helped launch and promote",
+            "effect": "a crypto company"
+        },
+        {
+            "cause": "the crypto company",
+            "relation": "is backed by",
+            "effect": "Trump’s sons and Steve Wyckoff"
+        },
+        {
+            "cause": "Steve Wyckoff",
+            "relation": "is",
+            "effect": "Trump’s friend"
+        },
+        {
+            "cause": "Steve Wyckoff",
+            "relation": "is",
+            "effect": "a real estate investor"
+        },
+        {
+            "cause": "Steve Wyckoff",
+            "relation": "has been appointed to be",
+            "effect": "the US Middle East envoy"
+        },
+        {
+            "cause": "Trump’s personal, political, and crypto objectives",
+            "relation": "are",
+            "effect": "meshed together"
+        },
+        {
+            "cause": "Trump",
+            "relation": "is coming out and saying",
+            "effect": "pro-crypto things"
+        },
+        {
+            "cause": "Trump",
+            "relation": "wants",
+            "effect": "all remaining bitcoin to be mined in the US"
+        },
+        {
+            "cause": "Trump",
+            "relation": "wants",
+            "effect": "bitcoin/crypto production to be “made in America”"
+        },
+        {
+            "cause": "Trump’s pro-crypto statements",
+            "relation": "delight",
+            "effect": "the crypto industry"
+        },
+        {
+            "cause": "crypto industry",
+            "relation": "is delighted by",
+            "effect": "Trump’s promises and rhetoric"
+        },
+        {
+            "cause": "the idea of promoting the US crypto industry",
+            "relation": "has set",
+            "effect": "everyone (in crypto) ablaze with excitement"
+        },
+        {
+            "cause": "Trump",
+            "relation": "promises",
+            "effect": "“On day one, I will fire Gary Gensler”"
+        },
+        {
+            "cause": "firing Gary Gensler",
+            "relation": "would remove",
+            "effect": "him from SEC leadership"
+        },
+        {
+            "cause": "speaker",
+            "relation": "did not know",
+            "effect": "Gary Gensler was that unpopular"
+        },
+        {
+            "cause": "Gary Gensler",
+            "relation": "is",
+            "effect": "very unpopular"
+        },
+        {
+            "cause": "crypto space",
+            "relation": "is happy to hear",
+            "effect": "Trump hinted at forming a council on regulation"
+        },
+        {
+            "cause": "Trump",
+            "relation": "hinted at",
+            "effect": "considering putting together a council on crypto regulation"
+        },
+        {
+            "cause": "Trump",
+            "relation": "is considering putting together",
+            "effect": "a council to think about regulation for crypto"
+        },
+        {
+            "cause": "such a council",
+            "relation": "would think about putting together",
+            "effect": "regulation for crypto"
+        },
+        {
+            "cause": "creating such a council",
+            "relation": "would be",
+            "effect": "a big move away from Gensler’s approach"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "has not put together",
+            "effect": "bespoke regulation for crypto"
+        },
+        {
+            "cause": "theme of this podcast",
+            "relation": "is",
+            "effect": "“crypto people hate Gary Gensler”"
+        },
+        {
+            "cause": "crypto people",
+            "relation": "hate",
+            "effect": "Gary Gensler"
+        },
+        {
+            "cause": "Nikou",
+            "relation": "speaks to",
+            "effect": "lots of crypto executives"
+        },
+        {
+            "cause": "speaking to crypto executives",
+            "relation": "is",
+            "effect": "part of Nikou’s job"
+        },
+        {
+            "cause": "crypto executives",
+            "relation": "go to sleep and dream about",
+            "effect": "a Donald-Trump-led crypto utopia"
+        },
+        {
+            "cause": "Donald Trump",
+            "relation": "leads",
+            "effect": "the imagined crypto utopia"
+        },
+        {
+            "cause": "crypto utopia",
+            "relation": "is nicknamed",
+            "effect": "“cryptopia”"
+        },
+        {
+            "cause": "crypto executives",
+            "relation": "have",
+            "effect": "an ideal policy and regulatory environment"
+        },
+        {
+            "cause": "top priority for crypto executives",
+            "relation": "is",
+            "effect": "getting Gensler out"
+        },
+        {
+            "cause": "getting Gensler out",
+            "relation": "has already been",
+            "effect": "done"
+        },
+        {
+            "cause": "under the SEC, regulators",
+            "relation": "launched lawsuits against",
+            "effect": "Coinbase, Kraken, Crypto.com and many US crypto companies"
+        },
+        {
+            "cause": "almost any US crypto company",
+            "relation": "is in",
+            "effect": "a lawsuit with the SEC"
+        },
+        {
+            "cause": "after firing Gary Gensler",
+            "relation": "the aim is to end",
+            "effect": "all these lawsuits and regulation by enforcement"
+        },
+        {
+            "cause": "firing Gary Gensler",
+            "relation": "is intended to end",
+            "effect": "lawsuits and regulation by enforcement"
+        },
+        {
+            "cause": "removing Gensler and changing leadership",
+            "relation": "brings",
+            "effect": "demands for new types of regulation"
+        },
+        {
+            "cause": "new regulation",
+            "relation": "would allow",
+            "effect": "banks to bank crypto companies"
+        },
+        {
+            "cause": "banks",
+            "relation": "have found it",
+            "effect": "really difficult to bank crypto companies"
+        },
+        {
+            "cause": "new regulation",
+            "relation": "would allow",
+            "effect": "banks and asset managers to hold crypto on their balance sheets more easily"
+        },
+        {
+            "cause": "easier ability to hold crypto on balance sheets",
+            "relation": "would benefit",
+            "effect": "banks and asset managers"
+        },
+        {
+            "cause": "ultimate aim",
+            "relation": "is",
+            "effect": "to bring crypto out of the edges and into the mainstream"
+        },
+        {
+            "cause": "policy and regulatory changes",
+            "relation": "are intended to bring",
+            "effect": "crypto into the mainstream"
+        },
+        {
+            "cause": "a second Trump administration",
+            "relation": "could bring",
+            "effect": "a situation where crypto is more mainstream"
+        },
+        {
+            "cause": "crypto becoming more mainstream",
+            "relation": "would make",
+            "effect": "crypto part of the US financial system"
+        },
+        {
+            "cause": "crypto becoming part of the financial system",
+            "relation": "would impact",
+            "effect": "banks and consumers"
+        },
+        {
+            "cause": "people",
+            "relation": "worry that",
+            "effect": "if crypto becomes more enmeshed with traditional finance, a crash will be more devastating"
+        },
+        {
+            "cause": "greater enmeshment of crypto with traditional finance",
+            "relation": "would make",
+            "effect": "any future crash more devastating"
+        },
+        {
+            "cause": "a crash in the price of bitcoin and other tokens",
+            "relation": "would be",
+            "effect": "more devastating than past crypto winters"
+        },
+        {
+            "cause": "in 2022, the crypto market collapse",
+            "relation": "caused",
+            "effect": "the price of bitcoin to plunge"
+        },
+        {
+            "cause": "the 2022 plunge",
+            "relation": "hurt",
+            "effect": "mostly ordinary retail investors"
+        },
+        {
+            "cause": "ordinary retail investors",
+            "relation": "were trading",
+            "effect": "on apps on their phones"
+        },
+        {
+            "cause": "many people",
+            "relation": "are worried that",
+            "effect": "if BlackRock and other big banks and asset managers are more involved, a collapse will be more devastating"
+        },
+        {
+            "cause": "involvement of BlackRock and other big institutions",
+            "relation": "would make",
+            "effect": "any collapse more devastating"
+        },
+        {
+            "cause": "scenario of fully enmeshed crypto and traditional finance",
+            "relation": "is",
+            "effect": "far from where we are now"
+        },
+        {
+            "cause": "that far-off devastating-collapse scenario",
+            "relation": "is",
+            "effect": "the ultimate worry"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "had",
+            "effect": "very harsh words for the sector"
+        },
+        {
+            "cause": "speaker",
+            "relation": "is backing",
+            "effect": "Gensler a little bit"
+        },
+        {
+            "cause": "Gensler’s harsh words",
+            "relation": "did not come from",
+            "effect": "thin air"
+        },
+        {
+            "cause": "the crypto sector",
+            "relation": "has",
+            "effect": "a history of fraud"
+        },
+        {
+            "cause": "the entire sector",
+            "relation": "is not",
+            "effect": "entirely fraudulent"
+        },
+        {
+            "cause": "crypto sector",
+            "relation": "is",
+            "effect": "a new industry"
+        },
+        {
+            "cause": "we (observers/regulators)",
+            "relation": "do not yet know",
+            "effect": "where the risks in crypto truly lie"
+        },
+        {
+            "cause": "making crypto more mainstream and enmeshed",
+            "relation": "would raise",
+            "effect": "a whole other host of questions"
+        },
+        {
+            "cause": "Gensler",
+            "relation": "was worried about",
+            "effect": "those additional questions"
+        },
+        {
+            "cause": "if Paul Atkins is confirmed by the Senate",
+            "relation": "he will lead",
+            "effect": "the SEC"
+        },
+        {
+            "cause": "people",
+            "relation": "wonder about",
+            "effect": "how Atkins’s SEC would handle crypto concerns"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "has pointed to",
+            "effect": "his greater openness to crafting rules"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "would be more open to",
+            "effect": "crafting rules for crypto"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "told a podcast",
+            "effect": "the SEC should have its ear to the ground"
+        },
+        {
+            "cause": "the SEC",
+            "relation": "should have",
+            "effect": "its ear to the ground"
+        },
+        {
+            "cause": "the SEC",
+            "relation": "should try to understand",
+            "effect": "how the market is working"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "sees",
+            "effect": "good potential in crypto for investors"
+        },
+        {
+            "cause": "crypto",
+            "relation": "has",
+            "effect": "potential to challenge incumbents"
+        },
+        {
+            "cause": "crypto",
+            "relation": "has",
+            "effect": "potential for capital formation"
+        },
+        {
+            "cause": "focus on capital formation",
+            "relation": "has been",
+            "effect": "a recurring theme for Atkins"
+        },
+        {
+            "cause": "capital formation",
+            "relation": "constitutes",
+            "effect": "a key role for the SEC in Atkins’s view"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "would be far more open to",
+            "effect": "putting together a set of rules for crypto"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "is",
+            "effect": "pretty enmeshed in the crypto industry"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "sits on the advisory board of",
+            "effect": "the Digital Chamber"
+        },
+        {
+            "cause": "Digital Chamber",
+            "relation": "is",
+            "effect": "a blockchain crypto trade group"
+        },
+        {
+            "cause": "Atkins",
+            "relation": "is an adviser to",
+            "effect": "Securitize"
+        },
+        {
+            "cause": "Securitize",
+            "relation": "is",
+            "effect": "a big blockchain tokenisation company"
+        },
+        {
+            "cause": "Atkins’s advisory roles and understanding of crypto companies",
+            "relation": "shape",
+            "effect": "his views on crypto"
+        },
+        {
+            "cause": "Atkins’s views on crypto",
+            "relation": "are markedly different from",
+            "effect": "Gensler’s views"
+        },
+        {
+            "cause": "Sonja Hutson",
+            "relation": "wants to go back to",
+            "effect": "Trump in the discussion"
+        },
+        {
+            "cause": "Trump",
+            "relation": "has assembled",
+            "effect": "an electoral coalition"
+        },
+        {
+            "cause": "crypto enthusiasts",
+            "relation": "fit into",
+            "effect": "Trump’s electoral coalition"
+        },
+        {
+            "cause": "crypto industry",
+            "relation": "fits into",
+            "effect": "Trump’s ethos and worldview"
+        },
+        {
+            "cause": "Trump",
+            "relation": "has historically been attracted to",
+            "effect": "powerful, cutting-edge business individuals"
+        },
+        {
+            "cause": "that attraction to powerful, cutting-edge figures",
+            "relation": "helps explain",
+            "effect": "why big tech and VC crypto players are enmeshed in Trump world"
+        },
+        {
+            "cause": "big tech and VC players enmeshed in the crypto world",
+            "relation": "are",
+            "effect": "enmeshed in Trump world"
+        },
+        {
+            "cause": "crypto community’s ethos",
+            "relation": "is",
+            "effect": "“let us do our thing, let us develop this idea”"
+        },
+        {
+            "cause": "crypto enthusiasts",
+            "relation": "do not want",
+            "effect": "much government oversight"
+        },
+        {
+            "cause": "crypto ethos",
+            "relation": "is in line with",
+            "effect": "Trump’s thinking"
+        },
+        {
+            "cause": "philosophy of minimal government and bank oversight",
+            "relation": "is",
+            "effect": "the philosophy crypto was born in"
+        },
+        {
+            "cause": "early crypto advocates",
+            "relation": "did not want",
+            "effect": "governments and banks to track and trace them"
+        },
+        {
+            "cause": "early crypto advocates",
+            "relation": "intended to conduct",
+            "effect": "all transactions on the blockchain"
+        },
+        {
+            "cause": "doing transactions on the blockchain",
+            "relation": "gives",
+            "effect": "freedom and power to the people"
+        },
+        {
+            "cause": "price of bitcoin",
+            "relation": "is hitting",
+            "effect": "over $100,000"
+        },
+        {
+            "cause": "celebration of bitcoin’s high price",
+            "relation": "is because",
+            "effect": "the White House is accepting crypto"
+        },
+        {
+            "cause": "the White House",
+            "relation": "is",
+            "effect": "arguably the biggest institution in the world"
+        },
+        {
+            "cause": "the White House",
+            "relation": "is accepting",
+            "effect": "crypto"
+        },
+        {
+            "cause": "White House acceptance of crypto",
+            "relation": "has boosted",
+            "effect": "enthusiasm and price in crypto"
+        },
+        {
+            "cause": "crypto movement",
+            "relation": "has moved away from",
+            "effect": "anti-establishment, anti-institution ideals"
+        },
+        {
+            "cause": "current crypto movement",
+            "relation": "is celebrating",
+            "effect": "the biggest institution (the White House)"
+        },
+        {
+            "cause": "this shift from anti-institution to pro-institution",
+            "relation": "creates",
+            "effect": "an ironic situation"
+        },
+        {
+            "cause": "mainstream institutional embrace of bitcoin",
+            "relation": "makes",
+            "effect": "bitcoin less attractive/“less sexy” than before"
+        },
+        {
+            "cause": "speaker",
+            "relation": "thinks",
+            "effect": "bitcoin has become less sexy than it once was"
+        },
+        {
+            "cause": "early-2010s bitcoin holders",
+            "relation": "believed",
+            "effect": "bitcoin was going to be the future of finance"
+        },
+        {
+            "cause": "early-2010s bitcoin believers",
+            "relation": "thought",
+            "effect": "they were going to upend Wall Street"
+        },
+        {
+            "cause": "that revolutionary “future of finance / upend Wall Street” idea",
+            "relation": "has",
+            "effect": "all but disappeared"
+        },
+        {
+            "cause": "current bitcoin holders",
+            "relation": "hold bitcoin because",
+            "effect": "they are making so much money"
+        },
+        {
+            "cause": "bitcoin",
+            "relation": "is making",
+            "effect": "its current holders a lot of money"
+        },
+        {
+            "cause": "current motivation for holding bitcoin",
+            "relation": "is",
+            "effect": "completely different now"
+        },
+        {
+            "cause": "crypto market",
+            "relation": "has experienced",
+            "effect": "booms and busts"
+        },
+        {
+            "cause": "from November 2021 to November 2022",
+            "relation": "bitcoin’s value",
+            "effect": "plunged about 75 per cent"
+        },
+        {
+            "cause": "Donald Trump in the White House",
+            "relation": "could make",
+            "effect": "this boom different (questioned)"
+        },
+        {
+            "cause": "or the Trump-era boom",
+            "relation": "could repeat",
+            "effect": "a Groundhog Day-style cycle of boom and bust"
+        },
+        {
+            "cause": "at the moment",
+            "relation": "there is",
+            "effect": "almost nothing negative for crypto in the US"
+        },
+        {
+            "cause": "crypto community",
+            "relation": "has",
+            "effect": "almost everything it wanted on paper"
+        },
+        {
+            "cause": "United States",
+            "relation": "has",
+            "effect": "a pro-crypto president"
+        },
+        {
+            "cause": "United States",
+            "relation": "has",
+            "effect": "a relatively pro-crypto head of the SEC"
+        },
+        {
+            "cause": "it",
+            "relation": "is yet to be seen",
+            "effect": "what rules and regulations the new SEC head will produce"
+        },
+        {
+            "cause": "current period for crypto",
+            "relation": "is",
+            "effect": "“glory days”"
+        },
+        {
+            "cause": "only an FTX-scale type collapse",
+            "relation": "would spur",
+            "effect": "the price of bitcoin to plunge to prior crash levels"
+        },
+        {
+            "cause": "absence of an FTX-scale collapse",
+            "relation": "is expected to prevent",
+            "effect": "a huge plunge in bitcoin’s price"
+        },
+        {
+            "cause": "current situation",
+            "relation": "seems",
+            "effect": "pretty rosy"
+        },
+        {
+            "cause": "everything seeming rosy in markets",
+            "relation": "is",
+            "effect": "a scary place to be"
+        }
+    ]
+}

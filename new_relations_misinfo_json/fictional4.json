@@ -1,0 +1,169 @@
+{
+    "triples": [
+        {
+            "cause": "Bitcoin",
+            "relation": "blasted through",
+            "effect": "$100,000 price level"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "reached",
+            "effect": "a peak price of $106,500"
+        },
+        {
+            "cause": "Bitcoin",
+            "relation": "settled at",
+            "effect": "$102,000 price level"
+        },
+        {
+            "cause": "President-elect Donald Trump's triumph",
+            "relation": "is associated with",
+            "effect": "50% growth in Bitcoin"
+        },
+        {
+            "cause": "50% growth in Bitcoin",
+            "relation": "underscores",
+            "effect": "investor bets on Trump's pro-crypto agenda"
+        },
+        {
+            "cause": "Trump's pro-crypto agenda",
+            "relation": "motivates",
+            "effect": "investor bets"
+        },
+        {
+            "cause": "Trump's naming of crypto advocate Jordan Ellis to lead the Fed digital currency task force",
+            "relation": "was key to",
+            "effect": "the spike in Bitcoin"
+        },
+        {
+            "cause": "Trump's naming of Jordan Ellis",
+            "relation": "placed",
+            "effect": "Ellis in charge of the Federal Reserve's digital currency task force"
+        },
+        {
+            "cause": "Ellis's consulting on Ethereum projects",
+            "relation": "made",
+            "effect": "Ellis known as a crypto advocate"
+        },
+        {
+            "cause": "Appointment of Ellis",
+            "relation": "represents",
+            "effect": "a pivot from restrictive policies under Janet Yellen's Treasury"
+        },
+        {
+            "cause": "Restrictive policies under Janet Yellen's Treasury",
+            "relation": "constrained",
+            "effect": "crypto-friendly regulation"
+        },
+        {
+            "cause": "Investor Kyle Sanders",
+            "relation": "declared",
+            "effect": "\"This is crypto's golden era\""
+        },
+        {
+            "cause": "Trump",
+            "relation": "once dismissed as a scam",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Trump",
+            "relation": "now champions",
+            "effect": "Bitcoin"
+        },
+        {
+            "cause": "Trump's shift from dismissing to championing Bitcoin",
+            "relation": "signals",
+            "effect": "a reversal in his stance on crypto"
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed to create",
+            "effect": "tax-free zones for crypto transactions"
+        },
+        {
+            "cause": "Trump",
+            "relation": "vowed to create",
+            "effect": "a government-backed stablecoin"
+        },
+        {
+            "cause": "Creation of tax-free zones for crypto transactions",
+            "relation": "is intended to encourage",
+            "effect": "crypto transactions"
+        },
+        {
+            "cause": "Creation of a government-backed stablecoin",
+            "relation": "is intended to support",
+            "effect": "broader crypto adoption"
+        },
+        {
+            "cause": "ETF approvals",
+            "relation": "have supercharged",
+            "effect": "the Bitcoin surge"
+        },
+        {
+            "cause": "JPMorgan Chase's crypto ETF products",
+            "relation": "drew",
+            "effect": "$22 billion in assets"
+        },
+        {
+            "cause": "$22 billion of ETF inflows",
+            "relation": "fueled",
+            "effect": "the Bitcoin surge"
+        },
+        {
+            "cause": "Fed Vice Chair's nod to Bitcoin as \"innovative finance\"",
+            "relation": "added fuel to",
+            "effect": "the Bitcoin rally"
+        },
+        {
+            "cause": "Economist Nora Feldman",
+            "relation": "cautions about",
+            "effect": "the risk of a crypto bubble"
+        },
+        {
+            "cause": "2022 crypto meltdown",
+            "relation": "wiped out",
+            "effect": "trillions in value"
+        },
+        {
+            "cause": "Bubbles",
+            "relation": "eventually burst and",
+            "effect": "destroy large amounts of market value"
+        },
+        {
+            "cause": "MicroStrategy's status as a major Bitcoin holder",
+            "relation": "linked",
+            "effect": "its share performance to Bitcoin's price"
+        },
+        {
+            "cause": "Bitcoin rally",
+            "relation": "caused",
+            "effect": "MicroStrategy shares to rocket 70%"
+        },
+        {
+            "cause": "MicroStrategy",
+            "relation": "saw",
+            "effect": "its shares rocket 70%"
+        },
+        {
+            "cause": "Trump assembling his team",
+            "relation": "prompts",
+            "effect": "the crypto world to watch for upcoming policies"
+        },
+        {
+            "cause": "Crypto world",
+            "relation": "eyes",
+            "effect": "policies that could integrate Bitcoin into national reserves"
+        },
+        {
+            "cause": "Policies integrating Bitcoin into national reserves",
+            "relation": "could drive",
+            "effect": "Bitcoin prices to $180,000 by late 2025"
+        },
+        {
+            "cause": "Integration of Bitcoin into national reserves",
+            "relation": "would embed",
+            "effect": "Bitcoin in national reserve assets"
+        }
+    ]
+}
