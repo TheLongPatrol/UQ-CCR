@@ -1,12 +1,23 @@
 """
 Reasoning Direction Classifier
 Classifies queries into forward, backward, or bidirectional reasoning directions.
+
+Direction Classification Logic:
+- Forward: Query asks about effects/consequences of X on Y (X → Y)
+  "How did X contribute to Y?" "What effect did X have on Y?"
+  
+- Backward: Query asks about causes/reasons for Y (? → Y)
+  "What caused Y?" "Why did Y happen?"
+  
+- Bidirectional: Query asks about general relationships
+  "What is the relationship between X and Y?"
 """
 
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
-from typing import Literal, Dict, List
+from typing import Literal, Dict, List, Tuple
 import numpy as np
+import re
 
 
 class DirectionClassifier:
@@ -22,36 +33,46 @@ class DirectionClassifier:
         self.model = SentenceTransformer(model_name)
         
         # Define direction patterns and their embeddings
+        # Forward: X causes/affects/contributes to Y (traverse from X to find effects)
+        # These patterns describe queries where we START from a cause and find effects
         self.direction_patterns = {
             'forward': [
-                "What happens if",
-                "What are the effects of",
-                "What does this cause",
-                "What are the consequences of",
-                "What results from",
-                "What leads to",
-                "What is caused by this",
-                "What follows from"
+                # "How did X contribute to Y" patterns - X is cause, Y is effect
+                "How did something contribute to the outcome",
+                "How did this affect that",
+                "How did X influence Y",
+                "What effect did X have on Y",
+                "How did X lead to Y",
+                "What impact did X have",
+                "How did X cause Y to happen",
+                "What were the effects of X on Y",
+                "How did X shape Y",
+                "What role did X play in Y",
+                "How did X drive Y",
+                "What consequences did X have for Y",
             ],
             'backward': [
-                "What causes this",
-                "Why does this happen",
-                "What leads to this",
-                "What are the reasons for",
-                "What explains this",
-                "What is the cause of",
-                "What results in this",
-                "What are the prerequisites for"
+                # "What caused Y" patterns - Y is the effect, looking for causes
+                "What caused this to happen",
+                "Why did this occur",
+                "What were the reasons for this",
+                "What led to this outcome",
+                "What explains this result",
+                "What factors caused this",
+                "What were the origins of this",
+                "What triggered this event",
+                "What are the causes behind this",
+                "What made this happen",
             ],
             'bidirectional': [
-                "What is related to",
-                "Tell me about",
-                "Explain the relationship",
-                "How is this connected",
-                "What is associated with",
-                "What are all factors involving",
-                "Describe everything about",
-                "What interactions involve"
+                "What is the relationship between X and Y",
+                "Tell me about X and Y",
+                "Explain the connection between these",
+                "How are X and Y connected",
+                "What is associated with this",
+                "Describe the interactions",
+                "What are all the relationships",
+                "How do these relate to each other",
             ]
         }
         
@@ -90,7 +111,12 @@ class DirectionClassifier:
     
     def classify_with_rules(self, query: str) -> Literal['forward', 'backward', 'bidirectional']:
         """
-        Classify using both semantic similarity and rule-based patterns.
+        Classify using both regex patterns and semantic similarity.
+        
+        Key insight:
+        - "How did X contribute/affect/influence Y" → FORWARD (X causes Y, traverse from X)
+        - "What caused Y" / "Why did Y happen" → BACKWARD (find causes of Y, traverse to Y)
+        - "Relationship between X and Y" → BIDIRECTIONAL
         
         Args:
             query: User query string
@@ -100,32 +126,54 @@ class DirectionClassifier:
         """
         query_lower = query.lower()
         
-        # Rule-based patterns
-        forward_keywords = ['effect', 'consequence', 'result', 'leads to', 'causes what', 
-                          'happens if', 'outcome', 'impact']
-        backward_keywords = ['cause', 'reason', 'why', 'leads to this', 'results in this',
-                           'explanation', 'source', 'origin', 'prerequisite']
-        bidirectional_keywords = ['relationship', 'connection', 'associated', 'related',
-                                 'interaction', 'everything about', 'tell me about']
+        # FORWARD patterns: "How did X contribute/affect/influence/lead to/cause Y"
+        # These ask about the EFFECT of X on Y, so we traverse FROM X
+        forward_patterns = [
+            r'how did .+ (contribute|affect|influence|impact|lead|drive|shape|cause|play.+role)',
+            r'how does .+ (contribute|affect|influence|impact|lead|drive|shape|cause)',
+            r'how .+ (contribute|affect|influence|impact|cause) .+',
+            r'what (effect|impact|influence|role) did .+ have',
+            r'what were the (effects|consequences|impacts|results) of .+ on',
+            r'how .+ (contributed|affected|influenced|impacted|led|shaped|caused)',
+            r'what happens (if|when)',
+            r'what (would|could|might) .+ cause',
+        ]
         
-        # Check for rule-based matches
-        forward_count = sum(1 for kw in forward_keywords if kw in query_lower)
-        backward_count = sum(1 for kw in backward_keywords if kw in query_lower)
-        bidirectional_count = sum(1 for kw in bidirectional_keywords if kw in query_lower)
+        # BACKWARD patterns: "What caused Y" / "Why did Y happen"
+        # These ask about the CAUSE of Y, so we traverse TO Y
+        backward_patterns = [
+            r'^what (caused|causes|led to|triggered|explains?|made)',
+            r'^why (did|does|is|was|were|has|have)',
+            r'what (are|were) the (causes?|reasons?|factors?|origins?) (of|for|behind)',
+            r'what (led|leads) to (this|the|that)',
+            r'what (is|was) (the|a) (cause|reason|source|origin) of',
+            r'what (drove|drives|prompted|triggered)',
+        ]
         
-        # If clear rule-based match, use it
-        rule_scores = {
-            'forward': forward_count,
-            'backward': backward_count,
-            'bidirectional': bidirectional_count
-        }
+        # BIDIRECTIONAL patterns: general relationship queries
+        bidirectional_patterns = [
+            r'(what is|explain|describe) the (relationship|connection|link) between',
+            r'how (are|is) .+ (related|connected|associated)',
+            r'tell me about .+ and',
+            r'what (are|is) .+ associated with',
+        ]
         
-        max_rule_score = max(rule_scores.values())
-        if max_rule_score > 0:
-            best_rule_direction = max(rule_scores, key=rule_scores.get)
-            print(f"Rule-based classification: {best_rule_direction}")
-            return best_rule_direction
+        # Check patterns with priority: forward > backward > bidirectional
+        for pattern in forward_patterns:
+            if re.search(pattern, query_lower):
+                print(f"Rule-based classification: forward (matched: {pattern})")
+                return 'forward'
         
-        # Otherwise, use semantic similarity
+        for pattern in backward_patterns:
+            if re.search(pattern, query_lower):
+                print(f"Rule-based classification: backward (matched: {pattern})")
+                return 'backward'
+        
+        for pattern in bidirectional_patterns:
+            if re.search(pattern, query_lower):
+                print(f"Rule-based classification: bidirectional (matched: {pattern})")
+                return 'bidirectional'
+        
+        # Fall back to semantic similarity
         return self.classify(query)
 
