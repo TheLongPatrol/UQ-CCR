@@ -31,8 +31,8 @@ def main():
         model_name='all-MiniLM-L6-v2',
         use_scores=True,
         articles_dir='bitcoin_docs_misinfo/',
-        relations_dir='relations_misinfo/',
-        relations_json_dir='relations_misinfo_json/'
+        relations_dir='new_relations_misinfo/',
+        relations_json_dir='new_relations_misinfo_json/'
     )
     
     

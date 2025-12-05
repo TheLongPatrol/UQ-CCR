@@ -173,9 +173,7 @@ class ReasoningPipeline:
             if compute_scores_online:
                 context_scores = get_context_probs(self.article_dir, self.relation_dir, "out/")
             else:
-                scores_filename = 'context_scores.pkl'
-                if "misinfo" in self.article_dir:
-                    scores_filename = 'context_scores_misinfo.pkl'
+                scores_filename = 'new_context_scores_misinfo.pkl'
                 with open(scores_filename, "rb") as f:
                     context_scores = pickle.load(f)
             for article_name in article_names:
@@ -204,7 +202,7 @@ class ReasoningPipeline:
                         else:
                             web_rel_score = 0.3
                             bias_score = 0.5
-                        triple['score'] = article_scores[triple_as_tuple]*web_rel_score*(1-abs(bias_score/21))
+                        triple['score'] = 0.5*article_scores[triple_as_tuple]+0.45*web_rel_score+0.05*(1-abs(bias_score/21))
                     else:
                         triple['score'] = article_scores[triple_as_tuple]
                     all_triples.append(triple)
